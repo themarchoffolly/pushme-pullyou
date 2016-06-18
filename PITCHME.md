@@ -213,7 +213,7 @@ val endpoints = sc.broadcast(OCPU_CLUSTER)
 
 #GPV
 
-#### OpenCPU Remote Cluster Configuration Usage
+#### OpenCPU Remote Cluster Usage
 
 ```scala
 // Use Spark broadcast variable on RDD[OCPUTask].analyze operation.
