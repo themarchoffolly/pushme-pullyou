@@ -194,3 +194,35 @@ rResultStream.foreachRDD { resultRDD => {
 
 <span style="font-size: 0.8em">OpenCPU cluster independent of Apache Spark cluster.</span>
 
+#GPH
+
+#### OpenCPU Remote Cluster Configuration
+
+```scala
+// Sample OpenCPU 3 Node Cluster
+
+val OCPU_CLUSTER =
+    Array("http://1.1.1.1/ocpu", "http://2.2.2.2/ocpu", "http://3.3.3.3/ocpu")
+
+// Register Apache Spark Broadcast Variable
+
+val endpoint = sc.broadcast(OCPU_CLUSTER)
+
+```
+
+#GPV
+
+#### OpenCPU Remote Cluster Configuration Usage
+
+```scala
+// Use Spark Broadcast Variable on RDD[OCPUTask].analyze operation.
+
+val rResultRDD = rTaskRDD.analyze(endpoint.value)
+```
+
+#GPH
+
+#### Some Links
+
+- [GitHub: opencpu-spark-executor](https://onetapbeyond/opencpu-spark-executor)
+- [GitHub: opencpu-r-executor](https://onetapbeyond/opencpu-r-executor)
