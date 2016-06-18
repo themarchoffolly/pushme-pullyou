@@ -201,12 +201,13 @@ rResultStream.foreachRDD { resultRDD => {
 ```scala
 // Sample OpenCPU 3 Node Cluster
 
-val OCPU_CLUSTER =
-    Array("http://1.1.1.1/ocpu", "http://2.2.2.2/ocpu", "http://3.3.3.3/ocpu")
+val OCPU_CLUSTER = Array("http://1.1.1.1/ocpu",
+                         "http://2.2.2.2/ocpu",
+                         "http://3.3.3.3/ocpu")
 
-// Register Apache Spark Broadcast Variable
+// Register cluster endpoints as Apache Spark broadcast variable.
 
-val endpoint = sc.broadcast(OCPU_CLUSTER)
+val endpoints = sc.broadcast(OCPU_CLUSTER)
 
 ```
 
@@ -215,14 +216,15 @@ val endpoint = sc.broadcast(OCPU_CLUSTER)
 #### OpenCPU Remote Cluster Configuration Usage
 
 ```scala
-// Use Spark Broadcast Variable on RDD[OCPUTask].analyze operation.
+// Use Spark broadcast variable on RDD[OCPUTask].analyze operation.
 
-val rResultRDD = rTaskRDD.analyze(endpoint.value)
+val rResultRDD = rTaskRDD.analyze(endpoints.value)
 ```
 
 #GPH
 
-#### Some Links
+#### Some Related Links
 
 - [GitHub: opencpu-spark-executor](https://onetapbeyond/opencpu-spark-executor)
 - [GitHub: opencpu-r-executor](https://onetapbeyond/opencpu-r-executor)
+- [GitHub: Apache Spark](https://github.com/apache/spark)
