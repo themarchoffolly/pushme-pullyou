@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="http://localhost:9000/api/background/themarchoffolly/pushme-pullyou?b=pitch" -->
+<!-- .slide: data-background-image="http://localhost:9000/api/background/themarchoffolly/pushme-pullyou/PITCHME.png?b=pitch" -->
 ### R
 ### OpenCPU Spark Executor
 ### (ROSE)
