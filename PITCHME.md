@@ -11,8 +11,6 @@
 
 #GPH
 
-#GPH
-
 ### ROSE Apache Spark Package
 
   - Offers the full scientific computing power of the R programming language
