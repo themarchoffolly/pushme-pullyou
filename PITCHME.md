@@ -4,19 +4,19 @@
 
 <span style="color:gray">An Apache Spark Package</span>
 
-*HSLIDE
+#HSLIDE
 
 > Where Apache SparkR lets data scientists use Spark from R,
 > ROSE is designed to let Scala and Java developers use R from Spark.
 
-*HSLIDE
+#HSLIDE
 
 ### ROSE Apache Spark Package
 
   - Offers the full scientific computing power of the R programming language
   - Within Spark batch and streaming apps on the JVM
 
-*HSLIDE
+#HSLIDE
 
 ### ROSE API
 
@@ -28,7 +28,7 @@
 
 <span class="fragment" data-fragment-index="4" style="font-size: 0.8em; color:gray">The ROSE API is built on top of the <a target="_blank" href="https://github.com/onetapbeyond/opencpu-r-executor">opencpu-r-executor</a> library.</span>
 
-*HSLIDE
+#HSLIDE
 
 ### opencpu-r-executor
 
@@ -37,7 +37,7 @@
 - Into any application running on the JVM
 - Defines <span style="color:gray">OCPUTask</span> and <span style="color:gray">OCPUResult</span>
 
-*VSLIDE
+#VSLIDE
 
 ### OCPUTask
 
@@ -56,7 +56,7 @@ OCPUTask task = OCPU.R()
                     .library()
 ```
 
-*VSLIDE
+#VSLIDE
 
 ### OCPUResult
 
@@ -70,11 +70,11 @@ OCPUResult result = task.execute(OCPU_SERVER_ENDPOINT)
 Object resp = result.output().get("rnorm")
 ```
 
-*HSLIDE
+#HSLIDE
 
 ### ROSE + Apache Spark Batch Processing
 
-*VSLIDE
+#VSLIDE
 
 #### Step 1. Build RDD[<span style="color:gray">OCPUTask</span>]
 
@@ -97,7 +97,7 @@ val rTaskRDD = dataRDD.map(data => {
 })
 ```
 
-*VSLIDE
+#VSLIDE
 
 #### Step 2. Analyze RDD[<span style="color:gray">OCPUTask</span>]
 
@@ -108,7 +108,7 @@ val rTaskRDD = dataRDD.map(data => {
 val rResultRDD = rTaskRDD.analyze
 ```
 
-*VSLIDE
+#VSLIDE
 
 #### Step 3. Process RDD[<span style="color:gray">OCPUResult</span>]
 
@@ -123,11 +123,11 @@ rResultRDD.foreach { rResult ->
 }
 ```
 
-*HSLIDE
+#HSLIDE
 
 ### ROSE + Apache Spark Stream Processing
 
-*VSLIDE
+#VSLIDE
 
 #### Step 1. Build rTaskStream of RDD[<span style="color:gray">OCPUTask</span>]
 
@@ -152,7 +152,7 @@ val rTaskStream = dataStream.transform(rdd => {
 })
 ```
 
-*VSLIDE
+#VSLIDE
 
 #### Step 2. Analyze rTaskStream of RDD[<span style="color:gray">OCPUTask</span>]
 
@@ -162,7 +162,7 @@ val rTaskStream = dataStream.transform(rdd => {
 val rResultStream = rTaskStream.transform(rdd => rdd.analyze)
 ```
 
-*VSLIDE
+#VSLIDE
 
 #### Step 3. Process rResultStream of RDD[<span style="color:gray">OCPUResult</span>]
 
@@ -180,21 +180,21 @@ rResultStream.foreachRDD { resultRDD => {
 }}
 ```
 
-*HSLIDE
+#HSLIDE
 
 #### Deployment 1. Colocated
 ![ROSE Deployment](https://onetapbeyond.github.io/resource/img/rose/new-rose-deploy.jpg)
 
 <span style="font-size: 0.8em">OpenCPU server per Apache Spark worker node.</span>
 
-*HSLIDE
+#HSLIDE
 
 #### Deployment 2. Remote Cluster
 ![ROSE Deployment Alt](https://onetapbeyond.github.io/resource/img/rose/alt-rose-deploy.jpg)
 
 <span style="font-size: 0.8em">OpenCPU cluster independent of Apache Spark cluster.</span>
 
-*HSLIDE
+#HSLIDE
 
 #### OpenCPU Remote Cluster Configuration
 
@@ -211,7 +211,7 @@ val endpoints = sc.broadcast(OCPU_CLUSTER)
 
 ```
 
-*VSLIDE
+#VSLIDE
 
 #### OpenCPU Remote Cluster Usage
 
@@ -221,7 +221,7 @@ val endpoints = sc.broadcast(OCPU_CLUSTER)
 val rResultRDD = rTaskRDD.analyze(endpoints.value)
 ```
 
-*HSLIDE
+#HSLIDE
 
 #### Some Related Links
 
