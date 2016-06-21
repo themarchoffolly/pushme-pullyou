@@ -1,4 +1,4 @@
-### R TWEAK
+### R
 ### OpenCPU Spark Executor
 ### (ROSE)
 
