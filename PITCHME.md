@@ -1,4 +1,4 @@
-### R TWEAK
+### R
 ### OpenCPU Spark Executor
 ### (ROSE)
 
@@ -18,15 +18,13 @@
 
 #HSLIDE
 
-### ROSE API
+### ROSE API MODDED
 
-<ol>
-<li class="fragment" data-fragment-index="1">New `analyze` operation on RDD[<span style="color:gray">OCPUTask</span>]</li>
-<li class="fragment" data-fragment-index="2">This operation executes R analytics on OpenCPU</li>
-<li class="fragment" data-fragment-index="3">And generates RDD[<span style="color:gray">OCPUResult</span>]</li>
-</ol>
+- New `analyze` operation on RDD[<span style="color:gray">OCPUTask</span>] <!-- .element: class="fragment" data-fragment-index="1" -->
+- This operation executes R analytics on OpenCPU <!-- .element: class="fragment" data-fragment-index="2" -->
+- And generates RDD[<span style="color:gray">OCPUResult</span>] <!-- .element: class="fragment" data-fragment-index="3" -->
 
-<span class="fragment" data-fragment-index="4" style="font-size: 0.8em; color:gray">The ROSE API is built on top of the <a target="_blank" href="https://github.com/onetapbeyond/opencpu-r-executor">opencpu-r-executor</a> library.</span>
+<span style="font-size: 0.8em; color:gray">The ROSE API is built on top of the <a target="_blank" href="https://github.com/onetapbeyond/opencpu-r-executor">opencpu-r-executor</a> library.</span> <!-- .element: class="fragment" data-fragment-index="4" -->
 
 #HSLIDE
 
