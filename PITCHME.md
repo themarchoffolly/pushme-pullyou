@@ -187,12 +187,16 @@ rResultStream.foreachRDD { resultRDD => {
 
 <span style="font-size: 0.8em">OpenCPU server per Apache Spark worker node.</span>
 
+#HSLIDE=https://onetapbeyond.github.io/resource/img/rose/new-rose-deploy.jpg
+
 #HSLIDE
 
 #### Deployment 2. Remote Cluster
 ![ROSE Deployment Alt](https://onetapbeyond.github.io/resource/img/rose/alt-rose-deploy.jpg)
 
 <span style="font-size: 0.8em">OpenCPU cluster independent of Apache Spark cluster.</span>
+
+#HSLIDE=https://onetapbeyond.github.io/resource/img/rose/alt-rose-deploy.jpg
 
 #HSLIDE
 
