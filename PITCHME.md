@@ -4,7 +4,7 @@
 
 <span style="color:gray">An Apache Spark Package</span>
 
-#HSLIDE=https://raw.githubusercontent.com/themarchoffolly/pushme-pullyou/pitch/assets/lightbg.jpg
+#HSLIDE?bg=https://raw.githubusercontent.com/themarchoffolly/pushme-pullyou/pitch/assets/lightbg.jpg
 
 > Where Apache SparkR lets data scientists use Spark from R,
 > ROSE is designed to let Scala and Java developers use R from Spark.
@@ -37,7 +37,7 @@
 - Into any application running on the JVM
 - Defines <span style="color:gray">OCPUTask</span> and <span style="color:gray">OCPUResult</span>
 
-#VSLIDE=assets/lightbg.jpg
+#VSLIDE?bg=assets/lightbg.jpg
 
 ### OCPUTask
 
