@@ -4,7 +4,7 @@
 
 <span style="color:gray">An Apache Spark Package</span>
 
-#HSLIDE?bg=https://raw.githubusercontent.com/themarchoffolly/pushme-pullyou/pitch/assets/lightbg.jpg
+#HSLIDE
 
 > Where Apache SparkR lets data scientists use Spark from R,
 > ROSE is designed to let Scala and Java developers use R from Spark.
@@ -37,7 +37,7 @@
 - Into any application running on the JVM
 - Defines <span style="color:gray">OCPUTask</span> and <span style="color:gray">OCPUResult</span>
 
-#VSLIDE?bg=assets/lightbg.jpg
+#VSLIDE
 
 ### OCPUTask
 
@@ -225,7 +225,8 @@ val rResultRDD = rTaskRDD.analyze(endpoints.value)
 
 #### Some Related Links
 
-- [GitHub: opencpu-spark-executor](https://onetapbeyond/opencpu-spark-executor)
+- [GitHub: ROSE Package](https://onetapbeyond/opencpu-spark-executor)
+- [GitHub: ROSE Examples](https://github.com/onetapbeyond/opencpu-spark-executor#rose-examples)
 - [GitHub: opencpu-r-executor](https://onetapbeyond/opencpu-r-executor)
 - [GitHub: Apache Spark](https://github.com/apache/spark)
 - [Apache Spark Packages](https://spark-packages.org/package/onetapbeyond/opencpu-spark-executor)
