@@ -225,8 +225,8 @@ val rResultRDD = rTaskRDD.analyze(endpoints.value)
 
 #### Some Related Links
 
-- [GitHub: ROSE Package](https://onetapbeyond/opencpu-spark-executor)
+- [GitHub: ROSE Package](https://github.com/onetapbeyond/opencpu-spark-executor)
 - [GitHub: ROSE Examples](https://github.com/onetapbeyond/opencpu-spark-executor#rose-examples)
-- [GitHub: opencpu-r-executor](https://onetapbeyond/opencpu-r-executor)
+- [GitHub: opencpu-r-executor](https://github.com/onetapbeyond/opencpu-r-executor)
 - [GitHub: Apache Spark](https://github.com/apache/spark)
 - [Apache Spark Packages](https://spark-packages.org/package/onetapbeyond/opencpu-spark-executor)
