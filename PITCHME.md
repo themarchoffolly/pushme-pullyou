@@ -1,3 +1,5 @@
+#HSLIDE?bg=assets/room.jpg
+
 ### R
 ### OpenCPU Spark Executor
 ### (ROSE)
