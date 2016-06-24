@@ -1,4 +1,4 @@
-#HSLIDE?bg=assets/room.jpg
+#HSLIDE
 
 ### R
 ### OpenCPU Spark Executor
@@ -11,7 +11,7 @@
 > Where Apache SparkR lets data scientists use Spark from R,
 > ROSE is designed to let Scala and Java developers use R from Spark.
 
-#HSLIDE?bg=assets/lightbg.jpg
+#HSLIDE
 
 ### ROSE Apache Spark Package
 
