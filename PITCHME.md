@@ -180,7 +180,7 @@ rResultStream.foreachRDD { resultRDD => {
 }}
 ```
 
-#HSLIDE
+#VSLIDE
 
 ###Next...the complete source code
 ###for a fully worked
@@ -190,7 +190,7 @@ rResultStream.foreachRDD { resultRDD => {
 
 #VSLIDE
 
-###Simple, right?
+###Pretty simple, right?
 
 More fully worked examples can be found [here](https://github.com/onetapbeyond/opencpu-spark-executor#rose-examples).
 
