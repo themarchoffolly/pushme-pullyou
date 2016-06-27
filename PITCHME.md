@@ -4,7 +4,7 @@
 
 <span style="color:gray">An Apache Spark Package</span>
 
-#HSLIDE?gist=https://gist.github.com/onetapbeyond/bc22e541a75c3b4054b2.js
+#HSLIDE?gist=bc22e541a75c3b4054b2
 
 #HSLIDE
 
