@@ -4,8 +4,6 @@
 
 <span style="color:gray">An Apache Spark Package</span>
 
-#HSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
-
 #HSLIDE
 
 > Where Apache SparkR lets data scientists use Spark from R,
@@ -181,6 +179,12 @@ rResultStream.foreachRDD { resultRDD => {
     }}
 }}
 ```
+
+#HSLIDE
+
+###Next...the source for fully worked example :)
+
+#HSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
 #HSLIDE
 
