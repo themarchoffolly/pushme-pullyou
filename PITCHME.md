@@ -180,7 +180,7 @@ rResultStream.foreachRDD { resultRDD => {
 }}
 ```
 
-#VSLIDE
+#HSLIDE
 
 ###Next...the complete source code
 ###for a fully worked
