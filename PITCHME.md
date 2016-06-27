@@ -4,7 +4,9 @@
 
 <span style="color:gray">An Apache Spark Package</span>
 
-#HSLIDE?bg=assets/lightbg.jpg
+#HSLIDE?gist=https://gist.github.com/onetapbeyond/bc22e541a75c3b4054b2.js
+
+#HSLIDE
 
 > Where Apache SparkR lets data scientists use Spark from R,
 > ROSE is designed to let Scala and Java developers use R from Spark.
