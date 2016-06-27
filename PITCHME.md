@@ -182,8 +182,9 @@ rResultStream.foreachRDD { resultRDD => {
 
 #HSLIDE
 
-###Next...the <u>simple</u> source code for a
-###fully worked ROSE example app :)
+###Next...the <u>truly simple</u> source code
+###for a fully worked
+###ROSE Apache Spark app :)
 
 #HSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
