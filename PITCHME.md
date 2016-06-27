@@ -186,7 +186,13 @@ rResultStream.foreachRDD { resultRDD => {
 ###for a fully worked
 ###Apache Spark ROSE app :)
 
-#HSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
+#VSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
+
+#VSLIDE
+
+###Simple, right?
+
+More fully worked examples can be found [here](https://github.com/onetapbeyond/opencpu-spark-executor#rose-examples).
 
 #HSLIDE
 
