@@ -4,6 +4,8 @@
 
 <span style="color:gray">An Apache Spark Package</span>
 
+#HSLIDE?gist=onetapbeyond/bc22e541a75c3b4054b2
+
 #HSLIDE
 
 > Where Apache SparkR lets data scientists use Spark from R,
