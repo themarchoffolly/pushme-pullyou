@@ -184,7 +184,7 @@ rResultStream.foreachRDD { resultRDD => {
 
 ###Next...the complete source code
 ###for a fully worked
-###Apache Spark ROSE app :)
+###Apache Spark ROSE app
 
 #VSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
