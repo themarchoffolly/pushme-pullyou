@@ -183,7 +183,7 @@ rResultStream.foreachRDD { resultRDD => {
 #HSLIDE
 
 ###Next...the source code for a
-###fully worked ROSE example :)
+###fully worked ROSE example app :)
 
 #HSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
