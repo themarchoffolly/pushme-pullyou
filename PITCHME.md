@@ -4,8 +4,6 @@
 
 <span style="color:gray">An Apache Spark Package</span>
 
-#HSLIDE?gist=bc22e541a75c3b4054b2
-
 #HSLIDE
 
 > Where Apache SparkR lets data scientists use Spark from R,
@@ -23,7 +21,7 @@
 ### ROSE API
 
 <ol>
-<li class="fragment" data-fragment-index="1">New `analyze` operation on RDD[<span style="color:gray">OCPUTask</span>]</li>
+<li class="fragment" data-fragment-index="1">New <span style="color:#a9a9a9">analyze</span> operation on RDD[<span style="color:gray">OCPUTask</span>]</li>
 <li class="fragment" data-fragment-index="2">This operation executes R analytics on OpenCPU</li>
 <li class="fragment" data-fragment-index="3">And generates RDD[<span style="color:gray">OCPUResult</span>]</li>
 </ol>
