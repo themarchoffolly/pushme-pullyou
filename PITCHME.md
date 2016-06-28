@@ -1,6 +1,4 @@
-###GitPitch
-
-Instant slideshows for your GitHub projects.
+###Instant slideshows for your GitHub projects.
 
 #HSLIDE
 
