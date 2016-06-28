@@ -10,7 +10,7 @@ Instant slideshows for your GitHub projects.
 
 <iframe data-src="http://localhost:9090/"
         frameborder="0"
-        width="720px" height="550px"></iframe>
+        class="stretch"></iframe>
 
 #HSLIDE
 
