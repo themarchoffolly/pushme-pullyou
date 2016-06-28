@@ -4,12 +4,14 @@ Instant slideshows for your GitHub projects.
 
 #HSLIDE
 
+###Just add **PITCHME.md**.
+
 ![Editor](assets/markdown.png)
 
-###Just add **PITCHME.md**.
 
 #HSLIDE
 
+###Then Git-Commit.
+
 ![Terminal](assets/terminal.png)
 
-###Then Git-Commit.
