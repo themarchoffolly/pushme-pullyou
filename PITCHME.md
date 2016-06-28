@@ -1,25 +1,9 @@
 ###GitPitch
 
-#####<span style="color:gray">Get the word out!</span>
-
 Instant slideshows for your GitHub projects.
 
-#HSLIDE
+#HSLIDE?bg=assets/markdown.png
 
-####Promote, Pitch or Present your GitHub Project
 ####Just add **PITCHME.md**.
 
-GitPitch turns GitHub flavored Markdown into
-interactive, online slideshows.
-
-#HSLIDE
-
-#### Interactive, Online Slideshows
-
-#####https://gitpitch.com/{user}/{repo}
-
-#VSLIDE
-
-#### Working in a GitHub Branch? No problem...
-
-#####https://gitpitch.com/{user}/{repo}?b={branch-name}
+#HSLIDE?bg=assets/terminal.png
