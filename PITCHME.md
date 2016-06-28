@@ -8,7 +8,9 @@ Instant slideshows for your GitHub projects.
 
 #HSLIDE
 
-<iframe data-src="http://localhost:9090/"></iframe>
+<iframe data-src="http://localhost:9090/"
+        frameborder="0"
+        width="720px" height="550px"></iframe>
 
 #HSLIDE
 
