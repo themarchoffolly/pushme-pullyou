@@ -6,8 +6,9 @@ Instant slideshows for your GitHub projects.
 
 ###Just add **PITCHME.md**.
 
-![Editor](assets/markdown.png)
+#HSLIDE
 
+<iframe data-src="http://localhost:9090/"></iframe>
 
 #HSLIDE
 
