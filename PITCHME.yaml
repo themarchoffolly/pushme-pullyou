@@ -4,3 +4,4 @@ theme : white
 autoslide : 0
 loop : true
 shuffle : true
+ytl : true
