@@ -1,8 +1,8 @@
 theme : white
 #logo : assets/logo.png
 #background : assets/room960-700.jpg
-transition : zoom
+transition : default
 autoslide : 0
 loop : false
-shuffle : false
 ytl : false
+shuffle : false
