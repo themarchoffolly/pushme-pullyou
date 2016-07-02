@@ -3,3 +3,4 @@ theme : white
 #background : assets/room960-700.jpg
 autoslide : 0
 loop : true
+shuffle : true
