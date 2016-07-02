@@ -6,3 +6,4 @@ autoslide : 0
 loop : false
 ytl : false
 shuffle : false
+mathjax : TeX-AMS_HTML
