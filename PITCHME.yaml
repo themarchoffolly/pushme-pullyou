@@ -3,6 +3,6 @@ theme : white
 #background : assets/room960-700.jpg
 transition : zoom
 autoslide : 0
-loop : true
-shuffle : true
-ytl : true
+loop : false
+shuffle : false
+ytl : false

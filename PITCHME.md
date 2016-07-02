@@ -6,6 +6,9 @@
 
 ###Just add **PITCHME.md**.
 
+Note:
+Hello speaker note here.
+
 #HSLIDE
 
 ###Then Git-Commit.
