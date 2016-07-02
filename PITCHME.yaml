@@ -1,4 +1,4 @@
 theme : white
 #logo : assets/logo.png
 #background : assets/room960-700.jpg
-autoslide : bad
+autoslide : 0
