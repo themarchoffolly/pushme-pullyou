@@ -1,10 +1,10 @@
 #HSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
-#HSLIDE?youtube=https://www.youtube.com/embed/mkiDkkdGGAQ
+#HSLIDE?video=https://www.youtube.com/embed/mkiDkkdGGAQ
 
-#HSLIDE?vimeo=https://player.vimeo.com/video/111525512
+#HSLIDE?video=https://player.vimeo.com/video/111525512
 
-#HSLIDE?mp4=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+#HSLIDE?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
 
 #HSLIDE
 
