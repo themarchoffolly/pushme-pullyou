@@ -1,5 +1,7 @@
 #HSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
+#HSLIDE?youtube=https://www.youtube.com/embed/mkiDkkdGGAQ
+
 #HSLIDE
 
 ![Cartoon Video](https://player.vimeo.com/video/111525512)
