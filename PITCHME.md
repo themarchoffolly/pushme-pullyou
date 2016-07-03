@@ -2,6 +2,10 @@
 
 #HSLIDE?youtube=https://www.youtube.com/embed/mkiDkkdGGAQ
 
+#HSLIDE?vimeo=https://player.vimeo.com/video/111525512
+
+#HSLIDE?mp4=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+
 #HSLIDE
 
 <!-- .slide: data-background-video="https://www.youtube.com/embed/mkiDkkdGGAQ" -->
