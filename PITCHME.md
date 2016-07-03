@@ -1,33 +1,17 @@
-When $a \ne 0$, there are two solutions to
-<p>
-\(ax^2 + bx + c = 0\) and they are
-<p>
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-#HSLIDE
-
-###Instant slideshows for your GitHub projects.
-
 #HSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
 #HSLIDE
 
-###Just add **PITCHME.md**.
+![Cartoon Video](https://player.vimeo.com/video/111525512)
 
 #HSLIDE
 
-Note:
-Hello speaker note here.
+![Cartoon Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
 #HSLIDE
 
-###Then Git-Commit.
-
-![Terminal](assets/terminal.png)
+![Cartoon Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
 
 #HSLIDE
 
-###Tweak
-
-
-
+![Room](/assets/room.jpg)
