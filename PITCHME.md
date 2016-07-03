@@ -4,6 +4,12 @@
 
 #HSLIDE
 
+<!-- .slide: data-background-video="https://www.youtube.com/embed/mkiDkkdGGAQ" -->
+
+Can I see a video here?
+
+#HSLIDE
+
 ![Cartoon Video](https://player.vimeo.com/video/111525512)
 
 #HSLIDE
@@ -17,3 +23,5 @@
 #HSLIDE
 
 ![Room](/assets/room.jpg)
+
+#HSLIDE?image=assets/room.jpg
