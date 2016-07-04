@@ -1,9 +1,9 @@
-theme : white
+# theme : white
 #logo : assets/logo.png
 #background : assets/room960-700.jpg
 #transition : slide
-autoslide : 0
-loop : false
-ytl : false
-shuffle : false
+#autoslide : 0
+#loop : false
+#ytl : false
+#shuffle : false
 #mathjax : TeX-AMS_HTML-full
