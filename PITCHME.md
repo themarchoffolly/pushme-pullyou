@@ -2,14 +2,14 @@
 
 ![LOGO](assets/gp-logo.png)
 ####Get the word out!
-
 <br>
 <span style="color:gray">Promote, Pitch, Or Present Your GitHub Projects</span>
 
 #HSLIDE
 
-###No more Keynote. No more PowerPoint.
-
+###No more Keynote.
+###No more PowerPoint.
+<br>
 ###<span class="fragment" data-fragment-index="1">Just Markdown. Then Git-Commit.</li>
 
 #HSLIDE
