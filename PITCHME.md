@@ -14,7 +14,11 @@
 
 #HSLIDE
 
-###We typically don't stand up in front of colleagues, clients or customers with...
+![MARKDOWN](assets/markdown.png)
+
+#HSLIDE
+
+![TERMINAL](assets/terminal.png)
 
 #VSLIDE
 
