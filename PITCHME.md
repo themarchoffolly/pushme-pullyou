@@ -1,5 +1,11 @@
 #HSLIDE
 
+![LOGO](assets/coords-960-700.jpg)
+
+#HSLIDE?image=assets/coords-960-700.jpg
+
+#HSLIDE
+
 ![LOGO](assets/gp-logo.png)
 ####Get the word out!
 <br>
