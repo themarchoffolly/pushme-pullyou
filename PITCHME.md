@@ -5,7 +5,9 @@
 
 #HSLIDE
 
-###When it's time to...promote, pitch, or present
+###No more Keynote. No more PowerPoint.
+
+###<span class="fragment" data-fragment-index="1">Just Markdown. Then Git-Commit.</li>
 
 #HSLIDE
 
