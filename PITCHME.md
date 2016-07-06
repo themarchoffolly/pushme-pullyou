@@ -1,10 +1,10 @@
-#HSLIDE?background=assets/coords-960-700.jpg
+#HSLIDE?image=assets/coords-960-700.jpg
 
 #HSLIDE
 
 ![LOGO](assets/coords-960-700.jpg)
 
-#HSLIDE?background=assets/coords-960-800.jpg
+#HSLIDE?image=assets/coords-960-800.jpg
 
 #HSLIDE
 
