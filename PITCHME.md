@@ -3,6 +3,8 @@
 ![LOGO](assets/gp-logo.png)
 ####Get the word out!
 
+<span style="color:gray">Promote, Pitch, Or Present Your GitHub Projects.</span>
+
 #HSLIDE
 
 ###No more Keynote. No more PowerPoint.
