@@ -12,9 +12,11 @@
 <br>
 ###<span class="fragment" data-fragment-index="2">Just Markdown. Then Git-Commit.</li>
 
-#HSLIDE
+#HSLIDE?image=assets/markdown.png
 
 ![MARKDOWN](assets/markdown.png)
+
+#HSLIDE?image=assets/terminal.png
 
 #HSLIDE
 
