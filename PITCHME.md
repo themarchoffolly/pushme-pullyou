@@ -1,3 +1,5 @@
 #HSLIDE
 
-### Hello, World!
+#GitPitch
+###Get the word out about your GitHub projects!
+
