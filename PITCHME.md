@@ -5,13 +5,27 @@
 
 #HSLIDE
 
-###When it's time to...
+###When it's time to...promote, pitch, or present
 
-<ul>
-<li class="fragment" data-fragment-index="1">Promote</li>
-<li class="fragment" data-fragment-index="2">Pitch</li>
-<li class="fragment" data-fragment-index="3">Present</li>
-</ul>
+#HSLIDE
 
-###<span class="fragment" data-fragment-index="4">your GitHub project...</span>
+###We typically don't stand up in front of colleagues, clients or customers with...
+
+#VSLIDE
+
+![README](assets/readme.png)
+
+#VSLIDE
+
+![WIKI](assets/wiki.png)
+
+#HSLIDE
+
+###Instead we power up PowerPoint or Keynote...
+
+###<span class="fragment" data-fragment-index="1">Until now!</li>
+
+#HSLIDE
+
+###Say something compelling about GP.
 
