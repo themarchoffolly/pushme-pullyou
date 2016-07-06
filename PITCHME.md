@@ -1,7 +1,7 @@
 #HSLIDE
 
-#<span style="text-transform: none">GitPitch</span>
-###Get the word out about your GitHub projects!
+![LOGO](assets/gp-logo.png)
+####Get the word out about your GitHub projects!
 
 #HSLIDE
 
