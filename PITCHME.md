@@ -5,13 +5,13 @@
 
 #HSLIDE
 
-When it's time to...
+###When it's time to...
 
-<ol>
+<ul>
 <li class="fragment" data-fragment-index="1">Promote</li>
 <li class="fragment" data-fragment-index="2">Pitch</li>
 <li class="fragment" data-fragment-index="3">Present</li>
-</ol>
+</ul>
 
-your GitHub project...
+###<span class="fragment" data-fragment-index="4">your GitHub project...</span>
 
