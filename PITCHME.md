@@ -2,13 +2,13 @@
 
 ![LOGO](assets/coords-960-700.jpg)
 
-#HSLIDE?image=assets/coords-960-700.jpg
+#HSLIDE?video=assets/coords-960-700.jpg
 
 #HSLIDE
 
 ![LOGO](assets/coords-960-800.jpg)
 
-#HSLIDE?image=assets/coords-960-800.jpg
+#HSLIDE?video=assets/coords-960-800.jpg
 
 ![LOGO](assets/gp-logo.png)
 ####Get the word out!
