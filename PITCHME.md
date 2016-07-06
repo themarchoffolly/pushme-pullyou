@@ -1,7 +1,7 @@
 #HSLIDE
 
 ![LOGO](assets/gp-logo.png)
-###Get the word out!
+####Get the word out!
 
 #HSLIDE
 
