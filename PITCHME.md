@@ -6,6 +6,10 @@
 
 #HSLIDE
 
+![LOGO](assets/coords-960-800.jpg)
+
+#HSLIDE?image=assets/coords-960-800.jpg
+
 ![LOGO](assets/gp-logo.png)
 ####Get the word out!
 <br>
