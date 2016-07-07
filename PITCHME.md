@@ -18,21 +18,27 @@
 
 #VSLIDE
 
+<span style="color: #e49436">Step 1. PITCHME.md</span>
+
 ![MARKDOWN](assets/markdown.png)
 
-Step 1. Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
+Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
 
 #VSLIDE
+
+<span style="color: #e49436">Step 2. Git-Commit</span>
 
 ![TERMINAL](assets/terminal.png)
 
-Step 2. Git-commit on any repo branch and push your PITCHME.md to GitHub.
+Git-commit on any repo branch and push your PITCHME.md to GitHub.
 
 #VSLIDE
 
+<span style="color: #e49436">Step 3. Get the word out!</span>
+
 ![SLIDESHOW](assets/slideshow.png)
 
-Step 3. Instantly use your GitPitch slideshow URL to promote, pitch or present your GitHub project.
+Instantly use your GitPitch slideshow URL to promote, pitch or present your GitHub project.
 
 #VSLIDE
 
