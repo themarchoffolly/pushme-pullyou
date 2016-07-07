@@ -48,6 +48,10 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 
 #HSLIDE
 
+![SLIDESHOW](assets/browser-1024-768.png)
+
+#HSLIDE
+
 - [GitPitch Website](https://gitpitch.com)
 - [GitPitch How-To Wiki](https://github.com/gitpitch/gitpitch/wiki)
 - [GitPitch Kitchen-Sink Example](https://gitpich.com/gitpitch/kitchen-sink)
