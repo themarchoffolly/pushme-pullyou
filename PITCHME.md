@@ -19,7 +19,7 @@
 
 #HSLIDE
 
-```markdown
+```
 ### R
 ### OpenCPU Spark Executor
 ### (ROSE)
@@ -37,8 +37,6 @@
 
 <span style="color:gray">An executable object that represents an R function call.</span>
 
-```scala
-
 // Build R function parameter values as Map.
 HashMap params = HashMap(n -> 10, mean -> 5)
 
@@ -48,7 +46,6 @@ OCPUTask task = OCPU.R()
                     .function("rnorm")
                     .input(params.asJava)
                     .library()
-```
 ```
 
 #HSLIDE?image=assets/markdown.jpg
