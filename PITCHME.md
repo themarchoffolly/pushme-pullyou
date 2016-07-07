@@ -11,7 +11,7 @@
 
 #HSLIDE
 
-###No more <span class="fragment" data-fragment-index="1" data-autoslide="1" style="color: #666666">Keynote</span>.
+###No more <span class="fragment" data-fragment-index="1" data-autoslide="100" style="color: #666666">Keynote</span>.
 ###<span class="fragment" data-fragment-index="2" data-autoslide="1000">No more <span style="color: #666666">Powerpoint</span>.</li>
 <br>
 ###<span class="fragment" data-fragment-index="3">Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.</li>
