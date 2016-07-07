@@ -14,11 +14,19 @@
 
 #HSLIDE
 
+###GitPitch turns <span style="color: #666666">PITCHME.md</span> into interactive, online slideshows.
+
+#VSLIDE
+
 ![MARKDOWN](assets/markdown.png)
 
-#HSLIDE
+#VSLIDE
 
 ![TERMINAL](assets/terminal.png)
+
+#VSLIDE
+
+![SLIDESHOW](assets/slideshow.png)
 
 #VSLIDE
 
