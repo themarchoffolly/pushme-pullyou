@@ -27,7 +27,7 @@ Create GitPitch slideshow content using GitHub flavored Markdown in your favorit
 
 #HSLIDE
 
-<span style="color: #e49436">STEP 2. Git-Commit</span>
+<span style="color: #e49436">STEP 2. GIT-COMMIT</span>
 
 ![TERMINAL](assets/terminal.png)
 
@@ -35,7 +35,7 @@ Git-commit on any repo branch and push your PITCHME.md to GitHub.
 
 #HSLIDE
 
-<span style="color: #e49436">STEP 3. Get The Word Out!</span>
+<span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
 
 <br>
 
@@ -48,7 +48,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 #HSLIDE
 <!-- .slide: data-autoslide="9000" -->
 
-<span style="color: #e49436">THERE IS LOTS HERE TO LIKE</span>
+<span style="color: #e49436">GIT</span>PITCH IS FEATURE RICH
 
 - GitHub Flavored Markdown
 - Code Block Syntax Highlighting
