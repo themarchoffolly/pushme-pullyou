@@ -44,22 +44,10 @@ Git-commit on any repo branch and push your PITCHME.md to GitHub.
 
 Instantly use your GitPitch slideshow URL to promote, pitch or present your GitHub project.
 
-#HSLIDE?image=assets/browser-1024-768.png
-
-#HSLIDE?image=assets/browser-hires.png
-
-#HSLIDE
-
-![SLIDESHOW](assets/browser-1024-768.png)
-
 #HSLIDE
 
 ![SLIDESHOW](assets/browser-hires.png)
 
-#HSLIDE
+Sample GitPitch interactive, online slideshow.
 
-- [GitPitch Website](https://gitpitch.com)
-- [GitPitch How-To Wiki](https://github.com/gitpitch/gitpitch/wiki)
-- [GitPitch Kitchen-Sink Example](https://gitpich.com/gitpitch/kitchen-sink)
-- [GitPitch ROSE Apache Spark Package Example](https://gitpitch.com/onetapbeyond/opencpu-spark-executor)
 
