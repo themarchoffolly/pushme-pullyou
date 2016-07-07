@@ -19,10 +19,10 @@
 
 #HSLIDE
 
-###No more <span style="color: #e49436">Keynote</span>.
-###<span class="fragment" data-fragment-index="1">No more <span style="color: #e49436">Powerpoint</span>.</li>
+###No more ~~Keynote~~.
+###<span class="fragment" data-fragment-index="1">No more ~~Powerpoint~~</span>.</li>
 <br>
-###<span class="fragment" data-fragment-index="2">Just Markdown. Then Git-Commit.</li>
+###<span class="fragment" data-fragment-index="2">Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.</li>
 
 #HSLIDE?image=assets/markdown.jpg
 
