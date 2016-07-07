@@ -50,7 +50,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 <span style="color: #e49436">THERE IS LOTS TO LOVE...</span>
 
 - GitHub Flavored Markdown
-- Code Syntax Highlighting
+- Code Block Syntax Highlighting
 - Embed GISTs
 - Embed Images and Videos too
 - Display Math Equations and Formulas
