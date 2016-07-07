@@ -59,7 +59,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Custom Logos, Multiple Themes
 - Custom Backgrounds And Much, Much More
 - <span style="color: #e49436">Oh yeah...</span>
-- Everything is under Git Version Control
+- And everything is under Git Version Control
 
 #HSLIDE
 <!-- .slide: data-autoslide="8000" -->
