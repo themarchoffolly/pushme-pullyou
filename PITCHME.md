@@ -46,8 +46,8 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 
 #HSLIDE
 
-[GitPitch Website](https://gitpitch.com)
-[GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki)
-[GitPitch Kitchen-Sink Example](https://gitpich.com/gitpitch/kitchen-sink)
-[GitPitch ROSE Apache Spark Package Example](https://gitpitch.com/onetapbeyond/opencpu-spark-executor)
+- [GitPitch Website](https://gitpitch.com)
+- [GitPitch How-To Wiki](https://github.com/gitpitch/gitpitch/wiki)
+- [GitPitch Kitchen-Sink Example](https://gitpich.com/gitpitch/kitchen-sink)
+- [GitPitch ROSE Apache Spark Package Example](https://gitpitch.com/onetapbeyond/opencpu-spark-executor)
 
