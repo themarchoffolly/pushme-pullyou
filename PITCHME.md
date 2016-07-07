@@ -1,8 +1,3 @@
-#HSLIDE?image=assets/coords-960-700.jpg
-
-#HSLIDE
-
-![LOGO](assets/coords-960-700.jpg)
 #HSLIDE
 
 ![LOGO](assets/gp-logo.png)
