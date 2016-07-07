@@ -7,7 +7,7 @@
 
 #HSLIDE
 
-###GitPitch turns <span style="color: #e49436">PITCHME.md</span> into interactive, online slideshows.
+###GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
 
 #HSLIDE
 
