@@ -48,6 +48,6 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 
 ![SLIDESHOW](assets/browser-hires.png)
 
-Sample GitPitch interactive, online slideshow.
+Get the word out about your GitHub projects.
 
 
