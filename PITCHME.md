@@ -35,7 +35,7 @@ Git-commit on any repo branch and push your PITCHME.md to GitHub.
 
 #HSLIDE
 
-<span style="color: #e49436">STEP 3. Get the word out!</span>
+<span style="color: #e49436">STEP 3. Get The Word Out!</span>
 
 <br>
 
