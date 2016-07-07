@@ -44,6 +44,8 @@ Git-commit on any repo branch and push your PITCHME.md to GitHub.
 
 Instantly use your GitPitch slideshow URL to promote, pitch or present your GitHub project.
 
+#HSLIDE?image=assets/browser-1024-768.png
+
 #HSLIDE
 
 - [GitPitch Website](https://gitpitch.com)
