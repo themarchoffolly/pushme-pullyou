@@ -19,7 +19,7 @@
 
 #HSLIDE
 
-<span style="color: #e49436">Step 1. PITCHME.md</span>
+<span style="color: #e49436">STEP 1. PITCHME.md</span>
 
 ![MARKDOWN](assets/markdown.png)
 
@@ -27,7 +27,7 @@ Create GitPitch slideshow content using GitHub flavored Markdown in your favorit
 
 #HSLIDE
 
-<span style="color: #e49436">Step 2. Git-Commit</span>
+<span style="color: #e49436">STEP 2. Git-Commit</span>
 
 ![TERMINAL](assets/terminal.png)
 
@@ -35,7 +35,7 @@ Git-commit on any repo branch and push your PITCHME.md to GitHub.
 
 #HSLIDE
 
-<span style="color: #e49436">Step 3. Get the word out!</span>
+<span style="color: #e49436">STEP 3. Get the word out!</span>
 
 <br>
 
