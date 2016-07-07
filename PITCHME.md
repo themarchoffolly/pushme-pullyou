@@ -55,7 +55,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Embed Images and Videos too
 - Add Custom Logos, Switch Themes
 - Custom Backgrounds And Much, Much More
-- <span style="color: #e49436">And...</span>
+- <span style="color: #e49436">Including...</span>
 - Everything under Git Version Control
 
 #HSLIDE
