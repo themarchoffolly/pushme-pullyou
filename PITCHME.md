@@ -53,6 +53,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Code Syntax Highlighting
 - Embed GISTs
 - Embed Images and Videos too
+- Display Math Equations and Formulas
 - Add Custom Logo, Switch Themes
 - Custom Backgrounds And Much, Much More
 
