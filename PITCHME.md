@@ -48,6 +48,6 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 
 ![SLIDESHOW](assets/browser-hires.png)
 
-Go for it, get the word out ;)
+Go for it. Get the word out!
 
 
