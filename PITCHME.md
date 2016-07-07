@@ -14,42 +14,7 @@
 
 #HSLIDE
 
-```
-### R
-### OpenCPU Spark Executor
-### (ROSE)
-
-<span style="color:gray">An Apache Spark Package</span>
-
-### ROSE Apache Spark Package
-
-  - Offers the full scientific computing power of the R programming language
-  - Within Spark batch and streaming apps on the JVM
-
-#VSLIDE
-
-### OCPUTask
-
-<span style="color:gray">An executable object that represents an R function call.</span>
-
-// Build R function parameter values as Map.
-HashMap params = HashMap(n -> 10, mean -> 5)
-
-// Define executable for R stats#rnorm function call.
-OCPUTask task = OCPU.R()
-                    .pkg("stats")
-                    .function("rnorm")
-                    .input(params.asJava)
-                    .library()
-```
-
-#HSLIDE?image=assets/markdown.jpg
-
-#HSLIDE
-
 ![MARKDOWN](assets/markdown.jpg)
-
-#HSLIDE?image=assets/terminal.png
 
 #HSLIDE
 
@@ -62,14 +27,3 @@ OCPUTask task = OCPU.R()
 #VSLIDE
 
 ![WIKI](assets/wiki.png)
-
-#HSLIDE
-
-###Instead we power up PowerPoint or Keynote...
-
-###<span class="fragment" data-fragment-index="1">Until now!</li>
-
-#HSLIDE
-
-###Say something compelling about GP.
-
