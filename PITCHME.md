@@ -16,7 +16,7 @@
 <br>
 ###<span class="fragment" data-fragment-index="2">Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.</li>
 
-#VSLIDE
+#HSLIDE
 
 <span style="color: #e49436">Step 1. PITCHME.md</span>
 
@@ -24,7 +24,7 @@
 
 Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
 
-#VSLIDE
+#HSLIDE
 
 <span style="color: #e49436">Step 2. Git-Commit</span>
 
@@ -32,7 +32,7 @@ Create GitPitch slideshow content using GitHub flavored Markdown in your favorit
 
 Git-commit on any repo branch and push your PITCHME.md to GitHub.
 
-#VSLIDE
+#HSLIDE
 
 <span style="color: #e49436">Step 3. Get the word out!</span>
 
@@ -44,10 +44,10 @@ Git-commit on any repo branch and push your PITCHME.md to GitHub.
 
 Instantly use your GitPitch slideshow URL to promote, pitch or present your GitHub project.
 
-#VSLIDE
+#HSLIDE
 
-![README](assets/readme.png)
+[GitPitch Website](https://gitpitch.com)
+[GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki)
+[GitPitch Kitchen-Sink Example](https://gitpich.com/gitpitch/kitchen-sink)
+[GitPitch ROSE Apache Spark Package Example](https://gitpitch.com/onetapbeyond/opencpu-spark-executor)
 
-#VSLIDE
-
-![WIKI](assets/wiki.png)
