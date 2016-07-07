@@ -54,7 +54,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Embed GISTs
 - Embed Images and Videos too
 - Display Math Equations and Formulas
-- Add Custom Logo, Switch Themes
+- Add Custom Logos, Switch Themes
 - Custom Backgrounds And Much, Much More
 
 #HSLIDE
