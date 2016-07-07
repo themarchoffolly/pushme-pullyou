@@ -54,7 +54,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Embed GISTs
 - Embed Images and Videos too
 - Add Custom Logos, Switch Themes
-- Custom Backgrounds
+- Custom Backgrounds And More
 - Everything under Git Version Control :)
 
 #HSLIDE
