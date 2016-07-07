@@ -3,13 +3,6 @@
 #HSLIDE
 
 ![LOGO](assets/coords-960-700.jpg)
-
-#HSLIDE?image=assets/coords-960-800.jpg
-
-#HSLIDE
-
-![LOGO](assets/coords-960-800.jpg)
-
 #HSLIDE
 
 ![LOGO](assets/gp-logo.png)
@@ -23,6 +16,40 @@
 ###<span class="fragment" data-fragment-index="1">No more <span style="color: #666666">Powerpoint</span>.</li>
 <br>
 ###<span class="fragment" data-fragment-index="2">Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.</li>
+
+#HSLIDE
+
+```markdown
+### R
+### OpenCPU Spark Executor
+### (ROSE)
+
+<span style="color:gray">An Apache Spark Package</span>
+
+### ROSE Apache Spark Package
+
+  - Offers the full scientific computing power of the R programming language
+  - Within Spark batch and streaming apps on the JVM
+
+#VSLIDE
+
+### OCPUTask
+
+<span style="color:gray">An executable object that represents an R function call.</span>
+
+```scala
+
+// Build R function parameter values as Map.
+HashMap params = HashMap(n -> 10, mean -> 5)
+
+// Define executable for R stats#rnorm function call.
+OCPUTask task = OCPU.R()
+                    .pkg("stats")
+                    .function("rnorm")
+                    .input(params.asJava)
+                    .library()
+```
+```
 
 #HSLIDE?image=assets/markdown.jpg
 
