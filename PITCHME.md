@@ -46,9 +46,13 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 
 #HSLIDE?image=assets/browser-1024-768.png
 
+#HSLIDE?image=assets/browser-hires.png
+
 #HSLIDE
 
 ![SLIDESHOW](assets/browser-1024-768.png)
+
+#HSLIDE
 
 ![SLIDESHOW](assets/browser-hires.png)
 
