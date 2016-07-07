@@ -14,7 +14,7 @@
 
 #HSLIDE
 
-![MARKDOWN](assets/markdown.jpg)
+![MARKDOWN](assets/markdown.png)
 
 #HSLIDE
 
