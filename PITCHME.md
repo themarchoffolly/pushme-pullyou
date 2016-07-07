@@ -56,7 +56,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Add Custom Logos, Switch Themes
 - Custom Backgrounds And Much, Much More
 - <span style="color: #e49436">Including...</span>
-- Everything under Git Version Control <span class="octicon octicon-mark-github"></span>
+- Everything under Git Version Control
 
 #HSLIDE
 
