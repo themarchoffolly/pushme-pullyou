@@ -46,5 +46,6 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 
 #HSLIDE
 
-###Go for it. Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span>.
+###Go for it.
+###Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span>.
 
