@@ -36,7 +36,7 @@ Git-commit on any repo branch and push your PITCHME.md to GitHub.
 
 <span style="color: #e49436">Step 3. Get the word out!</span>
 
-![SLIDESHOW](assets/slideshow.png)
+####https://git<span style="color: #e49436">pitch</span>.com/{user}/{repo}
 
 Instantly use your GitPitch slideshow URL to promote, pitch or present your GitHub project.
 
