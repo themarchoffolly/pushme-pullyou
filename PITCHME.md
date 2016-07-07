@@ -10,12 +10,12 @@
 ###GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
 
 #HSLIDE
-<!-- .slide: data-autoslide="1500" -->
+<!-- .slide: data-autoslide="2000" -->
 
 ###No more <span style="color: #666666">Keynote.</span>
-###<span class="fragment" data-fragment-index="1" data-autoslide="1500">No more <span style="color: #666666">Powerpoint.</span>
+###<span class="fragment" data-fragment-index="1" data-autoslide="2000">No more <span style="color: #666666">Powerpoint.</span>
 <br>
-###<span class="fragment" data-fragment-index="2" data-autoslide="2000">Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.</li>
+###<span class="fragment" data-fragment-index="2" data-autoslide="4000">Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.</li>
 
 #HSLIDE
 
