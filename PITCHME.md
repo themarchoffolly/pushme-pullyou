@@ -9,7 +9,7 @@
 
 ###GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
 <br>
-<span style="color:gray; font-size:0.8em;">[ JUST LIKE THIS ONE ]</span>
+<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
 
 #HSLIDE
 <!-- .slide: data-autoslide="2000" -->
