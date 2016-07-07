@@ -53,9 +53,9 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Code Block Syntax Highlighting
 - Embed GISTs
 - Embed Images and Videos too
-- Display Math Equations and Formulas
 - Add Custom Logos, Switch Themes
-- Custom Backgrounds And Much, Much More
+- Custom Backgrounds
+- Oh Yeah, Git Version Control :)
 
 #HSLIDE
 
