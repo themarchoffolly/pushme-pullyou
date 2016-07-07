@@ -47,12 +47,14 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 
 #HSLIDE
 
+<span style="color: #e49436">There is lots to love...</span>
+
 - GitHub Flavored Markdown
 - Code Syntax Highlighting
 - Embed GISTs
 - Embed Images and Videos
 - Add Custom Logo, Switch Themes
-- Custom Backgrounds And Much, Much More...
+- Custom Backgrounds And Much, Much More
 
 #HSLIDE
 
