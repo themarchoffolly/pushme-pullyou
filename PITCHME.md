@@ -47,7 +47,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 
 #HSLIDE
 
-<span style="color: #e49436">There is lots to love...</span>
+<span style="color: #e49436">THERE IS LOTS TO LOVE...</span>
 
 - GitHub Flavored Markdown
 - Code Syntax Highlighting
