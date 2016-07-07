@@ -52,7 +52,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - GitHub Flavored Markdown
 - Code Syntax Highlighting
 - Embed GISTs
-- Embed Images and Videos
+- Embed Images and Videos too
 - Add Custom Logo, Switch Themes
 - Custom Backgrounds And Much, Much More
 
