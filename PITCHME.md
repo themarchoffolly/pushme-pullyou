@@ -62,6 +62,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Everything under Git Version Control
 
 #HSLIDE
+<!-- .slide: data-autoslide="8000" -->
 
 ###Go for it.
 ###Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
