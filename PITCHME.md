@@ -11,8 +11,8 @@
 
 #HSLIDE
 
-###<span class="fragment" data-fragment-index="1" data-autoslide="1" style="color: #666666">No more</span<span class="fragment" data-fragment-index="2" data-autoslide="1000" style="color: #666666">Keynote</span>.
-###<span class="fragment" data-fragment-index="3" data-autoslide="1000">No more <span style="color: #666666">Powerpoint</span>.</li>
+###<span class="fragment" data-fragment-index="1" data-autoslide="100" style="color: #666666">No more</span<span class="fragment" data-fragment-index="2" data-autoslide="1000" style="color: #666666">Keynote.</span>
+###<span class="fragment" data-fragment-index="3" data-autoslide="1000">No more <span style="color: #666666">Powerpoint.</span>
 <br>
 ###<span class="fragment" data-fragment-index="4">Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.</li>
 
