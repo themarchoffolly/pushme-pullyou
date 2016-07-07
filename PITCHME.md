@@ -48,7 +48,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 #HSLIDE
 <!-- .slide: data-autoslide="9000" -->
 
-<span style="color: #e49436">THERE IS LOTS TO LOVE</span>
+<span style="color: #e49436">THERE IS LOTS HERE TO LIKE</span>
 
 - GitHub Flavored Markdown
 - Code Block Syntax Highlighting
