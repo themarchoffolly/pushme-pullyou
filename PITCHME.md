@@ -2,4 +2,9 @@
 
 ## A bit of text.
 
-And a final few words...
+#HSLIDE?image=assets/room.jpg
+
+#HSLIDE
+
+The End...
+
