@@ -52,7 +52,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 
 <span style="color: #e49436">GIT</span>PITCH <span style="color: #e49436">SLIDESHOWS</span> ARE FEATURE RICH
 
-- GitHub Flavored Markdown Support +
+- GitHub Flavored Markdown +
 - Code Block Syntax Highlighting
 - Embeddable GISTs
 - Embeddable Images and Videos
