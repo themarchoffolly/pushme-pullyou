@@ -60,6 +60,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Multiple Themes And Much, Much More
 - <span style="color: #e49436">And best of all...</span>
 - Everything Is Under Git Version Control
+- Alongside Your GitHub Project
 
 #HSLIDE
 <!-- .slide: data-autoslide="8000" -->
