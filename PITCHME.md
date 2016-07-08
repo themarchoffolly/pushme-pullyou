@@ -56,10 +56,10 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Code Block Syntax Highlighting
 - Embeddable GISTs
 - Embeddable Images and Videos
-- Custom Logos, Multiple Themes
-- Custom Backgrounds And Much, Much More
-- <span style="color: #e49436">Oh yeah...</span>
-- And everything is under Git Version Control
+- Custom Logos and Backgrounds
+- Multiple Themes And Much, Much More
+- <span style="color: #e49436">And best of all...</span>
+- Everything is under Git Version Control Alongside your Project
 
 #HSLIDE
 <!-- .slide: data-autoslide="8000" -->
