@@ -41,7 +41,7 @@ Git-commit on any repo branch and push your PITCHME.md to GitHub.
 
 <br>
 
-<span style="font-size: 1.5em;"><span style="color:white">htt</span><span style="color:white">ps://git</span><span style="color: #e49436">pitch</span><span style="color: white">.com/<span style="color: #e49436">{</span>user<span style="color: #e49436">}</span>/<span style="color: #e49436">{</span>repo<span style="color: #e49436">}</span></span></span>
+<span style="font-size: 1.5em;"><span style="color:white">htt</span><span style="color:white">ps://git</span><span style="color: #e49436">pitch</span><span style="color: white">.com/<span style="color: #e49436">user</span>/<span style="color: #e49436">repo</span></span>
 
 <br>
 
