@@ -60,7 +60,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Custom Logos and Backgrounds
 - <span style="color: #e49436">And best of all...</span>
 - Everything Is Under Git Version Control
-- In Your GitHub Project Repo
+- Within Your GitHub Project Repo
 
 #HSLIDE
 <!-- .slide: data-autoslide="8000" -->
