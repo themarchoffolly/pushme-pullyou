@@ -58,7 +58,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Embeddable Images and Videos
 - Multiple Themes
 - Custom Logos and Backgrounds
-- <span style="color: #e49436">And best of all...</span>
+- <span style="color: #e49436">Plus...</span>
 - Everything Is Under Git Version Control
 - Within Your GitHub Project Repo
 
