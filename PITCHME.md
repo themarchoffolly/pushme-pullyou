@@ -52,8 +52,8 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 
 - GitHub Flavored Markdown +
 - Code Block Syntax Highlighting
-- Embeddable GISTs
-- Embeddable Images and Videos
+- GIST Slides
+- Image and Video Slides
 - Custom Logos and Backgrounds
 - Multiple Themes And More
 - <span style="color: #e49436">Plus...</span>
