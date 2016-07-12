@@ -1,6 +1,6 @@
 #HSLIDE
 
-![LOGO](assets/gp-logo.png)
+![GitPitch](https://gitpitch.github.io/gitpitch/assets/banner-400-140.png)
 ####Get the word out!
 <br>
 <span style="color:gray">Promote, Pitch, Or Present Your GitHub Projects</span>
