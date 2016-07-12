@@ -58,7 +58,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present your GitH
 - Multiple Themes And More
 - <span style="color: #e49436">Plus...</span>
 - Everything Is Under Git Version Control
-- Within Your GitHub Project Repo
+- Directly Within Your GitHub Repo
 
 #HSLIDE
 
