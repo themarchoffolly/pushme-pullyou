@@ -19,21 +19,29 @@ Features
 
 Markdown Support
 
+#VSLIDE
+
 - Text
+#VSLIDE
 - Lists
+#VSLIDE
 - Tables
+#VSLIDE
 - Quotes
 
 #HSLIDE
 
 Code Support
 
+#VSLIDE
 - Blocks
+#VSLIDE
 - GIST
 
 #HSLIDE
 
 Math Formula Support
+#VSLIDE
 - LaTeX, etc
 
 #HSLIDE
@@ -44,23 +52,31 @@ Slide Fragments
 
 Image Support
 
+#VSLIDE
 - Relative
+#VSLIDE
 - Absolute
 
 #HSLIDE
 
 Video Support
 
+#VSLIDE
 - Relative
+#VSLIDE
 - Absolute
 
 #HSLIDE
 
 Custom Backgrounds
 
+#VSLIDE
 - Image
+#VSLIDE
 - Video-YouTube
+#VSLIDE
 - Video-Vimeo
+#VSLIDE
 - Video-MP$
 
 #HSLIDE
@@ -70,15 +86,19 @@ PITCHME.yaml Customizations
 -background
 -loop
 -mathjax
--xxx
+-autoslide
+-etc
 
 
 #HSLIDE
 
 Slideshow Controls
 
+#VSLIDE
 - Full Screen
+#VSLIDE
 - Overview
+#VSLIDE
 - Pause
 
 #HSLIDE
@@ -96,18 +116,3 @@ Slideshow Embedding
 #HSLIDE
 
 Slideshow Sharing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
