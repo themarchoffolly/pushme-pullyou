@@ -15,7 +15,7 @@ A slideshow that demonstrates some of the many <span style="color:#e49436">Git</
 
 #HSLIDE
 
-####Features Quick Look
+####Slideshow Features Quick Look
 
 - GitHub Flavored Markdown <!-- .element: class="fragment" data-fragment-index="1" -->
 - Code Blocks & GISTs <!-- .element: class="fragment" data-fragment-index="2" -->
