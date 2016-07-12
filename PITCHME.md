@@ -5,6 +5,8 @@
 <br>
 <span style="color:gray">Promote, Pitch, Or Present Your GitHub Projects</span>
 
+<span style="color:gray">With Interactive, Online Slideshows</span>
+
 #HSLIDE
 
 ###GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
