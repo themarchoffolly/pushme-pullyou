@@ -3,9 +3,9 @@
 ![LOGO](assets/gp-logo.png)
 ####Get the word out!
 <br>
-<span style="color:gray">Promote, Pitch, Or Present Your GitHub Projects</span>
+<span style="color:#e49436">Promote, Pitch, Or Present Your GitHub Projects</span>
 
-<span style="color:gray">With Interactive, Online Slideshows</span>
+<span style="color:#e49436">With Interactive, Online Slideshows</span>
 <br>
 
 #HSLIDE
