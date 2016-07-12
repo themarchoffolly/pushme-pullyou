@@ -9,9 +9,9 @@
 
 #HSLIDE
 
-#Welcome to the Kitchen-Sink!
+###Welcome to the Kitchen-Sink!
 
-###A slideshow to demonstrate some of the many capabilites of <span style="color:#e49436">Git</span>Pitch.
+####A slideshow to demonstrate some of the many capabilites of <span style="color:#e49436">Git</span>Pitch.
 
 #HSLIDE
 
