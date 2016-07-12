@@ -17,14 +17,14 @@ A slideshow that demonstrates some of the many <span style="color:#e49436">Git</
 
 ####Features Quick Look
 
-- Markdown <!-- .element: class="fragment" data-fragment-index="1" -->
+- GitHub Flavored Markdown <!-- .element: class="fragment" data-fragment-index="1" -->
 - Code Blocks & GISTs <!-- .element: class="fragment" data-fragment-index="2" -->
 - Math Formulas <!-- .element: class="fragment" data-fragment-index="3" -->
-- Slide Fragment <!-- .element: class="fragment" data-fragment-index="4" -->s
+- Slide Fragments <!-- .element: class="fragment" data-fragment-index="4" -->
 - Image Support <!-- .element: class="fragment" data-fragment-index="5" -->
 - Video Support <!-- .element: class="fragment" data-fragment-index="6" -->
-- Custom Background <!-- .element: class="fragment" data-fragment-index="7" -->s
-- YAML Customization <!-- .element: class="fragment" data-fragment-index="8" -->s
+- Custom Backgrounds <!-- .element: class="fragment" data-fragment-index="7" -->
+- YAML Customizations <!-- .element: class="fragment" data-fragment-index="8" -->
 - And a whole lot more... <!-- .element: class="fragment" data-fragment-index="9" -->.
 
 #HSLIDE
