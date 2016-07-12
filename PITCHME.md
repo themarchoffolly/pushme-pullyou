@@ -11,7 +11,7 @@
 
 ###Welcome to the Kitchen-Sink!
 <br>
-####A slideshow that demonstrates some of the many <span style="color:#e49436">Git</span>Pitch capabilities you can use to pitch, promote or present your GitHub projects.
+#####A slideshow that demonstrates some of the many <span style="color:#e49436">Git</span>Pitch capabilities you can use to pitch, promote or present your GitHub projects.
 
 #HSLIDE
 
