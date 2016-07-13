@@ -78,7 +78,7 @@ Alternatively Directly Embed GISTs
 <br>
 To Share Code, Notes and Snippets
 
-#VSLIDE?gist=cf4227416b55dac54a53
+#VSLIDE?gist=d367c6289122596b0b3521e5eaf66b29
 
 #HSLIDE
 
