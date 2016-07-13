@@ -19,13 +19,12 @@ This slideshow demonstrates some of the many <span style="color:#e49436">Git</sp
 ####Markdown Slides
 
 <br>
-GitHub Flavored Markdown
 
-Make the most out of Markdown formatted text, including headers, emphasis, tables, lists, links, blockquotes, etc.
+Make the most out of GitHub Flavoreed Markdown including headers, emphasis, tables, lists, links, blockquotes, etc.
 
 
 #VSLIDE
-#####The KISS Principle
+#####Remember The KISS Principle
 
 > If you can't explain it simply,
 > you don't understand it well enough.
