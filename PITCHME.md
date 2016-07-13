@@ -29,20 +29,21 @@ This slideshow demonstrates some of the many <span style="color:#e49436">Git</sp
 
 #HSLIDE
 
-####GitHub Flavored Markdown
+####Markdown Slides
 
+GitHub Flavored Markdown
 Headers, emphasis, tables, lists, links, blockquotes.
 
 #VSLIDE
 
-#####Italic & Bold Emphasis
+#####Use Italics & Bold Emphasis
 <br>
 Get _the word out_ about your _**GitHub** projects!_
 
 Just add ~~README.md~~ PITCHME.md ;)
 
 #VSLIDE
-#####Table Data
+#####Display Table Data
 <br>
 
 Day | Month | Year
@@ -52,7 +53,7 @@ Day | Month | Year
 29  | Feb   | 2016
 
 #VSLIDE
-#####Quotations
+#####Make Use of Quotations
 
 > If you can't explain it simply,
 > you don't understand it well enough.
