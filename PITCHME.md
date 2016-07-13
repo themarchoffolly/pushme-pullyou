@@ -36,13 +36,20 @@ Headers, emphasis, tables, lists, links, blockquotes.
 #VSLIDE
 
 #####Markdown Emphasis
-Get the *word* out about your _**GitHub** projects!_
+Get _the word out_ about your _**GitHub** projects!_
 
 #VSLIDE
 #####Markdown Table
 
 #VSLIDE
-- Lists
+
+#####Markdown Lists
+
+1. X
+2. Y
+
+- One
+- Two
 
 #VSLIDE
 
