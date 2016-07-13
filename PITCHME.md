@@ -11,7 +11,7 @@
 
 ####Welcome to the Kitchen-Sink!
 <br>
-A slideshow that demonstrates some of the many <span style="color:#e49436">Git</span>Pitch capabilities you can use to **pitch**, **promote** or **present** your GitHub projects.
+This slideshow demonstrates some of the many <span style="color:#e49436">Git</span>Pitch capabilities you can use to **pitch**, **promote** or **present** your GitHub projects.
 
 #HSLIDE
 
@@ -29,15 +29,24 @@ A slideshow that demonstrates some of the many <span style="color:#e49436">Git</
 
 #HSLIDE
 
-Markdown Support
+####GitHub Flavored Markdown
+
+Headers, emphasis, tables, lists, links, blockquotes and more.
 
 #VSLIDE
 
-- Text
-#VSLIDE
-- Lists
+- Emphasis
+
 #VSLIDE
 - Tables
+
+#VSLIDE
+- Lists
+
+#VSLIDE
+
+- Links
+
 #VSLIDE
 - Quotes
 
