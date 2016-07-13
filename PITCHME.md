@@ -39,7 +39,7 @@ Headers, emphasis, tables, lists, links, blockquotes.
 <br>
 Get _the word out_ about your _**GitHub** projects!_
 
-Just add ~~README.md~~ PITCHME.md :)
+Just add ~~README.md~~ PITCHME.md ;)
 
 #VSLIDE
 #####Tables
@@ -52,7 +52,7 @@ Day | Month | Year
 29  | Feb   | 2016
 
 #VSLIDE
-#####Einstein said:
+#####Einstein's Advice About Creating Slideshows
 
 > If you can't explain it simply,
 > you don't understand it well enough.
