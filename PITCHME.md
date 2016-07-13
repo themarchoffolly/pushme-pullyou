@@ -101,8 +101,6 @@ OCPUTask task = OCPU.R()
 
 #VSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
-#####Alternatively Directly Embed GISTs
-
 #HSLIDE
 
 Math Formula Support
