@@ -31,14 +31,15 @@ This slideshow demonstrates some of the many <span style="color:#e49436">Git</sp
 
 ####GitHub Flavored Markdown
 
-Headers, emphasis, tables, lists, links, blockquotes and more.
+Headers, emphasis, tables, lists, links, blockquotes.
 
 #VSLIDE
 
-- Emphasis
+#####Markdown Emphasis
+Get the *word* out about your _**GitHub** projects!_
 
 #VSLIDE
-- Tables
+#####Markdown Table
 
 #VSLIDE
 - Lists
