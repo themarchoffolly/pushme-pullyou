@@ -37,7 +37,7 @@ Just add ~~README.md~~ **PITCHME.md** ;)
 #####Code Blocks & GIST Slides
 
 <br>
-Just like pictures, code too can speak a thousand words.
+Like pictures, code too can speak a thousand words.
 
 #VSLIDE
 
