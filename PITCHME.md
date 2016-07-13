@@ -125,7 +125,10 @@ Image Slides
 
 #HSLIDE
 
-Video Slides
+#####Video Slides
+
+<br>
+Embed YouTube, Vimeo or MP4 videos within any slide.
 
 #VSLIDE
 
