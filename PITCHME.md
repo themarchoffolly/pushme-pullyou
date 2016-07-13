@@ -132,11 +132,11 @@ Embed YouTube, Vimeo or MP4 videos within any slide.
 
 #VSLIDE
 
-![Cartoon Video](https://player.vimeo.com/video/111525512)
+![Cartoon Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
 #VSLIDE
 
-![Cartoon Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
+![Cartoon Video](https://player.vimeo.com/video/111525512)
 
 #VSLIDE
 
