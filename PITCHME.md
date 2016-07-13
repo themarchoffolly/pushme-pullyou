@@ -5,8 +5,6 @@
 <br>
 <span style="color:gray">Promote, Pitch, Or Present Your GitHub Projects</span>
 
-<span style="color:gray">With Interactive, Online Slideshows</span>
-
 #HSLIDE
 
 ####Welcome to the Kitchen-Sink!
