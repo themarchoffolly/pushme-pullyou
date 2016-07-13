@@ -55,7 +55,7 @@ function fancyAlert(arg) {
 ```
 #VSLIDE
 
-#####Any Language Syntax Highlighting
+#####Dozens Of Languages Supported
 ```scala
 
 // Scala Snippet
@@ -72,7 +72,7 @@ OCPUTask task = OCPU.R()
 
 #VSLIDE
 
-#####Alternatively Directly Embed GISTs
+Alternatively Directly Embed GISTs
 
 #VSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
