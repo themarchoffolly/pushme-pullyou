@@ -70,6 +70,8 @@ Code can speak a thousand words...
 
 #####Code Blocks Syntax Highlighting
 ```javascript
+
+// JavaScript Snippet
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
@@ -78,9 +80,10 @@ function fancyAlert(arg) {
 ```
 #VSLIDE
 
-#####Highlighting Any Language
+#####Syntax Highlighting Any Language
 ```scala
 
+// Scala Snippet
 // Build R function parameter values as Map.
 HashMap params = HashMap(n -> 10, mean -> 5)
 
@@ -91,6 +94,10 @@ OCPUTask task = OCPU.R()
                     .input(params.asJava)
                     .library()
 ```
+
+#VSLIDE
+
+#####Alternatively Directly Embed GISTs
 
 #VSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
