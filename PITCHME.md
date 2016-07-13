@@ -35,21 +35,21 @@ Headers, emphasis, tables, lists, links, blockquotes.
 
 #VSLIDE
 
-#####Markdown Emphasis
+#####Italic & Bold Emphasis
 Get _the word out_ about your _**GitHub** projects!_
 
 #VSLIDE
-#####Markdown Table
+#####Tables
 
 #VSLIDE
 
-#####Markdown Lists
+#####Ordered & Unordered Lists
 
-Ordered
 1. Hello
 2. Goodbye
 
-Unordered
+<br>
+
 - Hello
 - Goodbye
 
