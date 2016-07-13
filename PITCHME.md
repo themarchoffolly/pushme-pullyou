@@ -65,7 +65,8 @@ Day | Month | Year
 
 #####Code Blocks & GISTs
 
-Code can speak a thousand words...
+<br>
+Like pictures, code can speak a thousand words.
 
 #VSLIDE
 
