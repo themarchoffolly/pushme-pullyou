@@ -43,6 +43,7 @@ Just add ~~README.md~~ PITCHME.md :)
 
 #VSLIDE
 #####Tables
+<br>
 
 Day | Month | Year
 ----| ----- | ----
@@ -51,13 +52,7 @@ Day | Month | Year
 29  | Feb   | 2016
 
 #VSLIDE
-
-#VSLIDE
-
-- Links
-
-#VSLIDE
-#####As Einstein said:
+#####Einstein said:
 
 > If you can't explain it simply,
 > you don't understand it well enough.
