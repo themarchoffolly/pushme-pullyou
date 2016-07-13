@@ -23,14 +23,17 @@ GitHub Flavored Markdown
 
 Make the most out of Markdown formatted text, including headers, emphasis, tables, lists, links, blockquotes, etc.
 
-Just add ~~README.md~~ **PITCHME.md** ;)
 
 #VSLIDE
-#####But Keep It Simple
+#####The KISS Principle
 
 > If you can't explain it simply,
 > you don't understand it well enough.
 > ~Einstein
+
+#VSLIDE
+
+Just add ~~README.md~~ **PITCHME.md** ;)
 
 #HSLIDE
 
