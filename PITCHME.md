@@ -20,7 +20,7 @@ This slideshow demonstrates some of the many <span style="color:#e49436">Git</sp
 
 <br>
 
-Make the most out of GitHub Flavoreed Markdown including headers, emphasis, tables, lists, links, blockquotes, etc.
+Make the most out of GitHub Flavored Markdown including headers, emphasis, tables, lists, links, blockquotes, etc.
 
 
 #VSLIDE
@@ -43,7 +43,8 @@ Like pictures, code too can speak a thousand words.
 
 #VSLIDE
 
-#####Code Blocks Syntax Highlighting
+#####Code Block Syntax Highlighting
+
 ```javascript
 
 // JavaScript Snippet
@@ -56,6 +57,7 @@ function fancyAlert(arg) {
 #VSLIDE
 
 #####Dozens Of Languages Supported
+
 ```scala
 
 // Scala Snippet
@@ -72,7 +74,7 @@ OCPUTask task = OCPU.R()
 
 #VSLIDE
 
-Alternatively Directly Embed GISTs
+Alternatively Directly Embed GISTs To Share Code, Notes and Snippets
 
 #VSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
