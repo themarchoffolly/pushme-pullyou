@@ -36,37 +36,31 @@ Headers, emphasis, tables, lists, links, blockquotes.
 #VSLIDE
 
 #####Italic & Bold Emphasis
+<br>
 Get _the word out_ about your _**GitHub** projects!_
 
-Just as ~~README.md~~ PITCHME.md :)
+Just add ~~README.md~~ PITCHME.md :)
 
 #VSLIDE
 #####Tables
 
-Actor | Character
---------| -------
-Harry Secombe | Neddie Seagoon
-Spike Milligan | Eccles
-Peter Sellers | Bluebottle
+Day | Month | Year
+----| ----- | ----
+11  | Nov   | 1972
+31  | Dec   | 1999
+29  | Feb   | 2016
 
 #VSLIDE
-
-#####Ordered & Unordered Lists
-
-1. Hello
-2. Goodbye
-
-<br>
-
-- Hello
-- Goodbye
 
 #VSLIDE
 
 - Links
 
 #VSLIDE
-- Quotes
+#####As Einstein said:
+
+> If you can't explain it simply,
+> you don't understand it well enough.
 
 #HSLIDE
 
