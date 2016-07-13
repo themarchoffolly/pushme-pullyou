@@ -82,17 +82,6 @@ To Share Code, Notes and Snippets
 
 #HSLIDE
 
-Math Formula Slides
-
-#VSLIDE
-- LaTeX, etc
-
-#HSLIDE
-
-Slide Fragments
-
-#HSLIDE
-
 Image Slides
 
 #VSLIDE
@@ -118,6 +107,19 @@ Embed YouTube, Vimeo or MP4 videos within any slide.
 #VSLIDE
 
 ![Cartoon Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
+
+#HSLIDE
+
+#HSLIDE
+
+Math Formula Slides
+
+#VSLIDE
+- LaTeX, etc
+
+#HSLIDE
+
+Slide Fragments
 
 #HSLIDE
 
