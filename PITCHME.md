@@ -43,11 +43,11 @@ Just as ~~README.md~~ PITCHME.md :)
 #VSLIDE
 #####Tables
 
-Name | Age
+Actor | Character
 --------| -------
-Larry | 32
-Curly | 29
-Moe   | 43
+Harry Secombe | Neddie Seagoon
+Spike Milligan | Eccles
+Peter Sellers | Bluebottle
 
 #VSLIDE
 
