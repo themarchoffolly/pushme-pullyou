@@ -38,8 +38,15 @@ Headers, emphasis, tables, lists, links, blockquotes.
 #####Italic & Bold Emphasis
 Get _the word out_ about your _**GitHub** projects!_
 
+Just as ~~README.md~~ PITCHME.md :)
+
 #VSLIDE
 #####Tables
+
+First Header | Second Header
+------------ | -------------
+Content A | Content B
+Content C | Content D
 
 #VSLIDE
 
