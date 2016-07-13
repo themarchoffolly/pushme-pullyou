@@ -45,11 +45,13 @@ Get _the word out_ about your _**GitHub** projects!_
 
 #####Markdown Lists
 
-1. X
-2. Y
+Ordered
+1. Hello
+2. Goodbye
 
-- One
-- Two
+Unordered
+- Hello
+- Goodbye
 
 #VSLIDE
 
