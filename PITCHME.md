@@ -67,6 +67,8 @@ Day | Month | Year
 Code can speak a thousand words...
 
 #VSLIDE
+
+#####Code Blocks Syntax Highlighting
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -76,6 +78,7 @@ function fancyAlert(arg) {
 ```
 #VSLIDE
 
+#####Highlighting Any Language
 ```scala
 
 // Build R function parameter values as Map.
@@ -90,6 +93,8 @@ OCPUTask task = OCPU.R()
 ```
 
 #VSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
+
+#####Alternatively Directly Embed GISTs
 
 #HSLIDE
 
