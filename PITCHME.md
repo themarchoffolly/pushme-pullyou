@@ -60,12 +60,34 @@ Day | Month | Year
 
 #HSLIDE
 
-Code Support
+#####Code Blocks & GISTs
+
+Code can speak a thousand words...
 
 #VSLIDE
-- Blocks
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 #VSLIDE
-- GIST
+
+```scala
+
+// Build R function parameter values as Map.
+HashMap params = HashMap(n -> 10, mean -> 5)
+
+// Define executable for R stats#rnorm function call.
+OCPUTask task = OCPU.R()
+                    .pkg("stats")
+                    .function("rnorm")
+                    .input(params.asJava)
+                    .library()
+```
+
+#VSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
 #HSLIDE
 
@@ -91,9 +113,16 @@ Image Support
 Video Support
 
 #VSLIDE
-- Relative
+
+![Cartoon Video](https://player.vimeo.com/video/111525512)
+
 #VSLIDE
-- Absolute
+
+![Cartoon Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
+
+#VSLIDE
+
+![Cartoon Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
 
 #HSLIDE
 
