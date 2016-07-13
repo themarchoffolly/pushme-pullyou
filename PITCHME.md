@@ -74,7 +74,9 @@ OCPUTask task = OCPU.R()
 
 #VSLIDE
 
-Alternatively Directly Embed GISTs To Share Code, Notes and Snippets
+Alternatively Directly Embed GISTs
+<br>
+To Share Code, Notes and Snippets
 
 #VSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
