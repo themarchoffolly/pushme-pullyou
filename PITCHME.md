@@ -63,7 +63,7 @@ Day | Month | Year
 
 #HSLIDE
 
-#####Code Blocks & GISTs
+#####Code Blocks & GIST Slides
 
 <br>
 Like pictures, code too can speak a thousand words.
@@ -82,7 +82,7 @@ function fancyAlert(arg) {
 ```
 #VSLIDE
 
-#####Syntax Highlighting Any Language
+#####Any Language Syntax Highlighting
 ```scala
 
 // Scala Snippet
@@ -105,7 +105,8 @@ OCPUTask task = OCPU.R()
 
 #HSLIDE
 
-Math Formula Support
+Math Formula Slides
+
 #VSLIDE
 - LaTeX, etc
 
@@ -115,7 +116,7 @@ Slide Fragments
 
 #HSLIDE
 
-Image Support
+Image Slides
 
 #VSLIDE
 - Relative
@@ -124,7 +125,7 @@ Image Support
 
 #HSLIDE
 
-Video Support
+Video Slides
 
 #VSLIDE
 
@@ -140,7 +141,7 @@ Video Support
 
 #HSLIDE
 
-Custom Backgrounds
+Slide Custom Backgrounds
 
 #VSLIDE
 - Image
@@ -153,7 +154,7 @@ Custom Backgrounds
 
 #HSLIDE
 
-PITCHME.yaml Customizations
+Slideshow PITCHME.yaml Customizations
 
 -background
 -loop
@@ -175,7 +176,7 @@ Slideshow Controls
 
 #HSLIDE
 
-Theme Switching
+Slideshow Theme Switching
 
 #HSLIDE
 
