@@ -42,7 +42,7 @@ Get _the word out_ about your _**GitHub** projects!_
 Just add ~~README.md~~ PITCHME.md ;)
 
 #VSLIDE
-#####Tables
+#####Table Data
 <br>
 
 Day | Month | Year
@@ -52,10 +52,11 @@ Day | Month | Year
 29  | Feb   | 2016
 
 #VSLIDE
-#####Einstein's Advice About Creating Slideshows
+#####Quotations
 
 > If you can't explain it simply,
 > you don't understand it well enough.
+> ~Albert Einstein
 
 #HSLIDE
 
