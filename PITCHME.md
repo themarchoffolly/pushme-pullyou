@@ -10,7 +10,7 @@
 
 <br>
 
-Make the most out of GitHub Flavored Markdown including headers, emphasis, tables, lists, links, blockquotes, etc.
+Make the most out of GitHub Flavored Markdown including headers, emphasis, tables, lists, links, blockquotes, and more.
 
 
 #HSLIDE
@@ -141,8 +141,8 @@ Slide Fragments
 
 Slide Custom Backgrounds
 
-#VSLIDE
-- Image
+#VSLIDE?image=assets/markdown-mark.png
+
 #VSLIDE
 - Video-YouTube
 #VSLIDE
