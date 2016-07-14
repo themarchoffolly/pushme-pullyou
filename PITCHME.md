@@ -15,7 +15,7 @@
 <br><br><br><br><br>
 <span style="color:gray; text-transform:uppercase">GitHub <span style="color:#e49436">Flavored</span> Markdown</span>
 
-<span style="font-size:0.7em; color:gray">See <a href="#" target="_blank">How-To</a> For Details</span>
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">How-To</a> For Details</span>
 
 
 #VSLIDE
