@@ -1,10 +1,3 @@
-#HSLIDE
-
-![GitPitch](https://gitpitch.github.io/gitpitch/assets/banner-white-400-140.png)
-####Get the word out!
-<br>
-<span style="color:gray">Promote, Pitch, Or Present Your GitHub Projects</span>
-
 #HSLIDE?image=assets/kitchensink.jpg
 
 <span style="color:black; font-size:1.3em">The Kitchen-Sink Slideshow</span>
