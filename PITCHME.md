@@ -4,8 +4,6 @@
 
 #VSLIDE
 
-<span style="color:black; font-size:1.3em">The Kitchen-Sink Slideshow</span>
-<br><br><br>
 <span style="color:black">A demonstration of <span style="font-family:Helvetica Neue; font-weight:bold"><span style="color:#e49436">Git</span>Pitch</span> capabilities to deliver compelling slideshows for your GitHub projects.</span>
 
 #HSLIDE?image=assets/markdown-mark.jpg
