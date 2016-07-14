@@ -89,9 +89,9 @@ To Share Code, Notes and Snippets
 
 #####Video Slides
 
-<br><br><br>
-<br><br><br>
-Embed YouTube, Vimeo or MP4 videos within any slide.
+<br><br><br><br>
+<br><br><br><br>
+YouTube, Vimeo or MP4
 
 #VSLIDE
 
