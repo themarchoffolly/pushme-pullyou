@@ -86,7 +86,7 @@ Add some visual oomph to your slideshow.
 
 #VSLIDE
 
-<span style="color:gray; font-size:0.5em">Image at <b>Absolute</b> <a href="https://github.com/jeejkang" target="_blank">URL</a>.</span>
+<span style="color:gray; font-size:0.7em">Image at <b>Absolute URL</b>.</span>
 
 ![Image-Absolute](assets/octocat-privateinvestocat.jpg)
 
@@ -94,7 +94,7 @@ Add some visual oomph to your slideshow.
 
 #VSLIDE
 
-<span style="color:gray; font-size:0.5em">Image at <b>Relative</b> <a href="https://github.com/jeejkang" target="_blank">URL</a>.</span>
+<span style="color:gray; font-size:0.7em">Image at <b>Relative URL</b>.</span>
 
 ![Image-Absolute](assets/octocat-de-los-muertos.jpg)
 
@@ -103,7 +103,7 @@ Add some visual oomph to your slideshow.
 
 #VSLIDE
 
-<span style="color:gray; font-size:0.5em">Animated <b>GIFs</b> Work Too!</span>
+<span style="color:gray; font-size:0.7em"><b>Animated GIFs</b> Work Too!</span>
 
 ![Image-Relative](assets/octocat-daftpunkocat.gif)
 
