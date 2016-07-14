@@ -6,8 +6,6 @@
 
 #HSLIDE?image=assets/markdown-mark.png
 
-####Markdown Slides
-
 <span style="color:black; font-size:1.3em">Markdown Slides</span>
 <br><br><br>
 <span style="color:black">Make the most out of GitHub Flavored Markdown including headers, emphasis, tables, lists, links, blockquotes, and more.</span>
