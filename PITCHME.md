@@ -99,17 +99,17 @@ Add some visual oomph to your slideshow.
 #VSLIDE
 
 ![Image-Relative](https://octodex.github.com/images/daftpunktocat-guy.gif)
-<span style="color:gray>the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang">jeejkang</a>.</span>
+<span style="color:gray; font-size:0.8em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a>.</span>
 
 #VSLIDE
 
 ![Image-Absolute](https://octodex.github.com/images/privateinvestocat.jpg)
-<span style="color:gray>the <b>Private Investocat</b> by <a href="https://github.com/jeejkang">jeejkang</a>.</span>
+<span style="color:gray; font-size: 0.8em;">the <b>Private Investocat</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a>.</span>
 
 #VSLIDE
 
 ![Image-Absolute](https://octodex.github.com/images/octocat-de-los-muertos.jpg)
-<span style="color:gray>the <b>Private Investocat</b> by <a href="https://github.com/cameronmcefee">cameronmcefee</a>.</span>
+<span style="color:gray; font-size:0.8em">the <b>Private Investocat</b> by <a href="https://github.com/cameronmcefee" target="_blank">cameronmcefee</a>.</span>
 
 #HSLIDE
 
