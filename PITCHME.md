@@ -86,7 +86,7 @@ Add some visual oomph to your slideshow.
 
 #VSLIDE
 
-<span style="color:gray; font-size:0.7em">Image at <b>Absolute URL</b>.</span>
+<span style="color:gray; font-size:0.7em">Image at <b>Absolute URL</b></span>
 
 ![Image-Absolute](assets/octocat-privateinvestocat.jpg)
 
@@ -94,7 +94,7 @@ Add some visual oomph to your slideshow.
 
 #VSLIDE
 
-<span style="color:gray; font-size:0.7em">Image at <b>Relative URL</b>.</span>
+<span style="color:gray; font-size:0.7em">Image at GitHub Repo <b>Relative URL</b></span>
 
 ![Image-Absolute](assets/octocat-de-los-muertos.jpg)
 
