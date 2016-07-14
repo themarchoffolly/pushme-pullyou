@@ -78,11 +78,11 @@ To Share Code, Notes and Snippets
 
 #VSLIDE?gist=8da53731fd54bab9d5c6
 
-#HSLIDE?image=assets/earth-moon.jpg
+#HSLIDE?image=assets/earth.jpg
 
 #####Image Slides
-
-Add some visual oomph to your slideshow.
+<br>
+<span style="color:gray; font-size:0.7em; text-transform:uppercase">Add some visual oomph to your slideshow.</span>
 
 #VSLIDE
 
