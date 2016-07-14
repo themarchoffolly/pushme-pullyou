@@ -67,7 +67,7 @@ To Share Code, Notes and Snippets
 <br><br><br><br><br>
 <span style="color:#e49436; font-size:1em; text-transform:uppercase">Add some <span style="color:#e49436">visual oomph</span></span>
 
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
+<span style="font-size:0.6em; color:black">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
 
 #VSLIDE
 
