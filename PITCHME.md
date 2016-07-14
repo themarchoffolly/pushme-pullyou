@@ -80,12 +80,22 @@ To Share Code, Notes and Snippets
 
 #HSLIDE
 
-Image Slides
+#####Image Slides
+
+Add some visual oomph to your slideshow.
 
 #VSLIDE
-- Relative
+
+Images can be relative to your GitHub repo.
+
+![Image-Relative](assets/earth-moon.jpg)
+
 #VSLIDE
-- Absolute
+
+Or at any absolute URL.
+
+![Image-Absolute](http://d1oklq6066osfz.cloudfront.net/shirley_0.png)
+
 
 #HSLIDE
 
