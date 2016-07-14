@@ -87,9 +87,9 @@ To Share Code, Notes and Snippets
 
 #HSLIDE?image=assets/videoslides.jpg
 
-<span style="font-size:1.3em; font-weight:bold"><span style="color:#e49436">Video</span><span style="color:black"> SlidesX</span></span>
+<span style="font-size:1.3em; font-weight:bold"><span style="color:#e49436">Video</span><span style="color:black"> SlidesY</span></span>
 <br><br><br><br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 #VSLIDE
 
