@@ -2,7 +2,7 @@
 
 <span style="color:white"><span style="color:#e49436;font-family:Helvetica Neue; font-weight:bold">Git</span><span style="font-family:Helvetica Neue; font-weight:bold">Pitch</span> everything but the kitchen sink...</span>
 
-#HSLIDE?image=assets/kitchensink.jpg
+#VSLIDE
 
 <span style="color:black; font-size:1.3em">The Kitchen-Sink Slideshow</span>
 <br><br><br>
