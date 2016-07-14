@@ -87,6 +87,10 @@ To Share Code, Notes and Snippets
 
 #HSLIDE?image=assets/videoslides.jpg
 
+<span style="color:#e49436; font-size: 1.3em">Videox</span><span style="color:black; font-size: 1.3em"> Slides</span>
+<br><br><br><br>
+<br><br><br><br>
+
 #VSLIDE
 
 ![Cartoon Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
