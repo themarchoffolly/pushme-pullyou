@@ -88,19 +88,19 @@ Add some visual oomph to your slideshow.
 
 ![Image-Relative](assets/octocat-daftpunkocat.gif)
 
-<span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a>.</span>
+<span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
 #VSLIDE
 
 ![Image-Absolute](assets/octocat-de-los-muertos.jpg)
 
-<span style="color:gray; font-size:0.5em">the <b>Octocat-De-Los-Muertos</b> by <a href="https://github.com/cameronmcefee" target="_blank">cameronmcefee</a>.</span>
+<span style="color:gray; font-size:0.5em">the <b>Octocat-De-Los-Muertos</b> by <a href="https://github.com/cameronmcefee" target="_blank">cameronmcefee</a></span>
 
 #VSLIDE
 
 ![Image-Absolute](assets/octocat-privateinvestocat.jpg)
 
-<span style="color:gray; font-size: 0.5em;">the <b>Private Investocat</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a>.</span>
+<span style="color:gray; font-size: 0.5em;">the <b>Private Investocat</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
 
 #VSLIDE
