@@ -87,12 +87,6 @@ To Share Code, Notes and Snippets
 
 #HSLIDE?image=assets/videoslides.jpg
 
-#####Video Slides
-
-<br><br><br><br>
-<br><br><br><br>
-YouTube, Vimeo or MP4
-
 #VSLIDE
 
 ![Cartoon Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
