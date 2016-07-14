@@ -98,11 +98,12 @@ To Share Code, Notes and Snippets
 
 #VSLIDE
 
-![Cartoon Video](https://player.vimeo.com/video/111525512)
+![Cartoon Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
 
 #VSLIDE
 
-![Cartoon Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
+![Cartoon Video](https://player.vimeo.com/video/111525512)
+
 
 #HSLIDE
 
