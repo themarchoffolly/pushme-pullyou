@@ -8,17 +8,15 @@
 
 ####Markdown Slides
 
-<span style="color:white; font-size:1.3em">Markdown Slides</span>
+<span style="color:black; font-size:1.3em">Markdown Slides</span>
 <br><br><br>
-<span style="color:white">Make the most out of GitHub Flavored Markdown including headers, emphasis, tables, lists, links, blockquotes, and more.</span>
-
+<span style="color:black">Make the most out of GitHub Flavored Markdown including headers, emphasis, tables, lists, links, blockquotes, and more.</span>
 
 #HSLIDE?image=assets/victory.jpg
 
-#####Code Blocks & GIST Slides
-
-<br>
-Like pictures, code too can speak a thousand words.
+<span style="color:white; font-size:1.3em">Code Blocks & GIST Slides</span>
+<br><br><br>
+<span style="color:white">Let your code speak out.</span>
 
 #VSLIDE
 
