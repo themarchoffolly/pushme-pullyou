@@ -87,7 +87,7 @@ To Share Code, Notes and Snippets
 
 #HSLIDE?image=assets/videocamera.jpg
 
-<span style="font-size:1.3em; font-weight:bold"><span style="color:white">Video</span><span style="color:white"> Slides</span></span>
+<span style="font-size:1.3em"><span style="color:white">Video</span><span style="color:white"> Slides</span></span>
 <br><br><br><br><br>
 <br><br><br><br><br>
 <span style="font-size:1.0em; color:white">YouTube ~ <span style="color:#e49436"> MP4 </span>~ Vimeo</span>
