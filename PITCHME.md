@@ -86,19 +86,13 @@ Add some visual oomph to your slideshow.
 
 #VSLIDE
 
-Images can be relative to your GitHub repo.
-
 ![Image-Relative](https://octodex.github.com/images/daftpunktocat-guy.gif)
 
 #VSLIDE
 
-Or at any absolute URL.
-
 ![Image-Absolute](https://octodex.github.com/images/privateinvestocat.jpg)
 
 #VSLIDE
-
-Or at any absolute URL.
 
 ![Image-Absolute](https://octodex.github.com/images/octocat-de-los-muertos.jpg)
 
