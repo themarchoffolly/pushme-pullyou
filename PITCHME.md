@@ -7,7 +7,7 @@
 
 #HSLIDE?image=assets/kitchensink.jpg
 
-######The Kitchen-Sink!
+######The Kitchen-Sink Slideshow
 <br><br><br>
 This slideshow demonstrates some of the many <span style="color:#e49436">Git</span>Pitch capabilities you can use to **pitch**, **promote** or **present** your GitHub projects.
 
