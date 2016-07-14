@@ -76,6 +76,8 @@ To Share Code, Notes and Snippets
 
 #VSLIDE?image=assets/wally-presentation.jpg
 
+#VSLIDE?image=assets/loading-100.gif
+
 #VSLIDE
 
 ![Image-Relative](https://octodex.github.com/images/daftpunktocat-guy.gif)
