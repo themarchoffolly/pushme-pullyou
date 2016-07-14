@@ -86,7 +86,7 @@ Add some visual oomph to your slideshow.
 
 #VSLIDE
 
-![Image-Relative](assets/octtocat-daftpunktocat.gif)
+![Image-Relative](assets/octocat-daftpunkocat.gif)
 
 #VSLIDE
 
@@ -94,7 +94,7 @@ Add some visual oomph to your slideshow.
 
 #VSLIDE
 
-![Image-Absolute](assets/octocat-de-las-muertos.jpg)
+![Image-Absolute](assets/octocat-de-los-muertos.jpg)
 
 #VSLIDE
 
