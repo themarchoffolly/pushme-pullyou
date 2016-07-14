@@ -7,9 +7,7 @@
 
 #HSLIDE?image=assets/kitchensink.jpg
 
-<span style="font-family:Helvetica Neue; font-weight:bold">The <span style="color:#e49436">Git</span>Pitch</span>
-
-<span style="font-size:1.2em">Kitchen-Sink Slideshow</span>
+#####Kitchen Sink Slideshow
 <br><br><br>
 This slideshow demonstrates some of the many <span style="font-family:Helvetica Neue; font-weight:bold"><span style="color:#e49436">Git</span>Pitch</span> capabilities you can use to **pitch**, **promote** or **present** your GitHub projects.
 
