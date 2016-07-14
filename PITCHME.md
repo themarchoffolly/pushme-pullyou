@@ -5,7 +5,7 @@
 
 #VSLIDE
 
-<span style="color:black">This slideshow gives a demonstration of some of the many <span style="font-family:Helvetica Neue; font-weight:bold"><span style="color:#e49436">Git</span>Pitch</span> features that can help you to promote, pitch or present your GitHub projects.</span>
+<span style="color:black">This slideshow gives a demonstration of some of the many <span style="font-family:Helvetica Neue; font-weight:bold"><span style="color:#e49436">Git</span>Pitch</span> features you can use to promote, pitch or present your GitHub projects.</span>
 
 
 #HSLIDE?image=assets/markdown-mark-black-orange.jpg
