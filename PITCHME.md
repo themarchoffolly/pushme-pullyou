@@ -7,10 +7,9 @@
 
 #HSLIDE?image=assets/kitchensink.jpg
 
-#####The Kitchen-Sink Slideshow
+<span style="color:black; font-size:1.3em">The Kitchen-Sink Slideshow</span>
 <br><br><br>
-This slideshow demonstrates some of the many <span style="font-family:Helvetica Neue; font-weight:bold"><span style="color:#e49436">Git</span>Pitch</span> capabilities you can use to **pitch**, **promote** or **present** your GitHub projects.
-
+<span style="color:black">This slideshow demonstrates some of the many <span style="font-family:Helvetica Neue; font-weight:bold"><span style="color:#e49436">Git</span>Pitch</span> capabilities you can use to **pitch**, **promote** or **present** your GitHub projects.</span>
 
 #HSLIDE?image=assets/markdown-mark.png
 
@@ -20,17 +19,6 @@ This slideshow demonstrates some of the many <span style="font-family:Helvetica 
 
 Make the most out of GitHub Flavored Markdown including headers, emphasis, tables, lists, links, blockquotes, etc.
 
-
-#VSLIDE
-#####Remember The KISS Principle
-
-> If you can't explain it simply,
-> you don't understand it well enough.
-> ~Einstein
-
-#VSLIDE
-
-Just add ~~README.md~~ **PITCHME.md** ;)
 
 #HSLIDE
 
