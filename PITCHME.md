@@ -78,7 +78,7 @@ To Share Code, Notes and Snippets
 
 #VSLIDE?gist=8da53731fd54bab9d5c6
 
-#HSLIDE?image=assets/earth.jpg
+#HSLIDE?image=assets/earthrise.jpg
 
 #####Image Slides
 <br>
