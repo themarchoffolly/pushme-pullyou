@@ -23,8 +23,6 @@
 #####Code Syntax Highlighting
 
 ```scala
-
-// Scala Snippet
 // Build R function parameter values as Map.
 HashMap params = HashMap(n -> 10, mean -> 5)
 
