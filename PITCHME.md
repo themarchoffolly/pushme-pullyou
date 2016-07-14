@@ -109,6 +109,8 @@ Add some visual oomph to your slideshow.
 
 <span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
+#VSLIDE?image=http://static2.businessinsider.com/image/5254609e6bb3f7fe2f2c9bc7-1200-375/wally's%20presentation.jpg
+
 #VSLIDE
 
 ![Image-Relative](https://octodex.github.com/images/daftpunktocat-guy.gif)
@@ -120,6 +122,7 @@ Add some visual oomph to your slideshow.
 #VSLIDE
 
 ![Image-Absolute](https://octodex.github.com/images/octocat-de-los-muertos.jpg)
+
 
 #HSLIDE
 
