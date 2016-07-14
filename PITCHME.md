@@ -110,8 +110,6 @@ Embed YouTube, Vimeo or MP4 videos within any slide.
 
 #HSLIDE
 
-#HSLIDE
-
 Math Formula Slides
 
 #VSLIDE
