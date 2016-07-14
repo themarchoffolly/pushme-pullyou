@@ -26,7 +26,7 @@ Make the most out of GitHub Flavored Markdown including headers, emphasis, table
 
 #VSLIDE
 
-#####Code Block Syntax Highlighting
+Code Block Syntax Highlighting
 
 ```scala
 // Build R function parameter values as Map.
