@@ -141,7 +141,7 @@ Slide Fragments
 
 Slide Custom Backgrounds
 
-#VSLIDE?image=assets/markdown-mark.png
+#VSLIDE?image=assets/127.jpg
 
 #VSLIDE
 - Video-YouTube
