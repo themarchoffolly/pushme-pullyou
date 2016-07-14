@@ -86,6 +86,18 @@ Add some visual oomph to your slideshow.
 
 #VSLIDE
 
+![Image-Relative](assets/octtocat-daftpunktocat.gif)
+
+#VSLIDE
+
+![Image-Absolute](assets/octocat-privateinvestocat.jpg)
+
+#VSLIDE
+
+![Image-Absolute](assets/octocat-de-las-muertos.jpg)
+
+#VSLIDE
+
 ![Image-Relative](https://octodex.github.com/images/daftpunktocat-guy.gif)
 
 #VSLIDE
