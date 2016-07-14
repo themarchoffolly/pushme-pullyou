@@ -1,6 +1,6 @@
 #HSLIDE?image=assets/kitchen-sink-bananas.jpg
 
-<span style="color:#e49436">Git</span>Pitch</span> everything but the kitchen sink...
+<span style="color:white"><span style="color:#e49436">Git</span>Pitch</span> everything but the kitchen sink...</span>
 
 #HSLIDE?image=assets/kitchensink.jpg
 
