@@ -101,7 +101,7 @@ To Share Code, Notes and Snippets
 <span style="font-size:1.3em"><span style="color:white">Video</span><span style="color:white"> Slides</span></span>
 <br><br><br><br><br>
 <br><br><br><br><br>
-<span style="font-size:1.0em; color:#e49436">Embed <span style="color:white">~ YouTube ~ </span><span style="color:#e49436"> MP4 </span>~ Vimeo</span>
+<span style="font-size:1.0em; color:#e49436">Embed </span><span style="color:white">~ YouTube ~ </span> MP4 <span style="color:white">~ Vimeo </span>
 
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
 
