@@ -65,7 +65,7 @@ To Share Code, Notes and Snippets
 <span style="color:white; font-size: 1.3em">Image Slides</span>
 <br><br><br><br><br>
 <br><br><br><br><br>
-<span style="color:#e49436; font-size:1em; text-transform:uppercase">Add s<span style="color:#black">ome visual oomph</span></span>
+<span style="color:#e49436; font-size:1em; text-transform:uppercase">Add s<span style="color:black">ome visual oomph</span></span>
 
 <span style="font-size:0.6em; color:black">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
 
