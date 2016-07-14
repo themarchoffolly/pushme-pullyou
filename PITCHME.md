@@ -6,7 +6,7 @@
 
 <span style="color:black">A demonstration of <span style="font-family:Helvetica Neue; font-weight:bold"><span style="color:#e49436">Git</span>Pitch</span> capabilities to deliver compelling slideshows for your GitHub projects.</span>
 
-#HSLIDE?image=assets/markdown-mark.jpg
+#HSLIDE?image=assets/markdown-mark-black.jpg
 
 #VSLIDE
 
