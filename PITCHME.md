@@ -89,7 +89,7 @@ To Share Code, Notes and Snippets
 
 <span style="font-size:1.3em; font-weight:bold"><span style="color:#e49436">Video</span><span style="color:black"> Slides</span></span>
 <br><br><br><br><br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 #VSLIDE
 
