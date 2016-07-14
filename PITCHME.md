@@ -5,7 +5,7 @@
 <br>
 <span style="color:gray">Promote, Pitch, Or Present Your GitHub Projects</span>
 
-#HSLIDE
+#HSLIDE?image=assets/kitchensink.jpg
 
 ####Welcome to the Kitchen-Sink!
 <br>
