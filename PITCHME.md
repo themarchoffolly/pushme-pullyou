@@ -17,7 +17,7 @@ Make the most out of GitHub Flavored Markdown including headers, emphasis, table
 <span style="color:white; font-size:1.3em">Code Blocks & GIST Slides</span>
 <br><br><br><br><br>
 <br><br><br><br><br>
-<span style="color:white">Let your code speak out.</span>
+<span style="color:white">Let your <span style="color:#e49436">code</span> speak out.</span>
 
 #VSLIDE
 
