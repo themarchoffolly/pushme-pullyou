@@ -74,10 +74,6 @@ To Share Code, Notes and Snippets
 
 <span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
-#VSLIDE?image=assets/wally-presentation.jpg
-
-#VSLIDE?image=assets/loading-100.gif
-
 #VSLIDE
 
 ![Image-Relative](https://octodex.github.com/images/daftpunktocat-guy.gif)
@@ -126,6 +122,8 @@ Slide Fragments
 Slide Custom Backgrounds
 
 #VSLIDE?image=assets/127.jpg
+
+#VSLIDE?image=assets/wally-presentation.jpg
 
 #VSLIDE
 - Video-YouTube
