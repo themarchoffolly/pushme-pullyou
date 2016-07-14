@@ -13,7 +13,7 @@
 <span style="color:white; font-size:1.3em">Markdown Slides</span>
 <br><br><br><br><br>
 <br><br><br><br><br>
-<span style="color:gray; text-transform:uppercase">GitHub <span style="color:#e49436">Flavored</span> Markdown</span>
+<span style="color:gray; text-transform:uppercase">Full GitHub <span style="color:#e49436">Flavored</span> Markdown</span>
 
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
 
