@@ -2,15 +2,19 @@
 
 <span style="color:white; font-weight: bold"><span style="color:#e49436;font-family:Helvetica Neue; font-weight:bold">Git</span><span style="font-family:Helvetica Neue; font-weight:bold">Pitch</span> everything but the kitchen sink...</span>
 
+
 #VSLIDE
 
 <span style="color:black">A demonstration of <span style="font-family:Helvetica Neue; font-weight:bold"><span style="color:#e49436">Git</span>Pitch</span> capabilities to deliver compelling slideshows for your GitHub projects.</span>
 
+
 #HSLIDE?image=assets/markdown-mark-black-orange.jpg
+
 
 #VSLIDE
 
 Make the most out of GitHub Flavored Markdown including headers, emphasis, tables, lists, links, blockquotes, and more.
+
 
 #HSLIDE?image=assets/victory.jpg
 
@@ -18,6 +22,7 @@ Make the most out of GitHub Flavored Markdown including headers, emphasis, table
 <br><br><br><br><br>
 <br><br><br><br><br>
 <span style="color:white; text-transform:uppercase">Let your <span style="color:#e49436">code</span> speak out.</span>
+
 
 #VSLIDE
 
@@ -35,19 +40,23 @@ OCPUTask task = OCPU.R()
                     .library()
 ```
 
+
 #VSLIDE
 
 Alternatively Directly Embed GISTs
 <br>
 To Share Code, Notes and Snippets
 
+
 #VSLIDE?gist=8da53731fd54bab9d5c6
+
 
 #HSLIDE?image=assets/earthrise-1680-1225.jpg
 
 <span style="color:white; font-size: 1.3em">Image Slides</span>
 <br>
 <span style="color:gray; font-size:1em; text-transform:uppercase">Add some <span style="color:#e49436">visual oomph!</span></span>
+
 
 #VSLIDE
 
@@ -56,6 +65,7 @@ To Share Code, Notes and Snippets
 ![Image-Absolute](assets/octocat-privateinvestocat.jpg)
 
 <span style="color:gray; font-size: 0.5em;">the <b>Private Investocat</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
+
 
 #VSLIDE
 
