@@ -1,3 +1,5 @@
+#HSLIDE?image=assets/kitchen-sink-bananas.jpg
+
 #HSLIDE?image=assets/kitchensink.jpg
 
 <span style="color:black; font-size:1.3em">The Kitchen-Sink Slideshow</span>
