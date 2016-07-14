@@ -1,5 +1,7 @@
 #HSLIDE?image=assets/kitchen-sink-bananas.jpg
 
+<span style="color:#e49436">Git</span>Pitch</span> everything but the kitchen sink...
+
 #HSLIDE?image=assets/kitchensink.jpg
 
 <span style="color:black; font-size:1.3em">The Kitchen-Sink Slideshow</span>
