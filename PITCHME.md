@@ -85,7 +85,7 @@ To Share Code, Notes and Snippets
 <span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
 
-#HSLIDE
+#HSLIDE?image=assets/videoslides.jpg
 
 #####Video Slides
 
