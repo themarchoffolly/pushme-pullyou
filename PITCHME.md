@@ -11,7 +11,7 @@
 <br><br><br>
 <span style="color:black">A demonstration of <span style="font-family:Helvetica Neue; font-weight:bold"><span style="color:#e49436">Git</span>Pitch</span> capabilities</span>
 
-<span style="color:black">to deliver interactive, online slideshow.</span>
+<span style="color:black">to deliver compelling slideshows for your GitHub projects.</span>
 
 #HSLIDE?image=assets/markdown-mark.png
 
