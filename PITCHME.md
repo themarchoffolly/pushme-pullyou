@@ -80,9 +80,9 @@ To Share Code, Notes and Snippets
 
 #HSLIDE?image=assets/earthrise-1680-1225.jpg
 
-#####Image Slides
+<span style="color:white; font-size: 1.2em">Image Slides</span>
 <br>
-<span style="color:gray; font-size:0.7em; text-transform:uppercase">Add some visual oomph to your slideshow.</span>
+<span style="color:gray; font-size:0.7em; text-transform:uppercase">Add some <span style="color:#e49436">visual oomph</span> to your slideshow.</span>
 
 #VSLIDE
 
