@@ -20,20 +20,7 @@
 
 #VSLIDE
 
-#####Code Block Syntax Highlighting
-
-```javascript
-
-// JavaScript Snippet
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-#VSLIDE
-
-#####Dozens Of Languages Supported
+#####Code Syntax Highlighting
 
 ```scala
 
