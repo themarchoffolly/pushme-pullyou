@@ -13,7 +13,7 @@
 <span style="color:white; font-size:1.3em">Markdown Slides</span>
 <br><br><br><br><br>
 <br><br><br><br><br>
-<span style="color:gray; text-transform:uppercase">Use GitHub <span style="color:#e49436">Flavored</span> Markdown</span>
+<span style="color:gray; text-transform:uppercase; font-size:0.9">Use GitHub <span style="color:#e49436">Flavored</span> Markdown</span>
 
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
 
@@ -28,7 +28,7 @@ Make the most out of GitHub Flavored Markdown including headers, emphasis, table
 <span style="color:white; font-size:1.3em">Code Blocks & GIST Slides</span>
 <br><br><br><br><br>
 <br><br><br><br><br>
-<span style="color:gray; text-transform:uppercase">Let your <span style="color:#e49436">code</span> speak for you</span>
+<span style="color:gray; text-transform:uppercase; font-size:0.9em">Let your <span style="color:#e49436">code</span> speak for you</span>
 
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
 
@@ -65,7 +65,7 @@ To Share Code, Notes and Snippets
 <span style="color:white; font-size: 1.3em">Image Slides</span>
 <br><br><br><br><br>
 <br><br><br><br><br>
-<span style="color:gray; font-size:1em; text-transform:uppercase">Lend some<span style="color:#e49436"> visual</span> perspective</span>
+<span style="color:gray; font-size:0.9em; text-transform:uppercase">Lend some<span style="color:#e49436"> visual</span> perspective</span>
 
 <span style="font-size:0.6em; color:black">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
 
@@ -101,7 +101,7 @@ To Share Code, Notes and Snippets
 <span style="font-size:1.3em"><span style="color:white">Video</span><span style="color:white"> Slides</span></span>
 <br><br><br><br><br>
 <br><br><br><br><br>
-<span style="font-size:1.0em; color:#e49436">Embed <span style="color:white">YouTube + </span> MP4 <span style="color:white">+ Vimeo </span></span>
+<span style="font-size:0.9em; color:#e49436">Embed <span style="color:white">YouTube + </span> MP4 <span style="color:white">+ Vimeo </span></span>
 
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
 
