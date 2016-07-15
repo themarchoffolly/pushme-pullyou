@@ -60,7 +60,7 @@ To Share Code, Notes and Snippets
 #VSLIDE?gist=8da53731fd54bab9d5c6
 
 
-#HSLIDE?image=assets/earthrise-1680-1225.jpg
+#HSLIDE?image=assets/image-oomph.jpg
 
 <span style="color:white; font-size: 1.3em">Image Slides</span>
 <br><br><br><br><br>
