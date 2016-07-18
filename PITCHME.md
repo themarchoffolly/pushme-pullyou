@@ -1,7 +1,7 @@
 #HSLIDE
 <!-- .slide: data-autoslide="10000" -->
 
-![LOGO](http://res.cloudinary.com/gitpitch/image/upload/v1468815754/gp-logo.png)
+![LOGO](https://res.cloudinary.com/gitpitch/image/upload/v1468815754/gp-logo.png)
 
 ####Get the word out!
 <br>
@@ -25,7 +25,7 @@
 
 <span style="color: #e49436">STEP 1. PITCHME.md</span>
 
-![MARKDOWN](http://res.cloudinary.com/gitpitch/image/upload/v1468815764/hello-world/markdown.png)
+![MARKDOWN](https://res.cloudinary.com/gitpitch/image/upload/v1468815764/hello-world/markdown.png)
 
 Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
 
@@ -33,7 +33,7 @@ Create GitPitch slideshow content using GitHub flavored Markdown in your favorit
 
 <span style="color: #e49436">STEP 2. GIT-COMMIT</span>
 
-![TERMINAL](http://res.cloudinary.com/gitpitch/image/upload/v1468815772/hello-world/terminal.png)
+![TERMINAL](https://res.cloudinary.com/gitpitch/image/upload/v1468815772/hello-world/terminal.png)
 
 Git-commit on any repo branch and push your PITCHME.md to GitHub.
 
