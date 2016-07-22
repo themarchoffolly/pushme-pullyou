@@ -59,6 +59,8 @@ To Share Code, Notes and Snippets
 
 #VSLIDE?gist=8da53731fd54bab9d5c6
 
+#VSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
+
 
 #HSLIDE?image=assets/image-oomph.jpg
 
