@@ -1,8 +1,8 @@
-#HSLIDE?background=http://instagram.com/p/BG97lv0w_ga
+#HSLIDE?background=http://spark.apache.org/images/spark-logo-trademark.png
 
 #HSLIDE
 
-![Polar Bear](http://instagram.com/p/BG97lv0w_ga/)
+![Polar Bear](http://spark.apache.org/images/spark-logo-trademark.png)
 
 #HSLIDE?image=assets/kitchen-sink-bananas.jpg
 
