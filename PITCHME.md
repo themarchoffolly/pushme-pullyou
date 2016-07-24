@@ -1,4 +1,4 @@
-#HSLIDE?background=http://spark.apache.org/docs/latest/img/cluster-overview.png
+#HSLIDE?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
 
 #HSLIDE?image=assets/kitchen-sink-bananas.jpg
 
