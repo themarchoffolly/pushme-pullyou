@@ -1,9 +1,3 @@
-#HSLIDE?image=http://spark.apache.org/images/spark-logo-trademark.png 
-
-#HSLIDE
-
-![Polar Bear](http://spark.apache.org/images/spark-logo-trademark.png)
-
 #HSLIDE?image=assets/kitchen-sink-bananas.jpg
 
 <span style="color:white; font-size: 1.5em; font-weight: bold">The <span style="color:#e49436;font-family:Helvetica Neue; font-weight:bold">Git</span><span style="font-family:Helvetica Neue; font-weight:bold">Pitch</span> Kitchen Sink</span>
