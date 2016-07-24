@@ -1,3 +1,9 @@
+#HSLIDE?background=http://instagram.com/p/BG97lv0w_ga
+
+#HSLIDE
+
+![Polar Bear](http://instagram.com/p/BG97lv0w_ga/)
+
 #HSLIDE?image=assets/kitchen-sink-bananas.jpg
 
 <span style="color:white; font-size: 1.5em; font-weight: bold">The <span style="color:#e49436;font-family:Helvetica Neue; font-weight:bold">Git</span><span style="font-family:Helvetica Neue; font-weight:bold">Pitch</span> Kitchen Sink</span>
