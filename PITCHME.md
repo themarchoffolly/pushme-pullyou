@@ -1,8 +1,9 @@
-#HSLIDE?background=http://spark.apache.org/images/spark-logo-trademark.png
 
 #HSLIDE
 
 ![Polar Bear](http://spark.apache.org/images/spark-logo-trademark.png)
+
+#HSLIDE?background=http://spark.apache.org/images/spark-logo-trademark.png 
 
 #HSLIDE?image=assets/kitchen-sink-bananas.jpg
 
