@@ -1,10 +1,10 @@
 #HSLIDE
 
 - Java
-- JavaScript <!-- class="fragment" -->
-- Kotlin     <!-- class="fragment" -->
-- Go         <!-- class="fragment" -->
-- Scala      <!-- class="fragment" -->
+- JavaScript <!-- .element: class="fragment" -->
+- Kotlin     <!-- .element: class="fragment" -->
+- Go         <!-- .element: class="fragment" -->
+- Scala      <!-- .element: class="fragment" -->
 
 #HSLIDE
 
