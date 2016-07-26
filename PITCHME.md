@@ -1,5 +1,13 @@
 #HSLIDE
 
+- Java
+- JavaScript <!-- class="fragment" -->
+- Kotlin     <!-- class="fragment" -->
+- Go         <!-- class="fragment" -->
+- Scala      <!-- class="fragment" -->
+
+#HSLIDE
+
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
 #HSLIDE?image=assets/kitchen-sink-bananas.jpg
