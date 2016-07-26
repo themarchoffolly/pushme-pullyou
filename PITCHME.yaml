@@ -1,3 +1,3 @@
 highlight : github-gist
 rtl : true
-mathjax : default
+mathjax : TeX-MML-AM_CHTML-full
