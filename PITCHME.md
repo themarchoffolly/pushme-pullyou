@@ -1,7 +1,7 @@
 #HSLIDE
 
 ###The Kitchen Sink
-#####A <span style="color:#e49436;font-family:Helvetica Neue; font-weight:bold; text-transform: none">Git</span><span style="font-family:Helvetica Neue; font-weight:bold; text-transform: none">Pitch</span> Feature Tour
+#####<span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436; text-transform: none">Git</span><span style="text-transform: none">Pitch</span> Feature Tour</span>
 
 #HSLIDE
 
