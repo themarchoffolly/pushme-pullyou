@@ -78,7 +78,7 @@ Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentati
 
 #HSLIDE
 
-##Image Slides
+##[Inline] Image Slides
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
 #VSLIDE
@@ -87,7 +87,7 @@ Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentati
 
 <br>
 
-Use inline and background images to lend a *visual punch* to your presentations.
+Use inline images to lend a *visual punch* to your presentations.
 
 
 #VSLIDE
@@ -117,10 +117,20 @@ Use inline and background images to lend a *visual punch* to your presentations.
 <span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
 
+##[Background] Image Slides
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
+
+#VSLIDE
+
+#### Make A Visual Statement
+
+<br>
+
+Use background images for high-resolution, maximum impact.
+
 #VSLIDE?image=assets/victory.jpg
 
-<br><br><br><br><br><br><br><br><br><br><br>
-<span style="color:white">Use background images for maximum impact.</span> 
+#VSLIDE?image=assets/127.jpg
 
 
 #HSLIDE
