@@ -169,6 +169,18 @@ $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
 $$\begin{matrix} 1 & x & x^2 \\ 1 & y & y^2 \\ 1 & z & z^2 \\ \end{matrix}$$
 
+#VSLIDE
+
+$$
+\begin{array}{c|lcr}
+n & \text{Left} & \text{Center} & \text{Right} \\
+\hline
+1 & 0.24 & 1 & 125 \\
+2 & -1 & 189 & -8 \\
+3 & -20 & 2000 & 1+10i
+\end{array}
+$$
+
 #HSLIDE
 
 Slide Fragments
