@@ -134,8 +134,7 @@ Use inline and background images to lend a *visual punch* to your presentations.
 
 <br>
 
-Embed *YouTube*, *Vimeo* and any *MP4* video on any slide.
-
+Embed *YouTube*, *Vimeo* and any *MP4* video inline or as a slide background.
 
 #VSLIDE
 
@@ -143,12 +142,13 @@ Embed *YouTube*, *Vimeo* and any *MP4* video on any slide.
 
 #VSLIDE
 
-![Cartoon Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
-
-#VSLIDE
-
 ![Cartoon Video](https://player.vimeo.com/video/111525512)
 
+
+#VSLIDE?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+
+
+#HSLIDE
 
 ##Math Notation Slides
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
