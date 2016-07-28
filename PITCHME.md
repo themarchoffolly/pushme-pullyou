@@ -30,14 +30,9 @@ The same tool you use to create project **READMEs** and **Wikis** for your GitHu
 
 And enjoy code syntax highlighting powered by <a target="_blank" href="highlight.js](https://highlightjs.org">highlight.js</a>.
 
-#HSLIDE
-
-##GIST Slides
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
-
 #VSLIDE
 
-```
+```JavaScript
 // jQuery
 $('button').click(function(){
     $('h1, h2, p').addClass('blue')
