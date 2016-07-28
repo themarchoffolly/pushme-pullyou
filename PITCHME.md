@@ -92,7 +92,7 @@ Use inline and background images to lend a *visual punch* to your presentations.
 
 #VSLIDE
 
-<span style="color:gray; font-size:0.7em">Image at <b>Absolute URL</b></span>
+<span style="color:gray; font-size:0.7em">Inline Image at <b>Absolute URL</b></span>
 
 ![Image-Absolute](assets/octocat-privateinvestocat.jpg)
 
@@ -101,7 +101,7 @@ Use inline and background images to lend a *visual punch* to your presentations.
 
 #VSLIDE
 
-<span style="color:gray; font-size:0.7em">Image at GitHub Repo <b>Relative URL</b></span>
+<span style="color:gray; font-size:0.7em">Inline Image at GitHub Repo <b>Relative URL</b></span>
 
 ![Image-Absolute](assets/octocat-de-los-muertos.jpg)
 
