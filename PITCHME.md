@@ -139,6 +139,7 @@ Use high-resolution background images for maximum impact.
 #HSLIDE
 
 ##Video Slides
+##[ Inline ]
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
 #VSLIDE
@@ -147,7 +148,7 @@ Use high-resolution background images for maximum impact.
 
 <br>
 
-Embed *YouTube*, *Vimeo* and any *MP4* video inline or as a slide background.
+Embed *YouTube*, *Vimeo* and any *MP4* video inline on any slide.
 
 #VSLIDE
 
@@ -155,10 +156,30 @@ Embed *YouTube*, *Vimeo* and any *MP4* video inline or as a slide background.
 
 #VSLIDE
 
+![Vimeo Video](video=https://player.vimeo.com/video/111525512)
+
+#VSLIDE
+
 ![MP4 Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
 
-#VSLIDE?video=https://player.vimeo.com/video/111525512
 
+#HSLIDE
+
+##Video Slides
+##[ Background ]
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
+
+#VSLIDE
+
+#### Maximize The Viewer Experience
+
+<br>
+
+Go fullscreen with *YouTube*, *Vimeo* and any *MP4* videos.
+
+#VSLIDE?video=https://www.youtube.com/embed/mkiDkkdGGAQ
+
+#VSLIDE?video=https://player.vimeo.com/video/111525512
 
 #HSLIDE
 
