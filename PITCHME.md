@@ -79,7 +79,7 @@ Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentati
 #HSLIDE
 
 ##Image Slides
-##[Inline]
+##[ Inline ]
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
 #VSLIDE
@@ -120,7 +120,7 @@ Use inline images to lend a *visual punch* to your slideshow presentations.
 #HSLIDE
 
 ##Image Slides
-##[Background]
+##[ Background ]
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
 #VSLIDE
@@ -156,7 +156,7 @@ Embed *YouTube*, *Vimeo* and *MP4* inline on any slide.
 
 #VSLIDE
 
-![Vimeo Video](video=https://player.vimeo.com/video/111525512)
+![Vimeo Video](https://player.vimeo.com/video/111525512)
 
 #VSLIDE
 
