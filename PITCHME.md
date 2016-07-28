@@ -5,7 +5,7 @@
 
 #HSLIDE
 
-###Markdown Slides
+##Markdown Slides
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
 
 #VSLIDE
@@ -16,10 +16,6 @@
 <br>
 
 The same tool you use to create project **READMEs** and **Wikis** for your GitHub repos.
-
-#VSLIDE
-
-GitPitch presentation slides can display Markdown formatted text, headers, code, quotes, links, lists, tables, images, plus GISTs, videos, math notation and more...
 
 #HSLIDE
 
