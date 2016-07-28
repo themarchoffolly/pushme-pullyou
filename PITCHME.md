@@ -154,7 +154,12 @@ Embed *YouTube*, *Vimeo* and any *MP4* video inline or as a slide background.
 
 #VSLIDE
 
-Math Notation Slides...
+
+#### Beautiful Math Rendered Beautifully
+
+<br>
+
+Use *LaTeX*, *MathML* and other equation markup powered by <a target="_blank" href="https://www.mathjax.org/">MathJax</a>.
 
 #VSLIDE
 
