@@ -24,7 +24,11 @@ The same tool you use to create project **READMEs** and **Wikis** for your GitHu
 
 #VSLIDE
 
-Code...
+#### Use Markdown Code Blocks
+
+<br>
+
+And enjoy code syntax highlighting powered by <a target="_blank" href="highlight.js](https://highlightjs.org">highlight.js</a>.
 
 #HSLIDE
 
