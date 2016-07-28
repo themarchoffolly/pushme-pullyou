@@ -10,7 +10,11 @@
 
 #VSLIDE
 
-Make the most out of GitHub Flavored Markdown including headers, emphasis, tables, lists, links, blockquotes, and more.
+GitHub Flavored Markdown is the principal creation tool for slide content. This is the same tool you use as a GitHub developer to create project **READMEs** or **Wikis** for your GitHub repos.
+
+#VSLIDE
+
+GitPitch presentation slides can display Markdown formatted text, headers, code, quotes, links, lists, tables, images, plus GISTs, videos, math notation and more...
 
 #HSLIDE
 
