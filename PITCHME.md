@@ -78,7 +78,8 @@ Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentati
 
 #HSLIDE
 
-##[Inline] Image Slides
+##Image Slides
+##[Inline]
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
 #VSLIDE
@@ -117,7 +118,8 @@ Use inline images to lend a *visual punch* to your presentations.
 <span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
 
-##[Background] Image Slides
+##Image Slides
+##[Background]
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
 #VSLIDE
