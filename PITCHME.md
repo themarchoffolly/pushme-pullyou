@@ -13,6 +13,8 @@
 ##### Use GitHub Flavored Markdown
 ##### For Slide Content Creation
 
+<br>
+
 ########The same tool you use to create project **READMEs** or **Wikis** for your GitHub repos.
 
 #VSLIDE
