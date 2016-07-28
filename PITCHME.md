@@ -122,14 +122,20 @@ Use inline and background images to lend a *visual punch* to your presentations.
 <br><br><br><br><br><br><br><br><br><br><br>
 <span style="color:white">Use background images for maximum impact.</span> 
 
-#HSLIDE?image=assets/video-play.jpg
 
-<span style="font-size:1.3em"><span style="color:white">Video</span><span style="color:white"> Slides</span></span>
-<br><br><br><br><br>
-<br><br><br><br><br>
-<span style="font-size:0.9em; color:#e49436">Embed <span style="color:white">YouTube + </span> MP4 <span style="color:white">+ Vimeo </span></span>
+#HSLIDE
 
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
+##Video Slides
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
+
+#VSLIDE
+
+#### Bring Your Presentations Alive
+
+<br>
+
+Embed *YouTube*, *Vimeo* and any *MP4* video on any slide.
+
 
 #VSLIDE
 
@@ -144,9 +150,12 @@ Use inline and background images to lend a *visual punch* to your presentations.
 ![Cartoon Video](https://player.vimeo.com/video/111525512)
 
 
-#HSLIDE
+##Math Notation Slides
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
-Math Formula Slides
+#VSLIDE
+
+Math Notation Slides...
 
 #VSLIDE
 
