@@ -138,14 +138,13 @@ Embed *YouTube*, *Vimeo* and any *MP4* video inline or as a slide background.
 
 #VSLIDE
 
-![Cartoon Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
+![YouTube Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
 #VSLIDE
 
-![Cartoon Video](https://player.vimeo.com/video/111525512)
+![MP4 Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
 
-
-#VSLIDE?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+#VSLIDE?video=https://player.vimeo.com/video/111525512
 
 
 #HSLIDE
