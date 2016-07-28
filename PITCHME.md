@@ -6,7 +6,7 @@
 #HSLIDE
 
 ##Markdown Slides
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
 #VSLIDE
 
@@ -19,8 +19,8 @@ The same tool you use to create project **READMEs** and **Wikis** for your GitHu
 
 #HSLIDE
 
-###Code Slides
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
+##Code Slides
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
 #VSLIDE
 
@@ -28,8 +28,8 @@ Code...
 
 #HSLIDE
 
-###GIST Slides
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
+##GIST Slides
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
 #VSLIDE
 
