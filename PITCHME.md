@@ -184,7 +184,7 @@ $$\begin{array}{c|lcr} n & \text{Left} & \text{Center} & \text{Right} \\ \hline 
 
 <br>
 
-Sometimes less is more. Use slide fragments to control the reveal.
+Sometimes less is more. Use slide fragments to take control.
 
 #VSLIDE
 
