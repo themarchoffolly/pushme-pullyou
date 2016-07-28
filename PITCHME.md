@@ -37,11 +37,17 @@ And enjoy code syntax highlighting powered by <a target="_blank" href="highlight
 
 #VSLIDE
 
-Gist...
+```
+// jQuery
+$('button').click(function(){
+    $('h1, h2, p').addClass('blue')
+    $('div').removeClass('important')
+    $('h3').toggleClass('error')
+    $('#foo').attr('alt', 'Lorem Ipsum')
+});
+```
 
 #VSLIDE
-
-Code Block Syntax Highlighting
 
 ```scala
 // Build R function parameter values as Map.
@@ -54,6 +60,15 @@ OCPUTask task = OCPU.R()
                     .input(params.asJava)
                     .library()
 ```
+
+#HSLIDE
+
+##GIST Slides
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
+
+#VSLIDE
+
+Gist...
 
 
 #VSLIDE
