@@ -70,7 +70,7 @@ OCPUTask task = OCPU.R()
 
 <br>
 
-Enjoy all of the benefits of GitHub GIST, including 100% reusable code snippets, excellent syntax highlighting, code indentation and styling. 
+Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentation and styling. 
 
 #VSLIDE?gist=8da53731fd54bab9d5c6
 
