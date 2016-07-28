@@ -33,7 +33,8 @@ And enjoy code syntax highlighting powered by <a target="_blank" href="highlight
 #VSLIDE
 
 ```JavaScript
-// jQuery
+// JavaScript Code Block
+
 $('button').click(function(){
     $('h1, h2, p').addClass('blue')
     $('div').removeClass('important')
@@ -45,7 +46,8 @@ $('button').click(function(){
 #VSLIDE
 
 ```scala
-// Build R function parameter values as Map.
+// Scala Code Block
+
 HashMap params = HashMap(n -> 10, mean -> 5)
 
 // Define executable for R stats#rnorm function call.
