@@ -10,7 +10,9 @@
 
 #VSLIDE
 
-GitHub Flavored Markdown is the principal creation tool for slide content. This is the same tool you use as a GitHub developer to create project **READMEs** or **Wikis** for your GitHub repos.
+##### Use GitHub Flavored Markdown
+
+The same tool you use to create project **READMEs** or **Wikis** for your GitHub repos.
 
 #VSLIDE
 
