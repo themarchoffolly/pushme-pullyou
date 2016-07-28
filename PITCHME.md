@@ -175,7 +175,16 @@ $$\begin{array}{c|lcr} n & \text{Left} & \text{Center} & \text{Right} \\ \hline 
 
 #HSLIDE
 
-Slide Fragments
+##Slide Fragments
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
+
+#VSLIDE
+
+#### Reveal Slide Elements Step-By-Step
+
+<br>
+
+When less is more, use slide fragments to control the reveal.
 
 #VSLIDE
 
