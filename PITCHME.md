@@ -175,7 +175,7 @@ Embed *YouTube*, *Vimeo* and *MP4* inline on any slide.
 
 <br>
 
-Go fullscreen with *YouTube*, *Vimeo* and any *MP4* videos.
+Go fullscreen with *YouTube*, *Vimeo* and *MP4* videos.
 
 #VSLIDE?video=https://www.youtube.com/embed/mkiDkkdGGAQ
 
