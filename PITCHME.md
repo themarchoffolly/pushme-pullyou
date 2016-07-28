@@ -1,74 +1,34 @@
 #HSLIDE
 
-<table>
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr class="fragment">
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr class="fragment">
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table>
+###The Kitchen-Sink
+###A GitPitch Feature Tour
 
 #HSLIDE
 
-- Java
-- JavaScript <!-- .element: class="fragment" -->
-- Kotlin     <!-- .element: class="fragment" -->
-- Go         <!-- .element: class="fragment" -->
-- Scala      <!-- .element: class="fragment" -->
-
-#HSLIDE
-
-$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
-
-#HSLIDE?image=assets/kitchen-sink-bananas.jpg
-
-<span style="color:white; font-size: 1.5em; font-weight: bold">The <span style="color:#e49436;font-family:Helvetica Neue; font-weight:bold">Git</span><span style="font-family:Helvetica Neue; font-weight:bold">Pitch</span> Kitchen Sink</span>
-
-
-#VSLIDE
-
-<span style="color:black">This slideshow gives a demonstration of some of the many <span style="font-family:Helvetica Neue; font-weight:bold"><span style="color:#e49436">Git</span>Pitch</span> features you can use to promote, pitch or present your GitHub projects.</span>
-
-
-#HSLIDE?image=assets/markdown.jpg
-
-<span style="color:white; font-size:1.3em">Markdown Slides</span>
-<br><br><br><br><br>
-<br><br><br><br><br>
-<span style="color:gray; text-transform:uppercase; font-size:0.9">Use GitHub <span style="color:#e49436">Flavored</span> Markdown</span>
-
+###Markdown Slides
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
-
 
 #VSLIDE
 
 Make the most out of GitHub Flavored Markdown including headers, emphasis, tables, lists, links, blockquotes, and more.
 
+#HSLIDE
 
-#HSLIDE?image=assets/victory.jpg
-
-<span style="color:white; font-size:1.3em">Code Blocks & GIST Slides</span>
-<br><br><br><br><br>
-<br><br><br><br><br>
-<span style="color:gray; text-transform:uppercase; font-size:0.9em">Let your <span style="color:#e49436">code</span> speak for you</span>
-
+###Code Slides
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
 
+#VSLIDE
+
+Code...
+
+#HSLIDE
+
+###GIST Slides
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
+
+#VSLIDE
+
+Gist...
 
 #VSLIDE
 
@@ -162,11 +122,46 @@ To Share Code, Notes and Snippets
 Math Formula Slides
 
 #VSLIDE
-- LaTeX, etc
+
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
 #HSLIDE
 
 Slide Fragments
+
+#VSLIDE
+
+- Java
+- JavaScript <!-- .element: class="fragment" -->
+- Kotlin     <!-- .element: class="fragment" -->
+- Go         <!-- .element: class="fragment" -->
+- Scala      <!-- .element: class="fragment" -->
+
+#VSLIDE
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr class="fragment">
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr class="fragment">
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+
 
 #HSLIDE
 
