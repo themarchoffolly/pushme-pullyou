@@ -120,7 +120,7 @@ Use inline and background images to lend a *visual punch* to your presentations.
 #VSLIDE?image=assets/victory.jpg
 
 <span style="color:white">Background image for optimal viewing.</span> 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 <span style="color:white">Background image for optimal viewing.</span> 
 
 #HSLIDE?image=assets/video-play.jpg
