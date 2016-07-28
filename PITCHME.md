@@ -117,6 +117,11 @@ Use inline and background images to lend a *visual punch* to your presentations.
 <span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
 
+#VSLIDE?image=assets/victory.jpg
+
+xxx
+
+
 #HSLIDE?image=assets/video-play.jpg
 
 <span style="font-size:1.3em"><span style="color:white">Video</span><span style="color:white"> Slides</span></span>
