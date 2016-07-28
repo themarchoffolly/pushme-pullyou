@@ -148,7 +148,7 @@ Use high-resolution background images for maximum impact.
 
 <br>
 
-Embed *YouTube*, *Vimeo* and any *MP4* video inline on any slide.
+Embed *YouTube*, *Vimeo* and *MP4* inline on any slide.
 
 #VSLIDE
 
