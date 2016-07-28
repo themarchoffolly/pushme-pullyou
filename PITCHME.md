@@ -125,7 +125,7 @@ Use inline images to lend a *visual punch* to your slideshow presentations.
 
 #VSLIDE
 
-#### Make A Visual Statement
+#### Make A Bold Visual Statement
 
 <br>
 
