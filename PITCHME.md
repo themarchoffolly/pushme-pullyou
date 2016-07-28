@@ -65,7 +65,11 @@ OCPUTask task = OCPU.R()
 
 #VSLIDE
 
-Gist...
+#### Use GitHub GIST Building Blocks
+
+<br>
+
+Enjoy all of the benefits of GitHub GIST, including 100% reusable code snippets, excellent syntax highlighting, code indentation and styling. 
 
 
 #VSLIDE
