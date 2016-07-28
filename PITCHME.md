@@ -149,7 +149,7 @@ Use high-resolution background images for maximum impact.
 
 #VSLIDE
 
-#### Bring Your Presentations Alive
+#### Bring Your Presentations To Life
 
 <br>
 
