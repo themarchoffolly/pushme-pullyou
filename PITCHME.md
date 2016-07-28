@@ -71,27 +71,23 @@ OCPUTask task = OCPU.R()
 
 Enjoy all of the benefits of GitHub GIST, including 100% reusable code snippets, excellent syntax highlighting, code indentation and styling. 
 
-
-#VSLIDE
-
-Alternatively Directly Embed GISTs
-<br>
-To Share Code, Notes and Snippets
-
-
 #VSLIDE?gist=8da53731fd54bab9d5c6
 
 #VSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
+#HSLIDE
 
-#HSLIDE?image=assets/image-oomph.jpg
+##Image Slides
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
-<span style="color:white; font-size: 1.3em">Image Slides</span>
-<br><br><br><br><br>
-<br><br><br><br><br>
-<span style="color:gray; font-size:0.9em; text-transform:uppercase">Lend some<span style="color:#e49436"> visual</span> perspective</span>
+#VSLIDE
 
-<span style="font-size:0.6em; color:black">See <a href="#" target="_blank">GitPitch How-To</a> For Details</span>
+#### Use Image Blah Blah
+
+<br>
+
+Say something meaningful about images within presentations and then some.
+
 
 #VSLIDE
 
