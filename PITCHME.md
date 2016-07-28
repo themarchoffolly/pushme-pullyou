@@ -15,7 +15,7 @@
 
 <br>
 
-######The same tool you use to create project **READMEs** and **Wikis** for your GitHub repos.
+The same tool you use to create project **READMEs** and **Wikis** for your GitHub repos.
 
 #VSLIDE
 
