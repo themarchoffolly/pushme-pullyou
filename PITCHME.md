@@ -88,7 +88,7 @@ Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentati
 
 <br>
 
-Use inline images to lend a *visual punch* to your presentations.
+Use inline images to lend a *visual punch* to your slideshow presentations.
 
 
 #VSLIDE
@@ -117,6 +117,7 @@ Use inline images to lend a *visual punch* to your presentations.
 
 <span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
+#HSLIDE
 
 ##Image Slides
 ##[Background]
@@ -128,7 +129,7 @@ Use inline images to lend a *visual punch* to your presentations.
 
 <br>
 
-Use background images for high-resolution, maximum impact.
+Use high-resolution background images for maximum impact.
 
 #VSLIDE?image=assets/victory.jpg
 
