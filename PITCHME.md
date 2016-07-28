@@ -83,11 +83,11 @@ Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentati
 
 #VSLIDE
 
-#### Use Image Blah Blah
+#### Make A Visual Statement
 
 <br>
 
-Say something meaningful about images within presentations and then some.
+Use inline and background images to lend a *visual punch* to your presentations.
 
 
 #VSLIDE
