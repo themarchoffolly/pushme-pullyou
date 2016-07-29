@@ -223,8 +223,8 @@ $$\begin{array}{c|lcr} n & \text{Left} & \text{Center} & \text{Right} \\ \hline 
 
 <br>
 
-Step through slide content to slowly reveal
-the bigger picture.
+Step through slide content in sequence
+to slowly reveal the bigger picture.
 
 #VSLIDE
 
