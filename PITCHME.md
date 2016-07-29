@@ -312,4 +312,9 @@ Enable auto-slide with custom intervals, looping, and RTL.
 - Embed HTML Snippet
 - Share By E-Mail And Social Media
 
+#HSLIDE
+
+##The End ;)
+##<span style="color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
+
 
