@@ -110,7 +110,7 @@ Use inline images to lend a *visual punch* to your slideshow presentations.
 
 <span style="color:gray; font-size:0.7em">Inline Image at <b>Absolute URL</b></span>
 
-![Image-Absolute](assets/octocat-privateinvestocat.jpg)
+![Image-Absolute](https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/octocat-privateinvestocat.jpg)
 
 <span style="color:gray; font-size: 0.5em;">the <b>Private Investocat</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
@@ -128,7 +128,7 @@ Use inline images to lend a *visual punch* to your slideshow presentations.
 
 <span style="color:gray; font-size:0.7em"><b>Animated GIFs</b> Work Too!</span>
 
-![Image-Relative](assets/octocat-daftpunkocat.gif)
+![Image-Relative](https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/octocat-daftpunkocat.gif)
 
 <span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
@@ -147,9 +147,9 @@ Use inline images to lend a *visual punch* to your slideshow presentations.
 
 Use high-resolution background images for maximum impact.
 
-#VSLIDE?image=assets/victory.jpg
+#VSLIDE?image=https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/victory.jpg
 
-#VSLIDE?image=assets/127.jpg
+#VSLIDE?image=https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/127.jpg
 
 
 #HSLIDE
