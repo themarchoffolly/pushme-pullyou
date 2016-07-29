@@ -1,3 +1,2 @@
 highlight : github-gist
-mathjax : default
-# mathjax : TeX-MML-AM_HTMLorMML-full
+mathjax : TeX-MML-AM_CHTML
