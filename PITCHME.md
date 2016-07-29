@@ -215,19 +215,7 @@ Use *LaTeX* and *MathML* markup powered by <a target="_blank" href="https://www.
 
 #VSLIDE
 
-When `\(a \ne 0\)`,
-
-there are two solutions to `\(ax^2 + bx + c = 0\)` and they are
-
-`$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$`
-
-#VSLIDE
-
 `$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`
-
-#VSLIDE
-
-`$$\begin{matrix} 1 & x & x^2 \\ 1 & y & y^2 \\ 1 & z & z^2 \\ \end{matrix}$$`
 
 #VSLIDE
 
@@ -281,16 +269,6 @@ there are two solutions to `\(ax^2 + bx + c = 0\)` and they are
 
 #VSLIDE
 
-#####A Rogers-Ramanujan Identity
-
-`\[
-  1 +  \frac{q^2}{(1-q)}+\frac{q^6}{(1-q)(1-q^2)}+\cdots =
-    \prod_{j=0}^{\infty}\frac{1}{(1-q^{5j+2})(1-q^{5j+3})},
-     \quad\quad \text{for $|q|<1$}.
-\]`
-
-#VSLIDE
-
 #####Maxwell's Equations
 
 `\begin{align}
@@ -305,8 +283,7 @@ there are two solutions to `\(ax^2 + bx + c = 0\)` and they are
 #####In-line Mathematics
 
 This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.  As
-you see, MathJax equations can be used this way as well, without unduly
-disturbing the spacing between lines.</p>
+you see, MathJax equations can be used without unduly disturbing the spacing between lines.
 
 #HSLIDE
 
