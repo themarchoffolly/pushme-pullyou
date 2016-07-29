@@ -223,18 +223,6 @@ there are two solutions to `\(ax^2 + bx + c = 0\)` and they are
 
 #VSLIDE
 
-Expand the following:
-`\begin{align}
-  (x+1)^2
-    = (x+1)(x+1)}\\
-    = x(x+1) + 1(x+1)}\\
-    = (x^2+x) + (x+1)}\\
-    = x^2 + (x + x) + 1}\\
-    = x^2+2x+1}\\
-\end{align}`
-
-#VSLIDE
-
 `$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`
 
 #VSLIDE
@@ -247,45 +235,43 @@ Expand the following:
 
 #VSLIDE
 
-<p>
 `\begin{align}
 \dot{x} & = \sigma(y-x) \\
 \dot{y} & = \rho x - y - xz \\
 \dot{z} & = -\beta z + xy
 \end{align}`
-</p>
 
 #VSLIDE
 
-<h2>The Cauchy-Schwarz Inequality</h2>
+#####The Cauchy-Schwarz Inequality
 
-<p>`\[
+`\[
 \left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
  \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-\]`</p>
+\]`
 
 #VSLIDE
 
-<h2>A Cross Product Formula</h2>
+#####A Cross Product Formula
 
-<p>`\[
+`\[
   \mathbf{V}_1 \times \mathbf{V}_2 =
    \begin{vmatrix}
     \mathbf{i} & \mathbf{j} & \mathbf{k} \\
     \frac{\partial X}{\partial u} & \frac{\partial Y}{\partial u} & 0 \\
     \frac{\partial X}{\partial v} & \frac{\partial Y}{\partial v} & 0 \\
    \end{vmatrix}
-\]`</p>
+\]`
 
 #VSLIDE
 
-<h2>The probability of getting \(k\) heads when flipping \(n\) coins is:</h2>
+#####The probability of getting \(k\) heads when flipping \(n\) coins is:
 
 `\[P(E) = {n \choose k} p^k (1-p)^{ n-k} \]`
 
 #VSLIDE
 
-<h2>An Identity of Ramanujan</h2>
+#####An Identity of Ramanujan
 
 `\[
    \frac{1}{(\sqrt{\phi \sqrt{5}}-\phi) e^{\frac25 \pi}} =
@@ -295,7 +281,7 @@ Expand the following:
 
 #VSLIDE
 
-<h2>A Rogers-Ramanujan Identity</h2>
+#####A Rogers-Ramanujan Identity
 
 `\[
   1 +  \frac{q^2}{(1-q)}+\frac{q^6}{(1-q)(1-q^2)}+\cdots =
@@ -305,7 +291,7 @@ Expand the following:
 
 #VSLIDE
 
-<h2>Maxwell's Equations</h2>
+#####Maxwell's Equations
 
 `\begin{align}
   \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \\
@@ -313,15 +299,12 @@ Expand the following:
   \nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
   \nabla \cdot \vec{\mathbf{B}} & = 0
 \end{align}`
-</p>
 
 #VSLIDE
 
-<h2>In-line Mathematics</h2>
+#####In-line Mathematics
 
-<p>Finally, while display equations look good for a page of samples, the
-ability to mix math and text in a paragraph is also important.  This
-expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.  As
+This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.  As
 you see, MathJax equations can be used this way as well, without unduly
 disturbing the spacing between lines.</p>
 
