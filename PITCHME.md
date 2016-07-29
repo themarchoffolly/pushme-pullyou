@@ -289,18 +289,7 @@ Enable auto-slide with custom intervals, looping, and RTL.
 
 <br>
 
-- Fullscreen Mode: Press **F** 
-- Overview Mode : Press **O**
-- Blackout Mode : Press **O**
-- Help Mode : Press **?**
-
-#VSLIDE
-
-####Activate Features Using Your Keyboard
-
-<br>
-
-| Mode | Activate | Deactivate |
+| Mode | On Key | Off Key |
 | ---- | -------- | ---------- |
 | Fullscreen | F |  Esc |
 | Overview | O |  O |
