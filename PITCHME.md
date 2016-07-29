@@ -75,7 +75,7 @@ OCPUTask task = OCPU.R()
 #VSLIDE
 
 ####GitHub GIST
-####Building Blocks For Your Presentation
+####Building Blocks For Any Presentation
 
 <br>
 
