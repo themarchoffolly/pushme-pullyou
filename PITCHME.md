@@ -205,7 +205,7 @@ Go fullscreen with *MP4* and *WebM* videos.
 
 <br>
 
-Use *LaTeX* and *MathML* markup powered by <a target="_blank" href="https://www.mathjax.org/">MathJax</a>.
+Use *TeX*, *LaTeX* and *MathML* markup powered by <a target="_blank" href="https://www.mathjax.org/">MathJax</a>.
 
 #VSLIDE
 
