@@ -15,8 +15,8 @@ For best viewing experience press **F** key to go fullscreen.
 
 #VSLIDE
 
-#### Use GitHub Flavored Markdown
-#### For Slide Content Creation
+####Use GitHub Flavored Markdown
+####For Slide Content Creation
 
 <br>
 
@@ -29,7 +29,7 @@ The same tool you use to create project **READMEs** and **Wikis** for your GitHu
 
 #VSLIDE
 
-#### Use Markdown Code Blocks
+####Use Markdown Code Blocks
 
 <br>
 
@@ -70,8 +70,8 @@ OCPUTask task = OCPU.R()
 
 #VSLIDE
 
-#### GitHub GIST
-#### Building Blocks For Your Presentation
+####GitHub GIST
+####Building Blocks For Your Presentation
 
 <br>
 
@@ -89,7 +89,7 @@ Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentati
 
 #VSLIDE
 
-#### Make A Visual Statement
+####Make A Visual Statement
 
 <br>
 
@@ -130,7 +130,7 @@ Use inline images to lend a *visual punch* to your slideshow presentations.
 
 #VSLIDE
 
-#### Make A Bold Visual Statement
+####Make A Bold Visual Statement
 
 <br>
 
@@ -149,7 +149,7 @@ Use high-resolution background images for maximum impact.
 
 #VSLIDE
 
-#### Bring Your Presentations Alive
+####Bring Your Presentations Alive
 
 <br>
 
@@ -176,7 +176,7 @@ Embed *YouTube*, *Vimeo* and *MP4* inline on any slide.
 
 #VSLIDE
 
-#### Maximize The Viewer Experience
+####Maximize The Viewer Experience
 
 <br>
 
@@ -194,7 +194,7 @@ Go fullscreen with *YouTube*, *Vimeo* and *MP4* videos.
 #VSLIDE
 
 
-#### Beautiful Math Rendered Beautifully
+####Beautiful Math Rendered Beautifully
 
 <br>
 
@@ -219,7 +219,7 @@ $$\begin{array}{c|lcr} n & \text{Left} & \text{Center} & \text{Right} \\ \hline 
 
 #VSLIDE
 
-#### Reveal Slide Elements Step-By-Step
+####Reveal Slide Elements Step-By-Step
 
 <br>
 
@@ -264,7 +264,7 @@ Sometimes less is more. Use slide fragments to take control.
 
 #VSLIDE
 
-#### Stamp Your Own Look and Feel
+####Stamp Your Own Look and Feel
 
 <br>
 
@@ -272,34 +272,24 @@ Set a default theme, custom logo, background image, and preferred code syntax hi
 
 #VSLIDE
 
-#### Customize Slideshow Behavior
+####Customize Slideshow Behavior
 
 <br>
 
 Enable auto-slide with custom intervals, looping, and RTL.
 
 
-#VSLIDE
-
-Slideshow PITCHME.yaml Customizations
-
--background
--loop
--mathjax
--autoslide
--etc
-
-
 #HSLIDE
+##Slideshow Keyboard Controls
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
-Slideshow Controls
+#VSLIDE
 
-#VSLIDE
-- Full Screen
-#VSLIDE
-- Overview
-#VSLIDE
-- Pause
+####Stamp Your Own Look and Feel
+
+<br>
+
+Set a default theme, custom logo, background image, and preferred code syntax highlighting style.
 
 #HSLIDE
 
