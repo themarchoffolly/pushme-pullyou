@@ -253,16 +253,6 @@ Use *LaTeX* and *MathML* markup powered by <a target="_blank" href="https://www.
 
 #VSLIDE
 
-#####An Identity of Ramanujan
-
-`\[
-   \frac{1}{(\sqrt{\phi \sqrt{5}}-\phi) e^{\frac25 \pi}} =
-     1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}}
-      {1+\frac{e^{-8\pi}} {1+\ldots} } } }
-\]`
-
-#VSLIDE
-
 #####Maxwell's Equations
 
 `\begin{align}
