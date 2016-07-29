@@ -309,6 +309,11 @@ Enable auto-slide with custom intervals, looping, and RTL.
 | Help | ? |  Esc |
 
 #HSLIDE
+##Slideshow Theme Switcher
+<span style="font-size:0.6em; color:gray">Try it out right now!</span> |
+<span style="font-size:0.6em; color:gray">Available bottom-left of screen.</span>
+
+#HSLIDE
 
 ##Slideshow Extras
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
