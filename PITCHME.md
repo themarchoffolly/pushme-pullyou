@@ -211,14 +211,19 @@ Use *LaTeX* and *MathML* markup powered by <a target="_blank" href="https://www.
 
 #VSLIDE
 
+When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+
+#VSLIDE
+
 Expand the following:
 \begin{align}
   (x+1)^2
-    &\cssId{Step1}{= (x+1)(x+1)}\\
-    &\cssId{Step2}{= x(x+1) + 1(x+1)}\\
-    &\cssId{Step3}{= (x^2+x) + (x+1)}\\
-    &\cssId{Step4}{= x^2 + (x + x) + 1}\\
-    &\cssId{Step5}{= x^2+2x+1}\\
+    = (x+1)(x+1)}\\
+    = x(x+1) + 1(x+1)}\\
+    = (x^2+x) + (x+1)}\\
+    = x^2 + (x + x) + 1}\\
+    = x^2+2x+1}\\
 \end{align}
 
 #VSLIDE
