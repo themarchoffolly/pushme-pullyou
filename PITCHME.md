@@ -211,6 +211,18 @@ Use *LaTeX* and *MathML* markup powered by <a target="_blank" href="https://www.
 
 #VSLIDE
 
+Expand the following:
+\begin{align}
+  (x+1)^2
+    &\cssId{Step1}{= (x+1)(x+1)}\\
+    &\cssId{Step2}{= x(x+1) + 1(x+1)}\\
+    &\cssId{Step3}{= (x^2+x) + (x+1)}\\
+    &\cssId{Step4}{= x^2 + (x + x) + 1}\\
+    &\cssId{Step5}{= x^2+2x+1}\\
+\end{align}
+
+#VSLIDE
+
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
 #VSLIDE
