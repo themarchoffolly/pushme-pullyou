@@ -298,31 +298,18 @@ Enable auto-slide with custom intervals, looping, and RTL.
 
 #HSLIDE
 
-Slideshow Theme Switching
+##Slideshow Extras
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
-#HSLIDE
+#VSLIDE
 
-Slideshow Printing
+####Available For Every Slideshow
 
-#HSLIDE
+<br>
 
-Slideshow Embedding
+- Print To PDF Document
+- GitHub Badge Markdown Snippet 
+- Embed HTML Snippet
+- Share By E-Mail And Social Media
 
-#HSLIDE
-
-Slideshow Sharing
-
-#HSLIDE
-
-####Slideshow Features Quick Look
-
-- GitHub Flavored Markdown <!-- .element: class="fragment" data-fragment-index="1" -->
-- Code Blocks & GISTs <!-- .element: class="fragment" data-fragment-index="2" -->
-- Math Formulas <!-- .element: class="fragment" data-fragment-index="3" -->
-- Slide Fragments <!-- .element: class="fragment" data-fragment-index="4" -->
-- Image Support <!-- .element: class="fragment" data-fragment-index="5" -->
-- Video Support <!-- .element: class="fragment" data-fragment-index="6" -->
-- Custom Backgrounds <!-- .element: class="fragment" data-fragment-index="7" -->
-- YAML Customizations <!-- .element: class="fragment" data-fragment-index="8" -->
-- And a whole lot more... <!-- .element: class="fragment" data-fragment-index="9" -->.
 
