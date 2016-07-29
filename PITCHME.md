@@ -366,10 +366,6 @@ Enable auto-slide with custom intervals, looping, and RTL.
 | Blackout | B |  B |
 | Help | ? |  Esc |
 
-#HSLIDE
-##Slideshow Theme Switcher
-<span style="font-size:0.6em; color:gray">Available bottom-left of screen.</span> |
-<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
 
 #HSLIDE
 
@@ -387,6 +383,11 @@ Enable auto-slide with custom intervals, looping, and RTL.
 - GitHub Badge Markdown Snippet 
 - Embed HTML Snippet
 - Share By E-Mail And Social Media
+
+#HSLIDE
+##Slideshow Theme Switcher
+<span style="font-size:0.6em; color:gray">Available bottom-left of screen.</span> |
+<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
 
 #HSLIDE
 
