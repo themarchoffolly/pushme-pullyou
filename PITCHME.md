@@ -219,11 +219,11 @@ $$\begin{array}{c|lcr} n & \text{Left} & \text{Center} & \text{Right} \\ \hline 
 
 #VSLIDE
 
-####Reveal Slide Elements Step-By-Step
+####Reveal Slide Elements Step-by-Step
 
 <br>
 
-Sometimes less is more. Use slide fragments to take control.
+Display slide fragments to slowly reveal the bigger picture.
 
 #VSLIDE
 
