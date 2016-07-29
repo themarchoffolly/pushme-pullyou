@@ -13,6 +13,8 @@ For best viewing experience press **F** key to go fullscreen.
 ##Markdown Slides
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
+![DOWN](assets/down-arrow.png)
+
 #VSLIDE
 
 ####Use GitHub Flavored Markdown
@@ -26,6 +28,8 @@ The same tool you use to create project **READMEs** and **Wikis** for your GitHu
 
 ##Code Slides
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
+
+![DOWN](assets/down-arrow.png)
 
 #VSLIDE
 
@@ -68,6 +72,8 @@ OCPUTask task = OCPU.R()
 ##GIST Slides
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
+![DOWN](assets/down-arrow.png)
+
 #VSLIDE
 
 ####GitHub GIST
@@ -86,6 +92,8 @@ Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentati
 ##Image Slides
 ##[ Inline ]
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
+
+![DOWN](assets/down-arrow.png)
 
 #VSLIDE
 
@@ -128,6 +136,8 @@ Use inline images to lend a *visual punch* to your slideshow presentations.
 ##[ Background ]
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
+![DOWN](assets/down-arrow.png)
+
 #VSLIDE
 
 ####Make A Bold Visual Statement
@@ -146,6 +156,8 @@ Use high-resolution background images for maximum impact.
 ##Video Slides
 ##[ Inline ]
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
+
+![DOWN](assets/down-arrow.png)
 
 #VSLIDE
 
@@ -174,6 +186,8 @@ Embed *YouTube*, *Vimeo* and *MP4* inline on any slide.
 ##[ Background ]
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
+![DOWN](assets/down-arrow.png)
+
 #VSLIDE
 
 ####Maximize The Viewer Experience
@@ -190,6 +204,8 @@ Go fullscreen with *YouTube*, *Vimeo* and *MP4* videos.
 
 ##Math Notation Slides
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
+
+![DOWN](assets/down-arrow.png)
 
 #VSLIDE
 
@@ -216,6 +232,8 @@ $$\begin{array}{c|lcr} n & \text{Left} & \text{Center} & \text{Right} \\ \hline 
 
 ##Slide Fragments
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
+
+![DOWN](assets/down-arrow.png)
 
 #VSLIDE
 
@@ -262,6 +280,8 @@ Step through slide content in sequence to slowly reveal the bigger picture.
 ##PITCHME.yaml Settings
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
+![DOWN](assets/down-arrow.png)
+
 #VSLIDE
 
 ####Stamp Your Own Look and Feel
@@ -283,6 +303,8 @@ Enable auto-slide with custom intervals, looping, and RTL.
 ##Slideshow Keyboard Controls
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
+![DOWN](assets/down-arrow.png)
+
 #VSLIDE
 
 ####Activate Features Using Your Keyboard
@@ -300,6 +322,8 @@ Enable auto-slide with custom intervals, looping, and RTL.
 
 ##Slideshow Extras
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
+
+![DOWN](assets/down-arrow.png)
 
 #VSLIDE
 
