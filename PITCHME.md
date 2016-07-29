@@ -219,11 +219,11 @@ $$\begin{array}{c|lcr} n & \text{Left} & \text{Center} & \text{Right} \\ \hline 
 
 #VSLIDE
 
-####Reveal Slide Concepts Step-by-Step
+####Reveal Slide Concepts Piecemeal
 
 <br>
 
-Display slide fragments to slowly reveal the bigger picture.
+Step through slide fragments to slowly reveal the bigger picture.
 
 #VSLIDE
 
