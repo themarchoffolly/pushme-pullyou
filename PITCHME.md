@@ -264,11 +264,20 @@ Sometimes less is more. Use slide fragments to take control.
 
 #VSLIDE
 
-#### Customize Your Slideshow Look and Feel
+#### Stamp Your Own Look and Feel
 
 <br>
 
-xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+Set default theme, custom logo, background, and highlighting style.
+
+#VSLIDE
+
+#### Customize Slideshow Behavior
+
+<br>
+
+Enable auto-slide with custom intervals, looping, and RTL.
+
 
 #VSLIDE
 
