@@ -297,7 +297,7 @@ Enable auto-slide with custom intervals, looping, and RTL.
 
 #VSLIDE
 
-####Activate Features Using Your Keyboard
+####Try Out These Great Features Now!
 
 <br>
 
