@@ -314,7 +314,7 @@ Enable auto-slide with custom intervals, looping, and RTL.
 
 #HSLIDE
 
-##The End ;)
-##<span style="color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
+##GO FOR IT.
+##JUST ADD <span style="color:#e49436; text-transform: none">PITCHME.md</span> ;)
 
 
