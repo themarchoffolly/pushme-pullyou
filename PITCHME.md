@@ -211,10 +211,6 @@ Use *LaTeX* and *MathML* markup powered by <a target="_blank" href="https://www.
 
 #VSLIDE
 
-`$\sum_{m} \sum_{d}$`
-
-#VSLIDE
-
 `$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`
 
 #VSLIDE
