@@ -11,8 +11,7 @@ For best viewing experience press **F** key to go fullscreen.
 #HSLIDE
 
 ##Markdown Slides
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
-<span style="font-size:0.6em; color:gray">See slides below for examples.</span>
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span> | <span style="font-size:0.6em; color:gray">See slides below for examples.</span>
 
 
 #VSLIDE
@@ -27,7 +26,7 @@ The same tool you use to create project **READMEs** and **Wikis** for your GitHu
 #HSLIDE
 
 ##Code Slides
-<span style="font-size:0.6em; color:gray">See slides below for examples.</span>
+<span style="font-size:0.6em; color:gray">See slides below for examples.</span> | 
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
 #VSLIDE
@@ -69,6 +68,8 @@ OCPUTask task = OCPU.R()
 #HSLIDE
 
 ##GIST Slides
+<span style="font-size:0.6em; color:gray">See slides below for examples.</span>
+
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
 ![DOWN](assets/down-arrow.png)
