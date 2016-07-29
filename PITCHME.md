@@ -311,7 +311,7 @@ Step through slide content in sequence to slowly reveal the bigger picture.
 </table>
 
 #HSLIDE
-##PITCHME.yaml Settings
+##<span style="text-transform: none">PITCHME.yaml</span> Settings
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
 <span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> for details.</span>
 
