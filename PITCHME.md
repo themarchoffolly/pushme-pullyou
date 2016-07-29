@@ -258,23 +258,19 @@ Sometimes less is more. Use slide fragments to take control.
   </tr>
 </table>
 
-
 #HSLIDE
-
-Slide Custom Backgrounds
-
-#VSLIDE?image=assets/127.jpg
-
-#VSLIDE?image=assets/wally-presentation.jpg
+##PITCHME.yaml Settings
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
 
 #VSLIDE
-- Video-YouTube
-#VSLIDE
-- Video-Vimeo
-#VSLIDE
-- Video-MP$
 
-#HSLIDE
+#### Customize Your Slideshow Look and Feel
+
+<br>
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+
+#VSLIDE
 
 Slideshow PITCHME.yaml Customizations
 
