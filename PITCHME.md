@@ -70,7 +70,7 @@ OCPUTask task = OCPU.R()
 ##GIST Slides
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span>
 
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> For Details</span>
+<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> for details.</span>
 
 ![DOWN](assets/down-arrow.png)
 
