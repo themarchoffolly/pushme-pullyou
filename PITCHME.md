@@ -211,102 +211,101 @@ Use *LaTeX* and *MathML* markup powered by <a target="_blank" href="https://www.
 
 #VSLIDE
 
-When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+When `\(a \ne 0\)`, there are two solutions to `\(ax^2 + bx + c = 0\)` and they are
+`$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$`
 
 #VSLIDE
 
 Expand the following:
-\begin{align}
+`\begin{align}
   (x+1)^2
     = (x+1)(x+1)}\\
     = x(x+1) + 1(x+1)}\\
     = (x^2+x) + (x+1)}\\
     = x^2 + (x + x) + 1}\\
     = x^2+2x+1}\\
-\end{align}
+\end{align}`
 
 #VSLIDE
 
-$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+`$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`
 
 #VSLIDE
 
-$$\begin{matrix} 1 & x & x^2 \\ 1 & y & y^2 \\ 1 & z & z^2 \\ \end{matrix}$$
+`$$\begin{matrix} 1 & x & x^2 \\ 1 & y & y^2 \\ 1 & z & z^2 \\ \end{matrix}$$`
 
 #VSLIDE
 
-$$\begin{array}{c|lcr} n & \text{Left} & \text{Center} & \text{Right} \\ \hline 1 & 0.24 & 1 & 125 \\ 2 & -1 & 189 & -8 \\ 3 & -20 & 2000 & 1+10i \end{array}$$
+`$$\begin{array}{c|lcr} n & \text{Left} & \text{Center} & \text{Right} \\ \hline 1 & 0.24 & 1 & 125 \\ 2 & -1 & 189 & -8 \\ 3 & -20 & 2000 & 1+10i \end{array}$$`
 
 #VSLIDE
 
 <p>
-\begin{align}
+`\begin{align}
 \dot{x} & = \sigma(y-x) \\
 \dot{y} & = \rho x - y - xz \\
 \dot{z} & = -\beta z + xy
-\end{align}
+\end{align}`
 </p>
 
 #VSLIDE
 
 <h2>The Cauchy-Schwarz Inequality</h2>
 
-<p>\[
+<p>`\[
 \left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
  \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-\]</p>
+\]`</p>
 
 #VSLIDE
 
 <h2>A Cross Product Formula</h2>
 
-<p>\[
+<p>`\[
   \mathbf{V}_1 \times \mathbf{V}_2 =
    \begin{vmatrix}
     \mathbf{i} & \mathbf{j} & \mathbf{k} \\
     \frac{\partial X}{\partial u} & \frac{\partial Y}{\partial u} & 0 \\
     \frac{\partial X}{\partial v} & \frac{\partial Y}{\partial v} & 0 \\
    \end{vmatrix}
-\]</p>
+\]`</p>
 
 #VSLIDE
 
 <h2>The probability of getting \(k\) heads when flipping \(n\) coins is:</h2>
 
-<p>\[P(E) = {n \choose k} p^k (1-p)^{ n-k} \]</p>
+`\[P(E) = {n \choose k} p^k (1-p)^{ n-k} \]`
 
 #VSLIDE
 
 <h2>An Identity of Ramanujan</h2>
 
-<p>\[
+`\[
    \frac{1}{(\sqrt{\phi \sqrt{5}}-\phi) e^{\frac25 \pi}} =
      1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}}
       {1+\frac{e^{-8\pi}} {1+\ldots} } } }
-\]</p>
+\]`
 
 #VSLIDE
 
 <h2>A Rogers-Ramanujan Identity</h2>
 
-<p>\[
+`\[
   1 +  \frac{q^2}{(1-q)}+\frac{q^6}{(1-q)(1-q^2)}+\cdots =
     \prod_{j=0}^{\infty}\frac{1}{(1-q^{5j+2})(1-q^{5j+3})},
      \quad\quad \text{for $|q|<1$}.
-\]</p>
+\]`
 
 #VSLIDE
 
 <h2>Maxwell's Equations</h2>
 
-<p>
-\begin{align}
+`\begin{align}
   \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \\
   \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
   \nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
   \nabla \cdot \vec{\mathbf{B}} & = 0
-\end{align}
+\end{align}`
 </p>
 
 #VSLIDE
@@ -315,7 +314,7 @@ $$\begin{array}{c|lcr} n & \text{Left} & \text{Center} & \text{Right} \\ \hline 
 
 <p>Finally, while display equations look good for a page of samples, the
 ability to mix math and text in a paragraph is also important.  This
-expression \(\sqrt{3x-1}+(1+x)^2\) is an example of an inline equation.  As
+expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.  As
 you see, MathJax equations can be used this way as well, without unduly
 disturbing the spacing between lines.</p>
 
