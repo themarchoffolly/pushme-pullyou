@@ -219,7 +219,7 @@ $$\begin{array}{c|lcr} n & \text{Left} & \text{Center} & \text{Right} \\ \hline 
 
 #VSLIDE
 
-####Reveal Slide Elements Step-by-Step
+####Reveal Slide Concepts Step-by-Step
 
 <br>
 
