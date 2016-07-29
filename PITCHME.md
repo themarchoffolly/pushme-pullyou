@@ -238,10 +238,10 @@ Step through slide content in sequence to slowly reveal the bigger picture.
 #VSLIDE
 
 - Java
-- JavaScript <!-- .element: class="fragment" -->
+- Groovy     <!-- .element: class="fragment" -->
+- Scala     <!-- .element: class="fragment" -->
 - Kotlin     <!-- .element: class="fragment" -->
-- Go         <!-- .element: class="fragment" -->
-- Scala      <!-- .element: class="fragment" -->
+- The JVM rocks! <!-- .element: class="fragment" -->
 
 #VSLIDE
 
