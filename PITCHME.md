@@ -188,11 +188,9 @@ Embed *YouTube*, *Vimeo* and *MP4* inline on any slide.
 
 <br>
 
-Go fullscreen with *YouTube*, *Vimeo* and *MP4* videos.
+Go fullscreen with *MP4* and *WebM* videos.
 
-#VSLIDE?video=https://www.youtube.com/embed/mkiDkkdGGAQ
-
-#VSLIDE?video=https://player.vimeo.com/video/111525512
+#VSLIDE?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
 
 #HSLIDE
 
