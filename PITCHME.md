@@ -285,11 +285,27 @@ Enable auto-slide with custom intervals, looping, and RTL.
 
 #VSLIDE
 
-####Stamp Your Own Look and Feel
+####Activate Features Using Your Keyboard
 
 <br>
 
-Set a default theme, custom logo, background image, and preferred code syntax highlighting style.
+- Fullscreen Mode: Press **F** 
+- Overview Mode : Press **O**
+- Blackout Mode : Press **O**
+- Help Mode : Press **?**
+
+#VSLIDE
+
+####Activate Features Using Your Keyboard
+
+<br>
+
+| Mode | Activate | Deactivate |
+| ---- | -------- | ---------- |
+| Fullscreen | F |  Esc |
+| Overview | O |  O |
+| Blackout | B |  B |
+| Help | ? |  Esc |
 
 #HSLIDE
 
