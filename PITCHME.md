@@ -17,7 +17,7 @@ For best viewing experience press **F** key to go fullscreen.
 
 ##Markdown Slides
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown" target="_blank">GitPitch Wiki</a> for details.</span>
 
 
 #VSLIDE
@@ -33,7 +33,7 @@ The same tool you use to create project **READMEs** and **Wikis** for your GitHu
 
 ##Code Slides
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Code-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
 
 #VSLIDE
 
@@ -75,7 +75,7 @@ OCPUTask task = OCPU.R()
 
 ##GIST Slides
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/GIST-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
 
 #VSLIDE
 
@@ -95,7 +95,7 @@ Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentati
 ##Image Slides
 ##[ Inline ]
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Image-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
 
 #VSLIDE
 
@@ -137,7 +137,7 @@ Use inline images to lend a *visual punch* to your slideshow presentations.
 ##Image Slides
 ##[ Background ]
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background" target="_blank">GitPitch Wiki</a> for details.</span>
 
 #VSLIDE
 
@@ -157,7 +157,7 @@ Use high-resolution background images for maximum impact.
 ##Video Slides
 ##[ Inline ]
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Video-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
 
 #VSLIDE
 
@@ -185,7 +185,7 @@ Embed *YouTube*, *Vimeo*, *MP4* and *WebM* inline on any slide.
 ##Video Slides
 ##[ Background ]
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Video-Slides#background" target="_blank">GitPitch Wiki</a> for details.</span>
 
 #VSLIDE
 
@@ -201,7 +201,7 @@ Go fullscreen with *MP4* and *WebM* videos.
 
 ##Math Notation Slides
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Math-Notation-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
 
 #VSLIDE
 
@@ -267,7 +267,7 @@ you see, MathJax equations can be used without unduly disturbing the spacing bet
 
 ##Slide Fragments
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Fragment-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
 
 #VSLIDE
 
@@ -313,7 +313,7 @@ Step through slide content in sequence to slowly reveal the bigger picture.
 #HSLIDE
 ##<span style="text-transform: none">PITCHME.yaml</span> Settings
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings" target="_blank">GitPitch Wiki</a> for details.</span>
 
 #VSLIDE
 
@@ -335,7 +335,7 @@ Enable auto-slide with custom intervals, looping, and RTL.
 #HSLIDE
 ##Slideshow Keyboard Controls
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slideshow-Fullscreen-Mode" target="_blank">GitPitch Wiki</a> for details.</span>
 
 #VSLIDE
 
@@ -355,7 +355,7 @@ Enable auto-slide with custom intervals, looping, and RTL.
 
 ##Slideshow Extras
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="#" target="_blank">GitPitch Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slideshow-Printing" target="_blank">GitPitch Wiki</a> for details.</span>
 
 #VSLIDE
 
@@ -372,5 +372,3 @@ Enable auto-slide with custom intervals, looping, and RTL.
 
 ##GO FOR IT.
 ##JUST ADD <span style="color:#e49436; text-transform: none">PITCHME.md</span> ;)
-
-
