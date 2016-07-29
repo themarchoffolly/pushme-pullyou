@@ -268,7 +268,7 @@ Sometimes less is more. Use slide fragments to take control.
 
 <br>
 
-Set default theme, custom logo, background, and highlighting style.
+Set a default theme, custom logo, background image, and highlighting style.
 
 #VSLIDE
 
