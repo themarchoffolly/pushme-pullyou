@@ -290,7 +290,7 @@ Enable auto-slide with custom intervals, looping, and RTL.
 <br>
 
 | Mode | On Key | Off Key |
-| ---- | -------- | ---------- |
+| ---- | :------: | :--------: |
 | Fullscreen | F |  Esc |
 | Overview | O |  O |
 | Blackout | B |  B |
