@@ -40,10 +40,11 @@
 
 <span style="color:gray">A handle that represents an API on the AWS API Gateway.</span>
 
-```Scala
+```Java
 AWSGateway gateway = AWS.Gateway(echo-api-key)
                         .stage("beta")
-                        .region
+                        .region(AWS.Region.OREGON)
+                        .build();
 ```
 
 
@@ -53,7 +54,7 @@ AWSGateway gateway = AWS.Gateway(echo-api-key)
 
 <span style="color:gray">An executable object that represents an AWS Gateway call.</span>
 
-```Scala
+```Java
 AWSTask aTask = AWS.Task(gateway)
                    .resource("/echo")
                    .get();
@@ -66,7 +67,7 @@ AWSTask aTask = AWS.Task(gateway)
 
 <span style="color:gray">An object that represents the result of an AWS Gateway call.</span>
 
-```Scala
+```Java
 AWSResult aResult = aTask.execute();
 ```
 
