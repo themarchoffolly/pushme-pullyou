@@ -51,7 +51,7 @@ AWSGateway gateway = AWS.Gateway(echo-api-key)
 
 ### AWSTask
 
-<span style="color:gray">An executable object that represents an AWS API Gateway call.</span>
+<span style="color:gray">An executable object that represents an AWS Gateway call.</span>
 
 ```Scala
 AWSTask aTask = AWS.Task(gateway)
@@ -64,7 +64,7 @@ AWSTask aTask = AWS.Task(gateway)
 
 ### AWSResult
 
-<span style="color:gray">An object that represents the result of an AWS API Gateway call.</span>
+<span style="color:gray">An object that represents the result of an AWS Gateway call.</span>
 
 ```Scala
 Map data = new HashMap();
