@@ -1,66 +1,53 @@
 #HSLIDE
 
-##The Kitchen Sink
-#####<span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Git</span>Pitch Feature Tour</span>
+### Apache Spark
+### AWS Lambda Executor
+### (SAMBA)
 
-#HSLIDE
-##Slideshow Theme Switcher
-<span style="font-size:0.6em; color:gray">Available bottom-left of screen.</span> |
-<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
-
-#HSLIDE
-
-##Tip!
-For best viewing experience press **F** key to go fullscreen.
+<span style="color:gray">An Apache Spark Package</span>
 
 #HSLIDE
 
-##Markdown Slides
-<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown" target="_blank">GitPitch Wiki</a> for details.</span>
-
-
-#VSLIDE
-
-####Use GitHub Flavored Markdown
-####For Slide Content Creation
-
-<br>
-
-The same tool you use to create project **READMEs** and **Wikis** for your GitHub repos.
+> Where Apache SparkR lets data scientists use Spark from R,
+> ROSE is designed to let Scala and Java developers use R from Spark.
 
 #HSLIDE
 
-##Code Slides
-<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Code-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
+### ROSE Apache Spark Package
+
+  - Offers the full scientific computing power of the R programming language
+  - Within Spark batch and streaming apps on the JVM
+
+#HSLIDE
+
+### ROSE API
+
+<ol>
+<li class="fragment" data-fragment-index="1">New `analyze` operation on RDD[<span style="color:gray">OCPUTask</span>]</li>
+<li class="fragment" data-fragment-index="2">This operation executes R analytics on OpenCPU</li>
+<li class="fragment" data-fragment-index="3">And generates RDD[<span style="color:gray">OCPUResult</span>]</li>
+</ol>
+
+<span class="fragment" data-fragment-index="4" style="font-size: 0.8em; color:gray">The ROSE API is built on top of the <a target="_blank" href="https://github.com/onetapbeyond/opencpu-r-executor">opencpu-r-executor</a> library.</span>
+
+#HSLIDE
+
+### opencpu-r-executor
+
+- A lightweight, fluent Java library
+- For integrating R analytics executed on OpenCPU
+- Into any application running on the JVM
+- Defines <span style="color:gray">OCPUTask</span> and <span style="color:gray">OCPUResult</span>
 
 #VSLIDE
 
-####Use Markdown Code Blocks
+### OCPUTask
 
-<br>
-
-And enjoy code syntax highlighting powered by <a target="_blank" href="highlight.js](https://highlightjs.org">highlight.js</a>.
-
-#VSLIDE
-
-```JavaScript
-// JavaScript Code Block
-
-$('button').click(function(){
-    $('h1, h2, p').addClass('blue')
-    $('div').removeClass('important')
-    $('h3').toggleClass('error')
-    $('#foo').attr('alt', 'Lorem Ipsum')
-});
-```
-
-#VSLIDE
+<span style="color:gray">An executable object that represents an R function call.</span>
 
 ```scala
-// Scala Code Block
 
+// Build R function parameter values as Map.
 HashMap params = HashMap(n -> 10, mean -> 5)
 
 // Define executable for R stats#rnorm function call.
@@ -71,304 +58,181 @@ OCPUTask task = OCPU.R()
                     .library()
 ```
 
-#HSLIDE
-
-##GIST Slides
-<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/GIST-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
-
 #VSLIDE
 
-####GitHub GIST
-####Building Blocks For Any Presentation
+### OCPUResult
 
-<br>
+<span style="color:gray">An object that represents the result of an R function call.</span>
 
-Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentation and styling. 
+```scala
+// Execute R function on OCPUTask.
+OCPUResult result = task.execute(OCPU_SERVER_ENDPOINT)
 
-#VSLIDE?gist=8da53731fd54bab9d5c6
-
-#VSLIDE?gist=28ee3d19ddef9d51b15adbdfe9ed48da
+// Retrieve the R function return value from OCPUResult.
+Object resp = result.output().get("rnorm")
+```
 
 #HSLIDE
 
-##Image Slides
-##[ Inline ]
-<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Image-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
+### ROSE + Apache Spark Batch Processing
 
 #VSLIDE
 
-####Make A Visual Statement
+#### Step 1. Build RDD[<span style="color:gray">OCPUTask</span>]
 
-<br>
+```scala
+import io.onetapbeyond.opencpu.spark.executor.R._
+import io.onetapbeyond.opencpu.r.executor._
 
-Use inline images to lend a *visual punch* to your slideshow presentations.
+// Transform dataRDD into an RDD[OCPUTask].
 
+val rTaskRDD = dataRDD.map(data => {
 
-#VSLIDE
+    // Prepare R fraud#score function call param values.
+    val params = prepParams(data)
 
-<span style="color:gray; font-size:0.7em">Inline Image at <b>Absolute URL</b></span>
-
-![Image-Absolute](https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/octocat-privateinvestocat.jpg)
-
-<span style="color:gray; font-size: 0.5em;">the <b>Private Investocat</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
-
-
-#VSLIDE
-
-<span style="color:gray; font-size:0.7em">Inline Image at GitHub Repo <b>Relative URL</b></span>
-
-![Image-Absolute](assets/octocat-de-los-muertos.jpg)
-
-<span style="color:gray; font-size:0.5em">the <b>Octocat-De-Los-Muertos</b> by <a href="https://github.com/cameronmcefee" target="_blank">cameronmcefee</a></span>
-
+    OCPU.R()
+        .pkg("fraud")
+        .function("score")
+        .input(params.asJava)
+        .library()
+})
+```
 
 #VSLIDE
 
-<span style="color:gray; font-size:0.7em"><b>Animated GIFs</b> Work Too!</span>
+#### Step 2. Analyze RDD[<span style="color:gray">OCPUTask</span>]
 
-![Image-Relative](https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/octocat-daftpunkocat.gif)
+```scala
+// Perform RDD[OCPUTask].analyze operation to execute
+// R analytics and generate resulting RDD[OCPUResult].
 
-<span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
+val rResultRDD = rTaskRDD.analyze
+```
+
+#VSLIDE
+
+#### Step 3. Process RDD[<span style="color:gray">OCPUResult</span>]
+
+```scala
+// Process RDD[OCPUResult] data per app requirements. 
+
+rResultRDD.foreach { rResult ->
+
+    println("Demo: " + "fraud::score input=" +
+            rResult.input + " returned=" + rResult.output)
+
+}
+```
+
+#VSLIDE?gist=f54a46e9f9da47da0d51c3f2ab777569
 
 #HSLIDE
 
-##Image Slides
-##[ Background ]
-<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background" target="_blank">GitPitch Wiki</a> for details.</span>
+### ROSE + Apache Spark Stream Processing
 
 #VSLIDE
 
-####Make A Bold Visual Statement
+#### Step 1. Build rTaskStream of RDD[<span style="color:gray">OCPUTask</span>]
 
-<br>
+```scala
+import io.onetapbeyond.opencpu.spark.executor.R._
+import io.onetapbeyond.opencpu.r.executor._
 
-Use high-resolution background images for maximum impact.
+// Transform dataStream into rTaskStream of RDD[OCPUTask].
+val rTaskStream = dataStream.transform(rdd => {
 
-#VSLIDE?image=https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/victory.jpg
+    rdd.map(data => {
 
-#VSLIDE?image=https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/127.jpg
+        // Prepare R fraud#score function call param values.
+        val params = prepParams(data)
 
+        OCPU.R()
+            .pkg("fraud")
+            .function("score")
+            .input(params.asJava)
+            .library()
+    })  
+})
+```
+
+#VSLIDE
+
+#### Step 2. Analyze rTaskStream of RDD[<span style="color:gray">OCPUTask</span>]
+
+```scala
+// Perform R Analytics on RDD[OCPUTask] Stream Data
+
+val rResultStream = rTaskStream.transform(rdd => rdd.analyze)
+```
+
+#VSLIDE
+
+#### Step 3. Process rResultStream of RDD[<span style="color:gray">OCPUResult</span>]
+
+```scala
+// Process rResultStream of RDD[OCPUResult] data per app requirements.
+
+rResultStream.foreachRDD { resultRDD => {
+
+    resultRDD.foreach { rResult => {
+
+        println("Demo: " + "fraud::score input=" +
+                rResult.input + " returned=" + rResult.output)
+
+    }}
+}}
+```
+
+#VSLIDE?gist=5c2d6e8afccf0eb6cf77cb5588850833
 
 #HSLIDE
 
-##Video Slides
-##[ Inline ]
-<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Video-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
+#### Deployment 1. Colocated
+![ROSE Deployment](https://onetapbeyond.github.io/resource/img/rose/new-rose-deploy.jpg)
 
-#VSLIDE
-
-####Bring Your Presentations Alive
-
-<br>
-
-Embed *YouTube*, *Vimeo*, *MP4* and *WebM* inline on any slide.
-
-#VSLIDE
-
-![YouTube Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
-
-#VSLIDE
-
-![Vimeo Video](https://player.vimeo.com/video/111525512)
-
-#VSLIDE
-
-![MP4 Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
-
+<span style="font-size: 0.8em">OpenCPU server per Apache Spark worker node.</span>
 
 #HSLIDE
 
-##Video Slides
-##[ Background ]
-<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Video-Slides#background" target="_blank">GitPitch Wiki</a> for details.</span>
+#### Deployment 2. Remote Cluster
+![ROSE Deployment Alt](https://onetapbeyond.github.io/resource/img/rose/alt-rose-deploy.jpg)
 
-#VSLIDE
-
-####Maximize The Viewer Experience
-
-<br>
-
-Go fullscreen with *MP4* and *WebM* videos.
-
-#VSLIDE?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+<span style="font-size: 0.8em">OpenCPU cluster independent of Apache Spark cluster.</span>
 
 #HSLIDE
 
-##Math Notation Slides
-<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Math-Notation-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
+#### OpenCPU Remote Cluster Configuration
+
+```scala
+// Sample OpenCPU 3 Node Cluster
+
+val OCPU_CLUSTER = Array("http://1.1.1.1/ocpu",
+                         "http://2.2.2.2/ocpu",
+                         "http://3.3.3.3/ocpu")
+
+// Register cluster endpoints as Apache Spark broadcast variable.
+
+val endpoints = sc.broadcast(OCPU_CLUSTER)
+
+```
 
 #VSLIDE
 
+#### OpenCPU Remote Cluster Usage
 
-####Beautiful Math Rendered Beautifully
+```scala
+// Use Spark broadcast variable on RDD[OCPUTask].analyze operation.
 
-<br>
-
-Use *TeX*, *LaTeX* and *MathML* markup powered by <a target="_blank" href="https://www.mathjax.org/">MathJax</a>.
-
-#VSLIDE
-
-`$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`
-
-#VSLIDE
-
-`$$\begin{array}{c|lcr} n & \text{Left} & \text{Center} & \text{Right} \\ \hline 1 & 0.24 & 1 & 125 \\ 2 & -1 & 189 & -8 \\ 3 & -20 & 2000 & 1+10i \end{array}$$`
-
-#VSLIDE
-
-`\begin{align}
-\dot{x} & = \sigma(y-x) \\
-\dot{y} & = \rho x - y - xz \\
-\dot{z} & = -\beta z + xy
-\end{align}`
-
-#VSLIDE
-
-#####The Cauchy-Schwarz Inequality
-
-`\[
-\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
- \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-\]`
-
-#VSLIDE
-
-#####A Cross Product Formula
-
-`\[
-  \mathbf{V}_1 \times \mathbf{V}_2 =
-   \begin{vmatrix}
-    \mathbf{i} & \mathbf{j} & \mathbf{k} \\
-    \frac{\partial X}{\partial u} & \frac{\partial Y}{\partial u} & 0 \\
-    \frac{\partial X}{\partial v} & \frac{\partial Y}{\partial v} & 0 \\
-   \end{vmatrix}
-\]`
-
-#VSLIDE
-
-#####The probability of getting \(k\) heads when flipping \(n\) coins is:
-
-`\[P(E) = {n \choose k} p^k (1-p)^{ n-k} \]`
-
-#VSLIDE
-
-#####In-line Mathematics
-
-This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.  As
-you see, MathJax equations can be used without unduly disturbing the spacing between lines.
+val rResultRDD = rTaskRDD.analyze(endpoints.value)
+```
 
 #HSLIDE
 
-##Slide Fragments
-<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Fragment-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
+#### Some Related Links
 
-#VSLIDE
-
-####Reveal Slide Concepts Piecemeal
-
-<br>
-
-Step through slide content in sequence to slowly reveal the bigger picture.
-
-#VSLIDE
-
-- Java
-- Groovy     <!-- .element: class="fragment" -->
-- Kotlin     <!-- .element: class="fragment" -->
-- Scala     <!-- .element: class="fragment" -->
-- The JVM rocks! <!-- .element: class="fragment" -->
-
-#VSLIDE
-
-<table>
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr class="fragment">
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr class="fragment">
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table>
-
-#HSLIDE
-##<span style="text-transform: none">PITCHME.yaml</span> Settings
-<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings" target="_blank">GitPitch Wiki</a> for details.</span>
-
-#VSLIDE
-
-####Stamp Your Own Look and Feel
-
-<br>
-
-Set a default theme, custom logo, background image, and preferred code syntax highlighting style.
-
-#VSLIDE
-
-####Customize Slideshow Behavior
-
-<br>
-
-Enable auto-slide with custom intervals, looping, and RTL.
-
-
-#HSLIDE
-##Slideshow Keyboard Controls
-<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slideshow-Fullscreen-Mode" target="_blank">GitPitch Wiki</a> for details.</span>
-
-#VSLIDE
-
-####Try Out These Great Features Now!
-
-<br>
-
-| Mode | On Key | Off Key |
-| ---- | :------: | :--------: |
-| Fullscreen | F |  Esc |
-| Overview | O |  O |
-| Blackout | B |  B |
-| Help | ? |  Esc |
-
-
-#HSLIDE
-
-##Slideshow Extras
-<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slideshow-Printing" target="_blank">GitPitch Wiki</a> for details.</span>
-
-#VSLIDE
-
-####Available For Every Slideshow
-
-<br>
-
-- Print To PDF Document
-- GitHub Badge Markdown Snippet 
-- Embed HTML Snippet
-- Share By E-Mail And Social Media
-
-#HSLIDE
-
-##GO FOR IT.
-##JUST ADD <span style="color:#e49436; text-transform: none">PITCHME.md</span> ;)
+- [GitHub: ROSE Package](https://github.com/onetapbeyond/opencpu-spark-executor)
+- [GitHub: ROSE Examples](https://github.com/onetapbeyond/opencpu-spark-executor#rose-examples)
+- [GitHub: opencpu-r-executor](https://github.com/onetapbeyond/opencpu-r-executor)
+- [GitHub: Apache Spark](https://github.com/apache/spark)
+- [Apache Spark Packages](https://spark-packages.org/package/onetapbeyond/opencpu-spark-executor)
