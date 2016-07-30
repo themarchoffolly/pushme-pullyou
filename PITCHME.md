@@ -77,54 +77,45 @@ AWSResult aResult = aTask.execute();
 
 #VSLIDE
 
-#### Step 1. Build RDD[<span style="color:gray">OCPUTask</span>]
+#### Step 1. Build RDD[<span style="color:gray">AWSTask</span>]
 
-```scala
-import io.onetapbeyond.opencpu.spark.executor.R._
-import io.onetapbeyond.opencpu.r.executor._
+```Scala
+import io.onetapbeyond.lambda.spark.executor.Gateway._
+import io.onetapbeyond.aws.gateway.executor._
 
-// Transform dataRDD into an RDD[OCPUTask].
-
-val rTaskRDD = dataRDD.map(data => {
-
-    // Prepare R fraud#score function call param values.
-    val params = prepParams(data)
-
-    OCPU.R()
-        .pkg("fraud")
-        .function("score")
-        .input(params.asJava)
-        .library()
-})
+val aTaskRDD = dataRDD.map(data => {
+  AWS.Task(gateway)
+     .resource("/score")
+     .input(data.asInput())
+     .post()
+  })
 ```
 
 #VSLIDE
 
-#### Step 2. Analyze RDD[<span style="color:gray">OCPUTask</span>]
+#### Step 2. Delegate RDD[<span style="color:gray">AWSTask</span>]
 
-```scala
-// Perform RDD[OCPUTask].analyze operation to execute
-// R analytics and generate resulting RDD[OCPUResult].
+```Scala
+// Perform RDD[AWSTask].delegate operation to execute
+// AWS Gateway call and generate resulting RDD[AWSResult].
 
-val rResultRDD = rTaskRDD.analyze
+val aResultRDD = aTaskRDD.delegate
 ```
 
 #VSLIDE
 
-#### Step 3. Process RDD[<span style="color:gray">OCPUResult</span>]
+#### Step 3. Process RDD[<span style="color:gray">AWSResult</span>]
 
-```scala
-// Process RDD[OCPUResult] data per app requirements. 
+```Scala
+// Process RDD[AWSResult] data per app requirements. 
 
-rResultRDD.foreach { rResult ->
-
-    println("Demo: " + "fraud::score input=" +
-            rResult.input + " returned=" + rResult.output)
-
-}
+aTaskResultRDD.foreach { result => {
+        println("TaskDelegation: compute score input=" +
+          result.input + " result=" + result.success)
+}}
 ```
 
-#VSLIDE?gist=f54a46e9f9da47da0d51c3f2ab777569
+#VSLIDE?gist=494e0fecaf0d6a2aa2acadfb8eb9d6e8
 
 #HSLIDE
 
@@ -134,7 +125,7 @@ rResultRDD.foreach { rResult ->
 
 #### Step 1. Build rTaskStream of RDD[<span style="color:gray">OCPUTask</span>]
 
-```scala
+```Scala
 import io.onetapbeyond.opencpu.spark.executor.R._
 import io.onetapbeyond.opencpu.r.executor._
 
@@ -159,7 +150,7 @@ val rTaskStream = dataStream.transform(rdd => {
 
 #### Step 2. Analyze rTaskStream of RDD[<span style="color:gray">OCPUTask</span>]
 
-```scala
+```Scala
 // Perform R Analytics on RDD[OCPUTask] Stream Data
 
 val rResultStream = rTaskStream.transform(rdd => rdd.analyze)
@@ -169,7 +160,7 @@ val rResultStream = rTaskStream.transform(rdd => rdd.analyze)
 
 #### Step 3. Process rResultStream of RDD[<span style="color:gray">OCPUResult</span>]
 
-```scala
+```Scala
 // Process rResultStream of RDD[OCPUResult] data per app requirements.
 
 rResultStream.foreachRDD { resultRDD => {
@@ -203,7 +194,7 @@ rResultStream.foreachRDD { resultRDD => {
 
 #### OpenCPU Remote Cluster Configuration
 
-```scala
+```Scala
 // Sample OpenCPU 3 Node Cluster
 
 val OCPU_CLUSTER = Array("http://1.1.1.1/ocpu",
@@ -220,7 +211,7 @@ val endpoints = sc.broadcast(OCPU_CLUSTER)
 
 #### OpenCPU Remote Cluster Usage
 
-```scala
+```Scala
 // Use Spark broadcast variable on RDD[OCPUTask].analyze operation.
 
 val rResultRDD = rTaskRDD.analyze(endpoints.value)
