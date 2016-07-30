@@ -23,53 +23,62 @@
 <li class="fragment" data-fragment-index="3">And generates RDD[<span style="color:gray">AWSResult</span>]</li>
 </ol>
 
-<span class="fragment" data-fragment-index="4" style="font-size: 0.8em; color:gray">The SAMBA API is built on top of the <a target="_blank" href="https://github.com/onetapbeyond/lambda-gataway-executor">lambda-gateway-executor</a> library.</span>
+<span class="fragment" data-fragment-index="4" style="font-size: 0.8em; color:gray">The SAMBA API is built on top of the <a target="_blank" href="https://github.com/onetapbeyond/aws-gataway-executor">aws-gateway-executor</a> library.</span>
 
 #HSLIDE
 
-### lambda-gateway-executor
+### aws-gateway-executor
 
 - A lightweight, fluent Java library
-- For integrating R analytics executed on OpenCPU
+- For calling APIs exposed by the Amazon Web Service API Gateway
 - Into any application running on the JVM
-- Defines <span style="color:gray">OCPUTask</span> and <span style="color:gray">OCPUResult</span>
+- Defines <span style="color:gray">AWSTask</span> and <span style="color:gray">AWSResult</span>
 
 #VSLIDE
 
-### OCPUTask
+### AWSGateway
 
-<span style="color:gray">An executable object that represents an R function call.</span>
+<span style="color:gray">A handle that represents an API on the AWS API Gateway.</span>
 
-```scala
+```Scala
+AWSGateway gateway = AWS.Gateway(echo-api-key)
+                        .stage("beta")
+                        .region
+```
 
-// Build R function parameter values as Map.
-HashMap params = HashMap(n -> 10, mean -> 5)
 
-// Define executable for R stats#rnorm function call.
-OCPUTask task = OCPU.R()
-                    .pkg("stats")
-                    .function("rnorm")
-                    .input(params.asJava)
-                    .library()
+#VSLIDE
+
+### AWSTask
+
+<span style="color:gray">An executable object that represents an AWS API Gateway call.</span>
+
+```Scala
+AWSTask aTask = AWS.Task(gateway)
+                   .resource("/echo")
+                   .get();
+
 ```
 
 #VSLIDE
 
-### OCPUResult
+### AWSResult
 
-<span style="color:gray">An object that represents the result of an R function call.</span>
+<span style="color:gray">An object that represents the result of an AWS API Gateway call.</span>
 
-```scala
-// Execute R function on OCPUTask.
-OCPUResult result = task.execute(OCPU_SERVER_ENDPOINT)
+```Scala
+Map data = new HashMap();
+data.put("message", "Hello, World!");
 
-// Retrieve the R function return value from OCPUResult.
-Object resp = result.output().get("rnorm")
+AWSTask aTask = AWS.Task(gateway)
+                   .resource("/echo/greeting")
+                   .input(data)
+                   .post();
 ```
 
 #HSLIDE
 
-### ROSE + Apache Spark Batch Processing
+### SAMBA + Apache Spark Batch Processing
 
 #VSLIDE
 
