@@ -19,7 +19,7 @@
 
 <ol>
 <li class="fragment" data-fragment-index="1">New `delegate` operation on RDD[<span style="color:gray">AWSTask</span>]</li>
-<li class="fragment" data-fragment-index="2">This operation executes an AWS Lambda function</li>
+<li class="fragment" data-fragment-index="2">This operation executes AWS Lambda functions</li>
 <li class="fragment" data-fragment-index="3">And generates RDD[<span style="color:gray">AWSResult</span>]</li>
 </ol>
 
@@ -97,7 +97,7 @@ val aTaskRDD = dataRDD.map(data => {
 
 ```Scala
 // Perform RDD[AWSTask].delegate operation to execute
-// AWS Gateway call and generate resulting RDD[AWSResult].
+// AWS Gateway calls and generate resulting RDD[AWSResult].
 
 val aResultRDD = aTaskRDD.delegate
 ```
