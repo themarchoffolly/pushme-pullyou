@@ -31,7 +31,7 @@
 
 - A lightweight, fluent Java library
 - For calling APIs on the Amazon Web Service API Gateway
-- Into any application running on the JVM
+- Inside any application running on the JVM
 - Defines <span style="color:gray">AWSTask</span> and <span style="color:gray">AWSResult</span>
 
 #VSLIDE
