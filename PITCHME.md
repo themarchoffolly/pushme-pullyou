@@ -67,13 +67,7 @@ AWSTask aTask = AWS.Task(gateway)
 <span style="color:gray">An object that represents the result of an AWS Gateway call.</span>
 
 ```Scala
-Map data = new HashMap();
-data.put("message", "Hello, World!");
-
-AWSTask aTask = AWS.Task(gateway)
-                   .resource("/echo/greeting")
-                   .input(data)
-                   .post();
+AWSResult aResult = aTask.execute();
 ```
 
 #HSLIDE
