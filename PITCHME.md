@@ -1,4 +1,8 @@
 #HSLIDE
+
+Can you see this?
+
+#HSLIDE
 <!-- .slide: data-autoslide="10000" -->
 
 ![LOGO](https://res.cloudinary.com/gitpitch/image/upload/v1468815754/gp-logo.png)
