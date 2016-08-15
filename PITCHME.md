@@ -1,6 +1,6 @@
 #HSLIDE
 
-Can you see this?
+Can you see this? And now?
 
 #HSLIDE
 <!-- .slide: data-autoslide="10000" -->
