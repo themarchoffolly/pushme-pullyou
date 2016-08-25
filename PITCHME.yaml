@@ -1,3 +1,4 @@
-mathjax : TeX-AMS_HTML-full
-hdelim : ---
-vdelim : +++
+mathjax : "TeX-AMS_HTML-full"
+horz-delim : "---"
+vert-delim : "+++"
+vert-delim-regexp : "\+\+\+"
