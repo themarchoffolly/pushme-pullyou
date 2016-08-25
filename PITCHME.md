@@ -1,72 +1,395 @@
-#HSLIDE
-<!-- .slide: data-autoslide="10000" -->
+--
 
-![LOGO](https://res.cloudinary.com/gitpitch/image/upload/v1468815754/gp-logo.png)
+## The Kitchen Sink
+##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Git</span>Pitch Feature Tour</span>
 
-####Get the word out!
-<br>
-<span style="color:gray">Promote, Pitch, Or Present Your GitHub Projects</span>
+--
+## Slideshow Theme Switcher
+<span style="font-size:0.6em; color:gray">Available bottom-left of screen.</span> |
+<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
 
-#HSLIDE
+--
 
-###GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
-<br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+## Tip!
+For best viewing experience press **F** key to go fullscreen.
 
-#HSLIDE
-<!-- .slide: data-autoslide="2000" -->
+--
 
-###No more <span style="color: #666666">Keynote.</span>
-###<span class="fragment" data-fragment-index="1" data-autoslide="2000">No more <span style="color: #666666">Powerpoint.</span>
-<br>
-###<span class="fragment" data-fragment-index="2" data-autoslide="3500">Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.</li>
+## Markdown Slides
+<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown" target="_blank">GitPitch Wiki</a> for details.</span>
 
-#HSLIDE
 
-<span style="color: #e49436">STEP 1. PITCHME.md</span>
+++
 
-![MARKDOWN](https://res.cloudinary.com/gitpitch/image/upload/v1468815764/hello-world/markdown.png)
-
-Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
-
-#HSLIDE
-
-<span style="color: #e49436">STEP 2. GIT-COMMIT</span>
-
-![TERMINAL](https://res.cloudinary.com/gitpitch/image/upload/v1468815772/hello-world/terminal.png)
-
-Git-commit on any repo branch and push your PITCHME.md to GitHub.
-
-#HSLIDE
-
-<span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
+#### Use GitHub Flavored Markdown
+#### For Slide Content Creation
 
 <br>
 
-<span style="font-size: 1.5em;"><span style="color:white">htt</span><span style="color:white">ps://git</span><span style="color: #e49436">pitch</span><span style="color: white">.com/<span style="color: #e49436">user</span>/<span style="color: #e49436">repo</span></span>
+The same tool you use to create project **READMEs** and **Wikis** for your GitHub repos.
+
+--
+
+## Code Slides
+<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Code-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
+
+++
+
+#### Use Markdown Code Blocks
 
 <br>
 
-Instantly use your GitPitch slideshow URL to promote, pitch or present your GitHub project.
+And enjoy code syntax highlighting powered by <a target="_blank" href="highlight.js](https://highlightjs.org">highlight.js</a>.
 
-#HSLIDE
-<!-- .slide: data-autoslide="12000" -->
+++
 
-<span style="color: #e49436">GIT</span>PITCH <span style="color: #e49436">SLIDESHOWS</span> ARE FEATURE RICH
+```JavaScript
+// JavaScript Code Block
 
-- GitHub Flavored Markdown +
-- Code Block Syntax Highlighting
-- GIST Slides
-- Image and Video Slides
-- Custom Logos and Backgrounds
-- Multiple Themes And More
-- <span style="color: #e49436">Plus...</span>
-- Your Slideshow Is Part Of Your Project
-- Under Git Version Control Within Your GitHub Repo
+$('button').click(function(){
+    $('h1, h2, p').addClass('blue')
+    $('div').removeClass('important')
+    $('h3').toggleClass('error')
+    $('#foo').attr('alt', 'Lorem Ipsum')
+});
+```
 
-#HSLIDE
-<!-- .slide: data-autoslide="8000" -->
+++
 
-###Go for it.
-###Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
+```Scala
+// Scala Code Block
 
+HashMap params = HashMap(n -> 10, mean -> 5)
+
+// Define executable for R stats#rnorm function call.
+OCPUTask task = OCPU.R()
+                    .pkg("stats")
+                    .function("rnorm")
+                    .input(params.asJava)
+                    .library()
+```
+
+++
+
+```Go
+// Go Code Block
+
+package main
+
+import "fmt"
+
+func swap(x, y string) (string, string) {
+    return y, x
+}
+
+func main() {
+    a, b := swap("hello", "world")
+    fmt.Println(a, b)
+}
+```
+
+--
+
+## GIST Slides
+<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/GIST-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
+
+++
+
+#### GitHub GIST
+#### Building Blocks For Any Presentation
+
+<br>
+
+Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentation and styling. 
+
+++?gist=8da53731fd54bab9d5c6
+
+++?gist=28ee3d19ddef9d51b15adbdfe9ed48da
+
+--
+
+## Image Slides
+## [ Inline ]
+<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Image-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
+
+++
+
+#### Make A Visual Statement
+
+<br>
+
+Use inline images to lend a *visual punch* to your slideshow presentations.
+
+
+++
+
+<span style="color:gray; font-size:0.7em">Inline Image at <b>Absolute URL</b></span>
+
+![Image-Absolute](https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/octocat-privateinvestocat.jpg)
+
+<span style="color:gray; font-size: 0.5em;">the <b>Private Investocat</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
+
+
+++
+
+<span style="color:gray; font-size:0.7em">Inline Image at GitHub Repo <b>Relative URL</b></span>
+
+![Image-Absolute](assets/octocat-de-los-muertos.jpg)
+
+<span style="color:gray; font-size:0.5em">the <b>Octocat-De-Los-Muertos</b> by <a href="https://github.com/cameronmcefee" target="_blank">cameronmcefee</a></span>
+
+
+++
+
+<span style="color:gray; font-size:0.7em"><b>Animated GIFs</b> Work Too!</span>
+
+![Image-Relative](https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/octocat-daftpunkocat.gif)
+
+<span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
+
+--
+
+## Image Slides
+## [ Background ]
+<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background" target="_blank">GitPitch Wiki</a> for details.</span>
+
+++
+
+#### Make A Bold Visual Statement
+
+<br>
+
+Use high-resolution background images for maximum impact.
+
+++?image=https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/victory.jpg
+
+++?image=https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/127.jpg
+
+
+--
+
+## Video Slides
+## [ Inline ]
+<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Video-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
+
+++
+
+#### Bring Your Presentations Alive
+
+<br>
+
+Embed *YouTube*, *Vimeo*, *MP4* and *WebM* inline on any slide.
+
+++
+
+![YouTube Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
+
+++
+
+![Vimeo Video](https://player.vimeo.com/video/111525512)
+
+++
+
+![MP4 Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
+
+
+--
+
+## Video Slides
+## [ Background ]
+<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Video-Slides#background" target="_blank">GitPitch Wiki</a> for details.</span>
+
+++
+
+#### Maximize The Viewer Experience
+
+<br>
+
+Go fullscreen with *MP4* and *WebM* videos.
+
+++?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+
+--
+
+## Math Notation Slides
+<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Math-Notation-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
+
+++
+
+
+#### Beautiful Math Rendered Beautifully
+
+<br>
+
+Use *TeX*, *LaTeX* and *MathML* markup powered by <a target="_blank" href="https://www.mathjax.org/">MathJax</a>.
+
+++
+
+`$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`
+
+++
+
+`$$\begin{array}{c|lcr} n & \text{Left} & \text{Center} & \text{Right} \\ \hline 1 & 0.24 & 1 & 125 \\ 2 & -1 & 189 & -8 \\ 3 & -20 & 2000 & 1+10i \end{array}$$`
+
+++
+
+`\begin{align}
+\dot{x} & = \sigma(y-x) \\
+\dot{y} & = \rho x - y - xz \\
+\dot{z} & = -\beta z + xy
+\end{align}`
+
+++
+
+##### The Cauchy-Schwarz Inequality
+
+`\[
+\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
+ \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+\]`
+
+++
+
+##### A Cross Product Formula
+
+`\[
+  \mathbf{V}_1 \times \mathbf{V}_2 =
+   \begin{vmatrix}
+    \mathbf{i} & \mathbf{j} & \mathbf{k} \\
+    \frac{\partial X}{\partial u} & \frac{\partial Y}{\partial u} & 0 \\
+    \frac{\partial X}{\partial v} & \frac{\partial Y}{\partial v} & 0 \\
+   \end{vmatrix}
+\]`
+
+++
+
+##### The probability of getting \(k\) heads when flipping \(n\) coins is:
+
+`\[P(E) = {n \choose k} p^k (1-p)^{ n-k} \]`
+
+++
+
+##### In-line Mathematics
+
+This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.  As
+you see, MathJax equations can be used without unduly disturbing the spacing between lines.
+
+--
+
+## Slide Fragments
+<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Fragment-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
+
+++
+
+#### Reveal Slide Concepts Piecemeal
+
+<br>
+
+Step through slide content in sequence to slowly reveal the bigger picture.
+
+++
+
+- Java
+- Groovy     <!-- .element: class="fragment" -->
+- Kotlin     <!-- .element: class="fragment" -->
+- Scala     <!-- .element: class="fragment" -->
+- The JVM rocks! <!-- .element: class="fragment" -->
+
+++
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr class="fragment">
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr class="fragment">
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+
+--
+## <span style="text-transform: none">PITCHME.yaml</span> Settings
+<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings" target="_blank">GitPitch Wiki</a> for details.</span>
+
+++
+
+#### Stamp Your Own Look and Feel
+
+<br>
+
+Set a default theme, custom logo, background image, and preferred code syntax highlighting style.
+
+++
+
+#### Customize Slideshow Behavior
+
+<br>
+
+Enable auto-slide with custom intervals, looping, and RTL.
+
+
+--
+## Slideshow Keyboard Controls
+<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slideshow-Fullscreen-Mode" target="_blank">GitPitch Wiki</a> for details.</span>
+
+++
+
+#### Try Out These Great Features Now!
+
+<br>
+
+| Mode | On Key | Off Key |
+| ---- | :------: | :--------: |
+| Fullscreen | F |  Esc |
+| Overview | O |  O |
+| Blackout | B |  B |
+| Help | ? |  Esc |
+
+
+--
+
+## GitPitch Social
+<span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slideshow-GitHub-Badge" target="_blank">GitPitch Wiki</a> for details.</span>
+
+++
+
+#### Slideshows Designed For Sharing
+
+<br>
+
+- View any slideshow at its public URL
+- [Promote](https://github.com/gitpitch/gitpitch/wiki/Slideshow-GitHub-Badge) any slideshow using a GitHub badge
+- [Embed](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Embedding) any slideshow within a blog or website
+- [Share](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Sharing) any slideshow on Twitter, LinkedIn, etc
+- [Print](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Printing) any slideshow as PDF document
+- [Download and present](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Offline) any slideshow offline
+
+--
+
+## GO FOR IT.
+## JUST ADD <span style="color:#e49436; text-transform: none">PITCHME.md</span> ;)
