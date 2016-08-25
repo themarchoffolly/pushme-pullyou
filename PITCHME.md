@@ -1,26 +1,26 @@
----
+--
 
 ## The Kitchen Sink
 ##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Git</span>Pitch Feature Tour</span>
 
----
+--
 ## Slideshow Theme Switcher
 <span style="font-size:0.6em; color:gray">Available bottom-left of screen.</span> |
 <span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
 
----
+--
 
 ## Tip!
 For best viewing experience press **F** key to go fullscreen.
 
----
+--
 
 ## Markdown Slides
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
 <span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown" target="_blank">GitPitch Wiki</a> for details.</span>
 
 
-+++
+++
 
 #### Use GitHub Flavored Markdown
 #### For Slide Content Creation
@@ -29,13 +29,13 @@ For best viewing experience press **F** key to go fullscreen.
 
 The same tool you use to create project **READMEs** and **Wikis** for your GitHub repos.
 
----
+--
 
 ## Code Slides
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
 <span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Code-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
 
-+++
+++
 
 #### Use Markdown Code Blocks
 
@@ -43,7 +43,7 @@ The same tool you use to create project **READMEs** and **Wikis** for your GitHu
 
 And enjoy code syntax highlighting powered by <a target="_blank" href="highlight.js](https://highlightjs.org">highlight.js</a>.
 
-+++
+++
 
 ```JavaScript
 // JavaScript Code Block
@@ -56,7 +56,7 @@ $('button').click(function(){
 });
 ```
 
-+++
+++
 
 ```Scala
 // Scala Code Block
@@ -71,7 +71,7 @@ OCPUTask task = OCPU.R()
                     .library()
 ```
 
-+++
+++
 
 ```Go
 // Go Code Block
@@ -90,13 +90,13 @@ func main() {
 }
 ```
 
----
+--
 
 ## GIST Slides
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
 <span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/GIST-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
 
-+++
+++
 
 #### GitHub GIST
 #### Building Blocks For Any Presentation
@@ -105,18 +105,18 @@ func main() {
 
 Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentation and styling. 
 
-+++?gist=8da53731fd54bab9d5c6
+++?gist=8da53731fd54bab9d5c6
 
-+++?gist=28ee3d19ddef9d51b15adbdfe9ed48da
+++?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
----
+--
 
 ## Image Slides
 ## [ Inline ]
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
 <span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Image-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
 
-+++
+++
 
 #### Make A Visual Statement
 
@@ -125,7 +125,7 @@ Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentati
 Use inline images to lend a *visual punch* to your slideshow presentations.
 
 
-+++
+++
 
 <span style="color:gray; font-size:0.7em">Inline Image at <b>Absolute URL</b></span>
 
@@ -134,7 +134,7 @@ Use inline images to lend a *visual punch* to your slideshow presentations.
 <span style="color:gray; font-size: 0.5em;">the <b>Private Investocat</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
 
-+++
+++
 
 <span style="color:gray; font-size:0.7em">Inline Image at GitHub Repo <b>Relative URL</b></span>
 
@@ -143,7 +143,7 @@ Use inline images to lend a *visual punch* to your slideshow presentations.
 <span style="color:gray; font-size:0.5em">the <b>Octocat-De-Los-Muertos</b> by <a href="https://github.com/cameronmcefee" target="_blank">cameronmcefee</a></span>
 
 
-+++
+++
 
 <span style="color:gray; font-size:0.7em"><b>Animated GIFs</b> Work Too!</span>
 
@@ -151,14 +151,14 @@ Use inline images to lend a *visual punch* to your slideshow presentations.
 
 <span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
----
+--
 
 ## Image Slides
 ## [ Background ]
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
 <span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background" target="_blank">GitPitch Wiki</a> for details.</span>
 
-+++
+++
 
 #### Make A Bold Visual Statement
 
@@ -166,19 +166,19 @@ Use inline images to lend a *visual punch* to your slideshow presentations.
 
 Use high-resolution background images for maximum impact.
 
-+++?image=https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/victory.jpg
+++?image=https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/victory.jpg
 
-+++?image=https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/127.jpg
+++?image=https://res.cloudinary.com/gitpitch/raw/upload/kitchen-sink/127.jpg
 
 
----
+--
 
 ## Video Slides
 ## [ Inline ]
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
 <span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Video-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
 
-+++
+++
 
 #### Bring Your Presentations Alive
 
@@ -186,27 +186,27 @@ Use high-resolution background images for maximum impact.
 
 Embed *YouTube*, *Vimeo*, *MP4* and *WebM* inline on any slide.
 
-+++
+++
 
 ![YouTube Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
-+++
+++
 
 ![Vimeo Video](https://player.vimeo.com/video/111525512)
 
-+++
+++
 
 ![MP4 Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
 
 
----
+--
 
 ## Video Slides
 ## [ Background ]
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
 <span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Video-Slides#background" target="_blank">GitPitch Wiki</a> for details.</span>
 
-+++
+++
 
 #### Maximize The Viewer Experience
 
@@ -214,15 +214,15 @@ Embed *YouTube*, *Vimeo*, *MP4* and *WebM* inline on any slide.
 
 Go fullscreen with *MP4* and *WebM* videos.
 
-+++?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+++?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
 
----
+--
 
 ## Math Notation Slides
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
 <span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Math-Notation-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
 
-+++
+++
 
 
 #### Beautiful Math Rendered Beautifully
@@ -231,15 +231,15 @@ Go fullscreen with *MP4* and *WebM* videos.
 
 Use *TeX*, *LaTeX* and *MathML* markup powered by <a target="_blank" href="https://www.mathjax.org/">MathJax</a>.
 
-+++
+++
 
 `$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`
 
-+++
+++
 
 `$$\begin{array}{c|lcr} n & \text{Left} & \text{Center} & \text{Right} \\ \hline 1 & 0.24 & 1 & 125 \\ 2 & -1 & 189 & -8 \\ 3 & -20 & 2000 & 1+10i \end{array}$$`
 
-+++
+++
 
 `\begin{align}
 \dot{x} & = \sigma(y-x) \\
@@ -247,7 +247,7 @@ Use *TeX*, *LaTeX* and *MathML* markup powered by <a target="_blank" href="https
 \dot{z} & = -\beta z + xy
 \end{align}`
 
-+++
+++
 
 ##### The Cauchy-Schwarz Inequality
 
@@ -256,7 +256,7 @@ Use *TeX*, *LaTeX* and *MathML* markup powered by <a target="_blank" href="https
  \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 \]`
 
-+++
+++
 
 ##### A Cross Product Formula
 
@@ -269,26 +269,26 @@ Use *TeX*, *LaTeX* and *MathML* markup powered by <a target="_blank" href="https
    \end{vmatrix}
 \]`
 
-+++
+++
 
 ##### The probability of getting \(k\) heads when flipping \(n\) coins is:
 
 `\[P(E) = {n \choose k} p^k (1-p)^{ n-k} \]`
 
-+++
+++
 
 ##### In-line Mathematics
 
 This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.  As
 you see, MathJax equations can be used without unduly disturbing the spacing between lines.
 
----
+--
 
 ## Slide Fragments
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
 <span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Fragment-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
 
-+++
+++
 
 #### Reveal Slide Concepts Piecemeal
 
@@ -296,7 +296,7 @@ you see, MathJax equations can be used without unduly disturbing the spacing bet
 
 Step through slide content in sequence to slowly reveal the bigger picture.
 
-+++
+++
 
 - Java
 - Groovy     <!-- .element: class="fragment" -->
@@ -304,7 +304,7 @@ Step through slide content in sequence to slowly reveal the bigger picture.
 - Scala     <!-- .element: class="fragment" -->
 - The JVM rocks! <!-- .element: class="fragment" -->
 
-+++
+++
 
 <table>
   <tr>
@@ -329,12 +329,12 @@ Step through slide content in sequence to slowly reveal the bigger picture.
   </tr>
 </table>
 
----
+--
 ## <span style="text-transform: none">PITCHME.yaml</span> Settings
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
 <span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings" target="_blank">GitPitch Wiki</a> for details.</span>
 
-+++
+++
 
 #### Stamp Your Own Look and Feel
 
@@ -342,7 +342,7 @@ Step through slide content in sequence to slowly reveal the bigger picture.
 
 Set a default theme, custom logo, background image, and preferred code syntax highlighting style.
 
-+++
+++
 
 #### Customize Slideshow Behavior
 
@@ -351,12 +351,12 @@ Set a default theme, custom logo, background image, and preferred code syntax hi
 Enable auto-slide with custom intervals, looping, and RTL.
 
 
----
+--
 ## Slideshow Keyboard Controls
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
 <span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slideshow-Fullscreen-Mode" target="_blank">GitPitch Wiki</a> for details.</span>
 
-+++
+++
 
 #### Try Out These Great Features Now!
 
@@ -370,13 +370,13 @@ Enable auto-slide with custom intervals, looping, and RTL.
 | Help | ? |  Esc |
 
 
----
+--
 
 ## GitPitch Social
 <span style="font-size:0.6em; color:gray">See slides below for examples.</span> |
 <span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slideshow-GitHub-Badge" target="_blank">GitPitch Wiki</a> for details.</span>
 
-+++
+++
 
 #### Slideshows Designed For Sharing
 
@@ -389,7 +389,7 @@ Enable auto-slide with custom intervals, looping, and RTL.
 - [Print](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Printing) any slideshow as PDF document
 - [Download and present](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Offline) any slideshow offline
 
----
+--
 
 ## GO FOR IT.
 ## JUST ADD <span style="color:#e49436; text-transform: none">PITCHME.md</span> ;)
