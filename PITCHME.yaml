@@ -1,4 +1,4 @@
 mathjax : TeX-AMS_HTML-full
 horz-delim : ---
 vert-delim : +++
-vert-delim-regexp : \+\+\+
+vert-delim-regexp : \\+\\+\\+
