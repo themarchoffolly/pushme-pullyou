@@ -1,5 +1,5 @@
 mathjax : TeX-AMS_HTML-full
-horz-delim : --
-vert-delim : ++
-vert-delim-regexp : \+\+
+horz-delim : ---
+vert-delim : +++
+vert-delim-regexp : \+\+\+
 theme-override : assets/custom.css
