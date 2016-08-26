@@ -2,5 +2,5 @@ mathjax : TeX-AMS_HTML-full
 horz-delim : ---
 vert-delim : +++
 vert-delim-regexp : \+\+\+
-vertical-center : false
+vertical-center : true
 theme-override : assets/custom.css
