@@ -1,7 +1,12 @@
-This is a test. The following text uses a setext header:
+This is a test. The following text uses a setext header level one:
 
 Hello World
 ===========
+
+And this is a setext header level two:
+
+Goodbye World
+-------------
 
 That's it.
 
