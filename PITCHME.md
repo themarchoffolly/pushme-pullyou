@@ -1,5 +1,3 @@
-#This is a test of setext headers. 
-
 Test setext header level one:
 
 Hello World
