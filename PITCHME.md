@@ -1,3 +1,10 @@
+This is a test. The following text uses a setext header:
+
+Hello World
+===========
+
+That's it.
+
 ---
 
 ## The Kitchen Sink
