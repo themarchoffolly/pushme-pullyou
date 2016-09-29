@@ -1,7 +1,5 @@
-IDE Test Starts
-
-#HSLIDE?ide=https://ide.c9.io/onetapbeyond/rails-tutorial
+BG Test Starts
 
 #HSLIDE
 
-IDE Test End
+BG Test End
