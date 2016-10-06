@@ -4,3 +4,10 @@
 
 <img src="assets/logo.png"/>
 
+#HSLIDE
+
+<img src="assets/does-not-exist.png"/>
+
+#HSLIDE
+
+<img/>
