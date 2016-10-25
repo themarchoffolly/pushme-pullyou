@@ -2,6 +2,18 @@
 ## (Workflows)
 ## Feature Demonstration
 
+#HSLIDE
+
+### Tips!
+
+- Use high res images for image animations
+- Set [background-size](https://github.com/gitpitch/gitpitch/wiki/Background-Setting#background-image-scaling) to `cover` in `PITCHME.yaml`
+- Size optimize images using services like [tinypng.com](tinypng.com)
+
+#HSLIDE
+
+## SAMBA Architecture Animation
+
 #VSLIDE?image=assets/samba-01.jpg
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/samba-02.jpg
@@ -10,11 +22,3 @@
 <!-- .slide: data-background-transition="none" -->
 #VSLIDE?image=assets/samba-04.jpg
 <!-- .slide: data-background-transition="none" -->
-
-#HSLIDE
-
-### Tips!
-
-- Use high resolution images for image animations
-- Set [background-size](https://github.com/gitpitch/gitpitch/wiki/Background-Setting#background-image-scaling) to `cover` in your `PITCHME.yaml`
-- Size optimize your images using a service like [tinypng.com](tinypng.com)
