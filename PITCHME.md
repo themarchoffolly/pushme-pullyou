@@ -1,5 +1,5 @@
 ## Image Animations
-## (Workflows)
+### (Workflows)
 ## Feature Demonstration
 
 #HSLIDE
