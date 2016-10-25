@@ -6,7 +6,7 @@
 
 ### Tips!
 
-- Use high res images for image animations
+- Use high res images for animations (workflows)
 - Set [background-size](https://github.com/gitpitch/gitpitch/wiki/Background-Setting#background-image-scaling) to `cover` in `PITCHME.yaml`
 - Optimize images using services like [tinypng.com](tinypng.com)
 - Press `F` to go fullscreen!
