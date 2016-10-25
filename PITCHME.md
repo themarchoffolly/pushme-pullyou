@@ -10,15 +10,11 @@
 - Set [background-size](https://github.com/gitpitch/gitpitch/wiki/Background-Setting#background-image-scaling) to `cover` in `PITCHME.yaml`
 - Optimize images using services like [tinypng.com](tinypng.com)
 
-#HSLIDE
-
-## SAMBA Architecture Animation
-
-#VSLIDE?image=assets/samba-01.jpg
+#HSLIDE?image=assets/samba-01.jpg
 <!-- .slide: data-background-transition="none" -->
-#VSLIDE?image=assets/samba-02.jpg
+#HSLIDE?image=assets/samba-02.jpg
 <!-- .slide: data-background-transition="none" -->
-#VSLIDE?image=assets/samba-03.jpg
+#HSLIDE?image=assets/samba-03.jpg
 <!-- .slide: data-background-transition="none" -->
-#VSLIDE?image=assets/samba-04.jpg
+#HSLIDE?image=assets/samba-04.jpg
 <!-- .slide: data-background-transition="none" -->
