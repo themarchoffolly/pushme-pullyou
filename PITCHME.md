@@ -8,7 +8,7 @@
 
 - Use high res images for image animations
 - Set [background-size](https://github.com/gitpitch/gitpitch/wiki/Background-Setting#background-image-scaling) to `cover` in `PITCHME.yaml`
-- Size optimize images using services like [tinypng.com](tinypng.com)
+- Optimize images using services like [tinypng.com](tinypng.com)
 
 #HSLIDE
 
