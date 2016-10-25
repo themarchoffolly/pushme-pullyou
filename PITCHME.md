@@ -20,3 +20,8 @@
 <!-- .slide: data-background-transition="none" -->
 #HSLIDE?image=assets/samba-04.jpg
 <!-- .slide: data-background-transition="none" -->
+
+#HSLIDE
+
+### Learn By Example
+### View The [Presentation Markdown](PITCHME.md)
