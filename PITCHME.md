@@ -2,11 +2,11 @@
 ## (Workflows)
 ## Feature Demonstration
 
-#VSLIDE?image=assets/samba-1.jpg
+#VSLIDE?image=assets/samba-01.jpg
 <!-- .slide: data-background-transition="none" -->
-#VSLIDE?image=assets/samba-2.jpg
+#VSLIDE?image=assets/samba-02.jpg
 <!-- .slide: data-background-transition="none" -->
-#VSLIDE?image=assets/samba-3.jpg
+#VSLIDE?image=assets/samba-03.jpg
 <!-- .slide: data-background-transition="none" -->
-#VSLIDE?image=assets/samba-4.jpg
+#VSLIDE?image=assets/samba-04.jpg
 <!-- .slide: data-background-transition="none" -->
