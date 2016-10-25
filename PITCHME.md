@@ -24,4 +24,4 @@
 #HSLIDE
 
 ### Learn By Example
-### View The [Presentation Markdown](PITCHME.md)
+### View The [Presentation Markdown](https://github.com/gitpitch/feature-demo/blob/image-animation/PITCHME.md)
