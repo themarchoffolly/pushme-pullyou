@@ -1,4 +1,4 @@
-## Image Animations
+<span style="text-align: left"><h1>Image Animations Title</h1></span>
 ### (Workflows)
 ## Feature Demonstration
 
