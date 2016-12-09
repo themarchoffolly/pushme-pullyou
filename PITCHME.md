@@ -1,3 +1,7 @@
+![Video](https://youtu.be/5X_QiX-E7aI?start=121)
+
+#HSLIDE
+
 [Link To Oracle](https://oracle.com)
 [Link To Git Wiki](https://github.com/gitpitch/gitpitch/wiki)
 
