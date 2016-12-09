@@ -2,6 +2,10 @@
 
 #HSLIDE
 
+![Video](https://www.youtube.com/embed/5X_QiX-E7aI?start=121&end=144)
+
+#HSLIDE
+
 [Link To Oracle](https://oracle.com)
 [Link To Git Wiki](https://github.com/gitpitch/gitpitch/wiki)
 
