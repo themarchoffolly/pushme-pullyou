@@ -1,11 +1,5 @@
 ![Video](https://www.youtube.com/embed/5X_QiX-E7aI?start=121)
 
-#HSLIDE?video=https://www.youtube.com/embed/5X_QiX-E7aI?start=121
-
-#HSLIDE?video=https://www.youtube.com/embed/5X_QiX-E7aI
-
-#HSLIDE?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
-
 #HSLIDE
 
 [Link To Oracle](https://oracle.com)
