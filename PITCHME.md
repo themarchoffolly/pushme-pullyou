@@ -2,6 +2,8 @@
 
 #HSLIDE?video=https://www.youtube.com/embed/5X_QiX-E7aI?start=121
 
+#HSLIDE?video=https://www.youtube.com/embed/5X_QiX-E7aI
+
 #HSLIDE
 
 [Link To Oracle](https://oracle.com)
