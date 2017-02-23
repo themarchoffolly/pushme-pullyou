@@ -1,5 +1,9 @@
-#### A sample equation:
+#HSLIDE
+```
+haystack = '12345'
+if '6' in haystack:
+    pass
+```
 
 #HSLIDE
-
-$$\sum_{i=0}n i2 = \frac{(n2+n)(2n+1)}{6}$$
+Some `inline` code
