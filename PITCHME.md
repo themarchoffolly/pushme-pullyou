@@ -1,5 +1,9 @@
 #HSLIDE
 
+#### Monospace font test
+
+#HSLIDE
+
 ```
 haystack = '12345'
 if '6' in haystack:
