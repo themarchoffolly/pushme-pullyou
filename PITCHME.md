@@ -1,4 +1,5 @@
 #HSLIDE
+
 ```
 haystack = '12345'
 if '6' in haystack:
@@ -6,4 +7,5 @@ if '6' in haystack:
 ```
 
 #HSLIDE
+
 Some `inline` code
