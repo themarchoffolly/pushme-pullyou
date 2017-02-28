@@ -25,7 +25,7 @@
 
 #HSLIDE
 
-<canvas class="stretch" data-chart="line">
+<canvas class="stretch" data-chart="bar">
 My first dataset, 65, 59, 80, 81, 56, 55, 40
 <!-- This is a comment that will be ignored -->
 My second dataset, 28, 48, 40, 19, 86, 27, 90
