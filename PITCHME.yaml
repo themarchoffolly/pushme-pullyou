@@ -2,3 +2,6 @@
 # logo : assets/logo.png
 # background : assets/room960-700.jpg
 revealjs-version : 3.4.1
+horz-delim : --
+vert-delim : ++
+vert-delim-regexp : \+\+
