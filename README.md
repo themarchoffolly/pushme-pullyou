@@ -7,11 +7,11 @@
 - [What is GitPitch?](#what-is-gitpitch)
 - [Is GitPitch for you?](#is-gitpitch-for-you)
 - [How does GitPitch work?](#how-does-gitpitch-work)
-    - [Presentations Are Compelling](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-are-compelling)
-    - [Presentations Are Customizable](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-are-customizable)
-    - [Presentations Are Composable](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-just-work)
-    - [Presentations Are Social](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-are-social)
-    - [Presentations Just Work](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-just-work)
+    - [Compelling](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-are-compelling)
+    - [Customizable](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-are-customizable)
+    - [Composable](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-just-work)
+    - [Social](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-are-social)
+    - [It Just Works](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-just-work)
 - [An Open Source Project](#gitpitch---an-open-source-project)
 
 ## What is GitPitch?
