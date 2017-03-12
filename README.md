@@ -9,7 +9,7 @@
 - [How does GitPitch work?](#how-does-gitpitch-work)
 - [Compelling Presentations](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-are-compelling)
 - [Customizable Presentations](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-are-customizable)
-- [Composable Presentations](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-just-work)
+- [Composable Presentations](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-are-customizable)
 - [Social Presentations](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-are-social)
 - [Presentations That Just Work](https://github.com/gitpitch/gitpitch#gitpitch-slideshow-presentations-just-work)
 - [An Open Source Project](#gitpitch---an-open-source-project)
