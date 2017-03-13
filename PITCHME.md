@@ -23,7 +23,7 @@
 
 ---?include=presentation/features/yaml.md
 
-+++?include=presentation/features/controls.md
+---?include=presentation/features/controls.md
 
 ---?include=presentation/features/social.md
 
