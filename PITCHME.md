@@ -34,5 +34,5 @@
 
 ### Learn By Example
 
-#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/composable-presentation/PITCHME.md">Presentation Markdown</a>
+#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/composable-markdown/PITCHME.md">Presentation Markdown</a>
 
