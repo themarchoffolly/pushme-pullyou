@@ -1,4 +1,5 @@
 ## The Kitchen Sink
+
 ##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Composable</span> Presentation Demo</span>
 
 ---?include=presentation/features/themes.md
@@ -27,7 +28,11 @@
 
 ---?include=presentation/features/social.md
 
+---?include=presentation/features/go-for-it.md
+
 ---
 
-## GO FOR IT.
-## JUST ADD <span style="color:#e49436; text-transform: none">PITCHME.md</span> ;)
+### Learn By Example
+
+#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/composable-presentation/PITCHME.md">Presentation Markdown</a>
+
