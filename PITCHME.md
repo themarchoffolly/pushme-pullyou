@@ -4,7 +4,11 @@
 
 ---?include=presentation/features/themes.md
 
+---?include=PITCHME.md
+
 ---?include=presentation/features/markdown.md
+
+---?include=./PITCHME.md
 
 ---?include=presentation/features/code.md
 
