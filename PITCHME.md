@@ -12,6 +12,8 @@
 
 ---?include=presentation/features/code.md
 
+---?include=Bad.md
+
 ---?include=presentation/features/gist.md
 
 ---?include=presentation/features/image.md
