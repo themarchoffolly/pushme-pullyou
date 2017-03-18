@@ -4,10 +4,10 @@
 
 #### Heart
 
-I :heart: it!
+I <i class="em em-heart"></i> it!
 
 ---
 
 #### Money With Wings
 
-:money_with_wings:
+<i class="em em-money_with_wings"></i>
