@@ -2,6 +2,14 @@
 
 ---
 
+```html
+    <vue-webcam ref='webcam'></vue-webcam>
+    <img src="photo">
+    <button type="button" @click="take_photo">Take Photo</button>
+```
+
+---
+
 Plain Image Tag
 
 ```
