@@ -19,6 +19,14 @@
 
 ---
 
+A pipe at the end of this text |
+
+-- A pipe here too |
+
+-  A double pipe ||
+
+---
+
 # Numbers
 - 1 <!-- .element: class="fragment" -->
 - 2 <!-- .element: class="fragment" -->
