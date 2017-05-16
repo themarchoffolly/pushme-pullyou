@@ -8,4 +8,15 @@
 
 ---
 
-The End
+Almost the End
+
+---?image=assets/chuck.gif
+
+---
+
+![Chuck](assets/chuck.gif)
+
+---
+
+# The End
+
