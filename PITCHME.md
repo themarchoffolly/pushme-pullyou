@@ -7,5 +7,5 @@
 ---?image=assets/chuck.gif
 
 # GitPitch
-# is
+### is
 # Chuck Norris Approved!
