@@ -2,7 +2,7 @@
 
 ---
 
-> One day a cobra bit Chuck Norris' leg.
+> One day a cobra bit Chuck Norris's leg.
 
 ---
 
