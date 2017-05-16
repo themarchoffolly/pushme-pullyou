@@ -10,6 +10,6 @@
 
 ---?image=assets/chuck.gif
 
-# This Story
+# This GitPitch
 ### is
 # Chuck Norris Approved!
