@@ -6,7 +6,4 @@
 
 ---?image=assets/chuck.gif
 
----
-
 # Chuck Norris Approved!
-
