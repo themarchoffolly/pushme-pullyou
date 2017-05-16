@@ -1,4 +1,4 @@
-# A True Story
+---?image=assets/true-story.jpg
 
 ---
 
@@ -8,5 +8,5 @@
 
 ---
 
-# The End
+# Chuck Norris Approved
 
