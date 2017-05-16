@@ -1,4 +1,4 @@
----?image=assets/texas-rangers-true-story.png
+---?image=assets/texas-rangers-true-story.jpg
 
 ---
 
