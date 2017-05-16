@@ -1,4 +1,4 @@
----?image=assets/true-story-top-secret.jpg
+---?image=assets/true-story-top-secret.png
 
 ---
 
