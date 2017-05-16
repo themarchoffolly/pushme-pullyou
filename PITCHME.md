@@ -1,20 +1,10 @@
-# Mardown Task Lists
-
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
+# A True Story
 
 ---
 
-Almost the End
+> Once a cobra bit Chuck Norris' leg. After five days of excruciating pain, the cobra died.
 
 ---?image=assets/chuck.gif
-
----
-
-![Chuck](assets/chuck.gif)
 
 ---
 
