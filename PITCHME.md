@@ -1,4 +1,4 @@
----?image=assets/texas-rangers-true-story.jpg
+---?image=assets/chuck-norris-approved.jpg
 
 ---
 
