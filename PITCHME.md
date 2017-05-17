@@ -10,4 +10,5 @@
 
 ---?image=assets/chuck-norris-thumbs-up.gif
 
-## Go tell your story ;)
+## With GitPitch
+## You Can Tell Any Story ;)
