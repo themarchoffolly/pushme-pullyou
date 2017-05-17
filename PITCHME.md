@@ -10,6 +10,4 @@
 
 ---?image=assets/chuck-norris-thumbs-up.gif
 
-# This GitPitch
-### is
-# Chuck Norris Approved!
+## What's your story? ;)
