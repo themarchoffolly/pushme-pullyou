@@ -8,7 +8,7 @@
 
 > After five days of excruciating pain, the cobra died.
 
----?image=assets/chuck.gif
+---?image=assets/chuck-norris-thumbs-up.gif
 
 # This GitPitch
 ### is
