@@ -1,4 +1,4 @@
----?image=https://ibb.co/ezemD5
+---?image=http://d1z75bzl1vljy2.cloudfront.net/demo/chuck-norris-approved.jpg
 
 ---
 
@@ -8,7 +8,7 @@
 
 > After five days of excruciating pain, the cobra died.
 
----?image=https://goo.gl/6T27UH
+---?image=http://d1z75bzl1vljy2.cloudfront.net/demo/chuck-norris-thumbs-up.gif
 
 ## With GitPitch
 ### You Can Tell
