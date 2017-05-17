@@ -10,4 +10,4 @@
 
 ---?image=assets/chuck-norris-thumbs-up.gif
 
-## What's your story? ;)
+## Go tell your story ;)
