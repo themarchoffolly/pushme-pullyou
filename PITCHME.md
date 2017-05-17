@@ -11,4 +11,4 @@
 ---?image=assets/chuck-norris-thumbs-up.gif
 
 ## With GitPitch
-## You Can Tell Any Story ;)
+## You Can Tell <span style="color: #e49436">Any</span> Story ;)
