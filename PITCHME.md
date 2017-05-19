@@ -26,3 +26,8 @@
 2. ![Image](https://gitpitch.com/texas-rangers.png)
 3. ![Image](https://gitpitch.com/texas-rangers.png)
 
+---
+
+## Links [Wiki](https://github.com/gitpitch/gitpitch/wiki) Lost in [GenMetrics](https://github.com/onetapbeyond/gen_metrics) Text
+
+
