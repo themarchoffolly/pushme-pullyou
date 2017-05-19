@@ -3,6 +3,14 @@
 
 ---
 
+https://gitpitch.com
+
+---
+
+- https://github.com/gitpitch/gitpitch/wiki
+
+---
+
 - [Wiki](https://github.com/gitpitch/gitpitch/wiki)
 - [GenMetrics](https://github.com/onetapbeyond/gen_metrics)
 
