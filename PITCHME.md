@@ -10,8 +10,19 @@
 
 - Before [Wiki](https://github.com/gitpitch/gitpitch/wiki)
 - [GenMetrics](https://github.com/onetapbeyond/gen_metrics) After
+- Before [Lambda](https://github.com/onetapbeyond/lambda-spark-executor) After
 
 ---
 
-![Image](https://gitpitch.com/texas-rangers.jpg)
+- Before [Wiki](https://github.com/gitpitch/gitpitch/wiki) During [GenMetrics](https://github.com/onetapbeyond/gen_metrics) After
+
+---
+
+![Image](https://gitpitch.com/texas-rangers.png)
+
+---
+
+1. ![Image](https://gitpitch.com/texas-rangers.jpg)
+2. ![Image](https://gitpitch.com/texas-rangers.jpg)
+3. ![Image](https://gitpitch.com/texas-rangers.jpg)
 
