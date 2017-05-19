@@ -3,11 +3,15 @@
 
 ---
 
-- [Wiki](https://github.com/gitpitch/gitpich/wiki)
+- [Wiki](https://github.com/gitpitch/gitpitch/wiki)
 - [GenMetrics](https://github.com/onetapbeyond/gen_metrics)
 
 ---
 
-- Before [Wiki](https://github.com/gitpitch/gitpich/wiki)
+- Before [Wiki](https://github.com/gitpitch/gitpitch/wiki)
 - [GenMetrics](https://github.com/onetapbeyond/gen_metrics) After
+
+---
+
+![Image](https://gitpitch.com/texas-rangers.jpg)
 
