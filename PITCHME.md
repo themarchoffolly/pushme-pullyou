@@ -5,6 +5,8 @@
 
 https://gitpitch.com
 
+http://gitpitch.com
+
 ---
 
 - https://github.com/gitpitch/gitpitch/wiki
