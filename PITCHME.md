@@ -22,7 +22,7 @@
 
 ---
 
-1. ![Image](https://gitpitch.com/texas-rangers.jpg)
-2. ![Image](https://gitpitch.com/texas-rangers.jpg)
-3. ![Image](https://gitpitch.com/texas-rangers.jpg)
+1. ![Image](https://gitpitch.com/texas-rangers.png)
+2. ![Image](https://gitpitch.com/texas-rangers.png)
+3. ![Image](https://gitpitch.com/texas-rangers.png)
 
