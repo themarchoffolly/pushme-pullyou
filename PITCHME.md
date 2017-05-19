@@ -5,6 +5,8 @@
 
 https://gitpitch.com
 
+- [Wiki](https://github.com/gitpitch/gitpitch/wiki)
+
 http://gitpitch.com
 
 ---
