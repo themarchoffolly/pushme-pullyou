@@ -1,5 +1,5 @@
 
-![GitPitch](https://gitpitch.com)
+[GitPitch](https://gitpitch.com)
 
 ---
 
