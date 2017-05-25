@@ -58,9 +58,9 @@ OCPUTask task = OCPU.R()
 ```
 
 @[1-9]
-@[2-5]
+@[2-5](Highlight lines 2-5)
 @[6]
-@[6-8]
+@[6-8](End of code highlights)
 
 #VSLIDE
 
