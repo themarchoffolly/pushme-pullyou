@@ -57,10 +57,10 @@ OCPUTask task = OCPU.R()
                     .library()
 ```
 
-@[1-9](Highlight entire code block)
-@[2-5](Highlight lines 2-5)
-@[6](Highlight just line 6)
-@[6-8](Highlight lines 6-8)
+@[1-9]
+@[2-5]
+@[6]
+@[6-8]
 
 #VSLIDE
 
