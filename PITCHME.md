@@ -57,9 +57,10 @@ OCPUTask task = OCPU.R()
                     .library()
 ```
 
-<span class="fragment current-only" data-code-focus="1-9">This section is a slide.</span>
-<span class="fragment current-only" data-code-focus="2-5">This fragments focuses on 2-5`.</span>
-<span class="fragment current-only" data-code-focus="6-8">This fragment focuses on 6-8.</span>
+@[1-9](Highlight entire code block)
+@[2-5](Highlight lines 2-5)
+@[6](Highlight just line 6)
+@[6-8](Highlight lines 6-8)
 
 #VSLIDE
 
