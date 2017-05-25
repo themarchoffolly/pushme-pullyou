@@ -9,7 +9,8 @@
 #HSLIDE
 
 ```Elixir
-defstruct pipeline: %Pipeline{}, metrics: nil, start: 0, duration: 0
+defstruct pipeline: %Pipeline{},
+          metrics: nil, start: 0, duration: 0
 
 def start_link(pipeline) do
     GenServer.start_link(__MODULE__, pipeline)
@@ -24,13 +25,13 @@ def init(pipeline) do
 end
 ```
 
-@[1]
-@[3-5]
-@[7-13]
-@[8]
+@[1-2]
+@[4-6]
+@[8-14]
 @[9]
 @[10]
 @[11]
+@[12]
 
 #HSLIDE
 
