@@ -35,6 +35,35 @@ end
 
 #HSLIDE
 
+```Elixir
+defstruct pipeline: %Pipeline{},
+          metrics: nil, start: 0, duration: 0
+
+def start_link(pipeline) do
+    GenServer.start_link(__MODULE__, pipeline)
+end
+
+def init(pipeline) do
+    with {:ok, _}     <- validate_modules(pipeline),
+         {:ok, _}     <- validate_behaviours(pipeline),
+         {:ok, _}     <- activate_tracing(pipeline),
+         state        <- initialize_monitor(pipeline),
+      do: start_monitor(state)
+end
+```
+
+@[1-2](GenStage pipeline data structure.)
+@[4-6](GenMetrics monitor launch interface.)
+@[8-14](GenMetrics monitor initialization interface.)
+@[9](Ensure pipeline modules can be loaded.)
+@[10](Ensure pipeline modules have GenStage behaviour.)
+@[11](Ensure Erlang tracing is initialized.)
+@[12](Ensure monitor initialization completes.)
+
+#HSLIDE
+
+#HSLIDE
+
 > Where Apache SparkR lets data scientists use Spark from R,
 > ROSE is designed to let Scala and Java developers use R from Spark.
 
