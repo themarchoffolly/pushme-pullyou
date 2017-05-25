@@ -57,8 +57,8 @@ OCPUTask task = OCPU.R()
                     .library()
 ```
 
-<span class="fragment current-only" data-code-focus="1-9" />
-<span class="fragment current-only" data-code-focus="2-5" />
+<span class="fragment current-only" data-code-focus="1-9">This section is a slide.</span>
+<span class="fragment current-only" data-code-focus="2-5">This fragments focuses on 2-5`.</span>
 <span class="fragment current-only" data-code-focus="6-8">This fragment focuses on 6-8.</span>
 
 #VSLIDE
