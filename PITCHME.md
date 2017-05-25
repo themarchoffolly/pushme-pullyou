@@ -56,7 +56,7 @@ end
 @[4-6](GenMetrics monitor launch interface.)
 @[8-14](GenMetrics monitor initialization interface.)
 @[9](Ensure pipeline modules can be loaded.)
-@[10](Ensure pipeline modules have GenStage behaviour.)
+@[10](Ensure pipeline modules GenStage behaviour.)
 @[11](Ensure Erlang tracing is initialized.)
 @[12](Ensure monitor initialization completes.)
 
