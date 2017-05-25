@@ -46,7 +46,6 @@
 <span style="color:gray">An executable object that represents an R function call.</span>
 
 ```scala
-
 // Build R function parameter values as Map.
 HashMap params = HashMap(n -> 10, mean -> 5)
 
@@ -57,6 +56,10 @@ OCPUTask task = OCPU.R()
                     .input(params.asJava)
                     .library()
 ```
+
+<span class="fragment current-only" data-code-focus="1-9">This section is a slide.</span>
+<span class="fragment current-only" data-code-focus="2-5">This fragments focuses on 2-5`.</span>
+<span class="fragment current-only" data-code-focus="6-8">This fragment focuses on 6-8.</span>
 
 #VSLIDE
 
