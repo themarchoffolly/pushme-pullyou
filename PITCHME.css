@@ -1,6 +1,6 @@
 .reveal pre code {
-  font-size: 1.3em;
-  line-height: 1.2;
+  font-size: 1.0em;
+  /* line-height: 1.2; */
 }
 
 .reveal pre {
