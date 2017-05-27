@@ -6,6 +6,8 @@
 
 <span style="color:gray">An Apache Spark Package</span>
 
+#HSLIDE?code=lib/demo.ex
+
 #HSLIDE
 
 ```
