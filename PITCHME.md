@@ -8,6 +8,12 @@
 
 #HSLIDE?code=lib/sample.ex
 
+#HSLIDE?code=lib/math.ex
+
+@[2]
+@[11-14]
+@[19-21]
+
 #HSLIDE?code=lib/runtime.ex
 
 @[1]
