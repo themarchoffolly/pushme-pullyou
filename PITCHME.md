@@ -257,6 +257,7 @@ defmodule GenMetrics.GenStage.Monitor do
 end
 ```
 
+@code=path/to/code
 @[1-2]
 @[4-6]
 @[8-14]

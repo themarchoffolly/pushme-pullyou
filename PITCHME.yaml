@@ -3,3 +3,4 @@
 # background : assets/room960-700.jpg
 revealjs-version : 3.4.1
 remote-control: true
+theme-override: ./PITCHME.css
