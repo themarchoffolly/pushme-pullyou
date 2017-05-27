@@ -8,6 +8,11 @@
 
 #HSLIDE?code=lib/runtime.ex
 
+@[1]
+@[30-35]
+@[45-55]
+@[600]
+
 #HSLIDE
 
 ```
