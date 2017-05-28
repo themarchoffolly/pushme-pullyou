@@ -18,9 +18,9 @@ func main() {
 }
 ```
 
-@[1]
-@[3]
-@[5-7]
+@[1](Use package main for executable command.)
+@[3](Import fmt for use within current package.)
+@[5-7](Declare function to execute for command.)
 
 #HSLIDE?code=lib/sample.ex
 
