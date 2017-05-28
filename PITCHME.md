@@ -6,6 +6,20 @@
 
 <span style="color:gray">An Apache Spark Package</span>
 
+#HSLIDE
+
+```
+package main
+import "fmt"
+func main() {
+    fmt.Println("Hello, world!")
+}
+```
+
+@[1]
+@[3]
+@[5-7]
+
 #HSLIDE?code=lib/sample.ex
 
 #HSLIDE?code=lib/math.ex
