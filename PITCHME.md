@@ -9,7 +9,6 @@
 #HSLIDE
 
 ```
-
 package main
 
 import "fmt"
@@ -17,11 +16,10 @@ import "fmt"
 func main() {
     fmt.Println("Hello, world!")
 }
-
 ```
-@[2]
-@[4]
-@[6-8]
+@[1]
+@[3]
+@[5-7]
 
 #HSLIDE
 
