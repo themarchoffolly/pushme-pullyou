@@ -34,3 +34,6 @@ TODO
 
 <!-- .slide: data-background-image="http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png" data-background-size="contain" -->
 
+---
+
+<img class="stretch" src="http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png"></img>
