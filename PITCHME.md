@@ -14,6 +14,8 @@ TODO
 
 ![operating-point](http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png)
 
+---?image=http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png
+
 ---
 
 <!-- .slide: data-background-image="http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png" data-background-size="100% 100%" -->
