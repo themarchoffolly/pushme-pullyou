@@ -50,3 +50,23 @@ The next slide is a standard Markdown image of squared
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/themarchoffolly/pushme-pullyou/rebbr/assets/vanjacobson1-squared.png" data-background-size="contain" -->
 
+---
+
+The next slide is a standard Markdown image of reversed-ar
+
+---
+
+![operating-point](assets/van-reverse-aspect-ratio.png)
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/themarchoffolly/pushme-pullyou/rebbr/assets/van-reverse-aspect-ratio.png" data-background-size="contain" -->
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/themarchoffolly/pushme-pullyou/rebbr/assets/van-reverse-aspect-ratio.png" data-background-size="auto" -->
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/themarchoffolly/pushme-pullyou/rebbr/assets/van-reverse-aspect-ratio.png" data-background-size="100% 100%" -->
+
