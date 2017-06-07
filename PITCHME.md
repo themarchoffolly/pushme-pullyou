@@ -77,6 +77,9 @@ Next slide is implicit about php highlight type
 <body>
 ```
 
+@[1]
+@[3-5]
+
 ---
 
 Next slide is implicit about php highlight type
@@ -101,3 +104,6 @@ Next slide is implicit about php highlight type
 </header>
 <body>
 ```
+
+@[1]
+@[3-5]
