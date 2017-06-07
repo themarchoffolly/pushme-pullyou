@@ -40,9 +40,13 @@ TODO
 
 --
 
+The next slide is a standard Markdown image of squared
+
+--
+
 ![operating-point](assets/vanjacobson1-squared.png)
 
 ---
 
-<!-- .slide: data-background-image="assets/vanjacobson1-squared.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/themarchoffolly/pushme-pullyou/rebbr/assets/vanjacobson1-squared.png" data-background-size="contain" -->
 
