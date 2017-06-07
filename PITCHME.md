@@ -107,3 +107,17 @@ Next slide is implicit about php highlight type
 
 @[1]
 @[3-5]
+
+---
+
+Next slide uses code delimiter no lang hint
+
+---?code=src/header.php
+
+---
+
+Next slide uses code delimiter with lang hint php
+
+---?code=src/header.php
+
+
