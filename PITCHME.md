@@ -21,6 +21,6 @@ Custom size: cover
 
 Custom size: 90% 90%
 
----?image=http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png&size=50% 50%
+---?image=http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png&size=75% 75%
 
 Custom size: 75% 75%
