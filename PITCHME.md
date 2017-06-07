@@ -37,3 +37,12 @@ TODO
 ---
 
 <img class="stretch" src="http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png"></img>
+
+--
+
+![operating-point](assets/vanjacobson1-squared.png)
+
+---
+
+<!-- .slide: data-background-image="assets/vanjacobson1-squared.png" data-background-size="contain" -->
+
