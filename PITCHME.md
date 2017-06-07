@@ -2,6 +2,8 @@
 
 Custom size: not specified
 
+Image size defaults to 100% 100%
+
 
 ---?image=http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png&size=contain
 
