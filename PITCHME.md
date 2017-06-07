@@ -38,11 +38,11 @@ TODO
 
 <img class="stretch" src="http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png"></img>
 
---
+---
 
 The next slide is a standard Markdown image of squared
 
---
+---
 
 ![operating-point](assets/vanjacobson1-squared.png)
 
