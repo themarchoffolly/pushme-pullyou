@@ -1,3 +1,20 @@
+---
+THE NEXT SLIDE USES A DOUBLE-BANG
+
+---
+
+!![operating-point](http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png)
+
+---
+
+THE NEXT SLIDE USES A OPTIONS [] BRACKETS
+
+---
+
+![operating-point](http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png)[90% 90%]
+
+--- 
+
 ## ReBBR: Reproducing BBR Performance on Lossy Networks
 
 Luke Hsiao and Jervis Muindi
