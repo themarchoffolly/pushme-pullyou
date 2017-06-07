@@ -121,7 +121,7 @@ Next slide uses code delimiter no lang hint
 
 Next slide uses code delimiter with lang hint php
 
----?code=src/header.php
+---?code=src/header.php&lang=php
 
 @[1]
 @[3-5]
