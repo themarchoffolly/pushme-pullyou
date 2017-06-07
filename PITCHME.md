@@ -82,7 +82,7 @@ Next slide is implicit about php highlight type
 
 ---
 
-Next slide is implicit about php highlight type
+Next slide is explicit about php highlight type
 
 ---
 
