@@ -18,9 +18,25 @@ TODO
 
 <!-- .slide: data-background-image="http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png" data-background-size="100% 100%" -->
 
+# 100%
+
+---
+
+<!-- .slide: data-background-image="http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png" data-background-size="95% 95%" -->
+
+# 95%
+
+---
+
+<!-- .slide: data-background-image="http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png" data-background-size="90% 90%" -->
+
+# 90%
+
 ---
 
 <!-- .slide: data-background-image="http://deliveryimages.acm.org/10.1145/3030000/3022184/vanjacobson1.png" data-background-size="80% 80%" -->
+
+# 80%
 
 ---
 
