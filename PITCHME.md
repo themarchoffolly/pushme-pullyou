@@ -1,20 +1,16 @@
-# Introduction Centered
+# Slide A Not-Centered
 
----
-
-## Topic A Centered
-
-xxx
+Lorem ipsum dolor sit amet...
 
 ---
 <!-- .slide: class="center" -->
 
-## Topic B Not-Centered
+# Slide B Centered
 
-xxx
+Lorem ipsum dolor sit amet...
 
 ---
 
-## Topic C Centered
+# Slide C Not-Centered
 
-xxx
+Lorem ipsum dolor sit amet...
