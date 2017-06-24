@@ -1,16 +1,16 @@
-<!-- .slide: class="center" -->
-# Slide A Centered
+<!-- .slide: class="initial" -->
+# Slide A Centered?
 
 Lorem ipsum dolor sit amet...
 
 ---
 
-# Slide B Not-Centered
+# Slide B Centered?
 
 Lorem ipsum dolor sit amet...
 
 ---
-<!-- .slide: class="center" -->
-# Slide C Centered
+<!-- .slide: class="inherit" -->
+# Slide C Centered?
 
 Lorem ipsum dolor sit amet...
