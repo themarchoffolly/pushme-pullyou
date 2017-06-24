@@ -1,4 +1,4 @@
-<!-- .slide: class="initial" -->
+<!-- .slide: class="center" -->
 # Slide A Centered?
 
 Lorem ipsum dolor sit amet...
@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet...
 Lorem ipsum dolor sit amet...
 
 ---
-<!-- .slide: class="inherit" -->
+<!-- .slide: class="center" -->
 # Slide C Centered?
 
 Lorem ipsum dolor sit amet...
