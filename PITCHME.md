@@ -1,16 +1,16 @@
 <!-- .slide: class="center" -->
-# Slide A Centered?
+# Slide A Text Vertically-Centered
 
 Lorem ipsum dolor sit amet...
 
 ---
 
-# Slide B Centered?
+# Slide B Text Not-Vertically-Centered
 
 Lorem ipsum dolor sit amet...
 
 ---
 <!-- .slide: class="center" -->
-# Slide C Centered?
+# Slide C Text Vertically-Centered
 
 Lorem ipsum dolor sit amet...
