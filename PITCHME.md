@@ -10,9 +10,6 @@ Next slide uses iframe directly...
 
 ---
 
-Next slide uses data-bg-interactive...
+Next slide uses iframe delimiter
 
-+++
-
-<section data-background-iframe="http://minicss.org" data-background-interactive>
-</section>
++++?iframe=http://minicss.org
