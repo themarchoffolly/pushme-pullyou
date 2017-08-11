@@ -6,7 +6,7 @@ Next slide uses iframe directly...
 
 +++
 
-<iframe data-src="http://minicss.org/"></iframe>
+<iframe class="stretch" data-src="http://minicss.org/"></iframe>
 
 ---
 
