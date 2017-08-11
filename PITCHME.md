@@ -13,3 +13,12 @@ Next slide uses iframe directly...
 Next slide uses iframe delimiter
 
 +++?iframe=http://minicss.org
+
+---
+
+Requested embed...
+
++++
+
+<iframe class="stretch" data-src="http://tinyurl.com/y92cnd9r"></iframe>
+
