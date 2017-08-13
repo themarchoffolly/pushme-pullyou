@@ -1,7 +1,6 @@
 image	assets/splash.png	size=auto 90%
 markdown	md/intro.md	
-code	src/python/loop.py	frags=1, 4, 5
+code	src/python/loop.py	frags=1, 4, 5, lang=python
 video	https://vimeo.com/tutorial.mov	
-code	src/elixir/with.ex	frags=1:Module constants assignment, 4:For comprehension with error handling, 5-9:Pattern matching on function map parameter
+code	src/elixir/with.ex	frags=1:Module constants assignment, 4:For comprehension with error handling, 5-9:Pattern matching on function map parameter, lang=elixir
 web	https://localhost:9000	
-
