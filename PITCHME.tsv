@@ -1,5 +1,5 @@
 image	assets/splash.png	auto 90%
-markdown	md/intro.md
+markdown	md/intro.md	
 code	src/python/loop.py	1, 4, 5
-video	https://vimeo.com/tutorial.mov
-web	https://localhost:9000
+video	https://vimeo.com/tutorial.mov	
+web	https://localhost:9000	
