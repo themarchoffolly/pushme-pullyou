@@ -1,6 +1,7 @@
 image	assets/splash.png	size=auto 90%
 markdown	md/intro.md	
 code	src/python/loop.py	frags=1, 4, 5, lang=python
+diff    src/go/main.go	commits=master:4335666
 video	https://vimeo.com/tutorial.mov	
 image	assets/step1.png, assets/step2.png, assets/step3.png	
 code	src/elixir/with.ex	frags=1:Module constants assignment, 4:For comprehension with error handling, 5-9:Pattern matching on function map parameter, lang=elixir
