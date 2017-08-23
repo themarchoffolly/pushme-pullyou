@@ -43,9 +43,9 @@
 
 # li fragment around content
 
-<ul>
+<ol>
 <li class="fragment">One *One* _One_</li>
 <li class="fragment">Two *Two* _Two_</li>
 <li class="fragment">Three *Three* _Three_</li>
-</ul>
+</ol>
 
