@@ -1,51 +1,25 @@
-
-
-
-
-- One *One* _One_
-- Two *Two* _Two_
-- Three *Three* _Three_
-
----
-
-# Basic shortcut syntax
-
-- One *One* _One_ |
-- Two *Two* _Two_ |
-- Three *Three* _Three_ |
-
----
-
-# Span fragment around content only
-
-- <span class="fragment">One *One* _One_</span>
-- <span class="fragment">Two *Two* _Two_</span>
-- <span class="fragment">Three *Three* _Three_</span>
-
----
-
-# Span fragment around content and -
-
-<span class="fragment">- One *One* _One_</span>
-<span class="fragment">- Two *Two* _Two_</span>
-<span class="fragment">- Three *Three* _Three_</span>
-
----
-
-# Span fragment and li around content
-
-<span class="fragment"><li>One *One* _One_</li></span>
-<span class="fragment"><li> Two *Two* _Two_</li></span>
-<span class="fragment"><li> Three *Three* _Three_</li></span>
+<ul>
+<li class="fragment">![kitten](https://s-media-cache-ak0.pinimg.com/236x/a4/30/d9/a430d949eb0da1204c6cbe2958d7a188--iphone-c-cases-case-for-iphone.jpg)</li>
+<li class="fragment">**Get** the *word* out</li>
+<li class="fragment">This works fine though</li>
+<li class="fragment">This [link](https://www.google.com)</li>
+<li class="fragment"><span style="color:red">this</span>?</li>
+</ul>
 
 ---
 
 
 # li fragment around content
 
-<ol>
+<ul>
 <li class="fragment">One *One* _One_</li>
 <li class="fragment">Two *Two* _Two_</li>
 <li class="fragment">Three *Three* _Three_</li>
-</ol>
+</ul>
+
+---
+
+- One *One* _One_ |
+- Two *Two* _Two_ |
+- Three *Three* _Three_ |
 
