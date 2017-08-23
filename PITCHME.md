@@ -1,4 +1,7 @@
 
+
+
+
 - One *One* _One_
 - Two *Two* _Two_
 - Three *Three* _Three_
@@ -34,4 +37,13 @@
 <span class="fragment"><li>One *One* _One_</li></span>
 <span class="fragment"><li> Two *Two* _Two_</li></span>
 <span class="fragment"><li> Three *Three* _Three_</li></span>
+
+---
+
+
+# li fragment around content
+
+<li class="fragment">One *One* _One_</li>
+<li class="fragment">Two *Two* _Two_</li>
+<li class="fragment">Three *Three* _Three_</li>
 
