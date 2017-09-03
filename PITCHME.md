@@ -1,8 +1,8 @@
 GIST Testing
 
----?gist=hello
+---?gist=8da53731fd54bab9d5c6
 
----?gist=goodbye&file=noddy.ex
+---?gist=onetapbeyond/2b5eb569ab69765877da&lang=Java
 
----?gist=world&file=foo.java&lang=Java
+---?gist=onetapbeyond/2b5eb569ab69765877da&lang=Java&file=fluent-r-integration-deployr-histogram-example.groovy
 
