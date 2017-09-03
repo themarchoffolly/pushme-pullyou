@@ -4,6 +4,7 @@ GIST Testing
 
 ---?gist=onetapbeyond/2b5eb569ab69765877da&lang=Java
 
-
 ---?gist=onetapbeyond/2b5eb569ab69765877da&file=fluent-r-integration-deployr-histogram-example.groovy&lang=Groovy
+
+---?gist=not/exist&lang=bad
 
