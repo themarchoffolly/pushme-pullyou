@@ -8,3 +8,5 @@ GIST Testing
 
 ---?gist=not/exist&lang=bad
 
+---?gist=not/exist&lang=bad&file=test.groovy
+
