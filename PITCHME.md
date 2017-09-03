@@ -2,7 +2,7 @@ GIST Testing
 
 ---?gist=hello
 
----?gist=goodbye&filename=noddy.ex
+---?gist=goodbye&file=noddy.ex
 
----?gist=world&filename=foo.java&lang=Java
+---?gist=world&file=foo.java&lang=Java
 
