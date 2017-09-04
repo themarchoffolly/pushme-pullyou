@@ -2,10 +2,10 @@ GIST Testing
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=Scala
 
-@[23](Initialize Apache Spark cluster configuration)
-@[47-53](Build RDD representing set of AWS Lambda tasks)
+@[23](Initialize Apache Spark cluster execution context)
+@[47-53](Transform RDD into set of AWS Lambda tasks)
 @[62](Delegate execution off Spark cluster to AWS Lambda)
-@[72-75](Collect AWS Lambda task results)
+@[72-75](Handle AWS Lambda task execution results)
 
 ---?gist=8da53731fd54bab9d5c6
 
