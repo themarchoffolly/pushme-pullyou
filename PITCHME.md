@@ -1,6 +1,6 @@
 GIST Testing
 
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=Scala&title=#### GIST: Scala Snippet
+---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=Scala&title=# GIST: Scala Snippet
 
 @[23](Initialize Apache Spark cluster execution context)
 @[47-53](Transform RDD into set of AWS Lambda tasks)
