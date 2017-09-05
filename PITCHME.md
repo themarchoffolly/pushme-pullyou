@@ -15,6 +15,12 @@
 
 ---?gist=onetapbeyond/3b893fa75304db752741145d94d1c2c7&lang=JS&title=GIST: JavaScript Snippet
 
-@[1]
-@[2-5]
+@[1](React components let you split the UI)
+@[1](React components are independent, and reusable)
+@[2-5](Let React know if a component's state changed)
+
+---
+
+### Learn By Example
+#### View The <a target="_blank" href="https://github.com/gitpitch/gist-code-presenting/blob/master/PITCHME.md">Presentation Markdown</a>
 
