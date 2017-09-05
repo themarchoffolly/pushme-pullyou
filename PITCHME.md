@@ -11,7 +11,9 @@ All code appearing in this presentation
 comes from GitHub GISTS.
 
 <br>
+
 <span style="color:#e49436">---?gist=gist_id</span>
+
 <br>
 
 Using this simple delimiter syntax.
