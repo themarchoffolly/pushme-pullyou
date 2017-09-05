@@ -16,7 +16,8 @@ comes from GitHub GISTS.
 
 <br>
 
-Using this simple slide delimiter syntax.
+Using this simple slide delimiter syntax.   
+And rendered <span style="color:#e49436">beautifully</span> by GitPitch.
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=Scala&title=GIST: Scala Snippet
 
