@@ -32,9 +32,9 @@ Using this simple slide delimiter syntax.
 
 ---?gist=onetapbeyond/3b893fa75304db752741145d94d1c2c7&lang=JS&title=GIST: JavaScript Snippet
 
-@[1](React components partition the UI)
-@[1](Each is independent, and reusable)
-@[2-5](React callback on state change)
+@[1](React components partition the UI.)
+@[1](Each is independent, and reusable.)
+@[2-5](React callback on state change.)
 
 ---
 
