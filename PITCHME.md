@@ -1,8 +1,7 @@
 # GitHub Gist
 # Code Presenting
 
-#### Step through GISTs
-#### Like Never Before...
+#### Don't Just Share, <span style="color:#e49436">Present</span>.
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=Scala&title=GIST: Scala Snippet
 
