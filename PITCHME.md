@@ -8,12 +8,13 @@
 ---
 
 All code appearing in this presentation   
-comes from GISTS.
+comes from GitHub GISTS.
 
+<br>
 <span style="color:#e49436">---?gist=gist_id</span>
+<br>
 
 Using this simple delimiter syntax.
-
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=Scala&title=GIST: Scala Snippet
 
