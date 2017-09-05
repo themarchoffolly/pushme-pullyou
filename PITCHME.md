@@ -4,7 +4,7 @@ Introduction
 
 @[25-29](Initialize an Apache Spark batch data source)
 @[41-53](Transform data source to AWS Lambda executable tasks)
-@[57-62)(Delegate task execution off Apache Cluster to AWS Lambda)
+@[57-62](Delegate task execution off Apache Cluster to AWS Lambda)
 
 ---?gist=onetapbeyond/8da53731fd54bab9d5c6&lang=Groovy&title=GIST: Groovy Snippet
 
