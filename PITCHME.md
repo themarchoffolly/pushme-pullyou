@@ -3,7 +3,7 @@
 
 <br>
 
-#### GISTs just got <span style="color:#e49436">interactive</span>.
+#### GISTs just got <span style="color:#e49436">interactive</span> ;)
 
 ---
 
