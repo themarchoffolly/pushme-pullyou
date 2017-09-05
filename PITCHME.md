@@ -1,5 +1,5 @@
 ---
-## language: elixir
+## Learn X in Y: elixir
 Joao Marques @ http://github.com/mrshankly
 Dzianis Dashkevich @ https://github.com/dskecse
 Ryan Plant @ https://github.com/ryanplant-au
