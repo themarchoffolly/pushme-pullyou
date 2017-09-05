@@ -4,3 +4,4 @@
 # revealjs-version : 3.4.1
 highlight : ir-black
 background : assets/black.jpg
+theme-override : assets/custom.css
