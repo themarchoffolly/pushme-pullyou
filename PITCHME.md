@@ -19,15 +19,15 @@
 
 ---?gist=onetapbeyond/3b893fa75304db752741145d94d1c2c7&lang=JS&title=GIST: JavaScript Snippet
 
-@[1](React components let you partition the UI)
-@[1](Each component is independent, and reusable)
-@[2-5](React callback to test component state change)
+@[1](React components partition the UI)
+@[1](Each is independent, and reusable)
+@[2-5](React callback on state change)
 
 ---
 
 ### GIST Code Presenting
 
-##### Available *Online* and *Offline*!
+##### Available Online and <span style="color:#e49436">Offline</span>!
 
 ---
 
