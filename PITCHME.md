@@ -15,9 +15,9 @@
 
 ---?gist=onetapbeyond/3b893fa75304db752741145d94d1c2c7&lang=JS&title=GIST: JavaScript Snippet
 
-@[1](React components let you split the UI)
-@[1](React components are independent, and reusable)
-@[2-5](Let React know if a component's state changed)
+@[1](React components let you partition the UI)
+@[1](Each component is independent, and reusable)
+@[2-5](React callback to test component state change)
 
 ---
 
