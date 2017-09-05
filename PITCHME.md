@@ -1,7 +1,8 @@
 # GitHub Gist
 # Code Presenting
 
-#### Step through GIST code...
+#### Step through GISTs
+#### Like Never Before...
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=Scala&title=GIST: Scala Snippet
 
@@ -25,7 +26,7 @@
 
 ### GIST Code Presenting
 
-##### Present Online and *Offline*!
+##### Available *Online* and *Offline*!
 
 ---
 
