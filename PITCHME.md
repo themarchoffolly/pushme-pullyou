@@ -1,6 +1,8 @@
 # GitHub Gist
 # Code Presenting
 
+#### Step through GIST code...
+
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=Scala&title=GIST: Scala Snippet
 
 @[25-29]
@@ -18,6 +20,12 @@
 @[1](React components let you partition the UI)
 @[1](Each component is independent, and reusable)
 @[2-5](React callback to test component state change)
+
+---
+
+### GIST Code Presenting
+
+##### Present Online and *Offline*!
 
 ---
 
