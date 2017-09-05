@@ -3,7 +3,7 @@
 
 <br>
 
-#### GISTs just got <span style="color:#e49436">interactive</span>.
+##### GISTs just got <span style="color:#e49436">interactive</span>.
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=Scala&title=GIST: Scala Snippet
 
