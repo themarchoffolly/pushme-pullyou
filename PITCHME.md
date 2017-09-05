@@ -2,7 +2,7 @@ Elixir is a modern functional language built on top of the Erlang VM.
 It's fully compatible with Erlang, but features a more standard syntax
 and many more features.
 
----?code=assets/learnxiny.ex
+---?code=assets/learnxiny.ex&title=Learn X in Y Minutes: Elixir
 
 @[1-2]
 @[3-5]
