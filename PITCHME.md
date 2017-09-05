@@ -7,9 +7,13 @@
 
 ---
 
-All code appearing in this presentation comes from GISTS...
+All code appearing in this presentation   
+comes from GISTS.
 
-Using simple `---?gist=gist_id` syntax ;-)
+<span style="color:#e49436">---?gist=gist_id</span>
+
+Using this simple delimiter syntax.
+
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=Scala&title=GIST: Scala Snippet
 
