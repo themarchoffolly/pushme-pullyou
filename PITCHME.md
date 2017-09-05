@@ -15,7 +15,7 @@
 
 @[6-9]
 @[11-12]
-@[16-18]
+@[14-18]
 
 ---?gist=onetapbeyond/3b893fa75304db752741145d94d1c2c7&lang=JS&title=GIST: JavaScript Snippet
 
