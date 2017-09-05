@@ -1,4 +1,3 @@
 theme : black
 highlight : ir-black
-# background : assets/black.jpg
 theme-override : assets/custom.css
