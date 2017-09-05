@@ -1,5 +1,5 @@
-theme : black
-highlight : monokai
+theme : white
+highlight : github
 # logo : assets/logo.png
 # background : assets/room960-700.jpg
 # revealjs-version : 3.4.1
