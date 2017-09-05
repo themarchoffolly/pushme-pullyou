@@ -1,9 +1,9 @@
 ---
 ## language: elixir
-- ["Joao Marques", "http://github.com/mrshankly"]
-- ["Dzianis Dashkevich", "https://github.com/dskecse"]
-- ["Ryan Plant", "https://github.com/ryanplant-au"]
-- ["Adrian Carrascal", "https://github.com/acarrascalgarcia"]
+Joao Marques @ http://github.com/mrshankly
+Dzianis Dashkevich @ https://github.com/dskecse
+Ryan Plant @ https://github.com/ryanplant-au
+Adrian Carrascal @ https://github.com/acarrascalgarcia
 ---
 
 Elixir es un lenguaje funcional moderno construido sobre la máquina virtual de Erlang.
