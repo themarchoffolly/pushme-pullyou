@@ -15,6 +15,8 @@ Elixir es un lenguaje funcional moderno construido sobre la máquina virtual de 
 Es completamente compatibe con Erlang, sin embargo, ofrece una sintaxis más estandar
 y otras características más.
 
+---
+
 ```elixir
 
 # Los comentarios de única línea
