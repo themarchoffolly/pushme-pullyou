@@ -1,5 +1,5 @@
 ## Learn X in Y: javascript
-Adam Brenecki @ http://adam.brenecki.id.au
+Adam Brenecki @ http://adam.brenecki.id.au   
 Ariel Krakowski @ http://www.learneroo.com
 
 ---
