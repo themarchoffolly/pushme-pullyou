@@ -619,13 +619,13 @@ Mozilla Developer Network.
 
 ---
 
-1: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-2: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-3: https://developer.mozilla.org/en-US/docs/Using_the_W3C_DOM_Level_1_Core
-4: http://www.learneroo.com/modules/64/nodes/350
-5: http://bonsaiden.github.io/JavaScript-Garden/
-6: http://www.amazon.com/gp/product/0596805527/
-7: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-8: http://eloquentjavascript.net/
-9: http://watchandcode.com/courses/eloquent-javascript-the-annotated-version
-10: http://jstherightway.org/
+1. https://developer.mozilla.org/en-US/docs/Web/JavaScript
+1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+1. https://developer.mozilla.org/en-US/docs/Using_the_W3C_DOM_Level_1_Core
+1. http://www.learneroo.com/modules/64/nodes/350
+1. http://bonsaiden.github.io/JavaScript-Garden/
+1. http://www.amazon.com/gp/product/0596805527/
+1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+1. http://eloquentjavascript.net/
+1. http://watchandcode.com/courses/eloquent-javascript-the-annotated-version
+1. http://jstherightway.org/
