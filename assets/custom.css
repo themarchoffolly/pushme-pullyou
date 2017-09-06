@@ -12,3 +12,7 @@ html:-moz-full-screen-ancestor {
   background: #000;
   background-color: #000;
 }
+
+.reveal pre code {
+  font-size: 0.8em;
+}
