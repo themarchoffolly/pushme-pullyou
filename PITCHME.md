@@ -19,6 +19,7 @@ public @Rule TestName name = new TestName();
 ```
 
 @[1](Line 1)
+@[7, 11-14)
 @[2,3,4](Lines 2,3,4)
 @[2,3,4, 6-7](Lines 2,3,4, 6-7)
 @[6-7, 9-14](Lines 6-7, 9-14)
