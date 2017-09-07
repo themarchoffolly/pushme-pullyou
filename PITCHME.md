@@ -718,16 +718,3 @@ to JavaScript and help experienced developers learn more about its best practice
 In addition to direct contributors to this article, some content is adapted from
 Louie Dinh's Python tutorial on this site, and the [JS Tutorial][7] on the
 Mozilla Developer Network.
-
----
-
-1. https://developer.mozilla.org/en-US/docs/Web/JavaScript
-1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-1. https://developer.mozilla.org/en-US/docs/Using_the_W3C_DOM_Level_1_Core
-1. http://www.learneroo.com/modules/64/nodes/350
-1. http://bonsaiden.github.io/JavaScript-Garden/
-1. http://www.amazon.com/gp/product/0596805527/
-1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-1. http://eloquentjavascript.net/
-1. http://watchandcode.com/courses/eloquent-javascript-the-annotated-version
-1. http://jstherightway.org/
