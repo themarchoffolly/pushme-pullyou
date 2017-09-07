@@ -3,7 +3,7 @@ Adam Brenecki @ http://adam.brenecki.id.au
 Ariel Krakowski @ http://www.learneroo.com
 
 <br>
-<span style="font-size: 0.4em; color: gray">Tip! Press F for FullScreen</span>
+<span style="font-size: 0.5em; color: gray">Tip! Press F for FullScreen</span>
 
 ---
 
