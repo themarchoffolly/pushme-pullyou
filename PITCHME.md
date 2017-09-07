@@ -3,6 +3,7 @@
 
 <br>
 <span style="font-size: 0.5em; color: gray">Tip! Press F for FullScreen</span>
+
 <br>
 https://learnxinyminutes.com/docs/javascript
 
