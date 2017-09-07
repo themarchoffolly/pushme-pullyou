@@ -28,7 +28,7 @@ Java's.
 
 ---
 
-#### Learn X in Y: javascript
+Learn X in Y: javascript
 
 ```js
 // Single-line comments start with two slashes.
