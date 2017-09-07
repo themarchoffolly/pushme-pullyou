@@ -2,6 +2,8 @@
 Adam Brenecki @ http://adam.brenecki.id.au   
 Ariel Krakowski @ http://www.learneroo.com
 
+<span style="font-size: 0.5em; color="gray">Press F for FullScreen</span>
+
 ---
 
 JavaScript was created by Netscape's Brendan Eich in 1995. It was originally
