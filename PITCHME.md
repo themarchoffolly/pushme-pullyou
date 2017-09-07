@@ -1,4 +1,6 @@
-## Learn X in Y: javascript
+## Learn X in Y Minutes
+## Where X=javascript
+
 Adam Brenecki @ http://adam.brenecki.id.au   
 Ariel Krakowski @ http://www.learneroo.com
 
@@ -28,7 +30,7 @@ Java's.
 
 ---
 
-#### Learn X in Y: javascript
+#### Learn X in Y Minutes: javascript
 
 ```js
 // Single-line comments start with two slashes.
