@@ -1,8 +1,7 @@
 ## Learn X in Y Minutes
 ## Where X=javascript
 
-Adam Brenecki @ http://adam.brenecki.id.au   
-Ariel Krakowski @ http://www.learneroo.com
+https://learnxinyminutes.com/docs/javascript
 
 <br>
 <span style="font-size: 0.5em; color: gray">Tip! Press F for FullScreen</span>
