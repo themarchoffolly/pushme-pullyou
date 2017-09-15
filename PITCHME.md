@@ -1,4 +1,4 @@
----?image=assets/gp-splash.png
+---?image=assets/gp-splash.svg
 
 ---
 
