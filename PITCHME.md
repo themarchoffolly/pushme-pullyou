@@ -1,3 +1,7 @@
+---?image=assets/gp-splash.png
+
+---
+
 ## Learn X in Y Minutes
 ## Where X=javascript
 
