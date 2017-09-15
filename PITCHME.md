@@ -1,4 +1,4 @@
----?image=https://gitpitch.com/splash.svg&size=contain
+---?image=https://gitpitch.com/splash.svg
 
 ---
 
