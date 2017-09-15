@@ -1,4 +1,4 @@
----?image=assets/gp-splash.svg
+---?image=https://gitpitch.com/splash.svg
 
 ---
 
