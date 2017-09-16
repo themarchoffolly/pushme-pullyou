@@ -1,3 +1,7 @@
+---?image=https://gitpitch.com/gp-splash.png
+
+---?image=https://gitpitch.com/splash.svg
+
 ---?image=https://gitpitch.com/410.svg
 
 ---
