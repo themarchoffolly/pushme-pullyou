@@ -1,3 +1,5 @@
+---?image=assets/gp-splash-help.png
+
 ---?image=assets/gp-splash.png
 
 ---?image=assets/gp-splash-alt.png
