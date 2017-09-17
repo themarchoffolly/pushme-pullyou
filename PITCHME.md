@@ -1,3 +1,11 @@
+<section data-background-color="black" data-background-image="https://gitpitch.com/splash-logo.svg">
+	<span class="menu-title" style="display: none">Markdown Presentations for Everyone</span>
+</section>
+
+---
+
+# Empty Slide?
+
 ---?image=assets/gp-splash-logo-geek.png
 
 ---?image=assets/gp-splash-help.png
