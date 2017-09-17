@@ -2,5 +2,5 @@ theme : black
 highlight : ir-black
 theme-override : assets/custom.css
 slide-number : true
-footnote : "© 2016 One Tap Beyond Inc."
+footnote : "© 2016 One <span style='color: yellow'>Tap</span> Beyond Inc."
 
