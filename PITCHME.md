@@ -1,5 +1,5 @@
 <section data-background-color="black" data-background-image="https://gitpitch.com/splash-logo.svg" data-background-size="100% 100%">
-	<span class="menu-title" style="display: none">Markdown Presentations for Everyone</span>
+	<span class="menu-title" style="display: none">Get the word out ;-)</span>
 </section>
 
 ---
