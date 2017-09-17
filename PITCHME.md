@@ -1,4 +1,4 @@
-<section data-background-color="black" data-background-image="https://gitpitch.com/splash-logo-alt-geek.svg" data-background-size="40%">
+<section data-background-color="black" data-background-image="https://gitpitch.com/splash-logo-alt-geek.svg" data-background-size="50%">
 	<span class="menu-title" style="display: none">GitPitch Intro</span>
 </section>
 
