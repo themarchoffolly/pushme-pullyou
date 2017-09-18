@@ -4,22 +4,6 @@
 
 ---
 
-# Empty Slide?
-
----?image=assets/gp-splash-logo-geek.png
-
----?image=assets/gp-splash-help.png
-
----?image=assets/gp-splash.png
-
----?image=assets/gp-splash-alt.png
-
----?image=https://gitpitch.com/splash.svg
-
----?image=https://gitpitch.com/410.svg
-
----
-
 ## Learn X in Y Minutes
 ## Where X=javascript
 
