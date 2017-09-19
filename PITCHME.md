@@ -1,9 +1,3 @@
-<section data-background-color="black" data-background-image="https://gitpitch.com/splash-logo-alt-geek.svg" data-background-size="40%">
-	<span class="menu-title" style="display: none">GitPitch Intro</span>
-</section>
-
----
-
 ## Learn X in Y Minutes
 ## Where X=javascript
 
