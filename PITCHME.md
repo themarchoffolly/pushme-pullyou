@@ -574,10 +574,10 @@ if (Object.create === undefined){ // don't overwrite it if it exists
 }
 ```
 
-@[1]
-@[2-3]
-@[5-6]
-@[8-10]
+@[1](A first comment)
+@[2-3](A (second) comment)
+@[5-6](A [third] comment)
+@[8-10](A (fourth) and [other] comment)
 @[12-13]
 @[15-16]
 @[18-22]
