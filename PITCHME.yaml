@@ -2,4 +2,4 @@ theme : black
 highlight : ir-black
 theme-override : assets/custom.css
 slide-number : true
-footnote : "© 2017 <a href='https://github.com/gitpitch'>David Russell</a>"
+footnote : "<a href='https://github.com/gitpitch'>© 2017 David Russell</a>"
