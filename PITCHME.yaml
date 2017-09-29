@@ -2,5 +2,4 @@ theme : black
 highlight : ir-black
 theme-override : assets/custom.css
 slide-number : true
-footnote : "© 2016 One <span style='color: yellow'>Tap <a href='#'>Beyond</a></span> Inc."
-
+footnote : "© 2017 <a href='https://github.com/gitpitch'>David Russell</a>"
