@@ -29,6 +29,15 @@
 ### <span style="color: #e49436">STEP 1. PITCHME.md</span>
 <br>
 
+```markdown
+# Git Pitch
+#### Markdown Presentations For Everyone on Git.*
+---
+#### GitPitch turns PITCHME.md into
+#### interactive,
+#### online and offline slideshows.
+```
+
 #### Create GitPitch slideshow content
 #### using GitHub flavored Markdown
 #### in your favorite editor.
