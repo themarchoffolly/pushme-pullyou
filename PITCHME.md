@@ -78,8 +78,8 @@ Done!
 
 #### Code Presenting for Blocks, Files, and GISTs
 #### Image, Video, Chart, and Math Slides
-#### Custom Logos, Footnotes, and Styling
-#### Multiple Themes And More
+#### Multiple Themes With Easy Customization
+<br>
 #### <span style="color: #e49436">Plus collaboration is built-in...</span>
 #### Your Slideshow Is Part Of Your Project
 #### Under Git Version Control Within Your Git Repo
