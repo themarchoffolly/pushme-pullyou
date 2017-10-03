@@ -28,9 +28,11 @@
 
 ### <span style="color: #e49436">STEP 1. PITCHME.md</span>
 
-# SOME MD GOES HERE...
+<br><br>
 
-Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
+#### Create GitPitch slideshow content
+#### using GitHub flavored Markdown
+#### in your favorite editor.
 
 ---
 @title[Step 2. Git-Commit]
