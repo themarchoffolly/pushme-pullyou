@@ -27,7 +27,7 @@
 @title[Step 1. PITCHME.md]
 
 ### <span style="color: #e49436">STEP 1. PITCHME.md</span>
-<br><br>
+<br>
 
 #### Create GitPitch slideshow content
 #### using GitHub flavored Markdown
