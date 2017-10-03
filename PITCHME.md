@@ -80,6 +80,10 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 
 +++?image=assets/menus.jpg&size=80% auto
 
++++
+
+![MENUS](assets/menus.jpg)
+
 ---
 
 <span style="color: #e49436">GIT</span>PITCH FEATURE RICH SLIDESHOWS
