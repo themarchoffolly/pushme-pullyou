@@ -68,6 +68,20 @@ Done!
 #### to promote, pitch or present absolutely anything.
 
 ---
+@title[Slide Rich]
+
+### <span style="color: #e49436">Slide Rich</span>
+<br><br>
+
+- Code Presenting for Blocks, Files, and GISTs
+- Image and Video Slides
+- Custom Logos and Styling
+- Multiple Themes And More
+- <span style="color: #e49436">Plus...</span>
+- Your Slideshow Is Part Of Your Project
+- Under Git Version Control Within Your Git Repo
+
+---
 
 @title[Feature Rich]
 
@@ -79,20 +93,6 @@ Done!
 #### Print Presentation as PDF
 #### Auto-Generated Table-of-Contents
 #### Share Presentation on Twitter or Linked
-
----
-
-<span style="color: #e49436">GIT</span>PITCH FEATURE RICH SLIDESHOWS
-
-- GitHub Flavored Markdown +
-- Code Presenting for Blocks, Files, and GISTs
-- Image and Video Slides
-- Custom Logos and Backgrounds
-- Multiple Themes And More
-- <span style="color: #e49436">Plus...</span>
-- Your Slideshow Is Part Of Your Project
-- Under Git Version Control Within Your Git Repo
-
 
 ---
 
