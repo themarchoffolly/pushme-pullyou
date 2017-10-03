@@ -27,7 +27,6 @@
 @title[Step 1. PITCHME.md]
 
 ### <span style="color: #e49436">STEP 1. PITCHME.md</span>
-
 <br><br>
 
 #### Create GitPitch slideshow content
@@ -38,6 +37,7 @@
 @title[Step 2. Git-Commit]
 
 ### <span style="color: #e49436">STEP 2. GIT-COMMIT</span>
+<br><br>
 
 ```shell
 $ git add PITCHME.md
