@@ -76,6 +76,20 @@ Done!
 ### <span style="color: #e49436">Slide Rich</span>
 <br>
 
+#### Code Presenting for Blocks, Files, and GISTs
+#### Image, Video, Chart, and Math Slides
+#### Custom Logos, Footnotes, and Styling
+#### Multiple Themes And More
+#### <span style="color: #e49436">Plus...</span>
+#### Your Slideshow Is Part Of Your Project
+#### Under Git Version Control Within Your Git Repo
+
+---
+@title[Slide Rich]
+
+### <span style="color: #e49436">Slide Rich</span>
+<br>
+
 - Code Presenting for Blocks, Files, and GISTs
 - Image, Video, Chart, and Math Slides
 - Custom Logos, Footnotes, and Styling
@@ -96,6 +110,18 @@ Done!
 #### Print Presentation as PDF
 #### Auto-Generated Table-of-Contents
 #### Share Presentation on Twitter or Linked
+
+---
+@title[Feature Rich]
+
+### <span style="color: #e49436">Feature Rich</span>
+<br>
+
+- Present Online or Offline
+- With Speaker Notes Support
+- Print Presentation as PDF
+- Auto-Generated Table-of-Contents
+- Share Presentation on Twitter or Linked
 
 ---
 
