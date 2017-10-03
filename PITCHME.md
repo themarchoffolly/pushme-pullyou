@@ -80,7 +80,7 @@ Done!
 #### Image, Video, Chart, and Math Slides
 #### Custom Logos, Footnotes, and Styling
 #### Multiple Themes And More
-#### <span style="color: #e49436">Plus...</span>
+#### <span style="color: #e49436">Plus collaboration is built-in...</span>
 #### Your Slideshow Is Part Of Your Project
 #### Under Git Version Control Within Your Git Repo
 
