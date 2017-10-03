@@ -74,11 +74,11 @@ Done!
 @title[Slide Rich]
 
 ### <span style="color: #e49436">Slide Rich</span>
-<br><br>
+<br>
 
 - Code Presenting for Blocks, Files, and GISTs
-- Image and Video Slides
-- Custom Logos and Styling
+- Image, Video, Chart, and Math Slides
+- Custom Logos, Footnotes, and Styling
 - Multiple Themes And More
 - <span style="color: #e49436">Plus...</span>
 - Your Slideshow Is Part Of Your Project
@@ -89,7 +89,7 @@ Done!
 @title[Feature Rich]
 
 ### <span style="color: #e49436">Feature Rich</span>
-<br><br>
+<br>
 
 #### Present Online or Offline
 #### With Speaker Notes Support
