@@ -1,4 +1,4 @@
-# GitPitch
+# Git<span style="color: #e49436">Pitch</span>
 
 ### Markdown Presentations For Everyone
 <br>
