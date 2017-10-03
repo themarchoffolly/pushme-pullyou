@@ -94,7 +94,7 @@ Done!
 #### With Speaker Notes Support
 #### Print Presentation as PDF
 #### Auto-Generated Table-of-Contents
-#### Share Presentation on Twitter or Linked
+#### Share Presentation on Twitter or LinkedIn
 
 ---
 
