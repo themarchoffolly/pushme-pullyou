@@ -66,7 +66,7 @@ Done!
 
 Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
 
----image=assets/menus.jpg
+---?image=assets/menus.jpg
 
 ---
 
