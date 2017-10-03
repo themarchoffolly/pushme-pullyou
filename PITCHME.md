@@ -4,7 +4,7 @@
 ### Markdown Presentations For Everyone on Git.*
 <br>
 <br>
-<span style="color: #bbb; font-size: 80%">GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.</span>
+<span style="color: #bbb; font-size: 80%">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
 
 ---
 @title[PITCHME.md]
