@@ -34,7 +34,7 @@
 #### in your favorite editor.
 
 <br>
-<span style="color:gray; font-size:0.6em;">[ AS EASY AS README.md ]</span>
+<span style="color:gray; font-size:0.6em;">[ AS EASY AS README ]</span>
 
 ---
 @title[Step 2. Git-Commit]
