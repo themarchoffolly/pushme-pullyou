@@ -49,7 +49,7 @@ Done!
 
 ```
 
-@[1](Add your new PITCHME.md slideshow content file.)
+@[1](Add your PITCHME.md slideshow content file.)
 @[2](Commit PITCHME.md to your repo.)
 @[3](Push your PITCHME.md upstream and you're done!)
 @[4](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
