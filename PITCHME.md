@@ -26,7 +26,7 @@
 ---
 @title[Step 1. PITCHME.md]
 
-<span style="color: #e49436">STEP 1. PITCHME.md</span>
+### <span style="color: #e49436">STEP 1. PITCHME.md</span>
 
 # SOME MD GOES HERE...
 
@@ -35,7 +35,7 @@ Create GitPitch slideshow content using GitHub flavored Markdown in your favorit
 ---
 @title[Step 2. Git-Commit]
 
-<span style="color: #e49436">STEP 2. GIT-COMMIT</span>
+### <span style="color: #e49436">STEP 2. GIT-COMMIT</span>
 
 ```shell
 $ git add PITCHME.md
@@ -54,7 +54,7 @@ Done!
 ---
 @title[Step 3. Done!]
 
-<span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
+### <span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
 
 <br>
 
