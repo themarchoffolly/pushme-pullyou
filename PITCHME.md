@@ -73,16 +73,11 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 ### <span style="color: #e49436">Feature Rich</span>
 <br><br>
 
-#### Present Online or Offline.
-#### Auto-Generated Table-of-Contents.
-#### Print Presentation as PDF.
-#### Share Presentation on Twitter or Linked.
-
-+++?image=assets/menus.jpg&size=80%
-
-+++
-
-![MENUS](assets/menus.jpg)
+#### Present Online or Offline
+#### With Speaker Notes Support
+#### Print Presentation as PDF
+#### Auto-Generated Table-of-Contents
+#### Share Presentation on Twitter or Linked
 
 ---
 
