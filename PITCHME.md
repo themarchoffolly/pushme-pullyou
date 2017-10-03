@@ -1,4 +1,9 @@
----?image=assets/splash.png
+# GitPitch
+
+### Markdown Presentations For Everyone
+<br>
+<br>
+<span style="color: #bbb">GitHub, GitLab, Bitbucket, Gitea, Gogs, and GitBucket</span>
 
 ---
 
