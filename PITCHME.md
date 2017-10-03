@@ -40,7 +40,6 @@
 @title[Step 2. Git-Commit]
 
 ### <span style="color: #e49436">STEP 2. GIT-COMMIT</span>
-<br>
 
 ```shell
 $ git add PITCHME.md
