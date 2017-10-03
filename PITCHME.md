@@ -66,18 +66,7 @@ Done!
 
 Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
 
----
-
-<span style="color: #e49436">GIT</span>PITCH DESIGNED FOR SHARING
-
-![SOCIAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/gp-social.jpg)
-
-- View any slideshow at its public URL
-- Promote any slideshow using a GitHub badge
-- Embed any slideshow within a blog or website
-- Share any slideshow on Twitter, LinkedIn, etc
-- Print any slideshow as a PDF document
-- Download and present any slideshow offline
+---image=assets/menus.jpg
 
 ---
 
