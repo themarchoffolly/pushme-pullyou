@@ -49,9 +49,9 @@ Done!
 
 ```
 
-@[1](Using PITCHME.md convention, add your slideshow content.)
-@[2](Commit the PITCHME.md slideshow content  to your repo.)
-@[3](Then push your PITCHME.md slideshow content upstream.)
+@[1](Add your new PITCHME.md slideshow content file.)
+@[2](Commit PITCHME.md to your repo.)
+@[3](Then push your PITCHME.md upstream.)
 @[4](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
 
 ---
