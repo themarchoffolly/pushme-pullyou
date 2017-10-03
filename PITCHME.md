@@ -20,28 +20,7 @@
 
 <span style="color: #e49436">STEP 1. PITCHME.md</span>
 
-```Markdown
-### Apache Spark
-### AWS Lambda Executor
-### (SAMBA)
-
-<span style="color:gray">An Apache Spark Package</span>
-
----
-### SAMBA Apache Spark Package
-
-  - Offers seamless integration with the AWS Lambda compute service
-  - Within Spark batch and streaming apps on the JVM
-
----
-
-### SAMBA API
-
-- New 'delegate' operation on RDD[AWSTask]
-- This operation executes AWS Lambda functions
-- And generates RDD[AWSResult]
-
-```
+# SOME MD GOES HERE...
 
 Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
 
