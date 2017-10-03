@@ -65,8 +65,7 @@ Done!
 
 <br>
 
-#### Instantly use your GitPitch slideshow URL
-#### to promote, pitch or present absolutely anything.
+#### Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
 
 ---
 @title[Slide Rich]
