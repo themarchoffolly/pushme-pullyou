@@ -37,7 +37,19 @@ Create GitPitch slideshow content using GitHub flavored Markdown in your favorit
 
 <span style="color: #e49436">STEP 2. GIT-COMMIT</span>
 
-![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
+```shell
+$ git add PITCHME.md
+$ git commit -m "New slideshow content."
+$ git push
+
+Done!
+
+```
+
+@[1](Add slideshow content as PITCHME.md)
+@[2](Commit slideshow content to public repo)
+@[3](Push slideshow content to remote)
+
 
 Git-commit on any branch and push your PITCHME.md to GitHub, GitLab, Bitbucket, Gitea, Gogs, or GitBucket.
 
