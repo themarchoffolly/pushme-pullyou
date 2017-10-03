@@ -29,7 +29,7 @@
 ### <span style="color: #e49436">STEP 1. PITCHME.md</span>
 <br>
 
-```markdown
+```
 # Git Pitch
 #### Markdown Presentations For Everyone on Git.*
 ---
