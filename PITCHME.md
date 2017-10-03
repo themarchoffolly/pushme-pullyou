@@ -21,7 +21,7 @@
 <span style="color: #e49436">STEP 1. PITCHME.md</span>
 
 ```Markdown
-i### Apache Spark
+### Apache Spark
 ### AWS Lambda Executor
 ### (SAMBA)
 
