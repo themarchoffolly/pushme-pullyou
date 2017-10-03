@@ -50,9 +50,6 @@ Done!
 @[2](Commit slideshow content to public repo)
 @[3](Push slideshow content to remote)
 
-
-Git-commit on any branch and push your PITCHME.md to GitHub, GitLab, Bitbucket, Gitea, Gogs, or GitBucket.
-
 ---
 @title[Step 3. Done!]
 
