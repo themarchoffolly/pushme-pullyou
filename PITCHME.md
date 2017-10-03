@@ -78,7 +78,7 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 #### Print Presentation as PDF.
 #### Share Presentation on Twitter or Linked.
 
-+++?image=assets/menus.jpg&size=100% auto
++++?image=assets/menus.jpg&size=95% auto
 
 ---
 
