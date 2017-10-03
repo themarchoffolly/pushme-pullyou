@@ -33,6 +33,9 @@
 #### using GitHub flavored Markdown
 #### in your favorite editor.
 
+<br>
+<span style="color:gray; font-size:0.6em;">[ AS EASY AS README.md ]</span>
+
 ---
 @title[Step 2. Git-Commit]
 
