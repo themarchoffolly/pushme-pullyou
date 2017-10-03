@@ -1,3 +1,4 @@
+@title[Introduction]
 # Git<span style="color: #e49436">Pitch</span>
 
 ### Markdown Presentations For Everyone
@@ -6,6 +7,7 @@
 <span style="color: #bbb; font-size: 80%">GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.</span>
 
 ---
+@title[PITCHME.md]
 
 ### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into
 ### interactive,
@@ -22,6 +24,7 @@
 ### Then <span style="color: #e49436">Git-Commit</span>.
 
 ---
+@title[Step 1. PITCHME.md]
 
 <span style="color: #e49436">STEP 1. PITCHME.md</span>
 
@@ -30,6 +33,7 @@
 Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
 
 ---
+@title[Step 2. Git-Commit]
 
 <span style="color: #e49436">STEP 2. GIT-COMMIT</span>
 
@@ -38,6 +42,7 @@ Create GitPitch slideshow content using GitHub flavored Markdown in your favorit
 Git-commit on any branch and push your PITCHME.md to GitHub, GitLab, Bitbucket, Gitea, Gogs, or GitBucket.
 
 ---
+@title[Step 3. Done!]
 
 <span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
 
