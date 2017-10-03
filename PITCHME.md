@@ -46,9 +46,10 @@ Done!
 
 ```
 
-@[1](Add slideshow content as PITCHME.md)
-@[2](Commit slideshow content to public repo)
-@[3](Push slideshow content to remote)
+@[1](Use PITCHME.md convention to add your slideshow content)
+@[2](Commit the PITCHME.md slideshow content  to your repo)
+@[3](Push your PITCHME.md slideshow content to remote)
+@[4](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs)
 
 ---
 @title[Step 3. Done!]
