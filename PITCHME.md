@@ -7,10 +7,7 @@ $sum = 0; $count = 0;
 foreach ($employees as $employee) {
     if ($employee['profession'] === 'programmer') {
         foreach ($employee['skills'] as $skill) {
-            if (
-                isset($skill['name'])
-                && $skill['name'] === 'bash'
-            ) {
+            if ($skill['name'] === 'bash') {
                 $sum += $skill['experience'];
                 $count++;
             }
