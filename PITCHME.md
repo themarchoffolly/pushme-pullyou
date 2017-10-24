@@ -2,6 +2,14 @@
 
 ---
 
+Next slide uses delimiter syntax for absolute svg:
+
++++?image=http://localhost:9000/pitchme/stream/github/themarchoffolly/pushme-pullyou/svg-test/assets/lightbend.svg
+
+# SVG?
+
+---
+
 Next slide uses md syntax for absolute svg:
 
 +++
