@@ -1,4 +1,4 @@
----?image=assets/spaceman.jpg
+---?image=assets/spaceman-resized.jpg
 
 ---
 
