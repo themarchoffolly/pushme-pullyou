@@ -1,4 +1,4 @@
 # theme : white
 # logo : assets/logo.png
-# background : assets/room960-700.jpg
-background-opacity : 50
+background : assets/room960-700.jpg
+background-opacity : 40
