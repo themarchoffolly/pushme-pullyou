@@ -1,30 +1,6 @@
-## Sync Code Steps
+---?image=assets/hotswap.jpg
 
----
+---?image=assets/badge.svg
 
-### Input
+---?image=assets/room.jpg
 
-```
-One
-Two
-Three
-Four
-```
-
-### Output
-
-```
-Five
-Six
-Seven
-Eight
-```
-
-@[1,3,5]
-@[2,6]
-@[3,7]
-@[4,8]
-
----
-
-# Fin
