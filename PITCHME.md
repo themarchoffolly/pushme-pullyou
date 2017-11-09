@@ -1,89 +1,148 @@
-# GitHub Gist
-# Code Presenting
+## gitpich is awesome
 
-<br>
-
-#### GISTs just got <span style="color:#e49436">interactive</span> ;)
+---
+@title[working title]
+## it has working titles
 
 ---
 
-All code appearing in this presentation   
-comes from GitHub GISTS.
+@title[working title 2]
 
-<br>
-
-<span style="color:#e49436">---?gist=gist_id</span>
-
-<br>
-
-Using this simple slide delimiter syntax.   
-And rendered <span style="color:#e49436"><i>beautifully</i></span> by GitPitch.
-
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=Scala&title=GIST: Scala Snippet
-
-@[25-29]
-@[41-53]
-@[57-62]
-
----?gist=onetapbeyond/8da53731fd54bab9d5c6&lang=Groovy&title=GIST: Groovy Snippet
-
-@[6-9]
-@[11-12]
-@[14-18]
-
----?gist=onetapbeyond/3b893fa75304db752741145d94d1c2c7&lang=JS&title=GIST: JavaScript Snippet
-
-@[1](React components partition the UI.)
-@[1](Each is independent, and reusable.)
-@[2-5](React callback on state change.)
+## it is GFM compliant
 
 ---
+@title[it has code higlight]
+## it has code higlight
 
-### GIST Code Presenting
+```scala
+object GitPitch{
+  val IsAwesome=true
+}
+```
++++
 
-##### Available Online and <span style="color:#e49436">Offline</span>!
+But you can't quote it's own markup in code blocks
 
----
+```markdown
+ ---
+ @title[it has code higlight]
+ ## it has code higlight
+ 
+ ```scala
+ object GitPitch{
+   val IsAwesome=true
+ }
+ ``
 
-### Learn By Example
-#### View The <a target="_blank" href="https://github.com/gitpitch/gist-code-presenting/blob/master/PITCHME.md">Presentation Markdown</a>
-
----
-
-```text
-.
-├── PITCHME.md
-├── PITCHME.yaml
-├── README.md
-├── assets
-│   ├── css
-│   │   └── main.css
-│   └── img
-│       ├── comparing-frameworks.png
-│       ├── dom.png
-│       ├── logo.png
-│       ├── react.png
-│       └── suddi.jpg
-└── topics
-    ├── course
-    │   └── PITCHME.md
-    ├── cover
-    │   └── PITCHME.md
-    ├── end
-    │   └── PITCHME.md
-    ├── fundamentals-of-web-development
-    │   └── PITCHME.md
-    ├── introduction
-    │   └── PITCHME.md
-    ├── poll
-    │   └── PITCHME.md
-    ├── questions
-    │   └── PITCHME.md
-    ├── state-of-web-development-today
-    │   └── PITCHME.md
-    ├── what-makes-react-special
-    │   └── PITCHME.md
-    └── workshop
-        └── PITCHME.md
 ```
 
+To make the code display properly I had to :
+- put a non breaking space at each start of lines 
+- drop the last ` on the closing quoted code block
+
+---
+
+@title[it has broken code higlight]
+
+## it has broken code higlight
+
+```scala
+object GitPitch{
+  val IsAwesome=true
+}
+```
++++
+
+```markdown
+ ---
+ 
+ @title[it has broken code higlight]
+ ## it has broken code higlight
+ 
+ ```scala
+ object GitPitch{
+   val IsAwesome=true
+ }
+ ``
+
+```
+
+To make the code display properly I had to :
+- put a non breaking space at each start of lines 
+- drop the last ` on the closing quoted code block
+
+The difference with working sample is the line break between the slide marker and the @title.
+
+---
+@title[it has sublists]
+## is has nested lists
+
+* item 1
+  * item 2
+  * item 3
+* item 1
+  * item 2
+  * item 3
+
+---
+
+@title[it has broken sublists]
+## it has broken  markdown
+
+if you skip a line between the custom title, the markdown renderer is unahppy and treats double spaces as a line break.
+
+* item 1
+  * item 2
+  * item 3
+* item 1
+  * item 2
+  * item 3
+
++++
+
+```markdown
+ ---
+ 
+ @title[it has broken sublists]
+ ## it has broken  markdown
+ 
+ if you skip a line between the custom title, the markdown renderer is unahppy and treats double spaces as a line break.
+
+ * item 1
+   * item 2
+   * item 3
+ * item 1
+   * item 2
+   * item 3
+ ```
+
+* the non breaking space trick again 
+* the line between slide marker and @title again
+
++++
+
+    ---
+
+    @title[it has broken sublists]
+    ## it has broken  markdown 
+    
+    if you skip a line between the custom title, the markdown renderer is unahppy and treats double spaces as a line break.
+
+    * item 1
+      * item 2
+      * item 3
+    * item 1
+      * item 2
+      * item 3
+
+* the non breaking space trick again 
+* the line between slide marker and @title again
+
+---
+@title[can't quote markdown]
+
+```markdon
+@title[can't quote markdown]
+## it has working titles
+```
+here is the result of a naive attempt at quoting markdown
