@@ -25,7 +25,7 @@ Removed md
 
 To make the code display properly I had to :
 - put a non breaking space at each start of lines 
-- drop the last ` on the closing quoted code block
+- drop the last on the closing quoted code block
 
 ---
 
