@@ -86,6 +86,25 @@ object GitPitch{
 
 ---
 
+# Try render MD block 4
+
+<p>
+ #### Hello
+ @title[it has broken code higlight]
+ ## Say something here
+
+ ```scala
+ object GitPitch{
+   val IsAwesome=true
+ }
+ ```
+</p>
+
+#### End of test slide 3.
+
+---
+
+
 @title[it has code higlight]
 ## it has code higlight
 
