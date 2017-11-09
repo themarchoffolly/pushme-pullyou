@@ -21,6 +21,8 @@ object GitPitch{
 
 ---
 
+@title[What happens here?]
+
 ## what happens here, no title?
 
 ```scala
