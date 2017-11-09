@@ -1,11 +1,10 @@
 # Try render MD block 1
 
 ```markdown
-#### Hello
 
-#### Hello
+ #### Hello
  @title[it has broken code higlight]
-## Say something here
+ ## Say something here
 
  object GitPitch{
    val IsAwesome=true
@@ -18,6 +17,24 @@
 ---
 
 # Try render MD block 2
+
+```markdown
+
+#### Hello
+@title[it has broken code higlight]
+## Say something here
+
+object GitPitch{
+  val IsAwesome=true
+}
+
+```
+
+#### End of test slide 2
+
+---
+
+# Try render MD block xxx
 
 ```markdown
 <![CDATA[
