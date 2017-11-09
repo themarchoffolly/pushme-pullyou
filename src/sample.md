@@ -9,4 +9,15 @@ object GitPitch{
 }
 ```
 
+```java
+public class GitPitch{
+
+  private final int random;
+
+  public GitPitch() {
+    random = Interger.rand();
+  }
+}
+```
+
 The end.
