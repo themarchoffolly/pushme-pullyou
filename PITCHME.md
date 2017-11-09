@@ -30,6 +30,23 @@ object GitPitch{
 
 ---
 
+#### Try render MD block 3
+
+```markdown
+#### Hello
+ @title[it has broken code higlight]
+## Say something here
+
+object GitPitch{
+  val IsAwesome=true
+}
+```
+
+#### End of test slide 3
+
+---
+
+
 #### Try render MD block xxx
 
 ```markdown
