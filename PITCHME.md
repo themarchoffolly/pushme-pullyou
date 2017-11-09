@@ -5,9 +5,11 @@
  @title[it has broken code higlight]
  ## Say something here
 
+ ```
  object GitPitch{
    val IsAwesome=true
  }
+ ```
 ```
 
 #### End of test slide.
