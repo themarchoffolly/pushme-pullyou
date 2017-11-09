@@ -18,3 +18,13 @@ object GitPitch{
   val IsAwesome=true
 }
 ```
+
+---
+
+## what happens here, no title?
+
+```scala
+object GitPitch{
+  val IsAwesome=true
+}
+```
