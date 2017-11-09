@@ -21,18 +21,8 @@ object GitPitch{
 ```
 +++
 
-But you can't quote it's own markup in code blocks
+Removed md 
 
-```markdown
- ---
- @title[it has code higlight]
- ## it has code higlight
- 
- ```scala
- object GitPitch{
-   val IsAwesome=true
- }
- ``
 
 ```
 
