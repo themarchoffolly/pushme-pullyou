@@ -1,3 +1,9 @@
+---?code=src/sample.md
+
+@title[Inject MD From File]
+
+---
+
 #### Try render MD block 1
 
 ```markdown
