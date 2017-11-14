@@ -14,7 +14,7 @@
 
 ---?image=assets/image/maarten_deckers.jpg
 
-### JavaScript Static Block
+JavaScript Static Block
 
 ```js
 class TodoApp extends React.Component {
