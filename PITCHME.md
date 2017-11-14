@@ -1,12 +1,12 @@
----?image=assets/image/ivan-televnyy-394836-min.jpg
+---?image=assets/image/ivan-televnyy.jpg
 
 # Introduction
 
----?image=assets/image/lukas-blazek-261681-min.jpg
+---?image=assets/image/lukas-blazek.jpg
 
 ## About Presentation
 
----?image=assets/image/maarten-deckers-280014-min.jpg
+---?image=assets/image/maarten-deckers.jpg
 
 ```go
 package main
@@ -18,7 +18,7 @@ func vals() (int, int) {
 }
 ```
 
----?image=assets/image/felicia-d-ascanio-411229-min.jpg
+---?image=assets/image/felicia-d-ascanio.jpg
 
 ```scala
 scala> val fooList: List[String] = List()
