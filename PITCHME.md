@@ -1,6 +1,6 @@
 ---?image=assets/image/ivan_televnyy.jpg
 
-# Introduction
+# Code Graffiti
 
 ---?image=assets/image/lukas_blazek.jpg
 
