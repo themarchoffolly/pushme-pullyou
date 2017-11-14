@@ -2,6 +2,8 @@
 
 # Code Graffiti
 
+### Wood
+
 ---?image=assets/image/lukas_blazek.jpg
 
 ## About Presentation
