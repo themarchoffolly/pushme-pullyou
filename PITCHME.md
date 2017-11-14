@@ -4,7 +4,7 @@
 
 ### A GitPitch Presentation Template
 
----?image=assets/image/lukas_blazek.jpg
+---?image=assets/image/kimberly-farmer.jpg
 
 ## Template Features
 
@@ -30,7 +30,7 @@
 @[8-18](Have GIST source beautifully rendered on your slides.)
 @[19-28](Again, all this without ever leaving your slideshow.)
 
----?image=assets/image/maarten_deckers.jpg
+---?image=assets/image/adrian-curiel.jpg
 
 @title[JavaScript Block]
 
@@ -63,7 +63,7 @@ http.createServer(function (request, response) {
 @[9-17](With code-syntax highlighting as good as any IDE.)
 @[19-20](And all of this works seamlessly, both online and offline.)
 
----?image=assets/image/lukas_blazek.jpg
+---?image=assets/image/kimberly-farmer.jpg
 
 ## Template Help
 
