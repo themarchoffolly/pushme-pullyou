@@ -65,7 +65,7 @@ http.createServer(function (request, response) {
 
 ---?image=assets/image/lukas_blazek.jpg
 
-## Links To Help
+## Template Help
 
 - [Code Presenting](xxx)
   + [Repo Source](xxx)
