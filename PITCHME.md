@@ -86,5 +86,5 @@ http.createServer(function (request, response) {
 <br><br><br>
 <br><br><br>
 
-### Get started, <a target="_blank" href="https://github.com/gitpitch/template-code-graffiti-wood">fork this presentation template <i class="fa fa-external-link" style="margin-left: 10px" aria-hidden="true"></i></a>
+### Get started, <a target="_blank" href="https://github.com/gitpitch/template-code-graffiti-brick">fork this presentation template <i class="fa fa-external-link" style="margin-left: 10px" aria-hidden="true"></i></a>
 
