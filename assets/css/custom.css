@@ -11,7 +11,11 @@
 }
 
 .reveal .slides section .code-presenting-annotation {
-    background-color: lightgrey;
+  color: white;
+  background: black;
+  padding: 5px 15px;
+  opacity: 0.75;
+  border-radius: 15px;
 }
 
 .reveal p span.slide-title {
