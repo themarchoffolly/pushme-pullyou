@@ -65,7 +65,9 @@ http.createServer(function (request, response) {
 
 ---?image=assets/image/lukas_blazek.jpg
 
-- Code Presenting
+## GitPitch Help
+
+- [Code Presenting](xxx)
   + [Repo Source](xxx)
   + [GIST](xxx)
   + [Static Block](xxx)
