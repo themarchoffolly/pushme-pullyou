@@ -6,7 +6,15 @@
 
 ---?image=assets/image/lukas_blazek.jpg
 
-## About Presentation
+## About Template
+
+- Code Presenting
+  + Repo Source
+  + GIST
+  + Static Block
+- Presentation Background
+- Slide-specific Background
+- Custom CSS Styling
 
 ---?code=src/go/server.go&title=Golang File
 
