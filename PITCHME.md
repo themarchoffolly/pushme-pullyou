@@ -8,9 +8,7 @@
 
 ## About Presentation
 
----?image=assets/image/maarten_deckers.jpg
-
----?code=src/go/server.go&title=Golang Snippet
+---?code=src/go/server.go&title=Golang Source File
 
 ```scala
 scala> val fooList: List[String] = List()
@@ -20,11 +18,11 @@ scala> foo :+ "one"
 res117: List[String] = List(one)
 ```
 
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Scala Snippet
+---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Scala GIST
 
----image=assets/image/maarten_deckers.jpg
+---?image=assets/image/maarten_deckers.jpg
 
-### JavaScript Snippet
+### JavaScript Static Block
 
 ```js
 class TodoApp extends React.Component {
