@@ -71,5 +71,5 @@ http.createServer(function (request, response) {
 <br><br><br>
 <br><br><br>
 
-### Quick start by forking this repo <i class="fa fa-external-link" style="margin-left: 10px" aria-hidden="true"></i>
+### Quick start, just [fork this repo <i class="fa fa-external-link" style="margin-left: 10px" aria-hidden="true"></i>](https://gitpitch.com/gitpitch/template-code-graffiti-wood)
 
