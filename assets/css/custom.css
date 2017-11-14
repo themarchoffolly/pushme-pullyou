@@ -13,7 +13,7 @@
 .reveal .slides section .code-presenting-annotation {
   color: white;
   background: black;
-  padding: 2px 15px;
+  padding: 1px 15px;
   opacity: 0.75 !important;
   border-radius: 15px;
 }
@@ -27,9 +27,11 @@
 }
 
 #title-footer {
-  color: white;
+  color: black;
+/*
   background: black;
   opacity: 0.75 !important;
+*/
 }
 
 /*
