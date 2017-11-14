@@ -6,6 +6,7 @@
   font-size: 1.2em;
   line-height: 1.2;
   max-height: 50vh !important;
+  opacity: 0.75;
 }
 
 .reveal .slides section .code-presenting-annotation {
@@ -16,6 +17,7 @@
   color: white;
   background: black;
   padding: 5px 15px;
+  opacity: 0.75;
 }
 
 /*
