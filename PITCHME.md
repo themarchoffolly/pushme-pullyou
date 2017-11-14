@@ -30,31 +30,7 @@
 @[8-18](Have GIST source beautifully rendered on your slides.)
 @[19-28](Again, all this without ever leaving your slideshow.)
 
----?image=assets/image/simon-matzinger-black.jpg
-
-@title[JavaScript Block]
-
-<p><span class="slide-title">JavaScript Block</span></p>
-
-```javascript
-// Include http module.
-var http = require("http");
-
-// Create the server. Function passed as parameter
-// is called on every request made.
-http.createServer(function (request, response) {
-  // Attach listener on end event.  This event is
-  // called when client sent, awaiting response.
-  request.on("end", function () {
-    // Write headers to the response.
-    // HTTP 200 status, Content-Type text/plain.
-    response.writeHead(200, {
-      'Content-Type': 'text/plain'
-    });
-    // Send data and end response.
-```
-
----?image=assets/image/simon-matzinger-black.jpg&opacity=50
+---?image=assets/image/simon-matzinger.jpg
 
 @title[JavaScript Block]
 
