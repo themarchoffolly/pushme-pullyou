@@ -24,12 +24,6 @@
 @[8-18](Without ever leaving your slideshow.)
 @[19-28](Using GitPitch code-presenting with annotations.)
 
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Scala GIST
-
-@[1,3-6](Present code found within any GitHub GIST.)
-@[8-18](Have GIST source beautifully rendered on your slides.)
-@[19-28](Again, all this without ever leaving your slideshow.)
-
 ---?image=assets/image/simon-matzinger.jpg
 
 @title[JavaScript Block]
@@ -62,6 +56,13 @@ http.createServer(function (request, response) {
 @[1,2](Present code inlined within markdown on any slide.)
 @[9-17](With code-syntax highlighting as good as any IDE.)
 @[19-20](And all of this works seamlessly, both online and offline.)
+
+---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Scala GIST
+
+@[1,3-6](Present code found within any GitHub GIST.)
+@[8-18](Have GIST source beautifully rendered on your slides.)
+@[19-28](Again, all this without ever leaving your slideshow.)
+
 
 ---?image=assets/image/kimberly-farmer.jpg
 
