@@ -14,7 +14,7 @@
   color: white;
   background: black;
   padding: 5px 15px;
-  opacity: 0.75;
+  opacity: 0.75 !important;
   border-radius: 15px;
 }
 
@@ -22,7 +22,7 @@
   color: white;
   background: black;
   padding: 5px 15px;
-  opacity: 0.75;
+  opacity: 0.75 !important;
   border-radius: 15px;
 }
 
