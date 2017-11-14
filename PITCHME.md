@@ -4,7 +4,7 @@
 
 ### A GitPitch Presentation Template
 
----?image=assets/image/kimberly-farmer.jpg
+---?image=assets/image/marl-clevenger.jpg
 
 ## Template Features
 
