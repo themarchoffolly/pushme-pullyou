@@ -19,8 +19,8 @@
 ---?code=src/go/server.go&title=Golang File
 
 @[1, 3-6](Present code within any repo file)
-@[8-17](Without ever leaving your slideshow)
-@[19-27](Using GitPitch code-presenting)
+@[8-18](Without ever leaving your slideshow)
+@[19-28](Using GitPitch code-presenting with annotations)
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Scala GIST
 
