@@ -10,14 +10,6 @@
 
 ---?code=src/go/server.go&title=Golang Source File
 
-```scala
-scala> val fooList: List[String] = List()
-fooList: List[String] = List()
-
-scala> foo :+ "one"
-res117: List[String] = List(one)
-```
-
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Scala GIST
 
 ---?image=assets/image/maarten_deckers.jpg
