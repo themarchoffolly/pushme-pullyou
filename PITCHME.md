@@ -86,9 +86,9 @@ class TodoList extends React.Component {
 ReactDOM.render(<TodoApp />, mountNode);
 ```
 
----?image=assets/image/ivan_televnyy.jpg
+---?image=assets/image/clark_tibbs.jpg
 
-# Now it's your turn!
+<br><br><br>
 
 ### Get started by forking this repo...
 
