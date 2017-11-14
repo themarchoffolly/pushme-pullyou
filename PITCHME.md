@@ -63,9 +63,17 @@ http.createServer(function (request, response) {
 @[9-17](With code-syntax highlighting as good as any IDE.)
 @[19-20](And all of this works seamlessly, both online and offline.)
 
----
+---?image=assets/image/lukas_blazek.jpg
 
-### Add Wiki Links here
+- Code Presenting
+  + [Repo Source](xxx)
+  + [GIST](xxx)
+  + [Static Block](xxx)
+- [Custom CSS Styling](xxx)
+- [Custom TOC Titles](xxx)
+- [Custom Logo & Footnotes](xxx)
+- [Default Background Image](xxx)
+- [Slide-specific Background Images](xxx)
 
 ---?image=assets/image/clark_tibbs.jpg
 
