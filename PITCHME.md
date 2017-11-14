@@ -6,8 +6,7 @@
 
 ---?image=assets/image/lukas_blazek.jpg
 
-## About Template
-### Features
+## Template Features
 
 - Code Presenting
   + Repo Source
