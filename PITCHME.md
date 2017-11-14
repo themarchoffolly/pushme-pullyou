@@ -59,3 +59,40 @@ public class main {
 }
 ```
 
+---?image=assets/image/felicia_d_ascanio.jpg
+
+### Java Snippet
+
+```java
+import java.util.Random;
+
+public class main {
+
+    public static void main(String[] args) {
+
+        int[] a = new int[10];
+        int max = 0;
+
+        final Random random = new Random();
+
+        for (int i = 0; i < 10; i++) {
+            a[i] = random.nextInt(10) + 1;  //  1 =< a[i] =< 10
+        }
+
+        max = a[0];
+
+        for (int i = 1; i < 10; i++) {
+            if (max < a[i]) {
+                max = a[i];
+            }
+        }
+
+        System.out.print(max);
+    }
+}
+```
+
+@[1](Package import statement)
+@[3,25](Application main function)
+@[7-8](Localy variable declarations)
+

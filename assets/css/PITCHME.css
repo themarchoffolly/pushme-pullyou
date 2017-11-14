@@ -1,10 +1,10 @@
 .reveal pre code {
   font-size: 1.3em;
   line-height: 1.2;
+  max-height: 80vh !important;
 }
 
 .reveal pre {
   width: 100%;
-  max-height: auto !important;
 }
 
