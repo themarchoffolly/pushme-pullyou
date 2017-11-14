@@ -30,7 +30,7 @@
 @[8-18](Have GIST source beautifully rendered on your slides.)
 @[19-28](Again, all this without ever leaving your slideshow.)
 
----?image=assets/image/adrian-curiel.jpg
+---?image=assets/image/simon-matzinger.jpg
 
 @title[JavaScript Block]
 
