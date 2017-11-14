@@ -16,6 +16,7 @@
 - Slide-specific Background Images
 - Custom CSS Styling
 - Custom TOC Titles
+- Custom Logo & Footnotes
 
 ---?code=src/go/server.go&title=Golang File
 
