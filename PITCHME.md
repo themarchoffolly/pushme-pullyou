@@ -8,13 +8,15 @@
 
 ## About Presentation
 
----?code=src/go/server.go&title=Golang Source File
+---?code=src/go/server.go&title=Golang File
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Scala GIST
 
 ---?image=assets/image/maarten_deckers.jpg
 
-JavaScript Static Block
+@title[JavaScript Block]
+
+JavaScript Block
 
 ```js
 class TodoApp extends React.Component {
