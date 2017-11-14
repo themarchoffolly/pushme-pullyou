@@ -12,6 +12,11 @@
     background-color: lightgrey;
 }
 
+span.menu-title {
+  style='display: inline;
+  background: gray;
+}
+
 /*
 .hljs {
   background: none;
