@@ -7,7 +7,7 @@ type FundServer struct {
 
 func NewFundServer(initialBalance int) *FundServer {
     server := &FundServer{
-        // make() creates builtins like channels, maps, and slices
+        // make() creates builtins like channels
         Commands: make(chan interface{}),
         fund: NewFund(initialBalance),
     }
@@ -18,8 +18,8 @@ func NewFundServer(initialBalance int) *FundServer {
 }
 
 func (s *FundServer) loop() {
-    // The built-in "range" clause can iterate over channels,
-    // amongst other things
+    // The built-in "range" clause can iterate
+    // over channels, amongst other things
     for command := range s.Commands {
     
         // Handle the command
