@@ -89,6 +89,7 @@ ReactDOM.render(<TodoApp />, mountNode);
 ---?image=assets/image/clark_tibbs.jpg
 
 <br><br><br>
+<br><br><br>
 
 ### Get started by forking this repo...
 
