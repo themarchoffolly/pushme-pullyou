@@ -88,7 +88,7 @@ ReactDOM.render(<TodoApp />, mountNode);
 
 ---?image=assets/image/ivan_televnyy.jpg
 
-# Thank you!
+# Now it's your turn!
 
 ### Get started by forking this repo...
 
