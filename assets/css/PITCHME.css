@@ -11,3 +11,7 @@
 .reveal .slides section .code-presenting-annotation {
     background-color: lightgrey;
 }
+
+.hljs {
+  background: none;
+}
