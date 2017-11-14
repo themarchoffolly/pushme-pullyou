@@ -67,15 +67,15 @@ http.createServer(function (request, response) {
 
 ## Template Help
 
-- [Code Presenting](xxx)
-  + [Repo Source](xxx)
-  + [GIST](xxx)
-  + [Static Block](xxx)
-- [Custom CSS Styling](xxx)
-- [Custom TOC Titles](xxx)
-- [Custom Logo & Footnotes](xxx)
-- [Default Background Image](xxx)
-- [Slide-specific Background Images](xxx)
+- [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
+  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides)
+  + [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides)
+  + [Static Block](https://github.com/gitpitch/gitpitch/wiki/Code-Slides)
+- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
+- [Custom TOC Titles](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents)
+- [Custom Logo & Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
+- [Default Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
+- [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
 
 ---?image=assets/image/clark_tibbs.jpg
 
