@@ -26,6 +26,10 @@
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Scala GIST
 
+@[1,3-6](Present code found within any GitHub GIST.)
+@[8-18](Have GIST source beautifully rendered on your slides.)
+@[19-28](Again without ever leaving your slideshow.)
+
 ---?image=assets/image/maarten_deckers.jpg
 
 @title[JavaScript Block]
