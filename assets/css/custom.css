@@ -13,7 +13,9 @@
 }
 
 .reveal p span.slide-title {
-  background: gray;
+  color: white;
+  background: black;
+  margin: 5px 15px;
 }
 
 /*
