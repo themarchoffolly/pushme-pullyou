@@ -1,8 +1,8 @@
 ---?image=assets/image/ivan_televnyy.jpg
 
-# Code Graffiti
+# Code Graffiti - Wood
 
-### Wood - A GitPitch Template
+### A GitPitch Presentation Template
 
 ---?image=assets/image/lukas_blazek.jpg
 
