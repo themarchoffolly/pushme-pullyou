@@ -63,6 +63,10 @@ http.createServer(function (request, response) {
 @[9-17](With code-syntax highlighting as good as any IDE.)
 @[19-20](And all of this works seamlessly, both online and offline.)
 
+---
+
+### Add Wiki Links here
+
 ---?image=assets/image/clark_tibbs.jpg
 
 @title[Fork this Repo!]
