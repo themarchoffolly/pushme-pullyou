@@ -2,7 +2,7 @@
 
 # Code Graffiti
 
-### Wood
+### Wood - A GitPitch Template
 
 ---?image=assets/image/lukas_blazek.jpg
 
