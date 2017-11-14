@@ -427,6 +427,31 @@ public class main {
 @[3](Application main function)
 @[7-8](Localy variable declarations)
 
+---
+
+# Input
+
+```go
+package main
+
+import "fmt"
+
+func vals() (int, int) {
+        return 3, 7
+}
+```
+
+# Output
+
+```
+One
+Two
+Three
+Four
+Five
+```
+
+
 
 
 
