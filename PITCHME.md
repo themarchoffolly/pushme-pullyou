@@ -4,7 +4,7 @@
 
 ### A GitPitch Presentation Template
 
----?image=assets/image/marl-clevenger.jpg
+---?image=assets/image/sydney-zentz.jpg
 
 ## Template Features
 
@@ -64,7 +64,7 @@ http.createServer(function (request, response) {
 @[19-28](Again, all this without ever leaving your slideshow.)
 
 
----?image=assets/image/kimberly-farmer.jpg
+---?image=assets/image/sydney-zentz.jpg
 
 ## Template Help
 
