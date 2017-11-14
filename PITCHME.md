@@ -1,4 +1,4 @@
----?image=assets/image/ivan_televnyy.jpg&opacity=80
+---?image=assets/image/ivan_televnyy.jpg
 
 # Code Graffiti
 
