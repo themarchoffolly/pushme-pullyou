@@ -2,6 +2,6 @@ theme : beige
 logo : assets/image/logo.png
 background : assets/image/felicia_d_ascanio.jpg
 theme-override : assets/css/custom.css
-highlight : atom-one-light
+# highlight : atom-one-light
 transition : none
 published : true
