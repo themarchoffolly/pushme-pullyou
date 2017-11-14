@@ -82,7 +82,7 @@ ReactDOM.render(<TodoApp />, mountNode);
 
 ---?image=assets/image/clark_tibbs.jpg
 
-@title[Fork this repo!]
+@title[Fork this Repo!]
 
 <br><br><br>
 <br><br><br>
