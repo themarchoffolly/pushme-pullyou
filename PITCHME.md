@@ -4,7 +4,7 @@
 
 ### A GitPitch Presentation Template
 
----?image=assets/image/rodion-kutsaev.jpg
+---?image=assets/image/scott-webb.jpg
 
 ## Template Features
 
