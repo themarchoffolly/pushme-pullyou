@@ -36,37 +36,29 @@
 
 <p><span class="slide-title">JavaScript Block</span></p>
 
-```js
-class TodoApp extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = { items: [], text: '' };
-    this.handleChange = this.handleChange.bind(this);
-    this.handleSubmit = this.handleSubmit.bind(this);
-  }
+```javascript
+// Include http module.
+var http = require("http");
 
-  render() {
-    return (
-      <div>
-        <h3>TODO</h3>
-        <TodoList items={this.state.items} />
-        <form onSubmit={this.handleSubmit}>
-          <input
-            onChange={this.handleChange}
-            value={this.state.text}
-          />
-          <button>
-            Add #{this.state.items.length + 1}
-          </button>
-        </form>
-      </div>
-    );
-  }
-
-  handleChange(e) {
-    this.setState({ text: e.target.value });
-  }
-}
+// Create the server. Function passed as parameter is called on every request made.
+// request variable holds all request parameters
+// response variable allows you to do anything with response sent to the client.
+http.createServer(function (request, response) {
+	// Attach listener on end event.
+	// This event is called when client sent all data and is waiting for response.
+	request.on("end", function () {
+		// Write headers to the response.
+		// 200 is HTTP status code (this one means success)
+		// Second parameter holds header fields in object
+		// We are sending plain text, so Content-Type should be text/plain
+		response.writeHead(200, {
+			'Content-Type': 'text/plain'
+		});
+		// Send data and end response.
+		response.end('Hello HTTP!');
+	});
+// Listen on the 8080 port.
+}).listen(8080);
 ```
 
 @[2-7](Present code inlined within markdown on any slide.)
