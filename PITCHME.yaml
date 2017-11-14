@@ -1,7 +1,7 @@
-# theme : white
-# logo : assets/logo.png
-# background : assets/room960-700.jpg
+theme : beige
+logo : assets/image/logo.png
+background : assets/image/felicia_d_ascanio.jpg
+theme-override : assets/css/custom.css
+highlight : atom-one-light
 transition : none
 published : true
-theme-override : assets/css/PITCHME.css
-highlight : atom-one-light

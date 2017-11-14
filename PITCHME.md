@@ -10,17 +10,7 @@
 
 ---?image=assets/image/maarten_deckers.jpg
 
-```go
-package main
-
-import "fmt"
-
-func vals() (int, int) {
-	return 3, 7
-}
-```
-
----?image=assets/image/felicia_d_ascanio.jpg
+---?code=src/go/server.go&title=Golang Snippet
 
 ```scala
 scala> val fooList: List[String] = List()
@@ -30,432 +20,77 @@ scala> foo :+ "one"
 res117: List[String] = List(one)
 ```
 
----?image=assets/image/maarten_deckers.jpg
+---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Scala Snippet
 
-```java
-import java.util.Random;
+---image=assets/image/maarten_deckers.jpg
 
-public class main {
+### JavaScript Snippet
 
-    public static void main(String[] args) {
+```js
+class TodoApp extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { items: [], text: '' };
+    this.handleChange = this.handleChange.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
+  }
 
-        int[] a = new int[10];
-        int max = 0;
-        
-        final Random random = new Random();
-        
-        for (int i = 0; i < 10; i++) {
-            a[i] = random.nextInt(10) + 1;  //  1 =< a[i] =< 10
-        }
-        
-        max = a[0];
-        
-        for (int i = 1; i < 10; i++) {
-            if (max < a[i]) {
-                max = a[i];
-            }    
-        }
-        
-        System.out.print(max);   
+  render() {
+    return (
+      <div>
+        <h3>TODO</h3>
+        <TodoList items={this.state.items} />
+        <form onSubmit={this.handleSubmit}>
+          <input
+            onChange={this.handleChange}
+            value={this.state.text}
+          />
+          <button>
+            Add #{this.state.items.length + 1}
+          </button>
+        </form>
+      </div>
+    );
+  }
+
+  handleChange(e) {
+    this.setState({ text: e.target.value });
+  }
+
+  handleSubmit(e) {
+    e.preventDefault();
+    if (!this.state.text.length) {
+      return;
     }
+    const newItem = {
+      text: this.state.text,
+      id: Date.now()
+    };
+    this.setState(prevState => ({
+      items: prevState.items.concat(newItem),
+      text: ''
+    }));
+  }
 }
-```
 
----?image=assets/image/felicia_d_ascanio.jpg
-
-### Java Snippet
-
-```java
-import java.util.Random;
-
-public class main {
-
-    public static void main(String[] args) {
-
-        int[] a = new int[10];
-        int max = 0;
-
-        final Random random = new Random();
-
-        for (int i = 0; i < 10; i++) {
-            a[i] = random.nextInt(10) + 1;  //  1 =< a[i] =< 10
-        }
-
-        max = a[0];
-
-        for (int i = 1; i < 10; i++) {
-            if (max < a[i]) {
-                max = a[i];
-            }
-        }
-
-        System.out.print(max);
-    }
+class TodoList extends React.Component {
+  render() {
+    return (
+      <ul>
+        {this.props.items.map(item => (
+          <li key={item.id}>{item.text}</li>
+        ))}
+      </ul>
+    );
+  }
 }
+
+ReactDOM.render(<TodoApp />, mountNode);
 ```
 
-@[1](Package import statement)
-@[3](Application main function)
-@[7-8](Localy variable declarations)
+---?image=assets/image/ivan_televnyy.jpg
 
----?image=assets/image/maarten_deckers.jpg
+# Thank you!
 
-```java
-import java.util.Random;
-
-public class main {
-
-    public static void main(String[] args) {
-
-        int[] a = new int[10];
-        int max = 0;
-
-        final Random random = new Random();
-
-        for (int i = 0; i < 10; i++) {
-            a[i] = random.nextInt(10) + 1;  //  1 =< a[i] =< 10
-        }
-
-        max = a[0];
-
-        for (int i = 1; i < 10; i++) {
-            if (max < a[i]) {
-                max = a[i];
-            }
-        }
-
-        System.out.print(max);
-    }
-}
-```
-
-@[1](Package import statement)
-@[3](Application main function)
-@[7-8](Localy variable declarations)
-
----?image=assets/image/maarten_deckers.jpg&opacity=50
-
-### Opacity 50%
-
-```java
-import java.util.Random;
-
-public class main {
-
-    public static void main(String[] args) {
-
-        int[] a = new int[10];
-        int max = 0;
-
-        final Random random = new Random();
-
-        for (int i = 0; i < 10; i++) {
-            a[i] = random.nextInt(10) + 1;  //  1 =< a[i] =< 10
-        }
-
-        max = a[0];
-
-        for (int i = 1; i < 10; i++) {
-            if (max < a[i]) {
-                max = a[i];
-            }
-        }
-
-        System.out.print(max);
-    }
-}
-```
-
-@[1](Package import statement)
-@[3](Application main function)
-@[7-8](Localy variable declarations)
-
----?image=assets/image/maarten_deckers.jpg&opacity=60
-
-### Opacity 60%
-
-```java
-import java.util.Random;
-
-public class main {
-
-    public static void main(String[] args) {
-
-        int[] a = new int[10];
-        int max = 0;
-
-        final Random random = new Random();
-
-        for (int i = 0; i < 10; i++) {
-            a[i] = random.nextInt(10) + 1;  //  1 =< a[i] =< 10
-        }
-
-        max = a[0];
-
-        for (int i = 1; i < 10; i++) {
-            if (max < a[i]) {
-                max = a[i];
-            }
-        }
-
-        System.out.print(max);
-    }
-}
-```
-
-@[1](Package import statement)
-@[3](Application main function)
-@[7-8](Localy variable declarations)
-
----?image=assets/image/maarten_deckers.jpg&opacity=70
-
-### Opacity 70%
-
-```java
-import java.util.Random;
-
-public class main {
-
-    public static void main(String[] args) {
-
-        int[] a = new int[10];
-        int max = 0;
-
-        final Random random = new Random();
-
-        for (int i = 0; i < 10; i++) {
-            a[i] = random.nextInt(10) + 1;  //  1 =< a[i] =< 10
-        }
-
-        max = a[0];
-
-        for (int i = 1; i < 10; i++) {
-            if (max < a[i]) {
-                max = a[i];
-            }
-        }
-
-        System.out.print(max);
-    }
-}
-```
-
-@[1](Package import statement)
-@[3](Application main function)
-@[7-8](Localy variable declarations)
-
----?image=assets/image/maarten_deckers.jpg&opacity=80
-
-### Opacity 80%
-
-```java
-import java.util.Random;
-
-public class main {
-
-    public static void main(String[] args) {
-
-        int[] a = new int[10];
-        int max = 0;
-
-        final Random random = new Random();
-
-        for (int i = 0; i < 10; i++) {
-            a[i] = random.nextInt(10) + 1;  //  1 =< a[i] =< 10
-        }
-
-        max = a[0];
-
-        for (int i = 1; i < 10; i++) {
-            if (max < a[i]) {
-                max = a[i];
-            }
-        }
-
-        System.out.print(max);
-    }
-}
-```
-
-@[1](Package import statement)
-@[3](Application main function)
-@[7-8](Localy variable declarations)
-
----?image=assets/image/maarten_deckers.jpg&opacity=90
-
-### Opacity 90%
-
-```java
-import java.util.Random;
-
-public class main {
-
-    public static void main(String[] args) {
-
-        int[] a = new int[10];
-        int max = 0;
-
-        final Random random = new Random();
-
-        for (int i = 0; i < 10; i++) {
-            a[i] = random.nextInt(10) + 1;  //  1 =< a[i] =< 10
-        }
-
-        max = a[0];
-
-        for (int i = 1; i < 10; i++) {
-            if (max < a[i]) {
-                max = a[i];
-            }
-        }
-
-        System.out.print(max);
-    }
-}
-```
-
-@[1](Package import statement)
-@[3](Application main function)
-@[7-8](Localy variable declarations)
-
----?image=assets/image/maarten_deckers.jpg&opacity=90
-
-### Test See-Through Effect
-
-```emboss
-import java.util.Random;
-
-public class main {
-
-    public static void main(String[] args) {
-
-        int[] a = new int[10];
-        int max = 0;
-
-        final Random random = new Random();
-
-        for (int i = 0; i < 10; i++) {
-            a[i] = random.nextInt(10) + 1;  //  1 =< a[i] =< 10
-        }
-
-        max = a[0];
-
-        for (int i = 1; i < 10; i++) {
-            if (max < a[i]) {
-                max = a[i];
-            }
-        }
-
-        System.out.print(max);
-    }
-}
-```
-
-@[1](Package import statement)
-@[3](Application main function)
-@[7-8](Localy variable declarations)
-
----?image=assets/image/maarten_deckers.jpg&opacity=20
-
-### Emboss Opacity 20%
-
-```emboss
-import java.util.Random;
-
-public class main {
-
-    public static void main(String[] args) {
-
-        int[] a = new int[10];
-        int max = 0;
-
-        final Random random = new Random();
-
-        for (int i = 0; i < 10; i++) {
-            a[i] = random.nextInt(10) + 1;  //  1 =< a[i] =< 10
-        }
-
-        max = a[0];
-
-        for (int i = 1; i < 10; i++) {
-            if (max < a[i]) {
-                max = a[i];
-            }
-        }
-
-        System.out.print(max);
-    }
-}
-```
-
-@[1](Package import statement)
-@[3](Application main function)
-@[7-8](Localy variable declarations)
-
----?image=assets/image/maarten_deckers.jpg&opacity=20
-
-### Java Opacity 20%
-
-```java
-import java.util.Random;
-
-public class main {
-
-    public static void main(String[] args) {
-
-        int[] a = new int[10];
-        int max = 0;
-
-        final Random random = new Random();
-
-        for (int i = 0; i < 10; i++) {
-            a[i] = random.nextInt(10) + 1;  //  1 =< a[i] =< 10
-        }
-
-        max = a[0];
-
-        for (int i = 1; i < 10; i++) {
-            if (max < a[i]) {
-                max = a[i];
-            }
-        }
-
-        System.out.print(max);
-    }
-}
-```
-
-@[1](Package import statement)
-@[3](Application main function)
-@[7-8](Localy variable declarations)
-
----
-
-# Input
-
-```go
-package main
-
-import "fmt"
-
-func vals() (int, int) {
-        return 3, 7
-}
-```
-
-# Output
-
-```
-One
-Two
-Three
-Four
-Five
-```
-
-
-
-
-
-
+### Get started by forking this repo...
 
