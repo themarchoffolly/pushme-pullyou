@@ -1,4 +1,4 @@
----?image=assets/image/ivan_televnyy.jpg
+---?image=assets/image/patrick-tomasso.jpg
 
 # Code Graffiti
 
