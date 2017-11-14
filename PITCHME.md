@@ -24,7 +24,7 @@
 
 @title[JavaScript Block]
 
-JavaScript Block
+<p><span class="slide-title">JavaScript Block</span></p>
 
 ```js
 class TodoApp extends React.Component {
