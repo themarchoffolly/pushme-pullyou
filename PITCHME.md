@@ -61,7 +61,7 @@ http.createServer(function (request, response) {
 
 @[1,2](Present code inlined within markdown on any slide.)
 @[9-17](With code-syntax highlighting as good as any IDE.)
-@[19-20](And all this works seamlessly both online and offline.)
+@[19-20](And all of this works seamlessly, both online and offline.)
 
 ---?image=assets/image/clark_tibbs.jpg
 
