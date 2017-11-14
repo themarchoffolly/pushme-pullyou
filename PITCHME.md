@@ -69,9 +69,9 @@ class TodoApp extends React.Component {
 }
 ```
 
-@[2-7](Present code inlined within your slide markdown.)
+@[2-7](Present code inlined within markdown on any slide.)
 @[13-21](With code-syntax highlighting as good as any IDE.)
-@[26-28](And this all  work seamlessly both online and offline.)
+@[26-28](And all this works seamlessly both online and offline.)
 
 ---?image=assets/image/clark_tibbs.jpg
 
