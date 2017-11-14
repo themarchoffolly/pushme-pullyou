@@ -28,7 +28,7 @@
 
 @[1,3-6](Present code found within any GitHub GIST.)
 @[8-18](Have GIST source beautifully rendered on your slides.)
-@[19-28](Again without ever leaving your slideshow.)
+@[19-28](Again, all this without ever leaving your slideshow.)
 
 ---?image=assets/image/maarten_deckers.jpg
 
