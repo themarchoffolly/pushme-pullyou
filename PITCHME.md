@@ -1,6 +1,6 @@
 ---?image=assets/image/ivan_televnyy.jpg
 
-# Code Graffiti - Wood
+# Code Graffiti
 
 ### A GitPitch Presentation Template
 
