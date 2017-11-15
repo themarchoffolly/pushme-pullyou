@@ -11,10 +11,9 @@
 - Code Presenting
   + Repo Source, GIST, Static Block
 - Custom CSS Styling
-- Custom TOC Titles
-- Custom Logo & Footnotes
 - Default Background Image
 - Slide-specific Background Images
+- Custom Logo, TOC, and Footnotes
 
 ---?code=src/go/server.go&title=Golang File
 
