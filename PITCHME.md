@@ -9,7 +9,7 @@
 ## Template Features
 
 - Code Presenting
-  + Repo Source, GIST, Static Blocks
+  + Repo Source, Static Blocks, GIST
 - Custom CSS Styling
 - Default Background Image
 - Slide-specific Background Images
@@ -54,7 +54,7 @@ http.createServer(function (request, response) {
 
 @[1,2](You can present code inlined within your slide markdown too.)
 @[9-17](Displayed using code-syntax highlighting as good as any IDE.)
-@[19-20](Again, all this without ever leaving your slideshow.)
+@[19-20](Again, all of this without ever leaving your slideshow.)
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Scala GIST
 
@@ -68,7 +68,7 @@ http.createServer(function (request, response) {
 ## Template Help
 
 - [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides)
+  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
 - [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
 - [Default Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
