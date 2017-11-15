@@ -9,9 +9,7 @@
 ## Template Features
 
 - Code Presenting
-  + Repo Source
-  + GIST
-  + Static Block
+  + Repo Source, GIST, Static Block
 - Custom CSS Styling
 - Custom TOC Titles
 - Custom Logo & Footnotes
