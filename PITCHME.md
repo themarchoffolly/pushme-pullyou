@@ -9,7 +9,7 @@
 ## Template Features
 
 - Code Presenting
-  + Repo Source, GIST, Static Block
+  + Repo Source, GIST, Static Blocks
 - Custom CSS Styling
 - Default Background Image
 - Slide-specific Background Images
@@ -66,11 +66,11 @@ http.createServer(function (request, response) {
 ## Template Help
 
 - [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides), [Static Block](https://github.com/gitpitch/gitpitch/wiki/Code-Slides)
+  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides)
 - [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
 - [Default Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
-- Custom Logo](xxx), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
+- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
 ---?image=assets/image/gp-conference-audience-only.jpg
 
