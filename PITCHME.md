@@ -83,5 +83,5 @@ http.createServer(function (request, response) {
 @title[Fork this Repo!]
 
 ### Get started right now,
-### by <a target="_blank" href="https://github.com/gitpitch/template-code-graffiti-brick">forking this presentation template <i class="fa fa-external-link" style="margin-left: 10px" aria-hidden="true"></i></a>
+### simply <a target="_blank" href="https://github.com/gitpitch/template-code-graffiti-brick">fork this presentation template <i class="fa fa-external-link" style="margin-left: 10px" aria-hidden="true"></i></a>
 
