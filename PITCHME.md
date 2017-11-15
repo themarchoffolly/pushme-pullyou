@@ -80,7 +80,7 @@ http.createServer(function (request, response) {
 
 ---?image=assets/image/gp-conference-audience-only.jpg
 
-@title[Fork this Repo!]
+@title[Fork this Template!]
 
 ### Get your presentation started!
 ### <a target="_blank" href="https://github.com/gitpitch/template-code-graffiti-brick">Fork this presentation template <i class="fa fa-external-link" style="margin-left: 10px" aria-hidden="true"></i></a>
