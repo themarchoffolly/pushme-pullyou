@@ -4,7 +4,7 @@
 
 ### A GitPitch Presentation Template
 
----?image=assets/image/daniel-ghio.jgp
+---?image=assets/image/daniel-ghio.jpg
 
 ## Template Features
 
