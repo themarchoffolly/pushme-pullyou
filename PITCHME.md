@@ -1,7 +1,5 @@
 ---?image=assets/image/patrick-tomasso.jpg
 
-<br><br><br>
-
 # Code Graffiti
 
 ### A GitPitch Presentation Template

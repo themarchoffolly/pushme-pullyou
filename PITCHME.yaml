@@ -3,7 +3,6 @@ logo : assets/image/logo.png
 background : assets/image/simon-matzinger.jpg
 theme-override : assets/css/custom.css
 # highlight : atom-one-light
-vertical-center : false
 transition : none
 published : true
 footnote : "GitPitch Code Graffiti [Brick] Presentation Template"
