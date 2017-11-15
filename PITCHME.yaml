@@ -2,7 +2,7 @@
 logo : assets/image/logo.png
 # background : assets/image/shoot-n-design.jpg
 theme-override : assets/css/custom.css
-highlight : ir-black
+highlight : github
 transition : none
 published : true
-footnote : "GitPitch Code Binary [ Black ] Presentation Template"
+footnote : "GitPitch Code Binary [ White ] Presentation Template"
