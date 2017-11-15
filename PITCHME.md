@@ -78,13 +78,9 @@ http.createServer(function (request, response) {
 - [Default Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
 
----?image=assets/image/clark_tibbs.jpg
+---?image=assets/image/gp-conference-audience-only.jpg
 
 @title[Fork this Repo!]
-
-<br><br><br>
-<br><br><br>
-<br><br><br>
 
 ### Get started, <a target="_blank" href="https://github.com/gitpitch/template-code-graffiti-brick">fork this presentation template <i class="fa fa-external-link" style="margin-left: 10px" aria-hidden="true"></i></a>
 
