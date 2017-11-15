@@ -1,8 +1,8 @@
-theme : night
+# theme : night
 logo : assets/image/logo.png
 # background : assets/image/shoot-n-design.jpg
 theme-override : assets/css/custom.css
-highlight : atom-one-light
+#highlight : atom-one-light
 transition : none
 published : true
-footnote : "GitPitch Code Candy [ Netflix ] Presentation Template"
+footnote : "GitPitch Code Binary [ Black ] Presentation Template"
