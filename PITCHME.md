@@ -64,7 +64,7 @@ http.createServer(function (request, response) {
 @[19-28](Again, all this without ever leaving your slideshow.)
 
 
----?image=assets/image/rodion-kutsaev.jpg
+---?image=assets/image/scott-webb.jpg
 
 ## Template Help
 
