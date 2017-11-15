@@ -1,6 +1,6 @@
 ---
 
-# Code Candy
+# Code Binary
 
 ### A GitPitch Presentation Template
 
