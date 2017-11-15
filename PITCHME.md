@@ -53,7 +53,7 @@ http.createServer(function (request, response) {
 ```
 
 @[1,2](You can present code inlined within your slide markdown too.)
-@[9-17](Displayed using code-syntax highlighting as good as any IDE.)
+@[9-17](Displayed using code-syntax highlighting just like your IDE.)
 @[19-20](Again, all of this without ever leaving your slideshow.)
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Scala GIST
