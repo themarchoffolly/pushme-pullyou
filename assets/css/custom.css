@@ -13,7 +13,7 @@ body {
   font-size: 1.2em;
   line-height: 1.2;
   max-height: 50vh !important;
-  opacity: 0.90;
+  opacity: 0.95;
   border-radius: 10px;
 }
 
@@ -33,29 +33,3 @@ body {
   opacity: 0.75 !important;
   border-radius: 15px;
 }
-
-#title-footer {
-/*
-  color: white;
-  background: black;
-  opacity: 0.65 !important;
-*/
-}
-
-#title-footer p.footer-hard {
-/*
-    color: #b6b6b6;
-*/
-}
-
-#title-footer p.footer-fade {
-/*
-  color: #b6b6b6;
-*/
-}
-
-/*
-.hljs {
-  background: none;
-}
-*/
