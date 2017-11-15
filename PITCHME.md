@@ -50,15 +50,15 @@ http.createServer(function (request, response) {
 }).listen(8080);
 ```
 
-@[1,2](Present code inlined within markdown on any slide.)
-@[9-17](With code-syntax highlighting as good as any IDE.)
-@[19-20](And all of this works seamlessly, both online and offline.)
+@[1,2](You can present code inlined within your slide markdown too.)
+@[9-17](Displayed using code-syntax highlighting just like your IDE.)
+@[19-20](Again, all of this without ever leaving your slideshow.)
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Scala GIST
 
 @[23](You can even present code found within any GitHub GIST.)
 @[41-53](GIST source code is beautifully rendered on any slide.)
-@[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
+@[57-62](And code-presenting works seamlessly for GIST, both online and offline.)
 
 ---?image=assets/image/lukas_blazek.jpg
 
