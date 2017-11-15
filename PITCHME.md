@@ -15,8 +15,6 @@
 - Slide-specific Background Images
 - Custom Logo, TOC, and Footnotes
 
-<br><br>
-
 ---?code=src/go/server.go&title=Golang File
 
 @[1,3-6](Present code found within any repo source file.)
@@ -73,8 +71,6 @@ http.createServer(function (request, response) {
 - [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
 - [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
-
-<br><br>
 
 ---?image=assets/image/gp-conference-audience-only.jpg
 
