@@ -35,17 +35,17 @@ body {
 }
 
 #title-footer {
-  color: white;
-  background: black;
-  opacity: 0.65 !important;
+  /* color: white; */
+  /* background: black; */
+  /* opacity: 0.65 !important; */
 }
 
 #title-footer p.footer-hard {
-    color: #b6b6b6;
+    /* color: #b6b6b6; */
 }
 
 #title-footer p.footer-fade {
-  color: #b6b6b6;
+  /* color: #b6b6b6; */
 }
 
 /*
