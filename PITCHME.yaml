@@ -1,4 +1,4 @@
-theme : night
+# theme : night
 logo : assets/image/logo.png
 # background : assets/image/shoot-n-design.jpg
 theme-override : assets/css/custom.css
