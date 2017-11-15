@@ -36,7 +36,7 @@ html:-moz-full-screen-ancestor {
 }
 
 .reveal p span.slide-title {
-  color: #eee8d5;
+  color: #333;
   padding: 4px 15px;
   opacity: 0.75 !important;
   border-radius: 15px;
