@@ -4,7 +4,7 @@
 
 ### A GitPitch Presentation Template
 
----?image=assets/image/whitewash-wall.jpg
+---?image=assets/image/daniel-ghio.jgp
 
 ## Template Features
 
@@ -64,7 +64,7 @@ http.createServer(function (request, response) {
 @[19-28](Again, all this without ever leaving your slideshow.)
 
 
----?image=assets/image/whitewash-wall.jpg
+---?image=assets/image/daniel-ghio.jpg
 
 ## Template Help
 
