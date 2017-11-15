@@ -13,13 +13,13 @@ body {
   font-size: 1.2em;
   line-height: 1.2;
   max-height: 50vh !important;
-  opacity: 0.90;
+  /* opacity: 0.90; */
   border-radius: 10px;
 }
 
 .reveal .slides section .code-presenting-annotation {
   color: white;
-  background: black;
+  background: #8e0e00;
   padding: 1px 15px;
   border-radius: 15px;
   opacity: 0.75 !important;
