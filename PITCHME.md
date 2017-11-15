@@ -60,7 +60,7 @@ http.createServer(function (request, response) {
 
 @[23](You can even present code found within any GitHub GIST.)
 @[41-53](GIST source code is beautifully rendered on any slide.)
-@[57-62](And all of this works seamlessly, both online and offline.)
+@[57-62](And code-presenting works seamlessly, both online and offline.)
 
 
 ---?image=assets/image/daniel-ghio.jpg
