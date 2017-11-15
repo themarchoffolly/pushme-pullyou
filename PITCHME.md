@@ -1,7 +1,6 @@
 ---?image=assets/image/patrick-tomasso.jpg
 
 <br><br><br>
-<br><br><br>
 
 # Code Graffiti
 
