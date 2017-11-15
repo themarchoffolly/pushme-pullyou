@@ -1,8 +1,1 @@
 theme : beige
-logo : assets/image/logo.png
-background : assets/image/shoot-n-design.jpg
-theme-override : assets/css/custom.css
-# highlight : atom-one-light
-transition : none
-published : true
-footnote : "GitPitch Code Graffiti [Brick] Presentation Template"
