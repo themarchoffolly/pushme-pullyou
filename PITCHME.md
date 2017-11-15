@@ -24,7 +24,7 @@
 @[8-18](Without ever leaving your slideshow.)
 @[19-28](Using GitPitch code-presenting with annotations.)
 
----?image=assets/image/simon-matzinger.jpg
+---?image=assets/image/adrian-curiel.jpg
 
 @title[JavaScript Block]
 
