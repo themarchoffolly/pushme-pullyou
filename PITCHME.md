@@ -6,7 +6,7 @@
 
 ### A GitPitch Presentation Template
 
----?image=assets/image/octavian-rosca-208933.jpg
+---?image=assets/image/kyle-gregory-devaras-241280.jpg
 
 ## Template Features
 
@@ -63,7 +63,7 @@ http.createServer(function (request, response) {
 @[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
 
 
----?image=assets/image/octavian-rosca-208933.jpg
+---?image=assets/image/kyle-gregory-devaras-241280.jpg
 
 ## Template Help
 
