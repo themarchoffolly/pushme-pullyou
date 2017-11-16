@@ -1,10 +1,12 @@
----?image=assets/image/pan-xiaozhen-332459.jpg
+---?image=assets/image/celso-405219.jpg
 
 # Code Nature
 
+<br><br><br><br>
+
 ### A GitPitch Presentation Template
 
----?image=assets/image/igor-yemelianov-437707.jpg
+---?image=assets/image/octavian-rosca-208933.jpg
 
 ## Template Features
 
@@ -21,7 +23,7 @@
 @[8-18](Without ever leaving your slideshow.)
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
----?image=assets/image/ruslan-zh-413199.jpg
+---?image=assets/image/john-reign-abarintos-369080.jpg
 
 @title[JavaScript Block]
 
@@ -61,7 +63,7 @@ http.createServer(function (request, response) {
 @[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
 
 
----?image=assets/image/igor-yemelianov-437707.jpg
+---?image=assets/image/octavian-rosca-208933.jpg
 
 ## Template Help
 
