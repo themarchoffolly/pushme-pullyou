@@ -74,11 +74,11 @@ http.createServer(function (request, response) {
 
 ---?image=assets/image/igor-yemelianov-437707.jpg
 
-<i class="fa fa-medium fa-5x" aria-hidden="true">@gitpitch</i>
+<i class="fa fa-medium fa-2x" aria-hidden="true">@gitpitch</i>
 
-<i class="fa fa-github fa-5x" aria-hidden="true">gitpitch</i>
+<i class="fa fa-github fa-2x" aria-hidden="true">gitpitch</i>
 
-<i class="fa fa-twitter fa-5x" aria-hidden="true">@gitpitch</i>
+<i class="fa fa-twitter fa-2x" aria-hidden="true">@gitpitch</i>
 
 ---?image=assets/image/gp-conference-audience-only.jpg
 
