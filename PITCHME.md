@@ -72,14 +72,6 @@ http.createServer(function (request, response) {
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
 - [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
----?image=assets/image/courtney-hedger-336844.jpg
-
-<span class="black"><i class="fa fa-at fa-2x" aria-hidden="true">gitpitch</i></span>
-
-<br><br><b><br>
-
-<span class="black"><i class="fa fa-medium fa-2x" aria-hidden="true"></i> | <i class="fa fa-github fa-2x" aria-hidden="true"></i> | <i class="fa fa-twitter fa-2x" aria-hidden="true"></i></span>
-
 ---?image=assets/image/gp-conference-audience-only.jpg
 
 @title[Fork this Template!]
