@@ -210,3 +210,89 @@ Example from backbone.js
 
 ![qr-code](https://github.com/inesusvet/tests-talk/raw/master/assets/bb-test.png)
 
++++
+@title[Readable: Less magic]
+
+### Less magic
+
+Make it "like well-written prose". Readers want to know _why?_ not _how?_
+
+```
+def foobar(x, y):
+    if y < 0:
+        return 42
+    return '%s,%s' % (x, y)
+
+def test_foobar__error_code__ok():
+    uid, bad_id, err_code = 1, -1, 42
+    result = foobar(uid, bad_id)
+    assert result == err_code
+```
+
++++
+@title[Readable: Noise]
+
+### Reduce the noise
+
+Delete meaningless lines. Burn the dead code with fire
+
+```
+def foobar(x, y):
+    if y < 0:
+        return 42
+    return '%s,%s' % (x, y)
+
+def test_foobar__commented_assert__ok():
+    # assert foobar(-1, -1) == 43
+    assert foobar(1, -1) == 42
+```
+
++++
+@title[Readable]
+
+## Readable
+
+- Clear name of test: Given, What, Expected. Make it descriptive
+- Clear steps of test: Create, Configure, Act, Assert
+- Don't do magic. Make it as simple as you can.
+- Eliminate _broken windows_
+- Treat tests code as the production one - with love
+- Do review and refactoring of test code
+
+---
+@title[Maintainable: Helpers]
+
+### Use helpers, Luke
+
+Be a lazy developer
+
+```
+def test_auth__app_failed__error():
+    message = ‘not good’
+    setup_error(message)
+
+    response = authorize('username', 'badpassword')
+
+    assert_error(response, message)
+```
+
++++
+@title[Maintainable: Atomic]
+
+### Not so atomic test
+
+Why this test poorly maintainable?
+
+```
+def geo_proxy(x, y):
+    return requests.post(
+        ‘/geo’, data={‘x’: x, ‘y’: y})
+
+def test_geo_proxy__not_atomic__ok(requests_mock, db_mock):
+    resp = geo_proxy(1, 2)
+
+    requests_mock.post.assert_called_once_with(
+        '/geo', data={'x': 1, 'y': 2})
+    assert db_mock.query.call_count == 1
+```
+
