@@ -1,6 +1,6 @@
 ### FA Test
 
-### Questions @fa[question fa-2x]
+### Questions @fa[question fa-lg]
 
 - @fa[twitter](@gitpitch)
 - @fa[github](gitpitch) 
