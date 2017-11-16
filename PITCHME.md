@@ -74,7 +74,7 @@ http.createServer(function (request, response) {
 
 ---?image=assets/image/igor-yemelianov-437707.jpg
 
-| <i class="fa fa-medium" aria-hidden="true"></i> | <i class="fa fa-github" aria-hidden="true"></i> | <i class="fa fa-twitter" aria-hidden="true"></i> |
+<i class="fa fa-medium" aria-hidden="true"></i> | <i class="fa fa-github" aria-hidden="true"></i> | <i class="fa fa-twitter" aria-hidden="true"></i>
 
 ---?image=assets/image/gp-conference-audience-only.jpg
 
