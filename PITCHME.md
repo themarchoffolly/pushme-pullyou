@@ -1,4 +1,4 @@
 ### FA Test
 
-- @fa[github](GitHub) @fa[medium]
+- @fa[twitter] @fa[github](GitHub) @fa[medium]
 
