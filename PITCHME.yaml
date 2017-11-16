@@ -1,4 +1,4 @@
-theme : beige
+# theme : beige
 logo : assets/image/logo.png
 background : assets/image/kyle-gregory-devaras-241280.jpg
 theme-override : assets/css/custom.css
