@@ -1,6 +1,6 @@
 theme : moon
 logo : assets/image/logo.png
-background : assets/image/binary-strings.jpg
+background : assets/image/binary-strings.jpg&opactity=50
 theme-override : assets/css/custom.css
 highlight : ir-black
 transition : none
