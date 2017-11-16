@@ -1,6 +1,6 @@
 ---?image=assets/image/pan-xiaozhen-332459.jpg
 
-# Code Nature
+# Code Atmosphere
 
 ### A GitPitch Presentation Template
 
