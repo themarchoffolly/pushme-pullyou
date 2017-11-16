@@ -1,6 +1,6 @@
 ---?image=assets/image/pan-xiaozhen-332459.jpg
 
-# Code Atmosphere
+# Code Atmos
 
 ### A GitPitch Presentation Template
 
