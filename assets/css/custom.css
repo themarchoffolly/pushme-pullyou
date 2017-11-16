@@ -6,7 +6,7 @@
   font-size: 1.2em;
   line-height: 1.2;
   max-height: 50vh !important;
-  opacity: 0.90;
+  opacity: 0.95;
   border-radius: 10px;
 }
 
@@ -21,7 +21,7 @@
 
 .reveal p span.slide-title {
   color: white;
-  background: black;
+  background: #132029;
   padding: 4px 15px;
   opacity: 0.75 !important;
   border-radius: 15px;
