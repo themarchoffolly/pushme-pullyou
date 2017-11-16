@@ -229,20 +229,3 @@ def test_foobar__error_code__ok():
     assert result == err_code
 ```
 
-+++
-@title[Readable: Noise]
-
-### Reduce the noise
-
-Delete meaningless lines. Burn the dead code with fire
-
-```
-def foobar(x, y):
-    if y < 0:
-        return 42
-    return '%s,%s' % (x, y)
-
-def test_foobar__commented_assert__ok():
-    # assert foobar(-1, -1) == 43
-    assert foobar(1, -1) == 42
-```
