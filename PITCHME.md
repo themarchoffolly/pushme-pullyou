@@ -1,4 +1,4 @@
----
+---?image=assets/image/binary-strings.jpg
 
 # Code Binary
 
