@@ -1,6 +1,6 @@
 # theme : beige
 logo : assets/image/logo.png
-background : assets/image/shoot-n-design.jpg
+background : assets/image/chuttersnap-334733.jpg
 theme-override : assets/css/custom.css
 # highlight : atom-one-light
 transition : none
