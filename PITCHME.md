@@ -246,4 +246,3 @@ def test_foobar__commented_assert__ok():
     # assert foobar(-1, -1) == 43
     assert foobar(1, -1) == 42
 ```
-
