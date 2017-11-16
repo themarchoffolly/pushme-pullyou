@@ -72,9 +72,11 @@ http.createServer(function (request, response) {
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
 - [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
----?image=assets/image/igor-yemelianov-437707.jpg
+---?image=assets/image/courtney-hedger-336844.jpg
 
 <i class="fa fa-at fa-2x" aria-hidden="true">gitpitch</i>
+
+<br><br><b><br>
 
 <i class="fa fa-medium fa-2x" aria-hidden="true"></i> <i class="fa fa-github fa-2x" aria-hidden="true"></i> <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
 
