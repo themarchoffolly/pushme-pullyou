@@ -142,3 +142,223 @@ def test_foobar_failed():
     ...
 ```
 
++++
+@title[Readable: Better name]
+
+### Better name
+
+Gives more clues what's broken.
+Do not fear to use really long names.
+Remember that you write that for a human at the first place
+
+```
+def build_cookie(name, value):
+    return '%s=%s' % (name, value)
+
+def test_build_cookie__regular_name_valid_value__ok():
+    name, valid_session = 'sessionid', 1001
+    assert build_cookie(small, big) == 'sessionid=1001'
+```
+
++++
+@title[Readable: Not so clear steps]
+
+### Not so clear steps
+
+What's mocked here? Gimme answer in 5 seconds!
+
+```
+def test_foobar__false_result__ok():
+    result = authorize('vasya', 'superstrongpassword')
+    assert result.is_ok
+    patch('requests.post').start()
+    result.send('token')
+    assert result.sessionid == ‘token’
+```
+
++++
+@title[Readable: Clear steps]
+
+### Clear steps
+
+Save your time
+
+```
+def test_authorize__bad_user_and_password__not_authorized():
+    setup_auth_ok(‘failed’)
+
+    result = authorize('bad-user’, 'bad-password')
+
+    assert result is False
+```
+
++++
+@title[Readable: Magic]
+
+### Magic
+
+No one can understand that.
+Only one person can debug it.
+This person can't afford vacations
+
+```
+def test_foobar__watch_my_magic__ok():
+    assert foobar(42) == ‘3,141529'
+```
+
+Example from backbone.js
+
+![qr-code](https://github.com/inesusvet/tests-talk/raw/master/assets/bb-test.png)
+
++++
+@title[Readable: Less magic]
+
+### Less magic
+
+Make it "like well-written prose". Readers want to know _why?_ not _how?_
+
+```
+def foobar(x, y):
+    if y < 0:
+        return 42
+    return '%s,%s' % (x, y)
+
+def test_foobar__error_code__ok():
+    uid, bad_id, err_code = 1, -1, 42
+    result = foobar(uid, bad_id)
+    assert result == err_code
+```
+
++++
+@title[Readable: Noise]
+
+### Reduce the noise
+
+Delete meaningless lines. Burn the dead code with fire
+
+```
+def foobar(x, y):
+    if y < 0:
+        return 42
+    return '%s,%s' % (x, y)
+
+def test_foobar__commented_assert__ok():
+    # assert foobar(-1, -1) == 43
+    assert foobar(1, -1) == 42
+```
+
++++
+@title[Readable]
+
+## Readable
+
+- Clear name of test: Given, What, Expected. Make it descriptive
+- Clear steps of test: Create, Configure, Act, Assert
+- Don't do magic. Make it as simple as you can.
+- Eliminate _broken windows_
+- Treat tests code as the production one - with love
+- Do review and refactoring of test code
+
+---
+@title[Maintainable: Helpers]
+
+### Use helpers, Luke
+
+Be a lazy developer
+
+```
+def test_auth__app_failed__error():
+    message = ‘not good’
+    setup_error(message)
+
+    response = authorize('username', 'badpassword')
+
+    assert_error(response, message)
+```
+
++++
+@title[Maintainable: Atomic]
+
+### Not so atomic test
+
+Why this test poorly maintainable?
+
+```
+def geo_proxy(x, y):
+    return requests.post(
+        ‘/geo’, data={‘x’: x, ‘y’: y})
+
+def test_geo_proxy__not_atomic__ok(requests_mock, db_mock):
+    resp = geo_proxy(1, 2)
+
+    requests_mock.post.assert_called_once_with(
+        '/geo', data={'x': 1, 'y': 2})
+    assert db_mock.query.call_count == 1
+```
+
++++
+@title[Maintainable: Atomic]
+
+### Atomic test
+
+Check only one aspect of work at once
+
+```
+def geo_proxy(x, y):
+    return requests.post(
+        ‘/geo’, data={‘x’: x, ‘y’: y})
+
+def test_geo_proxy__atomic__ok(requests_mock):
+    resp = geo_proxy(1, 2)
+
+    requests_mock.post.assert_called_once_with(
+        '/geo', data={'x': 1, 'y': 2})
+```
+
++++
+@title[Maintainable: Many assertions]
+
+### Many assertions
+
+Don't be a lazy developer
+
+```
+def build_session_cookie(x, y):
+    return 42 if y > 0 else '%s=%s' % (x, y)
+
+def test_build_session_cookie__check_all_options__ok():
+    assert build_session_cookie('uid', 1) == 42
+    assert build_session_cookie('sessionid', -1) == 'sessionid=-1'
+```
+
++++
+@title[Maintainable: Less assertions]
+
+### Less assertions
+
+Make it simple & clear
+
+```
+def validate_sessionid(username, value):
+    return 42 if value < 0 else (hash(username) == value)
+
+def test_validate_sessionid__negative_session__special_value():
+    assert validate_sessionid('admin', -1) == 42
+
+def test_foobar__positive_valid_session__ok():
+    assert validate_sessionid('user', 6468734353329665493) == True
+```
+
++++
+@title[Maintainable]
+
+## Maintainable
+
+- Do stateless tests. Start with a blank page _each time_
+- Don't do cross-dependencies, any caches and _magic_
+- Don't do cross-calls of test from the other test
+- Isolate things accurately (stub vs mock)
+- Test different layers of abstractions separately
+- Build your helpers
+- Do atomic tests. One test - one assertion
+
