@@ -4,9 +4,9 @@
 
 #### @fa[twitter] @fa[medium]
 
-#### @fa[twitter][Twitter] @fa[medium]
+#### @fa[twitter](Twitter) @fa[medium]
 
-#### @fa[twitter][Twitter] @fa[medium](Medium)
+#### @fa[twitter](Twitter) @fa[medium](Medium)
 
 #### @fa[twitter] @fa[github](GitHub) @fa[medium]
 
