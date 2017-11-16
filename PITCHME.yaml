@@ -1,4 +1,4 @@
-# theme : moon
+theme : moon
 logo : assets/image/logo.png
 background : assets/image/octavian-rosca-208933.jpg
 theme-override : assets/css/custom.css
