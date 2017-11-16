@@ -1,4 +1,4 @@
-# theme : beige
+theme : night
 logo : assets/image/logo.png
 background : assets/image/chuttersnap-334733.jpg
 theme-override : assets/css/custom.css
