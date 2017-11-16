@@ -229,3 +229,21 @@ def test_foobar__error_code__ok():
     assert result == err_code
 ```
 
++++
+@title[Readable: Less magic]
+
+### Less magic
+
+Make it "like well-written prose". Readers want to know _why?_ not _how?_
+
+```
+def foobar(x, y):
+    if y < 0:
+        return 42
+    return '%s,%s' % (x, y)
+
+def test_foobar__error_code__ok():
+    uid, bad_id, err_code = 1, -1, 42
+    result = foobar(uid, bad_id)
+    assert result == err_code
+```
