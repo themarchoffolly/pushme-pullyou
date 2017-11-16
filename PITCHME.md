@@ -1,6 +1,6 @@
 ---?image=assets/image/celso-405219.jpg
 
-# Code Nature
+# Code Atmos
 
 <br><br><br><br>
 
@@ -79,5 +79,5 @@ http.createServer(function (request, response) {
 @title[Fork this Template!]
 
 ### Get your presentation started!
-### <a target="_blank" href="https://github.com/gitpitch/template-code-nature-rain">Fork this template <i class="fa fa-external-link" style="margin-left: 10px" aria-hidden="true"></i></a>
+### <a target="_blank" href="https://github.com/gitpitch/template-code-atmos-rain">Fork this template <i class="fa fa-external-link" style="margin-left: 10px" aria-hidden="true"></i></a>
 
