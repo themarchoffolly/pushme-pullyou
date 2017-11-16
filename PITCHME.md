@@ -74,11 +74,11 @@ http.createServer(function (request, response) {
 
 ---?image=assets/image/courtney-hedger-336844.jpg
 
-<i class="fa fa-at fa-2x" aria-hidden="true">gitpitch</i>
+<span class="black"><i class="fa fa-at fa-2x" aria-hidden="true">gitpitch</i></span>
 
 <br><br><b><br>
 
-<i class="fa fa-medium fa-2x" aria-hidden="true"></i> | <i class="fa fa-github fa-2x" aria-hidden="true"></i> | <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+<span class="black"><i class="fa fa-medium fa-2x" aria-hidden="true"></i> | <i class="fa fa-github fa-2x" aria-hidden="true"></i> | <i class="fa fa-twitter fa-2x" aria-hidden="true"></i></span>
 
 ---?image=assets/image/gp-conference-audience-only.jpg
 
