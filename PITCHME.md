@@ -1,6 +1,6 @@
 ---?image=assets/image/patrick-tomasso.jpg
 
-# Code Graffiti
+# Code Nature
 
 ### A GitPitch Presentation Template
 
