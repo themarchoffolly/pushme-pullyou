@@ -1,6 +1,6 @@
 theme : moon
 logo : assets/image/logo.png
-# background : assets/image/shoot-n-design.jpg
+background : assets/image/binary-strings.jpg
 theme-override : assets/css/custom.css
 highlight : ir-black
 transition : none
