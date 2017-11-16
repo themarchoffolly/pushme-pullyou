@@ -72,7 +72,7 @@ http.createServer(function (request, response) {
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
 - [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
----?image=assets/image/gp-conference-audience-only.jpg
+---?image=assets/image/gp-conference-audience-only.jpg&opacity=100
 
 @title[Fork this Template!]
 

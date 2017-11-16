@@ -1,6 +1,7 @@
 theme : beige
 logo : assets/image/logo.png
-# background : assets/image/shoot-n-design.jpg
+background : assets/image/binary-strings-white.jpg
+background-opacity : 10
 theme-override : assets/css/custom.css
 highlight : github-gist
 transition : none
