@@ -2,7 +2,7 @@
 
 # Code Atmos
 
-<br><br><br><br>
+<br><br><br>
 
 ### A GitPitch Presentation Template
 
