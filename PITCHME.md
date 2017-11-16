@@ -2,8 +2,6 @@
 
 # Code Atmos
 
-<br><br><br>
-
 ### A GitPitch Presentation Template
 
 ---?image=assets/image/kyle-gregory-devaras-241280.jpg
