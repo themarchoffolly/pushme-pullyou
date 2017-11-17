@@ -36,7 +36,7 @@ Over 600 icons at your fingertips ;-)
 
 ## Huge Icons
 <br>
-@fa[user-circle fa-huge]
+@fa[git fa-huge]
 
 
 ---
