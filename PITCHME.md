@@ -1,4 +1,4 @@
-## Font Awesome
+## Font Awesome Icons
 ### (Shortcut Syntax)
 ## Feature Demonstration
 
