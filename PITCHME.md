@@ -17,7 +17,7 @@
 @fa[rocket fa-5x]
 
 <br>
-<span class="fa-byline">Over 650 icons at your fingertips ;-)</span>
+<span class="fa-byline">Over 600 icons at your fingertips ;-)</span>
 
 ---
 
