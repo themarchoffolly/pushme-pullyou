@@ -1,42 +1,7 @@
-.fa-byline {
-  color : gray;
-  text-transform: none;
-}
+/* Enable List Bullet Icons */
+.reveal ul { list-style: none; }
 
-.reveal p span.fa-byline {
-  color : gray;
-  text-transform: none;
-}
+/* Enable Huge Icons */
+.fa-huge { font-size : 15em; }
 
-.reveal p.fa-byline {
-  color : gray;
-  text-transform: none;
-}
-
-.reveal .fa-byline {
-  color : gray;
-  text-transform: none;
-}
-
-.reveal .fa-byline span {
-  color : gray;
-  text-transform: none;
-}
-
-.reveal span.fa-byline {
-  color : gray;
-  text-transform: none;
-}
-
-span.fa-byline {
-  color : gray;
-  text-transform: none;
-}
-
-.reveal ul {
-  list-style: none;
-}
-
-.fa-huge {
-    font-size : 15em;
-}
+span.fa-byline { color : gray; }
