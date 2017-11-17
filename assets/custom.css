@@ -1,3 +1,7 @@
 span.notransform {
   text-transform: none;
 }
+
+.reveal ul {
+  list-style: none;
+}

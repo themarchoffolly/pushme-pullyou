@@ -1,4 +1,4 @@
-## FontAwesome
+## Font Awesome
 ### (Shortcut Syntax)
 ## Feature Demonstration
 
@@ -25,6 +25,15 @@ Over 600 icons at your fingertips ;-)
 - @fa[line-chart](Line Chart)
 - @fa[pie-chart](Pie Chart)
 - @fa[area-chart](Area Chart)
+
+---
+
+# Awesome Lists 2
+
+- @fa[bar-chart] Bar Chart
+- @fa[line-chart] Line Chart
+- @fa[pie-chart] Pie Chart
+- @fa[area-chart] Area Chart
 
 ---
 
