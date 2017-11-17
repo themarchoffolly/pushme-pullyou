@@ -51,6 +51,6 @@ span.black {
   color: black;
 }
 
-span.notransform {
+.reveal span.notransform {
   text-transform: none;
 }
