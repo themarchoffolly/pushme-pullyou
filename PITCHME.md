@@ -27,7 +27,7 @@
 
 ---
 
-## List Bullet-Point Icons
+## Use Icons As Bullet-Points
 <br>
 
 - @fa[bar-chart](Bar Chart)
