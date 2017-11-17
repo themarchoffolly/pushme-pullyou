@@ -36,7 +36,7 @@
 
 ## Huge Icons
 <br>
-<span style="byline">With pixel perfect rendering.</span>
+<span style="byline">With just one line of custom CSS.</span>
 
 ---
 
