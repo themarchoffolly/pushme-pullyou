@@ -15,7 +15,7 @@
 
 @fa[rocket fa-5x]
 
-Over 600 icons at your fingertips ;-)
+<span style="byline">Over 600 icons at your fingertips ;-)</span>
 
 ---
 
@@ -35,6 +35,8 @@ Over 600 icons at your fingertips ;-)
 ---
 
 ## Huge Icons
+<br>
+<span style="byline">With pixel perfect rendering.</span>
 
 ---
 

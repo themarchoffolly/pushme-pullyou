@@ -1,4 +1,5 @@
-span.notransform {
+span.byline {
+  color : gray;
   text-transform: none;
 }
 
