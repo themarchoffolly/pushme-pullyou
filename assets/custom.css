@@ -3,6 +3,11 @@
   text-transform: none;
 }
 
+.reveal p.fa-byline {
+  color : gray;
+  text-transform: none;
+}
+
 .reveal span.fa-byline {
   color : gray;
   text-transform: none;
