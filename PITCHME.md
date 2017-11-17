@@ -40,7 +40,7 @@
 
 ## Huge Icons
 <br>
-<span style="fa-byline">With just one line of custom CSS.</span>
+<span style="fa-byline">With just one line of custom CSS @fa[caret-right]</span>
 
 ---
 
