@@ -14,7 +14,7 @@
 
 ## Awesome Basics
 
-@fa[rocket fa-5x fa-pink]
+@fa[rocket fa-5x fa-lime]
 
 <br>
 <span class="fa-byline">Over 650 icons at your fingertips ;-)</span>
