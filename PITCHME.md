@@ -41,13 +41,13 @@
 
 ## Resizable Icons
 <br>
-### GitPitch @fa[heart fa-2x] @fa[github], @fa[gitlab fa-3x], and @fa[bitbucket fa-lg]
+### GitPitch @fa[heart fa-2x] @fa[github], @fa[gitlab fa-3x], and @fa[bitbucket fa-lg].
 
 ---
 
 ## Colorful Icons
 <br>
-### @fa[github fa-2x fa-pink] @fa[gitlab fa-2x fa-peach] @fa[bitbucket fa-2x fa-lime].
+### @fa[github fa-2x fa-pink] @fa[gitlab fa-2x fa-peach] @fa[bitbucket fa-2x fa-lime]
 
 <br>
 <span class="fa-byline">With just one line of custom CSS.</span>
