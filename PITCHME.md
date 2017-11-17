@@ -19,12 +19,15 @@
 
 ---
 
-## List Icons
+## List Bullet Icons
 
 - @fa[bar-chart](Bar Chart)
 - @fa[line-chart](Line Chart)
 - @fa[pie-chart](Pie Chart)
 - @fa[area-chart](Area Chart)
+
+<br>
+<span style="byline">With just one line of custom CSS.</span>
 
 ---
 
