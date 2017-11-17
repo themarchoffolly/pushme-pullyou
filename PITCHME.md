@@ -21,6 +21,12 @@
 
 ---
 
+## Inline Icons
+<br>
+### GitPitch @fa[heart] @fa[github], @fa[gitlab], and @fa[bitbucket].
+
+---
+
 ## List Bullet-Point Icons
 
 - @fa[bar-chart](Bar Chart)
@@ -30,12 +36,6 @@
 
 <br>
 <span class="fa-byline">With just one line of custom CSS.</span>
-
----
-
-## Inline Icons
-<br>
-### GitPitch @fa[heart] @fa[github], @fa[gitlab], and @fa[bitbucket].
 
 ---
 
