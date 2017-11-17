@@ -6,3 +6,6 @@
 #### @fa[github](gitpitch) 
 #### @fa[medium](@gitpitch) 
 
+#### @gitpitch
+#### @fa[twitter] @fa[github] @fa[medium]
+
