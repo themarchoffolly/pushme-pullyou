@@ -12,7 +12,7 @@
 
 ---
 
-## Awesome Basics
+## Font Awesome Basics
 
 @fa[rocket fa-5x]
 
