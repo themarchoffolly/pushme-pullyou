@@ -62,7 +62,7 @@
 
 ---
 
-@fa[smile-o fa-huge]
+@fa[linux fa-huge]
 
 ---
 
