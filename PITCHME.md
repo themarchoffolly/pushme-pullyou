@@ -11,7 +11,7 @@
 
 ---
 
-# Awesome Basics
+## Awesome Basics
 
 @fa[rocket fa-5x]
 
@@ -19,7 +19,7 @@ Over 600 icons at your fingertips ;-)
 
 ---
 
-# Awesome Lists
+## Awesome Lists
 
 - @fa[bar-chart](Bar Chart)
 - @fa[line-chart](Line Chart)
@@ -28,7 +28,7 @@ Over 600 icons at your fingertips ;-)
 
 ---
 
-# Awesome Lists 2
+## Awesome Lists 2
 
 - @fa[bar-chart] Bar Chart
 - @fa[line-chart] Line Chart
@@ -37,11 +37,9 @@ Over 600 icons at your fingertips ;-)
 
 ---
 
-# Awesome Inline
-
-### I @fa[heart]
-
-### @fa[github], @fa[gitlab], and @fa[bitbucket].
+## Awesome Inline
+<br>
+### GitPitch @fa[heart] @fa[github], @fa[gitlab], and @fa[bitbucket].
 
 ---
 
