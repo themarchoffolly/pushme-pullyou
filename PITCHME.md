@@ -1,11 +1,8 @@
 ### Thank you!
 <br>
-### @fa[question fa-lg]
+### @fa[question-circle-o fa-lg]
 <br>
-#### @fa[twitter](@gitpitch)
-#### @fa[github](gitpitch) 
-#### @fa[medium](@gitpitch) 
 
-#### @gitpitch
 #### @fa[twitter] @fa[github] @fa[medium]
+#### @gitpitch
 
