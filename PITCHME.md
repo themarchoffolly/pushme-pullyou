@@ -62,7 +62,7 @@
 
 ---
 
-@titler[Icons Fullscreen]
+@title[Icons Fullscreen]
 
 @fa[linux fa-huge]
 
