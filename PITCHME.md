@@ -12,7 +12,7 @@
 
 ---
 
-## Font Awesome Basics
+## How Awesome?
 
 @fa[rocket fa-5x]
 
