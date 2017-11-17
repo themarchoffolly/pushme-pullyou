@@ -41,7 +41,7 @@
 
 ## Resizable Icons
 <br>
-### GitPitch @fa[heart fa-2x] @fa[github], @fa[gitlab fa-3x], and @fa[bitbucket fa-lg].
+### GitPitch @fa[heart fa-2x] @fa[github], @fa[gitlab fa-3x], and @fa[bitbucket fa-lg]
 
 ---
 
