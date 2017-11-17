@@ -45,6 +45,13 @@
 
 ---
 
+## Colorable Icons
+<br>
+### @fa[github fa-pink], @fa[gitlab fa-peach], and @fa[bitbucket fa-lime].
+
+---
+
+
 ## Huge Icons
 <br>
 <span class="fa-byline">With just one line of custom CSS @fa[caret-right]</span>

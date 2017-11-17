@@ -4,4 +4,9 @@
 /* Enable Huge Icons */
 .fa-huge { font-size : 15em; }
 
+/* Custom Icons Colors */
+.fa-pink { color : #f6ebfa; }
+.fa-peach { color : #faebef; }
+.fa-lime { color : #effaeb; }
+
 span.fa-byline { color : gray; }
