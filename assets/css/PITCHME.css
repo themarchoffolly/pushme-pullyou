@@ -2,7 +2,7 @@
 .reveal ul { list-style: none; }
 
 /* Enable Huge Icons */
-.fa-huge { font-size : 15em; }
+.fa-huge { font-size : 15em; color: #ffa6b9; }
 
 /* Custom Icons Colors */
 .fa-pink { color : #eba3ff; }
