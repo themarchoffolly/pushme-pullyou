@@ -21,7 +21,7 @@
 
 ---
 
-## Text Inline Icons
+## Text With Inline Icons
 <br>
 ### GitPitch @fa[heart] @fa[github], @fa[gitlab], and @fa[bitbucket].
 
