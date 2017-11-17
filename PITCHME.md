@@ -28,6 +28,7 @@
 ---
 
 ## List Bullet-Point Icons
+<br>
 
 - @fa[bar-chart](Bar Chart)
 - @fa[line-chart](Line Chart)
