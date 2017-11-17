@@ -1,12 +1,12 @@
-span.byline {
+.reveal p span.byline {
   color : gray;
   text-transform: none;
 }
 
-.fa-huge{
-    font-size : 15em;
-}
-
 .reveal ul {
   list-style: none;
+}
+
+.fa-huge {
+    font-size : 15em;
 }
