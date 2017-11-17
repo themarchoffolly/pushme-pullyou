@@ -2,6 +2,10 @@ span.notransform {
   text-transform: none;
 }
 
+.fa-huge{
+    font-size : 50vh;
+}
+
 .reveal ul {
   list-style: none;
 }

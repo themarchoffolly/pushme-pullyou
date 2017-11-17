@@ -19,7 +19,7 @@ Over 600 icons at your fingertips ;-)
 
 ---
 
-## Awesome Lists
+## List Icons
 
 - @fa[bar-chart](Bar Chart)
 - @fa[line-chart](Line Chart)
@@ -28,18 +28,16 @@ Over 600 icons at your fingertips ;-)
 
 ---
 
-## Awesome Lists 2
-
-- @fa[bar-chart] Bar Chart
-- @fa[line-chart] Line Chart
-- @fa[pie-chart] Pie Chart
-- @fa[area-chart] Area Chart
+## Inline Icons
+<br>
+### GitPitch @fa[heart] @fa[github], @fa[gitlab], and @fa[bitbucket].
 
 ---
 
-## Awesome Inline
+## Huge Icons
 <br>
-### GitPitch @fa[heart] @fa[github], @fa[gitlab], and @fa[bitbucket].
+@fa[user-circle fa-huge]
+
 
 ---
 
