@@ -38,6 +38,14 @@
 
 ---
 
+## Resizable Icons
+<br>
+### GitPitch @fa[heart fa-lg] @fa[github], @fa[gitlab fa-2x], and @fa[bitbucket fa-lg].
+<br>
+<span class="fa-byline">Size shown not a real measure of @fa[heart] ;-)</span>
+
+---
+
 ## Huge Icons
 <br>
 <span class="fa-byline">With just one line of custom CSS @fa[caret-right]</span>
