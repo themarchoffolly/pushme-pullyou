@@ -62,6 +62,8 @@
 
 ---
 
+@titler[Icons Fullscreen]
+
 @fa[linux fa-huge]
 
 ---
