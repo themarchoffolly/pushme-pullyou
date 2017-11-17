@@ -1,4 +1,4 @@
-### Thank you.
+### Questions
 <br>
 ### @fa[question-circle-o fa-lg]
 <br>
