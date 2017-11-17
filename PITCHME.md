@@ -46,7 +46,7 @@
 
 ---
 
-## Colorful Icons
+## Icons With Color
 <br>
 ### @fa[slack fa-2x fa-pink] @fa[git fa-2x fa-peach] @fa[reddit fa-2x fa-lime]
 
@@ -56,7 +56,7 @@
 ---
 
 
-## Huge Icons
+## Icons Of Any Size
 <br>
 <span class="fa-byline">With just one line of custom CSS @fa[caret-right]</span>
 
