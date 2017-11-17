@@ -48,7 +48,7 @@
 
 ## Colorful Icons
 <br>
-### @fa[slack fa-2x fa-pink] @fa[git fa-2x fa-peach] @fa[stack-overflow fa-2x fa-lime]
+### @fa[slack fa-2x fa-pink] @fa[git fa-2x fa-peach] @fa[reddit fa-2x fa-lime]
 
 <br>
 <span class="fa-byline">With just one line of custom CSS.</span>
