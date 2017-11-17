@@ -40,13 +40,13 @@
 
 ---
 
-## Resizable Icons
+## Icons Are Resizable
 <br>
 ### GitPitch @fa[heart fa-2x] @fa[github], @fa[gitlab fa-3x], and @fa[bitbucket fa-lg].
 
 ---
 
-## Icons With Color
+## Icons Of Any Color
 <br>
 ### @fa[slack fa-2x fa-pink] @fa[git fa-2x fa-peach] @fa[reddit fa-2x fa-lime]
 
