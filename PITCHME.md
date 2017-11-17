@@ -16,7 +16,7 @@
 
 @fa[rocket fa-5x]
 
-<span style="byline">Over 600 icons at your fingertips ;-)</span>
+<span style="fa-byline">Over 600 icons at your fingertips ;-)</span>
 
 ---
 
@@ -28,7 +28,7 @@
 - @fa[area-chart](Area Chart)
 
 <br>
-<span style="byline">With just one line of custom CSS.</span>
+<span style="fa-byline">With just one line of custom CSS.</span>
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## Huge Icons
 <br>
-<span style="byline">With just one line of custom CSS.</span>
+<span style="fa-byline">With just one line of custom CSS.</span>
 
 ---
 
