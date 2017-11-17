@@ -20,7 +20,7 @@
 
 ---
 
-## List Bullet Icons
+## List Bullet-Point Icons
 
 - @fa[bar-chart](Bar Chart)
 - @fa[line-chart](Line Chart)
