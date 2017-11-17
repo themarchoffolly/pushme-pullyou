@@ -45,9 +45,12 @@
 
 ---
 
-## Colorable Icons
+## Colorful Icons
 <br>
 ### @fa[github fa-3x fa-pink], @fa[gitlab fa-3x fa-peach], and @fa[bitbucket fa-3x fa-lime].
+
+<br>
+<span class="fa-byline">With just one line of custom CSS.</span>
 
 ---
 
