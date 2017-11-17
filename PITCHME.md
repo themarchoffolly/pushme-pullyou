@@ -6,8 +6,9 @@
 
 ### Tips!
 
-- See <a target="_blank" href="https://github.com/gitpitch/gitpitch/wiki/Font-Awesome">Wiki</a> for feature How-To
-- Press `F` to go fullscreen!
+1. See <a target="_blank" href="https://github.com/gitpitch/gitpitch/wiki/Font-Awesome">Wiki</a> for feature How-To
+1. Press `F` to go fullscreen!
+1. See <a target="_blank" href="http://fontawesome.io/icons">Font Awesome Icon Set</a>
 
 ---
 
