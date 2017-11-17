@@ -1,3 +1,8 @@
+.fa-byline {
+  color : gray;
+  text-transform: none;
+}
+
 .reveal p span.fa-byline {
   color : gray;
   text-transform: none;
