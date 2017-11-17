@@ -35,9 +35,10 @@ Over 600 icons at your fingertips ;-)
 ---
 
 ## Huge Icons
-<br>
-@fa[git fa-huge]
 
+---
+
+@fa[smile-o fa-huge]
 
 ---
 
