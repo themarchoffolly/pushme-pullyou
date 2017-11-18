@@ -21,6 +21,17 @@
 
 ---
 
+## The Basic Syntax
+
+```text
+@fa[rocket fa-5x]
+```
+
+<br>
+<span class="fa-byline">Specifying font size is optional.</span>
+
+---
+
 ## Inline Icons Within Text
 <br>
 ### GitPitch @fa[heart] @fa[github], @fa[gitlab], and @fa[bitbucket].
