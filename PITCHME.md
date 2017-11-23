@@ -44,3 +44,15 @@ docker volume rm volName
 @[1](Listet alle Volumes auf)
 @[2](Loscht ein Volume)
 
+---
+
+### Volumes verwalten shell
+
+```shell
+docker volume ls
+docker volume rm volName
+```
+
+@[1](Listet alle Volumes auf)
+@[2](Loscht ein Volume)
+
