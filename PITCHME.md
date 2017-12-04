@@ -76,7 +76,7 @@ http.createServer(function (request, response) {
 
 <br><br>
 
----
+---?image=assets/image/daniel-ghio.jpg
 
 ### Questions?
 
