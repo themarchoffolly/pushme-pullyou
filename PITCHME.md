@@ -74,7 +74,7 @@ http.createServer(function (request, response) {
 
 ---
 
-### Questions?
+## Questions?
 
 @fa[github](gitpitch)
 
