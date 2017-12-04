@@ -22,7 +22,7 @@ html:-moz-full-screen-ancestor {
   font-size: 1.2em;
   line-height: 1.2;
   max-height: 50vh !important;
-  opacity: 0.65;
+  opacity: 0.95;
   border-radius: 10px;
 }
 
