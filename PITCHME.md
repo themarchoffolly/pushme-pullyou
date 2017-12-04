@@ -8,12 +8,12 @@
 
 ## Template Features
 
-- Code Presenting
-  + Repo Source, Static Blocks, GIST
-- Custom CSS Styling
-- Slideshow Background Image
-- Slide-specific Background Images
-- Custom Logo, TOC, and Footnotes
+- Code Presenting |
+- Repo Source, Static Blocks, GIST |
+- Custom CSS Styling |
+- Slideshow Background Image |
+- Slide-specific Background Images |
+- Custom Logo, TOC, and Footnotes |
 
 <br><br>
 
@@ -75,6 +75,16 @@ http.createServer(function (request, response) {
 - [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
 <br><br>
+
+---
+
+### Questions?
+
+@fa[github](gitpitch)
+
+@fa[twitter](@gitpitch)
+
+@fa[medium](@gitpitch)
 
 ---?image=assets/image/gp-conference-audience-only.jpg
 
