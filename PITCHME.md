@@ -81,7 +81,7 @@ http.createServer(function (request, response) {
 
 @fa[medium](@gitpitch)
 
----?image=assets/image/gp-conference-audience-only.jpg
+---?image=assets/image/gitpitch-audience.jpg
 
 @title[Fork this Template!]
 
