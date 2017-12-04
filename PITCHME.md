@@ -8,10 +8,10 @@
 
 - Code Presenting
   + Repo Source, Static Blocks, GIST
-- Custom CSS Styling
-- Slideshow Background Image
-- Slide-specific Background Images
-- Custom Logo, TOC, and Footnotes
+- Custom CSS Styling |
+- Slideshow Background Image |
+- Slide-specific Background Images |
+- Custom Logo, TOC, and Footnotes |
 
 ---?code=src/go/server.go&title=Golang File
 
