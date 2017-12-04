@@ -13,7 +13,7 @@
 
 .reveal .slides section .code-presenting-annotation {
   color: white;
-  background: #3f6f99;
+  background: #d5d0b6;
   padding: 1px 15px;
   border-radius: 15px;
   opacity: 0.75 !important;
@@ -22,7 +22,7 @@
 
 .reveal p span.slide-title {
   color: white;
-  background: #8fc6d7;
+  background: #fffef9;
   padding: 4px 15px;
   opacity: 0.75 !important;
   border-radius: 15px;
