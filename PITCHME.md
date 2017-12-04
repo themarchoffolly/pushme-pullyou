@@ -74,13 +74,13 @@ http.createServer(function (request, response) {
 
 ---
 
-## Questions?
+### Questions?
 
-#### @fa[github](gitpitch)
+@fa[github](gitpitch)
 
-#### @fa[twitter](@gitpitch)
+@fa[twitter](@gitpitch)
 
-#### @fa[medium](@gitpitch)
+@fa[medium](@gitpitch)
 
 ---?image=assets/image/gitpitch-audience.jpg&opacity=100
 
