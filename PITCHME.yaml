@@ -2,7 +2,7 @@ theme : moon
 logo : assets/image/logo.png
 background : assets/image/binary-strings-black.jpg
 background-opacity : 10
-theme-override : assets/css/custom.css
+theme-override : assets/css/PITCHME.css
 highlight : ir-black
 transition : none
 published : true
