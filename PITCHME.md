@@ -8,12 +8,12 @@
 
 ## Template Features
 
-- Code Presenting
-  + Repo Source, Static Blocks, GIST
-- Custom CSS Styling
-- Slideshow Background Image
-- Slide-specific Background Images
-- Custom Logo, TOC, and Footnotes
+- Code Presenting |
+- Repo Source, Static Blocks, GIST |
+- Custom CSS Styling |
+- Slideshow Background Image |
+- Slide-specific Background Images |
+- Custom Logo, TOC, and Footnotes |
 
 ---?code=src/go/server.go&title=Golang File
 
@@ -72,7 +72,17 @@ http.createServer(function (request, response) {
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
 - [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
----?image=assets/image/gp-conference-audience-only.jpg
+---
+
+### Questions?
+
+@fa[github](gitpitch)
+
+@fa[twitter](@gitpitch)
+
+@fa[medium](@gitpitch)
+
+---?image=assets/image/gitpitch-audience.jpg
 
 @title[Fork this Template!]
 

@@ -1,8 +1,6 @@
 theme : beige
 logo : assets/image/logo.png
-# background : assets/image/shoot-n-design.jpg
-theme-override : assets/css/custom.css
-# highlight : atom-one-light
+theme-override : assets/css/PITCHME.css
 transition : none
 published : true
 footnote : "GitPitch Code Candy [ Digital Water ] Presentation Template"
