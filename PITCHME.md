@@ -74,11 +74,11 @@ http.createServer(function (request, response) {
 
 ### Questions?
 
-@fa[github](gitpitch)
+- @fa[github](gitpitch) |
 
-@fa[twitter](@gitpitch)
+- @fa[twitter](@gitpitch) |
 
-@fa[medium](@gitpitch)
+- @fa[medium](@gitpitch) |
 
 ---?image=assets/image/gp-conference-audience-only.jpg&opacity=100
 
