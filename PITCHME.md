@@ -1,6 +1,6 @@
 ---
 
-# Code Candy
+# Code Pastel
 
 ### A GitPitch Presentation Template
 
