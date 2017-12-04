@@ -68,17 +68,17 @@ http.createServer(function (request, response) {
 - [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS) |
 - [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting) |
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background) |
-- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting) |
+- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting) [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents) [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting) |
 
 ---
 
 ### Questions?
 
-- @fa[github](gitpitch) |
+@fa[github](gitpitch)
 
-- @fa[twitter](@gitpitch) |
+@fa[twitter](@gitpitch)
 
-- @fa[medium](@gitpitch) |
+@fa[medium](@gitpitch)
 
 ---?image=assets/image/gp-conference-audience-only.jpg&opacity=100
 
