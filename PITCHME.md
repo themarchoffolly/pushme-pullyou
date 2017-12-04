@@ -74,7 +74,7 @@ http.createServer(function (request, response) {
 
 ### Questions?
 
-@fa[github](gitpitch)
+@fa[github]( gitpitch)
 
 @fa[twitter](@gitpitch)
 
