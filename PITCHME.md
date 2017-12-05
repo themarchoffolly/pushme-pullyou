@@ -1,7 +1,7 @@
 ---
 
 # Code Pastel
-# Max
+### Max
 
 ### A GitPitch Presentation Template
 
