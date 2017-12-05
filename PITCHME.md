@@ -86,7 +86,7 @@ http.createServer(function (request, response) {
 
 Note:
 Perhaps it's time for an insightful anecdote to keep your
-audience engaged.
+audience engaged?
 
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8
 
