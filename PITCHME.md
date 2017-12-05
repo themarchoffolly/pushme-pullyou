@@ -120,11 +120,11 @@ online @ [GitPitch.com](https://gitpitch.com) :)
 
 ### Questions?
 
-@fa[github](gitpitch)
+@fa[github fa-contact](gitpitch)
 
-@fa[twitter](@gitpitch)
+@fa[twitter fa-contact](@gitpitch)
 
-@fa[medium](@gitpitch)
+@fa[medium fa-contact](@gitpitch)
 
 ---?image=assets/image/gitpitch-audience.jpg
 
