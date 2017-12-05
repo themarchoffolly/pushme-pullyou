@@ -7,6 +7,14 @@
 
 ---
 
+## Tip!
+
+@fa[expand](Press F to go Fullscreen]
+
+@fa[microphone](Press S for Speaker Notes]
+
+---
+
 ## Template Features
 
 - Code Presenting |
@@ -16,7 +24,6 @@
 - Slideshow Background Image |
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
-- Press F - Fullscreen, S - Speaker Notes |
 
 ---?code=src/go/server.go
 
