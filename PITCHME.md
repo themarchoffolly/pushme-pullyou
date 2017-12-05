@@ -35,7 +35,7 @@ about your product, service, course, etc.
 - Custom Logo, TOC, and Footnotes |
 
 Note:
-Keep yourself on track with lists within your speaker notes:
+Keep yourself on track using lists within your speaker notes:
 
 - Key insight.
 - Supporting use case.
