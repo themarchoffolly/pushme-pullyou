@@ -7,6 +7,14 @@
 
 ---
 
+## Tips!
+
+@fa[arrows fa-tip](Press F to go Fullscreen)
+
+@fa[microphone fa-tip](Press S for Speaker Notes)
+
+---
+
 ## Template Features
 
 - Code Presenting |
