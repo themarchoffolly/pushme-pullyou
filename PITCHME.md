@@ -135,16 +135,6 @@ Note:
 Encourage questions, it's a great opportunity to
 learn from your audience.
 
----?image=assets/image/lukas_blazek.jpg
-
-### Questions?
-
-@fa[github](gitpitch)
-
-@fa[twitter](@gitpitch)
-
-@fa[medium](@gitpitch)
-
 ---?image=assets/image/gitpitch-audience.jpg
 
 @title[Fork this Template!]
