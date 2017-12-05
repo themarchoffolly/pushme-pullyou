@@ -1,7 +1,7 @@
 theme : sky
-logo : assets/image/logo.png
 theme-override : assets/css/PITCHME.css
-# highlight : atom-one-light
+logo : assets/image/logo.png
 transition : none
+vertical-center: false
 published : true
 footnote : "GitPitch Code Pastel [ Sky ] Presentation Template"
