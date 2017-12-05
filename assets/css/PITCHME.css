@@ -35,4 +35,7 @@
 
 .fa-tip { font-size : 1.5em; }
 
-.fa-contact { font-size : 1.25em; }
+.fa-contact {
+  font-size : 1.25em;
+  font-weight :  bold;
+}
