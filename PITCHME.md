@@ -1,7 +1,7 @@
 ---
 
 # Code Pastel
-## - Max -
+## - Sky Max -
 
 ### A GitPitch Presentation Template
 
