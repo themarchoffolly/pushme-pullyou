@@ -9,9 +9,9 @@
 
 ## Tip!
 
-@fa[arrows](Press F to go Fullscreen)
+@fa[arrows fa-2x](Press F to go Fullscreen)
 
-@fa[microphone](Press S for Speaker Notes)
+@fa[microphone fa-3x](Press S for Speaker Notes)
 
 ---
 
