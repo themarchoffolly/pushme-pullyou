@@ -46,3 +46,8 @@
   background: none;
 }
 */
+
+#gp-logo img {
+  max-height: 2em;
+  max-width: none;
+}
