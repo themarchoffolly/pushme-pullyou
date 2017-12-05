@@ -12,7 +12,7 @@
 - Code Presenting |
 - Repo Source, Static Blocks, GIST |
 - Custom CSS Styling |
-- Maximized for code display |
+- Maximized for Code Display |
 - Slideshow Background Image |
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
