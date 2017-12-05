@@ -7,6 +7,9 @@ Note:
 Welcome to this [GitPitch](https://gitpitch.com)
 presentation template!
 
+You are currently enjoying the speaker notes window,
+a feature available to all online and offline slideshows.
+
 ---
 
 ## Tips!
@@ -49,7 +52,7 @@ Keep yourself on track using lists within your speaker notes:
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
 Note:
-Keep it simple, try highlighting just one key message per slide.
+Best to keep it simple. Try highlighting just one key message per slide.
 
 ---
 
