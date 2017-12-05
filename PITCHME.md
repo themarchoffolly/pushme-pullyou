@@ -117,7 +117,10 @@ Reinforce key points to drive home your message.
 Note:
 
 Let your audience know where they can find additional
-help. And your presentaton slides, online @ [GitPitch.com](https://gitpitch.com) :)
+help.
+
+And where they can find your presentaton slides,
+online @ [GitPitch.com](https://gitpitch.com) :)
 
 ---
 
