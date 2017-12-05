@@ -120,11 +120,18 @@ online @ [GitPitch.com](https://gitpitch.com) :)
 
 ### Questions?
 
+<br>
+
 @fa[github fa-contact](gitpitch)
 
 @fa[twitter fa-contact](@gitpitch)
 
 @fa[medium fa-contact](@gitpitch)
+
+Note:
+
+Encourage questions, it's a great opportunity to
+learn from your audience.
 
 ---?image=assets/image/gitpitch-audience.jpg
 
