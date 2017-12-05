@@ -90,11 +90,13 @@ http.createServer(function (request, response) {
 
 ### Questions?
 
-@fa[github](gitpitch)
+<br>
 
-@fa[twitter](@gitpitch)
+@fa[github fa-contact](gitpitch)
 
-@fa[medium](@gitpitch)
+@fa[twitter fa-contact](@gitpitch)
+
+@fa[medium fa-contact](@gitpitch)
 
 ---?image=assets/image/gitpitch-audience.jpg
 
