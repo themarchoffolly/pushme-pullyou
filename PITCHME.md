@@ -50,8 +50,7 @@ Keep yourself on track using lists within your speaker notes:
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
 Note:
-Remember to highlight something pivotal or memorable for
-your audience.
+Keep it simple, try to highlight just one key message per slide.
 
 ---
 
