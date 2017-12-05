@@ -41,11 +41,7 @@ about your product, service, framework, course, etc.
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
 Note:
-Keep yourself on track using lists within your speaker notes:
-
-- Key insight.
-- Supporting use case.
-- Time to delve deeper.
+Best to keep it simple. Try highlighting just one key message per slide.
 
 ---
 
