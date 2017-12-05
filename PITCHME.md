@@ -7,11 +7,11 @@
 
 ---
 
-## Tip!
+## Tips!
 
-@fa[arrows fa-2x](Press F to go Fullscreen)
+@fa[arrows fa-tip](Press F to go Fullscreen)
 
-@fa[microphone fa-3x](Press S for Speaker Notes)
+@fa[microphone fa-tip](Press S for Speaker Notes)
 
 ---
 
