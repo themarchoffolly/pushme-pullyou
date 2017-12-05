@@ -50,7 +50,7 @@ Keep yourself on track using lists within your speaker notes:
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
 Note:
-Keep it simple, try to highlight just one key message per slide.
+Keep it simple, try highlighting just one key message per slide.
 
 ---
 
@@ -128,7 +128,8 @@ presentaton slides, online @ GitPitch :)
 
 Note:
 
-Encourage questions, learn from your audience.
+Encourage questions, it's a great opportunity to
+learn from your audience.
 
 ---?image=assets/image/gitpitch-audience.jpg
 
