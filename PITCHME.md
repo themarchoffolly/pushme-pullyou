@@ -34,6 +34,13 @@ about your product, service, course, etc.
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
 
+Note:
+Keep yourself on track with lists:
+
+- With code presenting...
+- No more switching back and forth with IDE
+- One less place for the Demo Gods to intervene!
+
 ---?code=src/go/server.go
 
 @title[Golang File]
