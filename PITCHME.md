@@ -2,6 +2,8 @@
 
 # Code Atmos
 
+### A GitPitch Presentation Template
+
 Note:
 Welcome to this [GitPitch](https://gitpitch.com)
 presentation template!
@@ -22,8 +24,6 @@ a feature available to all online and offline slideshows.
 Note:
 Get started by telling your audience something cool
 about your product, service, framework, course, etc.
-
-### A GitPitch Presentation Template
 
 ---?image=assets/image/kyle-gregory-devaras-241280.jpg
 
