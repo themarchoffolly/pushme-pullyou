@@ -24,7 +24,7 @@ a feature available to all online and offline slideshows.
 
 Note:
 Get started by telling your audience something cool
-about your product, service, course, etc.
+about your product, service, framework, course, etc.
 
 ---
 
