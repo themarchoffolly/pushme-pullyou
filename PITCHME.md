@@ -35,11 +35,11 @@ about your product, service, course, etc.
 - Custom Logo, TOC, and Footnotes |
 
 Note:
-Keep yourself on track with lists:
+Keep yourself on track with lists within your speaker notes:
 
-- With code presenting...
-- No more switching back and forth with IDE
-- One less place for the Demo Gods to intervene!
+- Key insight.
+- Supporting use case.
+- Time to delve deeper.
 
 ---?code=src/go/server.go
 
@@ -50,7 +50,8 @@ Keep yourself on track with lists:
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
 Note:
-Remember to highlight something special about your code.
+Remember to highlight something pivotal or memorable for
+your audience.
 
 ---
 
@@ -97,7 +98,7 @@ audience engaged.
 
 Note:
 
-Did you know that GitPitch GISTs work online and offline?
+Reinforce key points to drive home your message.
 
 ---
 
@@ -111,8 +112,8 @@ Did you know that GitPitch GISTs work online and offline?
 
 Note:
 
-You might want to mention where you audience can find your
-presentaton slides.
+Let your audience know where they can find your
+presentaton slides, online @ GitPitch :)
 
 ---
 
@@ -139,6 +140,7 @@ Encourage questions, learn from your audience.
 
 Note:
 
-Now it's your turn, for the fastest way to go from idea to presentation
-just fork any GitPitch presentation template. See [here](https://gitpitch.com/templates.html).
+Now it's your turn. The fastest way to go from idea to presentation
+is to fork any GitPitch presentation template. For details,
+see [here](https://gitpitch.com/templates.html).
 
