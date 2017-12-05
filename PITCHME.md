@@ -6,7 +6,8 @@
 ### A GitPitch Presentation Template
 
 Note:
-Welcome to this GitPitch presentation template!
+Welcome to this [GitPitch](https://gitpitch.com)
+presentation template!
 
 ---
 
@@ -140,7 +141,7 @@ learn from your audience.
 
 Note:
 
-Now it's your turn. The fastest way to go from idea to presentation
-is to fork any GitPitch presentation template. For details,
-see [here](https://gitpitch.com/templates.html).
+Now it's your turn. The fastest way from idea to presentation
+is to fork a GitPitch presentation template. Visit the
+Template Gallery [here](https://gitpitch.com/templates.html).
 
