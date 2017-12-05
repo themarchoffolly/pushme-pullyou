@@ -10,7 +10,7 @@ Welcome to this [GitPitch](https://gitpitch.com)
 presentation template!
 
 You are currently enjoying the speaker notes window,
-available for all online and offline slideshows.
+a feature available to all online and offline slideshows.
 
 ---
 
