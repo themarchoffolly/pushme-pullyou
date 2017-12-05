@@ -8,7 +8,8 @@
 Note:
 Welcome to this [GitPitch](https://gitpitch.com)
 presentation template! You are currently enjoying
-the speaker notes feature.
+the speaker notes feature, available for every
+online and offline slideshow.
 
 ---
 
