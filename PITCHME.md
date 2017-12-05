@@ -12,10 +12,10 @@
 - Code Presenting |
 - Repo Source, Static Blocks, GIST |
 - Custom CSS Styling |
+- Maximized for code display |
 - Slideshow Background Image |
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
-- Maximized for code display |
 
 ---?code=src/go/server.go
 
