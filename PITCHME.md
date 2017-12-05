@@ -15,6 +15,7 @@
 - Slideshow Background Image |
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
+- Maximized for code display |
 
 ---?code=src/go/server.go
 
