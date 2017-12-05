@@ -7,7 +7,8 @@
 
 Note:
 Welcome to this [GitPitch](https://gitpitch.com)
-presentation template!
+presentation template! You are currently enjoying
+the speaker notes feature.
 
 ---
 
