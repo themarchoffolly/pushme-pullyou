@@ -16,7 +16,7 @@
 - Slideshow Background Image |
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
-- Press F - Fullscreen, S - Speaker Notes
+- Press F - Fullscreen, S - Speaker Notes |
 
 ---?code=src/go/server.go
 
