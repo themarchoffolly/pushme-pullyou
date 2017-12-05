@@ -54,7 +54,7 @@ http.createServer(function (request, response) {
 @[9-17](Displayed using code-syntax highlighting just like your IDE.)
 @[19-20](Again, all of this without ever leaving your slideshow.)
 
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e
+---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8
 
 @title[Scala GIST]
 
