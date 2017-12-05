@@ -128,11 +128,11 @@ online @ [GitPitch.com](https://gitpitch.com) :)
 
 <br>
 
-@fa[github](gitpitch)
+@fa[github fa-contact](gitpitch)
 
-@fa[twitter](@gitpitch)
+@fa[twitter fa-contact](@gitpitch)
 
-@fa[medium](@gitpitch)
+@fa[medium fa-contact](@gitpitch)
 
 Note:
 
