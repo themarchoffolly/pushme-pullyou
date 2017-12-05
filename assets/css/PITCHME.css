@@ -27,3 +27,8 @@
   opacity: 0.75 !important;
   border-radius: 15px;
 }
+
+#gp-logo img {
+  max-height: 2em;
+  max-width: none;
+}
