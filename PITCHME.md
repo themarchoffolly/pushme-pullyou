@@ -113,7 +113,7 @@ Reinforce key points to drive home your message.
 Note:
 
 Let your audience know where they can find your
-presentaton slides, online @ GitPitch :)
+presentaton slides, online @ [GitPitch.com](https://gitpitch.com) :)
 
 ---
 
