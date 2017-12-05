@@ -5,6 +5,9 @@
 
 ### A GitPitch Presentation Template
 
+Note:
+Welcome to this GitPitch presentation template!
+
 ---
 
 ## Tips!
@@ -14,6 +17,10 @@
 @fa[arrows fa-tip](Press F to go Fullscreen)
 
 @fa[microphone fa-tip](Press S for Speaker Notes)
+
+Note:
+Get started by telling your audience something cool
+about your product, service, course, etc.
 
 ---
 
