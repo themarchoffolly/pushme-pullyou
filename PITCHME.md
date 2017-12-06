@@ -41,7 +41,7 @@ Keep yourself on track using lists within your speaker notes:
 - Supporting use case.
 - Time to delve deeper.
 
----?code=src/go/server.go&title=Golang File
+---?code=src/go/server.go&lang=monochrome&title=Golang File
 
 @[1,3-6](Present code found within any repo source file.)
 @[8-18](Without ever leaving your slideshow.)
@@ -56,7 +56,7 @@ Best to keep it simple. Try highlighting just one key message per slide.
 
 <p><span class="slide-title">JavaScript Block</span></p>
 
-```javascript
+```monochrome
 // Include http module.
 var http = require("http");
 
@@ -87,7 +87,7 @@ Note:
 Perhaps it's time for an insightful anecdote to keep your
 audience engaged?
 
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&title=Scala GIST
+---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=monochrome&title=Scala GIST
 
 @[23](You can even present code found within any GitHub GIST.)
 @[41-53](GIST source code is beautifully rendered on any slide.)
