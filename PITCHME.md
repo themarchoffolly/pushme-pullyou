@@ -1,4 +1,4 @@
-# Code Binary
+# Code Monochrome
 
 ### A GitPitch Presentation Template
 
