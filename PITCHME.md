@@ -1,4 +1,4 @@
-# Code Binary
+# Code KISS
 
 ### A GitPitch Presentation Template
 
