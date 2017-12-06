@@ -34,7 +34,7 @@ html:-moz-full-screen-ancestor {
 }
 
 .reveal .slides section .code-presenting-annotation {
-  color: white;
+  color: black;
   background: #1f1c18;
   padding: 1px 15px;
   border-radius: 15px;
