@@ -6,18 +6,18 @@
  */
 
 body {
-  background: #000;
-  background-color: #000;
+  background: #fff;
+  background-color: #fff;
 }
 
 html:-webkit-full-screen-ancestor {
-  background: #000;
-  background-color: #000;
+  background: #fff;
+  background-color: #fff;
 }
 
 html:-moz-full-screen-ancestor {
-  background: #000;
-  background-color: #000;
+  background: #fff;
+  background-color: #fff;
 }
 
 .reveal pre {
