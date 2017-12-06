@@ -8,7 +8,7 @@ theme : moon
 theme-override : assets/css/PITCHME.css
 highlight : atom-one-light
 logo : assets/image/logo.png
-background : assets/image/octavian-rosca-208933.jpg
+background : assets/image/octavian-rosca.jpg
 transition : none
 published : true
 footnote : "GitPitch Code Atmos [ Space ] Presentation Template"
