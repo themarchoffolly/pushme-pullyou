@@ -49,6 +49,14 @@ html:-moz-full-screen-ancestor {
   border-radius: 15px;
 }
 
+.reveal a {
+    color: #e7ad52;
+}
+
+.reveal a:hover {
+    color: #f3d7ac;
+}
+
 .hljs {
   background : none;
 }
