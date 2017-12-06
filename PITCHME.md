@@ -137,7 +137,7 @@ learn from your audience.
 
 @title[Fork this Template!]
 
-### Get your presentation started!
+### <span class="white">Get your presentation started!</span>
 ### <a target="_blank" href="https://github.com/gitpitch/template-code-binary-black">Fork this template <i class="fa fa-external-link" style="margin-left: 10px" aria-hidden="true"></i></a>
 
 Note:

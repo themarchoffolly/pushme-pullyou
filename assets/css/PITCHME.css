@@ -61,6 +61,10 @@ html:-moz-full-screen-ancestor {
   background : none;
 }
 
+.white {
+  color: white;
+}
+
 #gp-logo img {
   max-height: 2em;
   max-width: none;
