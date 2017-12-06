@@ -1,8 +1,14 @@
+#
+# GitPitch Slideshow Custom Settings
+#
+# For details, visit Wiki:
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
 theme : beige
+theme-override : assets/css/PITCHME.css
+highlight : hybrid
 logo : assets/image/logo.png
 background : assets/image/felicia_d_ascanio.jpg
-theme-override : assets/css/PITCHME.css
-# highlight : atom-one-light
 transition : none
 published : true
 footnote : "GitPitch Code Graffiti [Wood] Presentation Template"
