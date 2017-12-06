@@ -6,7 +6,8 @@
 #
 theme : night
 theme-override : assets/css/PITCHME.css
-highlight : ir-black
+# highlight : ir-black
+highlight : atom-one-dark
 logo : assets/image/logo.png
 transition : none
 published : true
