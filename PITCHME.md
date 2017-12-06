@@ -45,7 +45,7 @@ Keep yourself on track using lists within your speaker notes:
 - Supporting use case.
 - Time to delve deeper.
 
----?code=src/go/server.go
+---?code=src/go/server.go&lang=golang
 
 @title[Golang File]
 
@@ -91,7 +91,7 @@ Note:
 Perhaps it's time for an insightful anecdote to keep your
 audience engaged?
 
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8
+---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=scala
 
 @title[Scala GIST]
 
