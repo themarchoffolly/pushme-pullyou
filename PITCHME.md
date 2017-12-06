@@ -1,4 +1,4 @@
-# Code Monochrome
+# Code KISS
 
 ### A GitPitch Presentation Template
 
