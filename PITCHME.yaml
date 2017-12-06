@@ -8,7 +8,7 @@ theme : night
 theme-override : assets/css/PITCHME.css
 highlight : atom-one-light
 logo : assets/image/logo.png
-background : assets/image/chuttersnap-334733.jpg
+background : assets/image/chuttersnap.jpg
 transition : none
 published : true
 footnote : "GitPitch Code Atmos [ Rain ] Presentation Template"

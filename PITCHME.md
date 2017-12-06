@@ -1,4 +1,4 @@
----?image=assets/image/pan-xiaozhen-332459.jpg
+---?image=assets/image/pan-xiaozhen.jpg
 
 # Code Atmos
 
@@ -11,7 +11,7 @@ presentation template!
 You are currently enjoying the speaker notes window,
 a feature available to all online and offline slideshows.
 
----?image=assets/image/igor-yemelianov-437707.jpg
+---?image=assets/image/igor-yemelianov.jpg
 
 ## Tips!
 
@@ -25,7 +25,7 @@ Note:
 Get started by telling your audience something cool
 about your product, service, framework, course, etc.
 
----?image=assets/image/igor-yemelianov-437707.jpg
+---?image=assets/image/igor-yemelianov.jpg
 
 ## Template Features
 
@@ -52,7 +52,7 @@ Keep yourself on track using lists within your speaker notes:
 Note:
 Best to keep it simple. Try highlighting just one key message per slide.
 
----?image=assets/image/ruslan-zh-413199.jpg
+---?image=assets/image/ruslan-zh.jpg
 
 @title[JavaScript Block]
 
@@ -99,7 +99,7 @@ Note:
 
 Reinforce key points to drive home your message.
 
----?image=assets/image/igor-yemelianov-437707.jpg
+---?image=assets/image/igor-yemelianov.jpg
 
 ## Template Help
 
@@ -118,7 +118,7 @@ help.
 And where they can find your presentaton slides,
 online @ [GitPitch.com](https://gitpitch.com) :)
 
----?image=assets/image/igor-yemelianov-437707.jpg
+---?image=assets/image/igor-yemelianov.jpg
 
 ### Questions?
 
