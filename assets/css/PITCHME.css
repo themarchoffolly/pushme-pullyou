@@ -1,3 +1,10 @@
+/*
+ * GitPitch Slideshow Custom CSS Styling
+ *
+ * For details, visit Wiki:
+ * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
+ */
+
 .reveal pre {
   width: 100%;
 }
@@ -40,12 +47,6 @@
 #title-footer p.footer-fade {
   color: #b6b6b6;
 }
-
-/*
-.hljs {
-  background: none;
-}
-*/
 
 span.black {
   color: black;
