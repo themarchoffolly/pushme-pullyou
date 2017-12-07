@@ -96,5 +96,5 @@ http.createServer(function (request, response) {
 @title[Fork this Template!]
 
 ### Get your presentation started!
-### <a target="_blank" href="https://github.com/gitpitch/template-code-candy-netflix">Fork this template <i class="fa fa-external-link" style="margin-left: 10px" aria-hidden="true"></i></a>
+### <a target="_blank" href="https://gitpitch.com/templates.html#beige">Fork this template <i class="fa fa-external-link" style="margin-left: 10px" aria-hidden="true"></i></a>
 
