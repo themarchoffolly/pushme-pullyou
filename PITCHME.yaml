@@ -3,5 +3,5 @@
 # background : assets/room960-700.jpg
 # stealth : curly, moe
 confidential : curly, moe
-confidential-title : "OpenCPU Analytics"
+confidential-title : "Open<span style='color: blue'>CPU</span> Analytics"
 confidential-subtitle : "Realtime R Scoring Model"
