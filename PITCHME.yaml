@@ -4,8 +4,8 @@
 stealth : curly, moe
 # confidential : curly, moe
 
-pro-title : "SAMBA"
-pro-subtitle : "Apache Spark AWS Lambda Executor"
-pro-logo : assets/logo.png
-pro-background : assets/room.jpg
+# pro-title : "SAMBA"
+# pro-subtitle : "Apache Spark AWS Lambda Executor"
+# pro-logo : assets/logo.png
+# pro-background : assets/room.jpg
 
