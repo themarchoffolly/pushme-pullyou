@@ -2,7 +2,7 @@
 # logo : assets/logo.png
 # background : assets/room960-700.jpg
 # stealth : curly, moe
-confidential : curly, moe
+confidential : alice
 # confidential-title : "OpenCPU Analytics"
 confidential-subtitle : "Realtime R Scoring Engine"
 # confidential-logo : assets/logo.png
