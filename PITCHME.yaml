@@ -3,7 +3,8 @@
 # background : assets/room960-700.jpg
 # stealth : curly, moe
 confidential : curly, moe
-confidential-title : "SAMBA Library"
-confidential-subtitle : "Apache Spark AWS Lambda Executor"
-confidential-logo : assets/logo.png
-confidential-background : assets/room.jpg
+pro-title : "SAMBA Library"
+pro-subtitle : "Apache Spark AWS Lambda Executor"
+pro-logo : assets/logo.png
+pro-background : assets/room.jpg
+
