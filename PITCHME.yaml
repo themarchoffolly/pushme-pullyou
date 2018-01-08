@@ -2,4 +2,4 @@ theme : black
 highlight : ir-black
 theme-override : assets/custom.css
 remote-control : true
-remote-control-prev-key : 38
+remote-control-prevkey : 38
