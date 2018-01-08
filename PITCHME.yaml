@@ -2,4 +2,5 @@ theme : black
 highlight : ir-black
 theme-override : assets/custom.css
 remote-control : true
+remote-control-prevkey : 38
 autoslide : 2000
