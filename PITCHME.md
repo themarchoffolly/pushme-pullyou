@@ -84,6 +84,7 @@ import {
 } from 'react-native';
 
 class App extends Component {
+
     constructor () {
         super();
         this.state = {
@@ -103,7 +104,7 @@ class App extends Component {
             <view>
                 <text>Count: {this.state.count}</text>
                 <touchableopacity>
-                    <text>Add One</text>
+                <text>Add One</text>
                 </touchableopacity>
             </view>
         );
@@ -111,6 +112,4 @@ class App extends Component {
 }
 AppRegistry.registerComponent('AwesomeProject', () =&gt; App);
 ```
-
-
 
