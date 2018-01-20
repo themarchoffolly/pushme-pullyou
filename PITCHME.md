@@ -42,9 +42,9 @@ class App extends Component {
 ReactDOM.render(<app></app>, document.getElementById('root'));
 ```
 
-@[1,2](Remember code presenting is aavailable)
-@[4,12](So you can step through your code)
-@[7-9](Directly within your slideshow)
+@[1,2](Remember you can use GitPitch code presenting too)
+@[4,12](So you can step through your code like an IDE)
+@[7-9](From directly within your slideshow presentation)
 
 ---
 
