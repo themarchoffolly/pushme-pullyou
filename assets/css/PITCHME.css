@@ -76,7 +76,7 @@ html:-moz-full-screen-ancestor {
 .gp-download { margin-left: 10px; }
 
 
-.subtitle {
+.reveal span.subtitle {
   size: 50px;
   font-style: italic;
 }
