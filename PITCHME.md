@@ -1,6 +1,6 @@
-# Reactive Native Code Test
+### Why you should try React Native
 
-### Using Language Hints
+<span class="subtitle">for your next mobile project.</span>
 
 ---
 
