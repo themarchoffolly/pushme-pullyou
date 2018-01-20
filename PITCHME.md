@@ -77,7 +77,7 @@ class App extends Component {
 ReactDOM.render(<app></app>, document.getElementById('root'));
 ```
 
---
+---
 
 @title[React Native - JSX]
 
