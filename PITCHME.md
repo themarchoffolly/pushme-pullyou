@@ -22,7 +22,7 @@
 - Uses the React Paradigm |
 - Learn once build anywhere |
 
---
+---
 
 @title[React - JSX]
 
