@@ -81,5 +81,8 @@ html:-moz-full-screen-ancestor {
   font-style: italic;
 }
 
-.fa-big-smile { font-size: 3em }
+.fa-big-smile {
+  font-size: 4em;
+  color: #e7ad52;
+}
 
