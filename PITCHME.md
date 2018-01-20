@@ -177,4 +177,4 @@ flex-direction: 'column'
 
 ### End of Demo
 
-@fa[smile-o big-smile]
+@fa[smile-o fa-big-smile]
