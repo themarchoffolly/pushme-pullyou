@@ -175,4 +175,6 @@ flex-direction: 'column'
 
 ---
 
-The End
+### End of Demo
+
+@fa[smile-o big-smile]
