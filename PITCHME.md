@@ -24,7 +24,7 @@
 
 ---
 
-@title[React - JSX]
+## React - JSX
 
 ```html
 import React, { Component } from 'react';
@@ -44,7 +44,7 @@ ReactDOM.render(<app></app>, document.getElementById('root'));
 
 ---
 
-@title[React - JSX]
+## React - JSX
 
 ```html
 import React, { Component } from 'react';
@@ -79,7 +79,7 @@ ReactDOM.render(<app></app>, document.getElementById('root'));
 
 ---
 
-@title[React Native - JSX]
+## React Native - JSX
 
 ```
 import React, { Component } from 'react';
@@ -99,7 +99,7 @@ AppRegistry.registerComponent('AwesomeProject', () =&gt; App);
 
 ---
 
-@title(React Native - JSX)
+## React Native - JSX
 
 ```
 import React, { Component } from 'react';
@@ -141,7 +141,7 @@ AppRegistry.registerComponent('AwesomeProject', () =&gt; App);
 
 ---
 
-@title[Default Styling with Flexbox]
+## Default Styling with Flexbox
 
 ```yaml
 display: 'flex'
@@ -150,7 +150,7 @@ flex-direction: 'column'
 
 ---
 
-@title[Benefits of React Native]
+## Benefits of React Native
 
 - Fast Developer Iteration
 - Cross-platform code sharing
@@ -161,7 +161,7 @@ flex-direction: 'column'
 
 ---
 
-@title[Web Ecosystem]
+## Web Ecosystem
 
 - Geolocation
 - Fetch
