@@ -42,6 +42,10 @@ class App extends Component {
 ReactDOM.render(<app></app>, document.getElementById('root'));
 ```
 
+@[1,2](Remember code presenting is aavailable)
+@[4,12](So you can step through your code)
+@[7-9](Directly within your slideshow)
+
 ---
 
 ## React - JSX
