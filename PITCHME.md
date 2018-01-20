@@ -26,7 +26,7 @@
 
 ## React - JSX
 
-```html
+```
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
@@ -46,7 +46,7 @@ ReactDOM.render(<app></app>, document.getElementById('root'));
 
 ## React - JSX
 
-```html
+```
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
