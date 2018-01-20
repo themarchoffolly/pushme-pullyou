@@ -76,12 +76,7 @@ ReactDOM.render(<app></app>, document.getElementById('root'));
 
 ```
 import React, { Component } from 'react';
-import {
-    AppRegistry,
-    View,
-    Text,
-    TouchableOpacity
-} from 'react-native';
+import { AppRegistry, View, Text, TouchableOpacity } from 'react-native';
 
 class App extends Component {
 
@@ -112,4 +107,3 @@ class App extends Component {
 }
 AppRegistry.registerComponent('AwesomeProject', () =&gt; App);
 ```
-
