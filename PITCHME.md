@@ -5,8 +5,6 @@
 ---
 
 ```
-<h2>React - JSX</h2>
-                        <pre><code class="hljs" data-trim="" contenteditable="">
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
@@ -25,8 +23,6 @@ ReactDOM.render(<app></app>, document.getElementById('root'));
 ---
 
 ```html
-<h2>React - JSX</h2>
-                        <pre><code class="hljs" data-trim="" contenteditable="">
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
@@ -45,8 +41,6 @@ ReactDOM.render(<app></app>, document.getElementById('root'));
 ---
 
 ```php
-<h2>React - JSX</h2>
-                        <pre><code class="hljs" data-trim="" contenteditable="">
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
