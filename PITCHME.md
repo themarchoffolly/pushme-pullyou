@@ -45,7 +45,7 @@ ReactDOM.render(<app></app>, document.getElementById('root'));
 @[1,2](Remember you can use the GitPitch code presenting feature too)
 @[4,12](So you can step through your code just like you would within an IDE)
 @[7-9](But do this from  directly within your slideshow presentation)
-@[1-12](Great for you, and great for your audience to follow along)
+@[1-13](Great for you, and great for your audience to follow along.)
 
 ---
 
