@@ -74,7 +74,7 @@ ReactDOM.render(<app></app>, document.getElementById('root'));
 ---
 
 
-```
+```text
 import React, { Component } from 'react';
 import { AppRegistry, View, Text, TouchableOpacity } from 'react-native';
 
