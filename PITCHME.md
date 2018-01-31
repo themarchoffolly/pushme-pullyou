@@ -1,3 +1,13 @@
+---?image=assets/hand.png
+
+First Hand OK
+
+---?image=assets/hand.png?dodgy
+
+First Hand Dodgy
+
+---
+
 ## Hand Waving
 <img src="assets/hand.png" height="20%" width="20%"/>
 
