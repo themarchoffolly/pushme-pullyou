@@ -2,6 +2,10 @@
 
 ### What happens?
 
+---?image=test/svg/bg.orig.svg&size=cover
+
+### And here?
+
 ---
 
 # Hello
