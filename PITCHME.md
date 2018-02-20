@@ -1,4 +1,4 @@
----?image=test/svg/bg.svg
+---?image=test/svg/bg.svg&size=cover
 
 ### What happens?
 
