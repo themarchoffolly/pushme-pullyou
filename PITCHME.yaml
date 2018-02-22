@@ -1,2 +1,16 @@
-# background : https://gitpitch.com/svg/spotlight.svg
-# theme-override :  PITCHME.css
+#
+# GitPitch Slideshow Custom Settings
+#
+# For details, visit Wiki:
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
+background : assets/image/squares.svg
+background-size : cover
+theme : sky
+theme-override : assets/css/PITCHME.css
+# theme-override : assets/css/PITCHME.codemax.css
+logo : assets/image/logo.png
+highlight : atom-one-dark
+transition : none
+published : true
+footnote : "GitPitch [ Sunkist ] Presentation Template"
