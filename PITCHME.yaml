@@ -12,4 +12,4 @@ highlight : atom-one-dark
 transition : none
 published : true
 footnote : "GitPitch [ Sunkist ] Presentation Template"
-layout : top-right
+layout : center-left
