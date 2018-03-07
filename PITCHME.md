@@ -1,6 +1,8 @@
-# Hello
+# Quickstart
+
+### Your Content Goes Here
 
 ---
 
-# Goodbye!
+# GitPitch Desktop
 
