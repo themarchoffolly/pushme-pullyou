@@ -1,16 +1,36 @@
 #
 # GitPitch Slideshow Custom Settings
 #
-# For details, visit Wiki:
+# For details, visit the GitPitch Wiki:
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
-theme : sky
-# theme-override : assets/css/PITCHME.css
-# theme-override : assets/css/PITCHME.codemax.css
-logo : assets/image/logo.png
-highlight : atom-one-dark
-transition : none
-published : true
-footnote : "GitPitch [ Sunkist ] Presentation Template"
-layout : center-left
-mathjax : TeX-MML-AM_CHTML
+
+#
+# Theme setting options:
+# black, moon, night, beige, sky, white, simple
+#
+theme : night
+
+#
+# Layout setting options:
+# center, center-left, center-right, top, top-left, top-right
+#
+layout : center-right
+
+#
+# Transition setting options:
+# convex, concave, default, fade, none, slide, zoom
+#
+transition : slide
+
+logo : assets/images/logo.png
+theme-override : assets/css/PITCHME.css
+footnote : "Your custom footnote goes here."
+
+#
+# Additional sample quickstart setting options:
+#
+# background : assets/img/lightening.jpg
+# background-opacity : 60
+# highlight : atom-one-dark
+#
