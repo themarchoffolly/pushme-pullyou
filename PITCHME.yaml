@@ -31,10 +31,10 @@ footnote : "Your custom footnote goes here."
 # Additional sample quickstart setting options:
 #
 background : assets/images/sunrise.jpg
-background-size : 100% 100%
+background-size : 50% 100%
 background-opacity : 60
 background-color : yellow
-background-position : center
+background-position : left center
 
 # highlight : atom-one-dark
 #
