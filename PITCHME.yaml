@@ -33,7 +33,7 @@ footnote : "Your custom footnote goes here."
 background : assets/images/sunrise.jpg
 background-size : 50% 100%
 background-opacity : 60
-background-color : yellow
+background-color : #D4C711
 background-position : left center
 
 # highlight : atom-one-dark
