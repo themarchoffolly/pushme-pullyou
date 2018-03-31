@@ -1,4 +1,3 @@
 ## GitPitch
-## Image
-## Controls
+## Image Controls
 
