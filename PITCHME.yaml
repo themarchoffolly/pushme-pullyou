@@ -30,7 +30,11 @@ footnote : "Your custom footnote goes here."
 #
 # Additional sample quickstart setting options:
 #
-# background : assets/img/lightening.jpg
-# background-opacity : 60
+background : assets/images/sunrise.jpg
+background-size : 100% 100%
+background-opacity : 60
+background-color : yellow
+background-position : center
+
 # highlight : atom-one-dark
 #
