@@ -1,5 +1,7 @@
 ## GitPitch
 ## Image Controls
 
----?image=assets/images/sunset.jpg&position=bottom left&size=50% 50%
+---?image=assets/images/sunset.jpg&position=top right&size=30% 30%
+
+# The End
 
