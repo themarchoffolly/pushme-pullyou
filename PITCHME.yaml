@@ -15,7 +15,7 @@ theme : night
 # Layout setting options:
 # center, center-left, center-right, top, top-left, top-right
 #
-layout : center-top
+layout : top
 
 #
 # Transition setting options:
