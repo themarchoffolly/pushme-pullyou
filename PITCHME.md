@@ -1,4 +1,4 @@
-## Take
+## GitPitch
+## Image
 ## Control
-## Of Your Image(s)
 
