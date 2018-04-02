@@ -13,9 +13,8 @@
 
 ---?image=assets/images/ideas.jpg&color=#D49611&size=60% 100%&position=left&opacity=100
 
-#### And watch your
+#### Watch your
 ## IDEAS
 #### COME ALIVE
 #### with
 ### GITPITCH
-### DESKTOP
