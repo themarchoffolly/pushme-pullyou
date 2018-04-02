@@ -17,4 +17,4 @@
 ## IDEAS
 #### COME ALIVE
 #### with
-### GITPITCH
+### GitPitch
