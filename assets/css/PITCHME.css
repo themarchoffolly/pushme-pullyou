@@ -10,8 +10,16 @@
   max-width: none;
 }
 
+.gold {
+  color: #e49436;
+}
+
+.shoutout {
+  color: #ba11d4;
+}
+
 .big {
-  font-size: 1.75em !important;
+  font-size: 1.5em !important;
 }
 
 .reveal pre {
@@ -24,5 +32,9 @@
   line-height: 1.2;
   max-height: 55vh !important;
   border-radius: 10px;
+}
+
+.reveal .slides section .code-presenting-annotation {
+  color: gray;
 }
 

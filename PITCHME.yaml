@@ -1,40 +1,11 @@
-#
-# GitPitch Slideshow Custom Settings
-#
-# For details, visit the GitPitch Wiki:
-# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
-#
 
-#
-# Theme setting options:
-# black, moon, night, beige, sky, white, simple
-#
 theme : night
 
-#
-# Layout setting options:
-# center, center-left, center-right, top, top-left, top-right
-#
-layout : center
-
-#
-# Transition setting options:
-# convex, concave, default, fade, none, slide, zoom
-#
-transition : slide
+layout : center-right
 
 logo : assets/images/logo.png
+
 theme-override : assets/css/PITCHME.css
-footnote : "Your custom footnote goes here."
 
-#
-# Additional sample quickstart setting options:
-#
-background : assets/images/sunrise.jpg
-background-size : 50% 50%
-background-opacity : 100
-background-color : black
-background-position : center bottom
+highlight : atom-one-light
 
-# highlight : atom-one-dark
-#
