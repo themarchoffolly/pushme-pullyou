@@ -1,0 +1,58 @@
+@title[Introduction]
+
+# Cinder
+## It's not just for breakfast anymore
+
+---
+
+@title[What is Cinder]
+
+## What is Cinder
+
+---
+
+@title[What Cinder is Not]
+
+## What Cinder is not
+
+---
+
+@title[Full Deployment]
+
+### Cinder as part of an OpenStack cloud
+
+![full cloud](Vancouver2018/CinderSDS/assets/allservices.png)
+
+---
+
+@title[Standalone Deployment]
+
+### Cinder standalone for storage management
+
+![stand alone](Vancouver2018/CinderSDS/assets/standalone.png)
+
+---
+
+@title[OpenStack Usage]
+
+## Typical OpenStack Usage
+
+- Point and click management via Horizon
+- Interactive command line with OpenStackClient
+- Programmatic access using REST API or SDK
+  - OpenStackSDK (Shade)
+  - Gophercloud
+  - etc...
+
+---
+
+@title[OpenStack Usage - Horizon]
+
+![horizon](Vancouver2018/CinderSDS/assets/horizon.gif)
+
+---
+
+@title[OpenStack Usage - CLI]
+
+![cli](Vancouver2018/CinderSDS/assets/terminal.gif)
+
