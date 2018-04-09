@@ -1,8 +1,8 @@
 .bananas {
-    list-style-type: square;
+    list-style-type: square !important;
 }
 
 .monkies {
-    list-style-type: upper-roman;
+    list-style-type: lower-alpha !important;
 }
 
