@@ -1,5 +1,7 @@
 ## Fragment Slides
+<br>
 ### (Shortcut Syntax)
+<br>
 ## Feature Demonstration
 
 ---
