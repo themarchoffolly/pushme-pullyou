@@ -24,10 +24,62 @@
 
 ---
 
+### Unordered Lists
+<br>
+
+@ul[squares]
+
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+
+@ulend
+
+---
+
+### Unordered Lists
+<br>
+
+@ul[circles]
+
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+
+@ulend
+
+---
+
 ### Ordered Lists
 <br>
 
 @ol
+
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+
+@olend
+
+---
+
+### Ordered Lists
+<br>
+
+@ol[roman]
+
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+
+@olend
+
+---
+
+### Ordered Lists
+<br>
+
+@ol[alpha]
 
 - Plain text list item @note[Cool! Fragment specific speaker notes :)]
 - Rich **markdown** list *item*
