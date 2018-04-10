@@ -25,6 +25,7 @@
 ---
 
 ### Unordered Lists
+#### Custom Styling
 <br>
 
 @ul[squares]
@@ -38,6 +39,7 @@
 ---
 
 ### Unordered Lists
+#### Custom Styling
 <br>
 
 @ul[circles]
@@ -64,6 +66,7 @@
 ---
 
 ### Ordered Lists
+#### Custom Styling
 <br>
 
 @ol[roman]
@@ -77,6 +80,7 @@
 ---
 
 ### Ordered Lists
+#### Custom Styling
 <br>
 
 @ol[alpha]
