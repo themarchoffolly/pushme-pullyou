@@ -1,8 +1,6 @@
 ## Fragment Slides
-<br>
-### (Shortcut Syntax)
-### (with Speaker Notes)
-<br>
+#### Shortcut Syntax
+#### with Speaker Notes
 ## Feature Demonstration
 
 ---
