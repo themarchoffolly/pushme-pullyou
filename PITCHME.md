@@ -8,15 +8,16 @@
 </div>
 
 ---
-<!-- .slide: data-background-iframe="https://gitpitch.com" data-background-size="90% 90%" data-background-color="yellow" data-background-interactive --->
-
----?survey=https://gitpitch.com
-
----
 
 ### Survey
 
 ---?survey=https://docs.google.com/forms/d/e/1FAIpQLSeDOnyofUQXig8QoYSb7HFpK_W1IHredT2Im1PyOkhDrwjg2Q/viewform
+
+---?color=black
+
+<div class="stretch">
+	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDOnyofUQXig8QoYSb7HFpK_W1IHredT2Im1PyOkhDrwjg2Q/viewform" style="width: 100%; height: 100%; max-width: 100%; max-height: 100%"></iframe>
+</div>
 
 ---
 
