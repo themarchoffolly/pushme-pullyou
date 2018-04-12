@@ -3,7 +3,7 @@
 
 ---?color=yellow
 
-<div class="stretch">
+<div class="stretch" style="background-color: orange">
 	<iframe src="https://gitpitch.com/desktop" style="width: 100%; height: 100%; max-width: 100%; max-height: 100%"></iframe>
 </div>
 
