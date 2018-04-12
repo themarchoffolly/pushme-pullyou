@@ -24,7 +24,7 @@
 ---?color=gray
 
 <div class="stretch">
-	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDOnyofUQXig8QoYSb7HFpK_W1IHredT2Im1PyOkhDrwjg2Q/viewform" style="width: 80%; height: 80%; max-width: 80%; max-height: 80%"></iframe>
+	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDOnyofUQXig8QoYSb7HFpK_W1IHredT2Im1PyOkhDrwjg2Q/viewform" style="width: 85%; height: 95%; max-width: 85%; max-height: 95%"></iframe>
 </div>
 
 ---
