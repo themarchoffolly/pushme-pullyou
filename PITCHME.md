@@ -2,6 +2,12 @@
 ### GitPitch
 
 ---
+
+<div class="stretch">
+	<iframe src="https://gitpitch.com/desktop" style="width: 100%; height: 100%; max-width: 100%; max-height: 100%"></iframe>
+</div>
+
+---
 <!-- .slide: data-background-iframe="https://gitpitch.com" data-background-size="90% 90%" data-background-color="yellow" data-background-interactive --->
 
 ---?survey=https://gitpitch.com
