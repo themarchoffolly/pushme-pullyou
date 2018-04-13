@@ -10,7 +10,7 @@
 
 ---?color=black
 <div class="stretch">
-	<iframe src="https://www.surveymonkey.com/r/LVL5K9W" style="width: 85%; height: 95%; max-width: 85%; max-height: 95%; border-radius: 10px"></iframe>
+	<iframe src="https://www.surveymonkey.com/r/LVL5K9W" style="width: 90%; height: 95%; max-width: 90%; max-height: 95%; border-radius: 10px"></iframe>
 </div>
 
 ---
