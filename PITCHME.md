@@ -1,11 +1,3 @@
-### GetFeedback
-
----
-
----?survey=https://www.getfeedback.com/r/x4U7Kn2c
-
----
-
 ### SurveyMonkey
 
 ---?survey=https://www.surveymonkey.com/r/7Y6FD82
