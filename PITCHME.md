@@ -2,7 +2,7 @@
 
 ---?survey=https://form.jotform.me/81020751884455
 
----
+---?color=black
 
 <div class="stretch">
 	<iframe src="https://form.jotform.me/81020751884455" style="width: 85%; height: 95%; max-width: 85%; max-height: 95%"></iframe>
