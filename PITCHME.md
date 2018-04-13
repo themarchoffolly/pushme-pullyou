@@ -2,9 +2,13 @@
 
 ---?survey=https://form.jotform.me/81020751884455
 
----?survey=https://www.jotform.com/report/81020378084048
+---
 
-### GitPitch
+<div class="stretch">
+	<iframe src="https://form.jotform.me/81020751884455" style="width: 85%; height: 95%; max-width: 85%; max-height: 95%"></iframe>
+</div>
+
+---?survey=https://www.jotform.com/report/81020378084048
 
 ---?color=orange
 
