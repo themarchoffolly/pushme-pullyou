@@ -8,11 +8,13 @@
 
 ---?survey=https://www.surveymonkey.com/r/7YCQKGD&color=linear-gradient(to top, #51769c, #16487a)
 
----?survey=https://www.surveymonkey.com/r/7YCQKGD
+---?survey=https://www.surveymonkey.com/r/7YCQKGD&color=lightgreen
 
 ---
 
 ### JotForm
+
+---?survey=https://form.jotform.me/81023481084450&color=orange
 
 ---?survey=https://form.jotform.me/81023481084450&color=linear-gradient(to top, #ed724a, #852d36)
 
