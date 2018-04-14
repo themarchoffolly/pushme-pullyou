@@ -4,15 +4,15 @@
 
 ### SurveyMonkey
 
----?survey=https://www.surveymonkey.com/r/7Y6FD82
+---?survey=https://www.surveymonkey.com/r/7Y6FD82&color=linear-gradient(to top, #16487a, #51769c)
 
----?survey=https://www.surveymonkey.com/r/7YCQKGD&color=yellow
+---?survey=https://www.surveymonkey.com/r/7YCQKGD&color=linear-gradient(to top, #51769c, #16487a)
 
 ---
 
 ### JotForm
 
----?survey=https://form.jotform.me/81023481084450
+---?survey=https://form.jotform.me/81023481084450&color=linear-gradient(to top, #ed724a, #852d36)
 
 ---?survey=https://form.jotform.me/81023551784455
 
