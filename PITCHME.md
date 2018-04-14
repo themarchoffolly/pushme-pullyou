@@ -8,6 +8,8 @@
 
 ---?survey=https://www.surveymonkey.com/r/7YCQKGD&color=linear-gradient(to top, #51769c, #16487a)
 
+---?survey=https://www.surveymonkey.com/r/7YCQKGD
+
 ---
 
 ### JotForm
