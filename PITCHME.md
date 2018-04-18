@@ -1,4 +1,1 @@
-<div class="stretch">
-<iframe src="http://localhost:9000/themarchoffolly/pushme-pullyou/mingp"></iframe>
-</div>
-
+<iframe class="stretch" src="https://tinyurl.com/y92cnd9r"></iframe>
