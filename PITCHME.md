@@ -1,2 +1,2 @@
-<iframe class="stretch" data-src="https://twitter.com"></iframe>
+<iframe class="stretch" src="https://twitter.com"></iframe>
 
