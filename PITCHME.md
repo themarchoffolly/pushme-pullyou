@@ -1,4 +1,4 @@
-<iframe class="stretch" src="https://hub.mybinder.org/user/jupyterlab-jupyterlab-demo-mxj6pted/lab"></iframe>
+<iframe class="stretch" src="https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/18a9793b58ba86660b5ab964e1aeaf7324d667c8?urlpath=lab%2Ftree%2Fdemo%2FLorenz.ipynb"></iframe>
 
 ---
 
