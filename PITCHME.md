@@ -87,7 +87,7 @@
 
 ---?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
 
-@css[title-top-right](Use Theatre Mode)
+@css[title-top-right](Or Theatre Mode)
 
 ---?image=assets/img/css.jpg&opacity=20
 
@@ -138,9 +138,9 @@
  \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 \]`
 
----?image=assets/img/heron.jpg
+---?image=assets/img/demand-more.jpg
 
-@size[1.5em](@css[title-top-right](Go PRO))
+@css[title-top-right](Demand MORE?)
 
 @fa[arrow-right]
 
