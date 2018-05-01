@@ -70,8 +70,6 @@
 
 @div[left-70]
 
-<br><br>
-
 @ul
 - There are
 - Many reasons
