@@ -9,7 +9,7 @@
 ## @color[#e49436](Git)Pitch
 #### Presentation @fa[magic] @color[#e49436](Magic)
 
----?image=assets/img/git.svg&opacity=10
+---?image=assets/img/git.svg&opacity=10&color=black
 
 #### @size[0.6em](Using enhanced)
 
