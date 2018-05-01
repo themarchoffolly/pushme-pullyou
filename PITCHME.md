@@ -9,7 +9,7 @@
 ## @color[#e49436](Git)Pitch
 #### Presentation @fa[magic] @color[#e49436](Magic)
 
----?image=assets/img/git.svg&opacity=10&color=black
+---?image=assets/img/git.svg&opacity=10
 
 #### @size[0.6em](Using enhanced)
 
@@ -53,6 +53,7 @@
 - So many reasons
 - To @fa[heart]
 - [GitPitch](https://gitpitch.com)
+- Presentations
 @ulend
 
 @divend
