@@ -50,7 +50,7 @@
 
 @ul
 - There are
-- So many reasons
+- Many reasons
 - To @fa[heart]
 - [GitPitch](https://gitpitch.com)
 - Presentations
