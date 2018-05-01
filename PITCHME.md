@@ -44,7 +44,7 @@
 
 #### Present Ideas Step-by-Step
 
-@div[left-60]
+@div[left]
 
 <br><br>
 
@@ -58,7 +58,7 @@
 
 @divend
 
-@div[right-40]
+@div[right]
 
 ![](assets/img/daftpunkocat.gif)
 
