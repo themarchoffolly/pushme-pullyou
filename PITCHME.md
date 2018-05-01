@@ -32,11 +32,11 @@
 
 #### Enjoy Flexible Slide Layouts
 
-@div[left]
+@div[left-split]
 ![](assets/img/de-los-muertos.jpg)
 @divend
 
-@div[right]
+@div[right-split]
 ![](assets/img/daftpunkocat.gif)
 @divend
 
@@ -44,7 +44,7 @@
 
 #### Present Ideas Step-by-Step
 
-@div[left]
+@div[left-split]
 
 <br><br>
 
@@ -58,7 +58,7 @@
 
 @divend
 
-@div[right]
+@div[right-split]
 
 ![](assets/img/daftpunkocat.gif)
 
