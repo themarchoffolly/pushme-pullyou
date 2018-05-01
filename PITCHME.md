@@ -64,29 +64,6 @@
 
 @divend
 
----
-
-#### Present Ideas Step-by-Step
-
-@div[left-70]
-
-@ul
-- There are
-- Many reasons
-- To @fa[heart]
-- [GitPitch](https://gitpitch.com)
-- Presentations
-@ulend
-
-@divend
-
-@div[right-30]
-
-![](assets/img/daftpunkocat.gif)
-
-@divend
-
-
 ---?image=assets/img/stormtroopers.jpg&size=55% 55%
 
 @css[title-top-right](Size & Scale Image Backgrounds)
