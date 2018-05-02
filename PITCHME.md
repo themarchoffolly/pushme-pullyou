@@ -141,7 +141,7 @@
 
 ---?image=assets/img/demand-more.jpg
 
-@css[title-top-right](Still demanding MORE?)
+@css[title-top-right](Still expecting MORE?)
 
 ---?color=#e49436
 
