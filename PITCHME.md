@@ -149,9 +149,18 @@
 
 ---?image=assets/img/go-pro-desktop.jpg
 
+[@size[0.4em](click here to learn more)](https://gitpitch.com/desktop)
+<br><br>
+
 ---?image=assets/img/go-pro-security.jpg
 
+[@size[0.4em](click here to learn more)](https://gitpitch.com/security)
+<br><br>
+
 ---?image=assets/img/go-pro-surveys.jpg
+
+[@size[0.4em](click here to learn more)](https://gitpitch.com/surveys)
+<br><br>
 
 ---?image=assets/img/css.jpg&opacity=20
 
