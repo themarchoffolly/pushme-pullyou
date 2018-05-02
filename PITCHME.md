@@ -42,7 +42,7 @@
 
 ---
 
-#### Present Ideas Step-by-Step
+#### Present Your Ideas Step-by-Step
 
 @div[left-50]
 
