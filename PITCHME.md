@@ -30,7 +30,7 @@
 
 ---
 
-#### Enjoy Flexible Slide Layouts
+#### Enjoy Rich Content Slides
 
 @div[left-50]
 ![](assets/img/de-los-muertos.jpg)
