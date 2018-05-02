@@ -156,7 +156,7 @@
 \]`
 
 ---?image=assets/img/demand-more.jpg
-@title[Need MORE?]
+@title[You want MORE?]
 
 @css[title-top-right](MORE! You want MORE?)
 
