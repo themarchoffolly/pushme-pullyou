@@ -103,7 +103,7 @@
 @css[title-top-right](Use Theatre Mode)
 
 ---?image=assets/img/css.jpg&opacity=20
-@title[Code Magic]
+@title[Code Talking]
 
 ### Let your
 ## @css[shoutout](Code)
