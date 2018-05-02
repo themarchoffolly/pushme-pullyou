@@ -141,7 +141,7 @@
 
 ---?image=assets/img/demand-more.jpg
 
-@css[title-top-right](Expecting MORE?)
+@css[title-top-right](Want even MORE?)
 
 ---?color=#e49436
 
