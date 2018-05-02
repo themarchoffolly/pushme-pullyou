@@ -196,7 +196,7 @@
 ### [The GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki)
 
 ---?image=assets/img/css.jpg&opacity=20
-@title[Idea to Presentation]
+@title[Your Idea to Presentation]
 
 #### @size[0.5em](@color[gray](for more visit @))
 ## git@css[gold](pitch).com
