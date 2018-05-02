@@ -1,6 +1,8 @@
 ---?image=assets/img/lets-get-started.jpg&size=auto 90%&color=black
+@title[Introduction]
 
 ---?image=assets/img/face.jpg&position=left&size=55% 100%&color=#020203
+@title[Get Ready]
 
 #### @size[0.6em](Get ready for some)
 
@@ -10,6 +12,7 @@
 #### Presentation @fa[magic] @color[#e49436](Magic)
 
 ---?image=assets/img/git.svg&opacity=10
+@title[Enhanced GFM]
 
 #### @size[0.6em](Using enhanced)
 
@@ -19,6 +22,7 @@
 #### Flavored @color[#e49436](Markdown)
 
 ---?color=#e49436
+@title[For Everyone on Git]
 
 #### @size[0.8em](Available to @color[black](everyone) on)
 
@@ -29,6 +33,7 @@
 <br>
 
 ---
+@title[Rich Content Slides]
 
 #### Enjoy Rich Content Slides
 
@@ -41,6 +46,7 @@
 @divend
 
 ---
+@title[Ideas Step-by-Step]
 
 #### Present Your Ideas Step-by-Step
 
@@ -65,38 +71,46 @@
 @divend
 
 ---?image=assets/img/stormtroopers.jpg&size=55% 55%
+@title[Size & Scale Images]
 
 @css[title-top-right](Size & Scale Image Backgrounds)
 
 ---?image=assets/img/stormtroopers.jpg&size=35% 35%&color=#297EA3
+@title[Color Backgrounds]
 
 @css[title-top-right](Add Color Backgrounds)
 
 ---?image=assets/img/sunset.jpg
+@title[Image Backgrounds]
 
 @css[title-top-right](Or Go FullScreen)
 
 ---?image=assets/img/sunset.jpg&opacity=40
+@title[Image Opacity]
 
 @css[title-top-right](With Optional Opacity)
 
 ---
+@title[Embed Video]
 
 @css[title-top-right](Embed Video)
 
 ![Gravity](https://player.vimeo.com/video/125471012)
 
 ---?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+@title[Fullscreen Video]
 
 @css[title-top-right](Use Theatre Mode)
 
 ---?image=assets/img/css.jpg&opacity=20
+@title[Code Magic]
 
 ### Let your
 ## @css[shoutout](Code)
 #### Do The Talking
 
 ---?code=src/go/server.go&lang=golang&color=black&title=Live Code Presenting
+@title[Live Code Presenting]
 
 @[1](Step through source code as if you were still inside your IDE.)
 @[3-6](Without ever leaving your slideshow.)
@@ -104,6 +118,7 @@
 @[19-28](With support for markdown code blocks, repository source files, and GitHub GISTS.)
 
 ---
+@title[Stunning Charts]
 
 @css[title-top-right](Add Stunning Charts)
 
@@ -131,6 +146,7 @@
 </canvas>
 
 ---
+@title[Beautiful Math]
 
 @css[title-top-right](And Beautiful Math)
 
@@ -140,39 +156,47 @@
 \]`
 
 ---?image=assets/img/demand-more.jpg
+@title[Need MORE?]
 
 @css[title-top-right](Need even MORE?)
 
 ---?color=#e49436
+@title[GitPitch Pro]
 
 # @size[3.5em](OK)
 
 ---?image=assets/img/go-pro-desktop.jpg
+@title[GitPitch Desktop]
 
 [@size[0.4em](click here to learn more)](https://gitpitch.com/desktop)
 <br><br>
 
 ---?image=assets/img/go-pro-security.jpg
+@title[GitPitch Security]
 
 [@size[0.4em](click here to learn more)](https://gitpitch.com/security)
 <br><br>
 
 ---?image=assets/img/go-pro-surveys.jpg
+@title[GitPitch Surveys]
 
 [@size[0.4em](click here to learn more)](https://gitpitch.com/surveys)
 <br><br>
 
 ---?image=assets/img/css.jpg&opacity=20
+@title[GitPitch Tutorial]
 
 #### @size[0.5em](@color[gray](click to view a very short tutorial))
 ### [GitPitch In-60-Seconds](https://github.com/gitpitch/gitpitch/wiki)
 
 ---?image=assets/img/css.jpg&opacity=20
+@title[GitPitch Wiki]
 
 #### @size[0.5em](@color[gray](click to learn how-to on))
 ### [The GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki)
 
 ---?image=assets/img/css.jpg&opacity=20
+@title[Idea to Presentation]
 
 #### @size[0.5em](@color[gray](for more visit @))
 ## git@css[gold](pitch).com
