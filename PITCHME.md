@@ -98,7 +98,7 @@
 
 ---?code=src/go/server.go&lang=golang&color=black&title=With Code Presenting
 
-@[1](Step through source code as if you were inside your IDE.)
+@[1](Step through source code as if you were still inside your IDE.)
 @[3-6](Without ever leaving your slideshow.)
 @[9-13](Using GitPitch code-presenting with (optional) annotations.)
 @[19-28](With support for markdown code blocks, repository source files, and GitHub GISTS.)
