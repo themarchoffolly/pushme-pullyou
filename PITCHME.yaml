@@ -3,7 +3,7 @@ theme : night
 
 layout : center-right
 
-logo : assets/img/logo.png
+logo : assets/images/logo.png
 
 theme-override : assets/css/PITCHME.css
 

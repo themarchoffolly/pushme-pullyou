@@ -1,7 +1,7 @@
----?image=assets/img/lets-get-started.jpg&size=auto 90%&color=black
+---?image=assets/images/lets-get-started.jpg&size=auto 90%&color=black
 @title[Introduction]
 
----?image=assets/img/face.jpg&position=left&size=55% 100%&color=#020203
+---?image=assets/images/face.jpg&position=left&size=55% 100%&color=#020203
 @title[Get Ready]
 
 #### @size[0.6em](Get ready for some)
@@ -11,7 +11,7 @@
 ## @color[#e49436](Git)Pitch
 #### Presentation @fa[magic] @color[#e49436](Magic)
 
----?image=assets/img/git.svg&opacity=10
+---?image=assets/images/git.svg&opacity=10
 @title[Enhanced GFM]
 
 #### @size[0.6em](Using enhanced)
@@ -38,11 +38,11 @@
 #### Enjoy Rich Content Slides
 
 @div[left-50]
-![](assets/img/de-los-muertos.jpg)
+![](assets/images/de-los-muertos.jpg)
 @divend
 
 @div[right-50]
-![](assets/img/daftpunkocat.gif)
+![](assets/images/daftpunkocat.gif)
 @divend
 
 ---
@@ -66,26 +66,26 @@
 
 @div[right-50]
 
-![](assets/img/daftpunkocat.gif)
+![](assets/images/daftpunkocat.gif)
 
 @divend
 
----?image=assets/img/stormtroopers.jpg&size=55% 55%
+---?image=assets/images/stormtroopers.jpg&size=55% 55%
 @title[Size & Scale Images]
 
 @css[title-top-right](Size & Scale Image Backgrounds)
 
----?image=assets/img/stormtroopers.jpg&size=35% 35%&color=#297EA3
+---?image=assets/images/stormtroopers.jpg&size=35% 35%&color=#297EA3
 @title[Color Backgrounds]
 
 @css[title-top-right](Add Color Backgrounds)
 
----?image=assets/img/sunset.jpg
+---?image=assets/images/sunset.jpg
 @title[Image Backgrounds]
 
 @css[title-top-right](Or Go FullScreen)
 
----?image=assets/img/sunset.jpg&opacity=40
+---?image=assets/images/sunset.jpg&opacity=40
 @title[Image Opacity]
 
 @css[title-top-right](With Optional Opacity)
@@ -102,7 +102,7 @@
 
 @css[title-top-right](Use Theatre Mode)
 
----?image=assets/img/css.jpg&opacity=20
+---?image=assets/images/css.jpg&opacity=20
 @title[Code Talking]
 
 ### Let your
@@ -155,7 +155,7 @@
  \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 \]`
 
----?image=assets/img/demand-more.jpg
+---?image=assets/images/demand-more.jpg
 @title[You want MORE?]
 
 @css[title-top-right](MORE! You want MORE?)
@@ -165,40 +165,40 @@
 
 # @size[3.5em](OK)
 
----?image=assets/img/think-type-see.png
+---?image=assets/images/think-type-see.png
 @title[Think-Type-See-It]
 
----?image=assets/img/go-pro-desktop.jpg
+---?image=assets/images/go-pro-desktop.jpg
 @title[GitPitch Desktop]
 
 [@size[0.4em](click here to learn more)](https://gitpitch.com/desktop)
 <br><br>
 
----?image=assets/img/go-pro-security.jpg
+---?image=assets/images/go-pro-security.jpg
 @title[GitPitch Security]
 
 [@size[0.4em](click here to learn more)](https://gitpitch.com/security)
 <br><br>
 
----?image=assets/img/go-pro-surveys.jpg
+---?image=assets/images/go-pro-surveys.jpg
 @title[GitPitch Surveys]
 
 [@size[0.4em](click here to learn more)](https://gitpitch.com/surveys)
 <br><br>
 
----?image=assets/img/css.jpg&opacity=20
+---?image=assets/images/css.jpg&opacity=20
 @title[GitPitch Tutorial]
 
 #### @size[0.5em](@color[gray](click to view a very short tutorial))
 ### [GitPitch In-60-Seconds](https://github.com/gitpitch/gitpitch/wiki)
 
----?image=assets/img/css.jpg&opacity=20
+---?image=assets/images/css.jpg&opacity=20
 @title[GitPitch Wiki]
 
 #### @size[0.5em](@color[gray](click to learn how-to on))
 ### [The GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki)
 
----?image=assets/img/css.jpg&opacity=20
+---?image=assets/images/css.jpg&opacity=20
 @title[Your Ideas to Presentation]
 
 #### @size[0.5em](@color[gray](for more visit @))
