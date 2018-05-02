@@ -20,7 +20,7 @@
 
 ---?color=#e49436
 
-#### @size[0.8em](Available for @color[black](everyone) on)
+#### @size[0.8em](Available to @color[black](everyone) on)
 
 <br>
 
@@ -88,7 +88,7 @@
 
 ---?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
 
-@css[title-top-right](Or Theatre Mode)
+@css[title-top-right](Use Theatre Mode)
 
 ---?image=assets/img/css.jpg&opacity=20
 
@@ -98,7 +98,7 @@
 
 ---?code=src/go/server.go&lang=golang&color=black&title=With Code Presenting
 
-@[1](Share source code as if you were presenting inside your IDE.)
+@[1](Step through source code as if you were inside your IDE.)
 @[3-6](Without ever leaving your slideshow.)
 @[9-13](Using GitPitch code-presenting with (optional) annotations.)
 @[19-28](With support for markdown code blocks, repository source files, and GitHub GISTS.)
@@ -141,9 +141,11 @@
 
 ---?image=assets/img/demand-more.jpg
 
-@css[title-top-right](Demand MORE?)
+@css[title-top-right](Still wanting MORE?)
 
-@fa[arrow-right]
+---?color=#e49436
+
+# @size[3.5em](OK)
 
 ---?image=assets/img/go-pro-desktop.jpg
 
