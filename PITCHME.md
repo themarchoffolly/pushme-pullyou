@@ -1,4 +1,4 @@
----?image=assets/img/lets-get-started.jpg
+---?image=assets/img/lets-get-started.jpg&size=auto 90%&color=black
 
 ---?image=assets/img/face.jpg&position=left&size=55% 100%&color=#020203
 
