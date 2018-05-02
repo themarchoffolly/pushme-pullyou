@@ -158,7 +158,7 @@
 ---?image=assets/img/demand-more.jpg
 @title[Need MORE?]
 
-@css[title-top-right](Need even MORE?)
+@css[title-top-right](MORE! You want MORE?)
 
 ---?color=#e49436
 @title[GitPitch Pro]
