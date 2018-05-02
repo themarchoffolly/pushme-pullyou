@@ -96,7 +96,7 @@
 ## @css[shoutout](Code)
 #### Do The Talking
 
----?code=src/go/server.go&lang=golang&color=black&title=With Code Presenting
+---?code=src/go/server.go&lang=golang&color=black&title=Live Code Presenting
 
 @[1](Step through source code as if you were still inside your IDE.)
 @[3-6](Without ever leaving your slideshow.)
