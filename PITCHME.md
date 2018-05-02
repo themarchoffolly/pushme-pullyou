@@ -165,14 +165,14 @@
 
 # @size[3.5em](OK)
 
+---?image=assets/img/think-type-see.png
+@title[Think-Type-See-It]
+
 ---?image=assets/img/go-pro-desktop.jpg
 @title[GitPitch Desktop]
 
 [@size[0.4em](click here to learn more)](https://gitpitch.com/desktop)
 <br><br>
-
----?image=assets/img/think-type-see.png
-@title[Think-Type-See-It]
 
 ---?image=assets/img/go-pro-security.jpg
 @title[GitPitch Security]
