@@ -1,3 +1,5 @@
+---?image=assets/images/face.jpg&size=auto 25%&repeat=repeat
+
 ---?image=assets/images/face.jpg&size=auto 50%&transition=slide
 
 ---?image=assets/images/face.jpg&size=auto 50%&transition=fade
