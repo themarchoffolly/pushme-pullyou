@@ -1,7 +1,34 @@
-### Testing
+### One
 
----?image=assets/images/face.jpg&transition=fade
+@transition[slide]
 
 ---
 
-### Bye bye
+### Two
+
+@transition[fade]
+
+---
+
+### Three
+
+@transition[none]
+
+---
+
+### Four
+
+@transition[convex]
+
+---
+
+### Five
+
+@transition[concave]
+
+---
+
+@transition[zoom]
+
+### Six
+
