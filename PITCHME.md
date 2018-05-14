@@ -1,24 +1,31 @@
----?image=assets/images/face.jpg&size=50% 50%
-
 @transition[slide]
 
----?image=assets/images/face.jpg&size=50% 50%
+![](assets/images/face.jpg)
+
+---
 
 @transition[fade]
 
----?image=assets/images/face.jpg&size=50% 50%
+![](assets/images/face.jpg)
+
+---
 
 @transition[none]
+![](assets/images/face.jpg)
 
----?image=assets/images/face.jpg&size=50% 50%
+---
 
 @transition[convex]
+![](assets/images/face.jpg)
 
----?image=assets/images/face.jpg&size=50% 50%
+---
 
 @transition[concave]
 
----?image=assets/images/face.jpg&size=50% 50%
+![](assets/images/face.jpg)
+
+---
 
 @transition[zoom]
 
+![](assets/images/face.jpg)
