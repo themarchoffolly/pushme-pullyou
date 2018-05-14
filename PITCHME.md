@@ -1,31 +1,12 @@
-@transition[slide]
+---?image=assets/images/face.jpg&size=auto 50%&transition=slide
 
-![](assets/images/face.jpg)
+---?image=assets/images/face.jpg&size=auto 50%&transition=fade
 
----
+---?image=assets/images/face.jpg&size=auto 50%&transition=none
 
-@transition[fade]
+---?image=assets/images/face.jpg&size=auto 50%&transition=convex
 
-![](assets/images/face.jpg)
+---?image=assets/images/face.jpg&size=auto 50%&transition=concave
 
----
+---?image=assets/images/face.jpg&size=auto 50%&transition=zoom
 
-@transition[none]
-![](assets/images/face.jpg)
-
----
-
-@transition[convex]
-![](assets/images/face.jpg)
-
----
-
-@transition[concave]
-
-![](assets/images/face.jpg)
-
----
-
-@transition[zoom]
-
-![](assets/images/face.jpg)
