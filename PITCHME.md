@@ -1,5 +1,5 @@
 ### Testing
 
----?image=assets/images/face.jpg&size=10% 10%&repeat=repeat-x
+---?image=assets/images/face.jpg&transition=slide-in fade-out
 
 ### The End
