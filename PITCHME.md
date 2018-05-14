@@ -1,6 +1,6 @@
 ### Testing
 
----?image=assets/images/face.jpg&transition=slide
+---?image=assets/images/face.jpg&transition=fade
 
 ---
 
