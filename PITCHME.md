@@ -1,34 +1,24 @@
-### One
+---?image=assets/images/face.jpg&size=50% 50%
 
 @transition[slide]
 
----
-
-### Two
+---?image=assets/images/face.jpg&size=50% 50%
 
 @transition[fade]
 
----
-
-### Three
+---?image=assets/images/face.jpg&size=50% 50%
 
 @transition[none]
 
----
-
-### Four
+---?image=assets/images/face.jpg&size=50% 50%
 
 @transition[convex]
 
----
-
-### Five
+---?image=assets/images/face.jpg&size=50% 50%
 
 @transition[concave]
 
----
+---?image=assets/images/face.jpg&size=50% 50%
 
 @transition[zoom]
-
-### Six
 
