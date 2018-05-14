@@ -1,4 +1,4 @@
----?image=assets/images/face.jpg&size=auto 60%&repeat=repeat-x
+---?image=assets/images/face.jpg&size=auto 60%&repeat=repeat-x&color=black
 
 ---?image=assets/images/face.jpg&size=auto 50%&transition=slide
 
