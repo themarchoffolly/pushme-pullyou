@@ -1,19 +1,4 @@
-
-# theme : night
-
-layout : center
-
-logo : assets/images/logo.png
-
-theme-override : assets/css/PITCHME.css
-
-# transition : none
-
-highlight : ir-black
-
-charts : true
-
-mathjax : TeX-AMS_HTML-full
-
 published : true
-
+slide-number : true
+vertical-center : false
+theme-override : PITCHME.css
