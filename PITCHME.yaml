@@ -3,7 +3,7 @@
 # theme-override : assets/css/PITCHME.codemax.css
 # logo : assets/image/logo.png
 # highlight : atom-one-dark
-code-reveal : true
+code-reveal : false
 transition : fade
 mousewheel : true
 published : true
