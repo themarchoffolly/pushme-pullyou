@@ -1,0 +1,7 @@
+theme : night
+theme-override : assets/css/short.css
+highlight : atom-one-dark
+transition : fade
+mousewheel : true
+published : true
+footnote : "GitPitch Markdown Shortcut Syntax Demo"

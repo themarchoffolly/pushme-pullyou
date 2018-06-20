@@ -1,4 +1,11 @@
+# theme : night
+# theme-override : assets/css/PITCHME.css
+# theme-override : assets/css/PITCHME.codemax.css
+# logo : assets/image/logo.png
+# highlight : atom-one-dark
+code-reveal : true
+transition : fade
+mousewheel : true
 published : true
-slide-number : true
-vertical-center : false
-theme-override : PITCHME.css
+footnote : "community - what is it good for?"
+# background-opacity : 50

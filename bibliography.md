@@ -1,1 +1,0 @@
-- [The Product Managers’ Guide to Continuous Delivery and DevOps](https://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/) - (article) an introduction to CI/CD and DevOps, by Suzie Prince, Head of Product at ThoughtWorks

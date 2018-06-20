@@ -1,4 +1,0 @@
-job1:
-  variables:
-    CI_DEBUG_TRACE: "true"
-  script: /bin/true

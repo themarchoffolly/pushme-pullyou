@@ -1,0 +1,37 @@
+/*
+ * GitPitch Slideshow Custom CSS Styling
+ *
+ * For details, visit Wiki:
+ * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
+ */
+
+#pro-background {
+  /* opacity: 0.2 !important; */
+}
+
+#pro-logo {
+    max-height: 14em;
+}
+
+#pro-title {
+  display: none;
+}
+
+#pro-subtitle {
+  color: gray;
+  font-size: 1.3em;
+  font-variant: small-caps;
+}
+
+#pro-enter {
+  background: #e49436;
+  border-color: #e49436;
+}
+
+#pro-contact {
+  font-size: 1em;
+  color: gray;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+

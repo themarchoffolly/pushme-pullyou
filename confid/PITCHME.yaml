@@ -1,0 +1,12 @@
+theme : night
+theme-override : assets/css/wyncode.css
+footnote : "Wyncode Academy"
+published : true
+
+confidential : hello, world
+
+# pro-background : assets/image/wyncode-bg-alt.jpg
+pro-logo : assets/image/wyncode-logo.png
+pro-title : "Wyncode Academy"
+pro-subtitle : "See Where Coding Can Take You"
+pro-contact : "91% of Wincoders Find Jobs After Graduation"
