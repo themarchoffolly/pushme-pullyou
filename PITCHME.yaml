@@ -1,4 +1,4 @@
 logo-position : bottom-right
 logo : assets/img/logo.png
 controls-layout : bottom-right
-print-frags: false
+print-fragments: true
