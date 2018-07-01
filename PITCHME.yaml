@@ -2,5 +2,5 @@
 logo : assets/img/logo.png
 controls-layout : bottom-right
 print-fragments: true
-code-line-numbers: true
+code-line-numbers: false
 highlight : vs
