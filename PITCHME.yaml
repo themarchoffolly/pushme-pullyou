@@ -1,6 +1,3 @@
-# logo-position : bottom-right
-logo : assets/img/logo.png
-controls-layout : bottom-right
-print-fragments: true
-code-line-numbers: true
-highlight : vs
+theme: sky
+
+theme-override : assets/css/PITCHME.css

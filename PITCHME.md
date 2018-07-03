@@ -1,180 +1,140 @@
-This is `x = 10;` some code.
+## More about me
+@ul
+- 25+ years in Technology
+- 18 years in Mobile
+- 10+ years in Community/DevRel
+- Community/DevRel Consultant
+@ulend
 
 ---
 
-# Start Here
+## Fragment Slides
+#### Shortcut Syntax
+#### with Speaker Notes
+## Feature Demonstration
 
 ---
 
-```javascript
-var a = 0
-var b = 1
-```
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=Scala&title=GIST: Scala Snippet
+### Tips!
 
-@[25-29](Init Spark cluster data source)
-@[41-53](Build RDD[AWSTask] from source)
-@[57-62](Delegate RDD[AWSTask] to AWS Lambda)
-
----?gist=onetapbeyond/8da53731fd54bab9d5c6&lang=Groovy&title=GIST: Groovy Snippet
-
-@[6-9]
-@[11-12]
-@[14-18]
-
----?gist=onetapbeyond/3b893fa75304db752741145d94d1c2c7&lang=JS&title=GIST: JavaScript Snippet
-
-@[1](React components partition the UI.)
-@[1](Each is independent, and reusable.)
-@[2-5](React callback on state change.)
+- See <a target="_blank" href="https://github.com/gitpitch/gitpitch/wiki/Fragment-Slides">Wiki</a> for feature How-To
+- Press `F` to go fullscreen!
+- Press `S` for speaker notes.
 
 ---
 
-+++
-@title[Sample Block]
+### Unordered Lists
+<br>
 
-```python
-from time import localtime
+@ul
 
-activities = {8: 'Sleeping', 9: 'Commuting', 17: 'Working',
-              18: 'Commuting', 20: 'Eating', 22: 'Resting' }
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
 
-time_now = localtime()
-hour = time_now.tm_hour
-
-for activity_time in sorted(activities.keys()):
-    if hour < activity_time:
-        print activities[activity_time]
-        break
-else:
-    print 'Unknown, AFK or sleeping!'
-```
-
-###### Code-blocks let you present any <p> **static code** with auto-syntax highlighting
+@ulend
 
 ---
 
-### Code-Blocks
-##### Using
-#### **Code-Presenting**
+### Unordered Lists
+#### Custom Styling
+<br>
 
-![Press Down Key](assets/down-arrow.png)
+@ul[squares]
 
-+++
-@title[Sample Code Presenting]
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
 
-```python
-from time import localtime
-
-activities = {8: 'Sleeping', 9: 'Commuting', 17: 'Working',
-              18: 'Commuting', 20: 'Eating', 22: 'Resting' }
-
-time_now = localtime()
-hour = time_now.tm_hour
-
-for activity_time in sorted(activities.keys()):
-    if hour < activity_time:
-        print activities[activity_time]
-        break
-else:
-    print 'Unknown, AFK or sleeping!'
-```
-
-@[1]
-@[3-4]
-@[6-7]
-@[9-14]
-
-###### Use code-presenting to **step-thru** code <p> from directly within your presentation 
+@ulend
 
 ---
 
-@title[Sample With Annotations]
+### Unordered Lists
+#### Custom Styling
+<br>
 
-```python
-from time import localtime
+@ul[circles]
 
-activities = {8: 'Sleeping', 9: 'Commuting', 17: 'Working',
-              18: 'Commuting', 20: 'Eating', 22: 'Resting' }
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
 
-time_now = localtime()
-hour = time_now.tm_hour
-
-for activity_time in sorted(activities.keys()):
-    if hour < activity_time:
-        print activities[activity_time]
-        break
-else:
-    print 'Unknown, AFK or sleeping!'
-```
-
-@[1](Python from..import statement)
-@[3-4](Python dictionary initialization block)
-@[6-7](Python working with time)
-@[9-14](Python for..else statement)
-
----
-@title[Working with Source Files]
-
-### Naturally
-### Code-Presenting
-### works in exactly the same way on [Code-Delimiter Slides](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides) as it does on [Code-Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides).
-
----
-@title[Code Delimiter Syntax]
-
-### Code-Delimiter Slides
-
-```
-                  ---?code=path/to/source.file
-```
-
-#### The Basics
-
-![Press Down Key](assets/down-arrow.png)
-
-+++?code=src/python/time.py&lang=python
-@title[Sample Source File]
-
-###### Code delimiters let you present any <p> **code file** with auto-syntax highlighting
-
----
-@title[Code-Delimiter Slides]
-
-### Code-Delimiter Slides
-##### Using
-#### **Code-Presenting**
-
-![Press Down Key](assets/down-arrow.png)
-
-+++?code=src/javascript/config.js&lang=javascript
-@title[Sample Code Presenting]
-
-@[1-3]
-@[5-8]
-@[10-16]
-@[18-24]
-
-###### Use code-presenting to **step-thru** code <p> from directly within your presentation 
+@ulend
 
 ---
 
-### Code-Delimiter Slides
-##### Using
-#### Code-Presenting
-#### **With Annotations**
+### Ordered Lists
+<br>
 
-![Press Down Key](assets/down-arrow.png)
+@ol
 
-+++?code=src/elixir/monitor.ex&lang=elixir
-@title[Sample With Annotations]
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
 
-@[11-14](Elixir module-attributes as constants)
-@[22-28](Elixir with-statement for conciseness)
-@[171-177](Elixir case-statement pattern matching)
-@[179-185](Elixir pipe-mechanism for composing functions)
+@olend
 
 ---
 
-## The End
+### Ordered Lists
+#### Custom Styling
+<br>
+
+@ol[roman]
+
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+
+@olend
+
+---
+
+### Ordered Lists
+#### Custom Styling
+<br>
+
+@ol[alpha]
+
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+
+@olend
+
+---
+
+### Nested Lists
+#### Static Items - Custom Styling
+<br>
+
+@ul[spaced-list-items](false)
+- First Top-Level Item
+  + Plain text list item @note[Cool! Fragment specific speaker notes :)]
+  + Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+- Second Top-Level Item
+  + Another plain text list item @note[Cool! Fragment specific speaker notes :)]
+  + Rich **markdown** list *item*
+@ulend
+
+---
+
+### Nested Lists
+#### Fragment Items - Custom Styling
+<br>
+
+@ul[spaced-list-items]
+- First Top-Level Item
+  + Plain text list item @note[Cool! Fragment specific speaker notes :)]
+  + Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+- Second Top-Level Item
+  + Another plain text list item @note[Cool! Fragment specific speaker notes :)]
+  + Rich **markdown** list *item*
+@ulend
+
+---
+
+### Learn By Example
+#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/frag-shortcut-syntax/PITCHME.md">Presentation Markdown</a>
 

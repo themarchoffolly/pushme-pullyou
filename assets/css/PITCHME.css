@@ -1,0 +1,29 @@
+.circles {
+    list-style-type: circle !important;
+    list-style-position: inside !important;
+}
+
+.squares {
+    list-style-type: square !important;
+    list-style-position: inside !important;
+}
+
+.roman {
+    list-style-type: upper-roman !important;
+    list-style-position: inside !important;
+}
+
+.alpha {
+    list-style-type: lower-alpha !important;
+    list-style-position: outside !important;
+}
+
+.li-nested-item {
+    list-style-type: square !important;
+}
+
+.reveal ul.spaced-list-items li {
+   font-size: 0.8em;
+   margin:0 0 6px 0;
+}
+
