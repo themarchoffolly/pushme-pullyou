@@ -1,7 +1,3 @@
----?image=https://images.unsplash.com/reserve/oIpwxeeSPy1cnwYpqJ1w_Dufer%20Collateral%20test.jpg
-
-### Image
-
 ---?image=assets/images/lets-get-started.jpg&size=auto 90%&color=black
 @title[Introduction]
 
