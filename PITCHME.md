@@ -1,4 +1,4 @@
----?image=https://images.unsplash.com/reserve/oIpwxeeSPy1cnwYpqJ1w_Dufer%20Collateral%20test.jpg
-
----?image=assets/face space.jpg
+<pre><code data-trim>
+<div class="tweet" data-src="https://twitter.com/gitpitch/status/1030769566106836992"></div>
+</code></pre>
 
