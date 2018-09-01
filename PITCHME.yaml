@@ -1,21 +1,18 @@
-
-theme : night
-
+# Layout
 layout : center-right
 
-logo : assets/images/logo.png
-
+# Look-and-Feel
+theme : night
 theme-override : assets/css/PITCHME.css
-
-transition : none
-
+background-color : #bbff00;
+logo : assets/images/logo.png
 highlight : ir-black
 
-code-line-numbers: true
-
-charts : true
-
-mathjax : TeX-AMS_HTML-full
-
+# Behavior
+transition : none
 published : true
+code-line-numbers : true
 
+# Plugins
+charts : true
+mathjax : TeX-AMS_HTML-full
