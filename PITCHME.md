@@ -34,7 +34,23 @@
     @img[](assets/pic.jpg)
 @snapend
 
+---
 
+#### Img tag as list item
 
+@ul
+- Hello
+- <img src="assets/pic.jpg"/>
+- Goodbye
+@ulend
 
+---
+
+#### Img shortcut as list item
+
+@ul
+- Hello
+- @img[](assets/pic.jpg)
+- Goodbye
+@ulend
 
