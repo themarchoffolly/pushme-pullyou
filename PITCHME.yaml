@@ -1,4 +1,2 @@
-# theme : white
-# logo : assets/logo.png
-# background : assets/room960-700.jpg
-revealjs-version : 3.4.1
+theme-override : assets/PITCHME.css
+

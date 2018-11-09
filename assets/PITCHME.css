@@ -1,0 +1,13 @@
+.reveal section img.thumbnail {
+  width: 40%;
+  border: none;
+}
+
+img.thumbnail {
+  width: 20% !important;
+  border: none !important;
+}
+
+.span-75 {
+  width: 75% !important;
+}
