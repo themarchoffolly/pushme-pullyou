@@ -40,7 +40,7 @@
 
 @ul
 - Hello
-- <img src="assets/pic.jpg"/>
+- <img class="thumbnail" src="assets/pic.jpg"/>
 - Goodbye
 @ulend
 
@@ -50,7 +50,7 @@
 
 @ul
 - Hello
-- @img[](assets/pic.jpg)
+- @img[thumbnail](assets/pic.jpg)
 - Goodbye
 @ulend
 
