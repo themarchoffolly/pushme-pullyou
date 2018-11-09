@@ -12,5 +12,29 @@
 
 ---
 
-The End
+#### Img tag snapped.
+
+@snap[south]
+    <img src="assets/pic.jpg">
+@snapend
+
+---
+
+#### Img shortcut snapped.
+
+@snap[south]
+@img[](assets/pic.jpg)
+@snapend
+
+---
+
+#### Img shortcut tabbed and snapped.
+
+@snap[south]
+    @img[](assets/pic.jpg)
+@snapend
+
+
+
+
 
