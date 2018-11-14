@@ -58,8 +58,12 @@ For the best viewing experience, press F for fullscreen.
 ---
 @title[The Template Docs]
 
-@snap[west headline span-100]
-GitPitch<br>*The Template @css[text-orange](End) ;)*
+@snap[west span-100]
+### **Now it's @css[text-orange](your) turn.**
+
+<br>
+
+#### **Amaze your audience with a @css[text-orange](Git)Pitch slideshow @fa[smile-o fa-spin]**
 @snapend
 
 @snap[south docslink span-100]
