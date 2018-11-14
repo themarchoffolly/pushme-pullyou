@@ -63,7 +63,8 @@ For the best viewing experience, press F for fullscreen.
 
 <br>
 
-#### **Amaze your audience with a @css[text-orange](Git)Pitch slideshow @fa[smile-o fa-spin]**
+#### Use these templates to create custom slides.
+#### **Then amaze your audience with a @css[text-orange](Git)Pitch slideshow @fa[smile-o]**
 @snapend
 
 @snap[south docslink span-100]
