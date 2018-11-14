@@ -19,9 +19,9 @@
 <br>Boxed text with title template.
 @snapend
 
-+++?color=linear-gradient(to top, #0f2027, #203a43, #2c5364);
++++?color=linear-gradient(120deg, #f6d365 0%, #fda085 100%);
 
-@box[bg-yellow text-black rounded](<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br>)
+@box[bg-orange text-white rounded](<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br>)
 
 @snap[south-west template-note text-white]
 <br>Boxed text without title template.
