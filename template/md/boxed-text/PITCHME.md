@@ -12,7 +12,7 @@
 +++?image=template/img/cityscape.png&position=bottom&size=100% 60%
 
 @snap[north span-60]
-@box[bg-blue text-white rounded](Product Announcement#Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.<br><br>Ut enim ad minim veniam quis.)
+@box[bg-blue text-white rounded](Tech Meetup News#Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.<br><br>Ut enim ad minim veniam quis.)
 @snapend
 
 @snap[midpoint template-note text-gray]
