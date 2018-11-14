@@ -64,7 +64,7 @@ For the best viewing experience, press F for fullscreen.
 <br>
 
 #### Use these templates to create custom slides.
-#### **Then amaze your audience with a @color[#E49436](Git)Pitch slideshow @fa[smile-o]**
+#### **Then amaze your audience with a Git@color[#E49436](Pitch) slideshow @fa[smile-o]**
 @snapend
 
 @snap[south docslink span-100]
