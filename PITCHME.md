@@ -59,12 +59,12 @@ For the best viewing experience, press F for fullscreen.
 @title[The Template Docs]
 
 @snap[west span-100]
-### **Now it's @css[text-orange](your) turn.**
+### **Now it's @color[#E49436](your) turn.**
 
 <br>
 
 #### Use these templates to create custom slides.
-#### **Then amaze your audience with a @css[text-orange](Git)Pitch slideshow @fa[smile-o]**
+#### **Then amaze your audience with a @color[#E49436](Git)Pitch slideshow @fa[smile-o]**
 @snapend
 
 @snap[south docslink span-100]
