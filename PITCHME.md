@@ -1,9 +1,9 @@
 
-### I like to eat <i class="em em-hamburger fa-3x"></i> well done.
+### I like to eat <i class="em em-hamburger"></i> well done.
 
 ---
 
-I like to eat <i class="em em-hamburger fa-3x"></i> well done.
+### I like to eat <i class="em em-hamburger fa-3x"></i> well done.
 
 ---
 
