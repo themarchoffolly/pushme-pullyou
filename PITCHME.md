@@ -1,35 +1,24 @@
 
-## @emoji[heart_eyes] @emoji[stuck_out_tongue] @emoji[sunglasses]
+### GitPitch delivers @emoji[dolphin]
+### Font Awesome @fa[magic text-orange] Magic
+### alongside Emojis @emoji[honeybee fa-spin]
 
 ---
 
-# @emoji[heart_eyes] @emoji[stuck_out_tongue] @emoji[sunglasses]
+@snap[north]
+#### @emoji[heart_eyes]
+@snapend
+
+@snap[midpoint]
+# @emoji[heart_eyes]
+@snapend
+
+@snap[south]
+## @emoji[heart_eyes]
+@snapend
 
 ---
 
-# @emoji[heart_eyes] @emoji[not_valid_name] @emoji[sunglasses]
+## Summer @emoji[sunny] + @emoji[sunflower] = happy @emoji[honeybee]
 
----
-
-### I like to eat <i class="em em-hamburger"></i> well done.
-
----
-
-### I like to eat <i class="em em-hamburger fa-3x"></i> well done.
-
----
-
-## <i class="em em-satellite_antenna"></i>
-
----
-
-#### <i class="em em-honeybee"></i>
-
----
-
-#### <i class="em em-fish"></i>
-
----
-
-The End
 
