@@ -1,0 +1,189 @@
+@font-face {
+  font-family: 'Work Sans 900';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/assets/fonts/work-sans-v3-latin-ext_latin-900.woff2') format('woff2'),
+       url('/assets/fonts/work-sans-v3-latin-ext_latin-900.woff') format('woff');
+}
+
+.b-code > code {
+  font-weight: bold;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.f06-code code {
+  font-size: 0.6em !important;
+}
+
+.f08-code code {
+  font-size: 0.8em !important;
+}
+
+.f105 {
+  font-size: 1.05em !important;
+}
+
+.f115 {
+  font-size: 1.15em !important;
+}
+
+.f125 {
+  font-size: 1.25em !important;
+}
+
+.f13 {
+  font-size: 1.3em !important;
+}
+
+.f135 {
+  font-size: 1.35em !important;
+}
+
+.f14 {
+  font-size: 1.4em !important;
+}
+
+.f14-code code {
+  font-size: 1.4em !important;
+}
+
+.f15 {
+  font-size: 1.5em !important;
+}
+
+.f17 {
+  font-size: 1.7em !important;
+}
+
+.f18 {
+  font-size: 1.8em !important;
+}
+
+.f19 {
+  font-size: 1.9em !important;
+}
+
+.f2 {
+  font-size: 2.0em !important;
+}
+
+.f21 {
+  font-size: 2.1em !important;
+}
+
+.f22 {
+  font-size: 2.2em !important;
+}
+
+.f23 {
+  font-size: 2.3em !important;
+}
+
+.f24 {
+  font-size: 2.4em !important;
+}
+
+.f25 {
+  font-size: 2.5em !important;
+}
+
+.f28 {
+  font-size: 2.8em !important;
+}
+
+.f29 {
+  font-size: 2.9em !important;
+}
+
+.f3 {
+  font-size: 3.0em !important;
+}
+
+.f32 {
+  font-size: 3.2em !important;
+}
+
+.f35 {
+  font-size: 3.5em !important;
+}
+
+.f37 {
+  font-size: 3.7em !important;
+}
+
+.f39 {
+  font-size: 3.9em !important;
+}
+
+.f4 {
+  font-size: 4.0em !important;
+}
+
+.f65 {
+  font-size: 6.5em !important;
+}
+
+.grey {
+  color: #575657;
+}
+
+.img-w-40 > img {
+  width: 40%;
+}
+
+.img-w-100 > img {
+  width: 100%;
+}
+
+.lh-05 {
+  line-height: 0.5 !important;
+}
+
+.lh-1 {
+  line-height: 1.0 !important;
+}
+
+.light-pink {
+  color: #FE7F76;
+}
+
+.list {
+  list-style-type: none !important;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.w-20 {
+  width: 20%;
+}
+
+.w-40 {
+  width: 40%;
+}
+
+.w-90 {
+  width: 90%;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.work-sans {
+  font-family: "Work Sans 900", sans-serif !important;
+}
+
+/* Theme overrides */
+
+/* Don't put borders around images cause they don't look so good around
+ * sponsor images.
+ */
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
