@@ -2,8 +2,8 @@
   font-family: 'Work Sans 900';
   font-style: normal;
   font-weight: 900;
-  src: url('./assets/fonts/work-sans-v3-latin-ext_latin-900.woff2') format('woff2'),
-       url('./assets/fonts/work-sans-v3-latin-ext_latin-900.woff') format('woff');
+  src: url('/assets/gfonts/work-sans-v3-latin-ext_latin-900.woff2') format('woff2'),
+       url('/assets/gfonts/work-sans-v3-latin-ext_latin-900.woff') format('woff');
 }
 
 .b-code > code {
