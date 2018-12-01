@@ -1,234 +1,237 @@
-#HSLIDE
+---?image=assets/img/audience.png&opacity=100&color=#E58537&size=100% 40%
 
-### R
-### OpenCPU Spark Executor
-### (ROSE)
+@snap[north-west raleway-medium]
+#### The Markdown Presentation Service on Git
+@snapend
 
-<span style="color:gray">An Apache Spark Package</span>
+@snap[west montserrat-heavy heading-white]
+# GitPitch
+@snapend
 
-#HSLIDE
+---?image=assets/img/audience.png&size=100% 40%
 
-> Where Apache SparkR lets data scientists use Spark from R,
-> ROSE is designed to let Scala and Java developers use R from Spark.
+@snap[north-east raleway-medium span-55]
+#### GitPitch Desktop
+[Pro Desktop Docs](https://gitpitch.com/docs/pro-features/desktop)
+@snapend
 
-#HSLIDE
+@snap[east span-50]
+![](assets/img/features-desktop.png)
+@snapend
 
-### ROSE Apache Spark Package
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] Enjoy a dedicated desktop tool on Linux, OSX, and Windows<sup>1</sup> for developing and presenting offline. See local changes to your presentation instantly reflected in a live preview in your browser.
+@snapend
 
-  - Offers the full scientific computing power of the R programming language
-  - Within Spark batch and streaming apps on the JVM
+@snap[south-west fs-03]
+1. Windows 10 Pro + Enterprise Editions
+@snapend
 
-#HSLIDE
+---?image=assets/img/audience.png&size=100% 40%
 
-### ROSE API
+@snap[north-east raleway-medium span-55]
+#### GitPitch Security
+[Pro Security Docs](https://gitpitch.com/docs/pro-features/security)
+@snapend
 
-<ol>
-<li class="fragment" data-fragment-index="1">New `analyze` operation on RDD[<span style="color:gray">OCPUTask</span>]</li>
-<li class="fragment" data-fragment-index="2">This operation executes R analytics on OpenCPU</li>
-<li class="fragment" data-fragment-index="3">And generates RDD[<span style="color:gray">OCPUResult</span>]</li>
-</ol>
+@snap[east span-50]
+![](assets/img/features-security.jpg)
+@snapend
 
-<span class="fragment" data-fragment-index="4" style="font-size: 0.8em; color:gray">The ROSE API is built on top of the <a target="_blank" href="https://github.com/onetapbeyond/opencpu-r-executor">opencpu-r-executor</a> library.</span>
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] Activate public, private, and password-protected slideshow presentations powered by private Git repositories. Use it to secure your content and manage your slideshow audience in the cloud.
+@snapend
 
-#HSLIDE
+---?image=assets/img/audience.png&size=100% 40%
 
-### opencpu-r-executor
+@snap[north-east raleway-medium span-55]
+#### GitPitch Surveys
+[Pro Surveys Docs](https://gitpitch.com/docs/pro-features/surveys)
+@snapend
 
-- A lightweight, fluent Java library
-- For integrating R analytics executed on OpenCPU
-- Into any application running on the JVM
-- Defines <span style="color:gray">OCPUTask</span> and <span style="color:gray">OCPUResult</span>
+@snap[east span-50]
+![](assets/img/features-surveys.jpg)
+@snapend
 
-#VSLIDE
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] Turn any slideshow into a two-way conversation. Deliver your message using a GitPitch slide deck. Then gather feedback from your audience long after you leave the stage using rich, professional surveys.
+@snapend
 
-### OCPUTask
+---?image=assets/img/audience.png&size=100% 40%
 
-<span style="color:gray">An executable object that represents an R function call.</span>
+@snap[north-east raleway-medium span-55]
+#### GitPitch Pro Bonus
+[Pro Bonus Docs](https://gitpitch.com/docs/pro-features/bonus)
+@snapend
 
-```scala
+@snap[east span-50]
+![](assets/img/features-pro-bonuses.jpg)
+@snapend
 
-// Build R function parameter values as Map.
-HashMap params = HashMap(n -> 10, mean -> 5)
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] Beyond GitPitch Desktop, Security, and Surveys...Pro users enjoy powerful slideshow features including image opacity controls, offline video streaming, Google Web Fonts, and Emojis @emoji[heart_eyes]
+@snapend     
 
-// Define executable for R stats#rnorm function call.
-OCPUTask task = OCPU.R()
-                    .pkg("stats")
-                    .function("rnorm")
-                    .input(params.asJava)
-                    .library()
-```
+---
 
-#VSLIDE
+@snap[north raleway-medium span-80]
+### Markdown Shortcuts
+[Markdown Shortcuts Docs](https://gitpitch.com/docs/markdown-features)
+@snapend
 
-### OCPUResult
+@snap[midpoint span-50]
+![](assets/img/features-markdown-shortcuts.gif)
+@snapend
 
-<span style="color:gray">An object that represents the result of an R function call.</span>
+@snap[south span-100 feature-details]
+Use GitPitch markdown syntax shortcuts to control the appearance of slide content, and effortlessly generate rich visual slide components aka. GitPitch Markdown Widgets @fa[quote-right]
+@snapend
 
-```scala
-// Execute R function on OCPUTask.
-OCPUResult result = task.execute(OCPU_SERVER_ENDPOINT)
+---
 
-// Retrieve the R function return value from OCPUResult.
-Object resp = result.output().get("rnorm")
-```
+@snap[north raleway-medium span-80]
+### Snap Layouts
+[Snap Layouts Docs](https://gitpitch.com/docs/layout-features)
+@snapend
 
-#HSLIDE
+@snap[midpoint span-50]
+![](assets/img/features-snap-layouts.png)
+@snapend
 
-### ROSE + Apache Spark Batch Processing
+@snap[south span-100 feature-details]
+Use GitPitch snap-layouts syntax to control the placement of content on any slide. Override automatic layout controls and enjoy the power to create unique layouts for your slide decks @fa[quote-right]
+@snapend     
 
-#VSLIDE
+---
 
-#### Step 1. Build RDD[<span style="color:gray">OCPUTask</span>]
+@snap[north raleway-medium span-80]
+### Live Code Presenting
+[Code Presenting Docs](https://gitpitch.com/docs/code-features)
+@snapend
 
-```scala
-import io.onetapbeyond.opencpu.spark.executor.R._
-import io.onetapbeyond.opencpu.r.executor._
+@snap[midpoint span-50]
+![](assets/img/features-live-code-presenting.gif)
+@snapend
 
-// Transform dataRDD into an RDD[OCPUTask].
+@snap[south span-100 feature-details]
+Present any fenced code-block, repository source file, or GitHub GIST. Focus-on and step-through specific code snippets, loops, functions, output, etc. from directly within your slide deck @fa[quote-right]
+@snapend     
 
-val rTaskRDD = dataRDD.map(data => {
+---
 
-    // Prepare R fraud#score function call param values.
-    val params = prepParams(data)
+@snap[north raleway-medium span-80]
+### Image Magic
+[Image Magic Docs](https://gitpitch.com/docs/image-features)
+@snapend
 
-    OCPU.R()
-        .pkg("fraud")
-        .function("score")
-        .input(params.asJava)
-        .library()
-})
-```
+@snap[midpoint span-50]
+![](assets/img/features-image-magic.jpg)
+@snapend
 
-#VSLIDE
+@snap[south span-100 feature-details]
+Enjoy extensive support for inline and background images on any slide. Images can be automatically sized, scaled, positioned, repeated, and even styled using custom CSS @fa[quote-right]
+@snapend     
 
-#### Step 2. Analyze RDD[<span style="color:gray">OCPUTask</span>]
+---
 
-```scala
-// Perform RDD[OCPUTask].analyze operation to execute
-// R analytics and generate resulting RDD[OCPUResult].
+@snap[north raleway-medium span-80]
+### Rich Media
+[Rich Media Docs](https://gitpitch.com/docs/rich-media-features)
+@snapend
 
-val rResultRDD = rTaskRDD.analyze
-```
+@snap[midpoint span-50]
+![](assets/img/features-rich-media.jpg)
+@snapend
 
-#VSLIDE
+@snap[south span-100 feature-details]
+Enhance your slide decks by adding rich visual content, including charts, MathJax formulas, inline and background videos, FontAwesome icons, solid color and gradient backgrounds @fa[quote-right]
+@snapend     
 
-#### Step 3. Process RDD[<span style="color:gray">OCPUResult</span>]
+---
 
-```scala
-// Process RDD[OCPUResult] data per app requirements. 
+@snap[north raleway-medium span-80]
+### Speaker Support
+[Speaker Support Docs](https://gitpitch.com/docs/speaker-features)
+@snapend
 
-rResultRDD.foreach { rResult ->
+@snap[midpoint span-50]
+![](assets/img/features-speaker-support.jpg)
+@snapend
 
-    println("Demo: " + "fraud::score input=" +
-            rResult.input + " returned=" + rResult.output)
+@snap[south span-100 feature-details]
+Enjoy great features tailored specifically for conference speakers and training instructors. Including speaker notes, a dedicated speaker window, and support for remote control devices @fa[quote-right]
+@snapend     
 
-}
-```
+---
 
-#HSLIDE
+@snap[north raleway-medium span-80]
+### Theme Customization
+[Theme Customization Docs](https://gitpitch.com/docs/themes)
+@snapend
 
-### ROSE + Apache Spark Stream Processing
+@snap[midpoint span-50]
+![](assets/img/features-theme-customization.jpg)
+@snapend
 
-#VSLIDE
+@snap[south span-100 feature-details]
+Embrace or extend one of the built-in slideshow themes to create a look-n-feel to fit your business or brand. You have unlimited control over the appearance of your slide decks using CSS @fa[quote-right]
+@snapend     
 
-#### Step 1. Build rTaskStream of RDD[<span style="color:gray">OCPUTask</span>]
+---
 
-```scala
-import io.onetapbeyond.opencpu.spark.executor.R._
-import io.onetapbeyond.opencpu.r.executor._
+@snap[north raleway-medium span-80]
+### Do More With Git
+[Do More With Git Docs](https://gitpitch.com/docs/git)
+@snapend
 
-// Transform dataStream into rTaskStream of RDD[OCPUTask].
-val rTaskStream = dataStream.transform(rdd => {
+@snap[midpoint span-50]
+![](assets/img/features-do-more-with-git.jpg)
+@snapend
 
-    rdd.map(data => {
+@snap[south span-100 feature-details]
+Use your preferred Git flow to develop your slideshow presentation content. Collaborate with your existing Git organizations and teams. Use one or more branches. Publish unlimited decks @fa[quote-right]
+@snapend     
 
-        // Prepare R fraud#score function call param values.
-        val params = prepParams(data)
+---
 
-        OCPU.R()
-            .pkg("fraud")
-            .function("score")
-            .input(params.asJava)
-            .library()
-    })  
-})
-```
+@snap[north raleway-medium span-80]
+### Modular Slideshows
+[Modular Slideshows Docs](https://gitpitch.com/docs/git/branch-modular-slideshows)
+@snapend
 
-#VSLIDE
+@snap[midpoint span-45]
+![](assets/img/features-modular-slideshows.jpg)
+@snapend
 
-#### Step 2. Analyze rTaskStream of RDD[<span style="color:gray">OCPUTask</span>]
+@snap[south span-100 feature-details]
+Thanks to first-class support for modular markdown you can develop and publish modular slideshows. Share the complete slide deck. Or share select mini-decks with your audience @fa[quote-right]
+@snapend     
 
-```scala
-// Perform R Analytics on RDD[OCPUTask] Stream Data
+---
 
-val rResultStream = rTaskStream.transform(rdd => rdd.analyze)
-```
+@snap[north raleway-medium span-80]
+### The Quickstart Template
+[Quickstart Template Docs](https://gitpitch.com/docs/the-template)
+@snapend
 
-#VSLIDE
+@snap[midpoint span-50]
+![](assets/img/features-the-template.jpg)
+@snapend
 
-#### Step 3. Process rResultStream of RDD[<span style="color:gray">OCPUResult</span>]
+@snap[south span-100 feature-details]
+The Template is a collection of high-utility slide designs available out-of-the-box to GitPitch presentation authors. Developed using markdown. Customizable using CSS @fa[quote-right]
+@snapend     
 
-```scala
-// Process rResultStream of RDD[OCPUResult] data per app requirements.
+---?image=assets/img/audience.png&opacity=100&color=#E58537&size=100% 40%
 
-rResultStream.foreachRDD { resultRDD => {
+@snap[north-west montserrat-heavy heading-white]
+### GitPitch
+@snapend
 
-    resultRDD.foreach { rResult => {
+@snap[west raleway-medium]
+#### The Fastest Way From @color[white](Idea) To @color[white](Presentation)
+@snapend
 
-        println("Demo: " + "fraud::score input=" +
-                rResult.input + " returned=" + rResult.output)
-
-    }}
-}}
-```
-
-#HSLIDE
-
-#### Deployment 1. Colocated
-![ROSE Deployment](https://onetapbeyond.github.io/resource/img/rose/new-rose-deploy.jpg)
-
-<span style="font-size: 0.8em">OpenCPU server per Apache Spark worker node.</span>
-
-#HSLIDE
-
-#### Deployment 2. Remote Cluster
-![ROSE Deployment Alt](https://onetapbeyond.github.io/resource/img/rose/alt-rose-deploy.jpg)
-
-<span style="font-size: 0.8em">OpenCPU cluster independent of Apache Spark cluster.</span>
-
-#HSLIDE
-
-#### OpenCPU Remote Cluster Configuration
-
-```scala
-// Sample OpenCPU 3 Node Cluster
-
-val OCPU_CLUSTER = Array("http://1.1.1.1/ocpu",
-                         "http://2.2.2.2/ocpu",
-                         "http://3.3.3.3/ocpu")
-
-// Register cluster endpoints as Apache Spark broadcast variable.
-
-val endpoints = sc.broadcast(OCPU_CLUSTER)
-
-```
-
-#VSLIDE
-
-#### OpenCPU Remote Cluster Usage
-
-```scala
-// Use Spark broadcast variable on RDD[OCPUTask].analyze operation.
-
-val rResultRDD = rTaskRDD.analyze(endpoints.value)
-```
-
-#HSLIDE
-
-#### Some Related Links
-
-- [GitHub: ROSE Package](https://github.com/onetapbeyond/opencpu-spark-executor)
-- [GitHub: ROSE Examples](https://github.com/onetapbeyond/opencpu-spark-executor#rose-examples)
-- [GitHub: opencpu-r-executor](https://github.com/onetapbeyond/opencpu-r-executor)
-- [GitHub: Apache Spark](https://github.com/apache/spark)
-- [Apache Spark Packages](https://spark-packages.org/package/onetapbeyond/opencpu-spark-executor)
+@snap[south-west raleway-medium text-white fs-05]
+For everyone on GitHub @fa[github fa-font], GitLab @fa[gitlab fa-font], and Bitbucket @fa[bitbucket fa-font]
+@snapend
