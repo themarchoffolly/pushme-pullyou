@@ -40,13 +40,13 @@ layout : center
 # Title Setting
 # Doc: https://gitpitch.com/docs/settings/title
 #
-title : "GitPitch x The Markdown Presentation Service on Git"
+title : "GitPitch - The Markdown Presentation Service on Git"
 
 #
 # Description Setting
 # Doc: https://gitpitch.com/docs/settings/description
 #
-description : "X The Fastest Way from Idea to Presentation for everyone on GitHub, GitLab, and Bitbucket."
+description : "The Fastest Way from Idea to Presentation for everyone on GitHub, GitLab, and Bitbucket."
 
 #
 # Thumbnail Setting
