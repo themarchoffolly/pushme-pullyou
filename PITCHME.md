@@ -39,7 +39,7 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] Activate public, private, and password-protected slideshow presentations powered by private Git repositories. Use it to secure your content and manage your slideshow audience in the cloud.
+@fa[quote-left] Activate public, private, and password-protected slideshow presentations powered by private Git repositories. Use GitPitch to secure your content and manage your slideshow audience in the cloud.
 @snapend
 
 ---?image=assets/img/audience.png&size=100% 40%
