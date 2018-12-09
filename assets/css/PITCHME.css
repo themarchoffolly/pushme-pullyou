@@ -1,7 +1,11 @@
+.reveal pre {
+  box-shadow: none;
+}
 
 .bigcode {
   font-size: 1.3em !important;
   line-height: 1.3 !important;
+  background: none !important;
 }
 
 .smallcode {
