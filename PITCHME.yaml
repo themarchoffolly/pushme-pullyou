@@ -1,6 +1,13 @@
 #
-# GitPitch - The Markdown Presentation Service on GitHub
+# The Template Settings
 #
+# The default settings below are optimized for this template.
+# Override settings with your own custom values as needed.
+#
+# For further details, see https://gitpitch.com/docs/settings.
+#
+
+published : true
 
 #
 # Theme Setting
@@ -12,47 +19,14 @@ theme : simple
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override: assets/css/PITCHME.css
-
-#
-# [Global] Background Settings
-# Doc: https://gitpitch.com/docs/settings/background
-#
-background : assets/img/audience.png
-background-opacity : 5
-background-position : bottom
-background-size : 100% 60%
+theme-override : assets/css/PITCHME.css
 
 #
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : assets/img/logo.png
-logo-postion : top-left
-
-#
-# Layout Setting
-# Doc: https://gitpitch.com/docs/settings/layout
-#
-layout : center
-
-#
-# Title Setting
-# Doc: https://gitpitch.com/docs/settings/title
-#
-title : "GitPitch - The Markdown Presentation Service on Git"
-
-#
-# Description Setting
-# Doc: https://gitpitch.com/docs/settings/description
-#
-description : "The Fastest Way from Idea to Presentation for everyone on GitHub, GitLab, and Bitbucket."
-
-#
-# Thumbnail Setting
-# Doc: https://gitpitch.com/docs/settings/thumbnail
-#
-thumbnail : assets/img/thumbnail.png
+logo : template/img/logo.png
+logo-position : top-left
 
 #
 # Footnote Setting
@@ -61,7 +35,29 @@ thumbnail : assets/img/thumbnail.png
 footnote : "GitPitch - The Fastest Way From Idea To Presentation"
 
 #
-# Published Setting
-# Doc: https://gitpitch.com/docs/settings/published
+# Highlight (Code) Setting
+# Doc: https://gitpitch.com/docs/settings/highlight
 #
-published : true
+highlight : atom-one-dark
+
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# Transition Setting
+# This template uses GitPitch Snap-Layouts extensively. For this
+# reason THIS VALUE SHOULD NOT BE MODIFIED. See:
+# https://gitpitch.com/docs/layout-features/snap-layout-slide-transitions
+#
+transition : none
+
+#
+# Twitter Card Settings
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "GitPitch - The Quickstart Template"
+description : "High-utility markdown slide templates for GitPitch presentation authors."
+thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg
