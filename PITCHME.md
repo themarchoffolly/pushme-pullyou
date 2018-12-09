@@ -34,8 +34,8 @@ for(String word : words) {
 
 ---
 
-<pre><code class="hljs lang-java">
-List<String> words =
+<pre><code class="hljs lang-java xml">
+List<String> xml =
         Arrays.asList("Hello", "World");
 
 for(String word : words) {
