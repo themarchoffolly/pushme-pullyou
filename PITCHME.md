@@ -1,15 +1,4 @@
 
-```java noddy
-List<String> words =
-        Arrays.asList("Hello", "World");
-
-for(String word : words) {
-  System.out.println("The word: " + word);
-}
-```
-
----
-
 ```java
 List<String> words =
         Arrays.asList("Hello", "World");
@@ -34,7 +23,7 @@ for(String word : words) {
 
 ---
 
-<pre><code class="hljs lang-java xml">
+<pre><code class="hljs lang-java">
 List<String> xml =
         Arrays.asList("Hello", "World");
 
