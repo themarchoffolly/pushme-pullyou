@@ -23,7 +23,7 @@ for(String word : words) {
 
 @code[golang smallcode]
 
---
+---
 
 @code[golang smallcode]()
 
