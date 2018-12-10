@@ -9,5 +9,5 @@ for(String word : words) {
 
 ---
 
-@code[scala](src/hello.scala)
+@code[golang](src/go/server.go)
 
