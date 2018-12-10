@@ -24,7 +24,7 @@ for(String word : words) {
 Hello, World!
 </code></pre>
 
-----
+---
 
 <pre><code>Goodbye</code></pre>
 
