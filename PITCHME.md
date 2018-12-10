@@ -18,6 +18,8 @@ for(String word : words) {
 }
 ```
 
+---
+
 <p class="bigcode">
 ```java
 List<String> precode =
