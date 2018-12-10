@@ -30,4 +30,25 @@ for(String word : words) {
 }
 @codeend
 
+---
+
+@code[java bigcode]
+List<String> precode =
+        Arrays.asList("Hello", "World");
+
+for(String word : words) {
+  System.out.println("The word: " + word);
+}
+@codeend
+
+---
+
+@code[java smallcode]
+List<String> precode =
+        Arrays.asList("Hello", "World");
+
+for(String word : words) {
+  System.out.println("The word: " + word);
+}
+@codeend
 
