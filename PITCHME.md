@@ -19,3 +19,12 @@ for(String word : words) {
 
 @code[golang smallcode](src/go/server.go)
 
+---
+
+@code[golang smallcode]
+
+--
+
+@code[golang smallcode]()
+
+
