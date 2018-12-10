@@ -9,22 +9,5 @@ for(String word : words) {
 
 ---
 
-```java
-List<String> precode =
-        Arrays.asList("Hello", "World");
-
-for(String word : words) {
-  System.out.println("The word: " + word);
-}
-```
-
----
-
-<pre><code>
-Hello, World!
-</code></pre>
-
----
-
-<pre><code>Goodbye</code></pre>
+@code[scala](src/hello.scala)
 
