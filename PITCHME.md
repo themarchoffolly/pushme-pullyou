@@ -18,3 +18,13 @@ for(String word : words) {
 }
 ```
 
+---
+
+<pre><code>
+Hello, World!
+</code></pre>
+
+----
+
+<pre><code>Goodbye</code></pre>
+
