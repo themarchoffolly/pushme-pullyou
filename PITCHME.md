@@ -54,7 +54,7 @@ for(String word : words) {
 
 ---
 
-@code[xml bigcode]
+@code[xml]
 <note>
   <to>
     Tove
@@ -62,18 +62,25 @@ for(String word : words) {
   <from>
     Jani
   </from>
-  <heading>
-    Reminder
-  </heading>
-  <body>
-    Don't forget me this weekend!
-  </body>
 </note>
 @codeend
 
+---
+
+```xml
+<note>
+  <to>
+    Tove
+  </to>
+  <from>
+    Jani
+  </from>
+</note>
+```
+
 ---      
 
-@code[html bigcode]
+@code[html]
 <html>
 <body>
 
@@ -82,6 +89,18 @@ for(String word : words) {
 
 </body>
 </html>
-
 @codeend
+
+---
+
+```html
+<html>
+<body>
+
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+</body>
+</html>
+```
 
