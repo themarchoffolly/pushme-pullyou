@@ -91,6 +91,11 @@ for(String word : words) {
 </html>
 @codeend
 
+@[1,2](The outer HTML tags.)
+@[4](A simple paragraph.)
+@[5](Another simple paragraph.)
+@[7-8](Closing the out THML tags.)
+
 ---
 
 ```html
@@ -103,4 +108,9 @@ for(String word : words) {
 </body>
 </html>
 ```
+
+@[1,2](The outer HTML tags.)
+@[4](A simple paragraph.)
+@[5](Another simple paragraph.)
+@[7-8](Closing the out THML tags.)
 
