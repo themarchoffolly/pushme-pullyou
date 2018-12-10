@@ -20,4 +20,8 @@
 
 @code[golang smallcode](src/go/bad.go)
 
+---
+
+@code[xml bigcode](src/xml/data.xml)
+
 
