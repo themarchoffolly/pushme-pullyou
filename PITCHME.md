@@ -1,6 +1,6 @@
 
 ```java
-List<String> words =
+List<String> md =
         Arrays.asList("Hello", "World");
 
 for(String word : words) {
@@ -10,21 +10,8 @@ for(String word : words) {
 
 ---
 
-<pre>
-<code>
-List<String> words =
-        Arrays.asList("Hello", "World");
-
-for(String word : words) {
-  System.out.println("The word: " + word);
-}
-</code>
-</pre>
-
----
-
-<pre><code class="hljs lang-java">
-List<String> xml =
+<pre><code class="lang-java hljs">
+List<String> precode =
         Arrays.asList("Hello", "World");
 
 for(String word : words) {
@@ -32,14 +19,4 @@ for(String word : words) {
 }
 </code></pre>
 
----
-
-@code[java bigcode]
-List<String> words =
-        Arrays.asList("Hello", "World");
-
-for(String word : words) {
-  System.out.println("The word: " + word);
-}
-@codeend
 
