@@ -28,7 +28,6 @@ List<String> precode =
 for(String word : words) {
   System.out.println("The word: " + word);
 }
-</code></pre>
 @codeend
 
 
