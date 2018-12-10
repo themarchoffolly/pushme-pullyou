@@ -11,3 +11,11 @@ for(String word : words) {
 
 @code[golang](src/go/server.go)
 
+---
+
+@code[golang bigcode](src/go/server.go)
+
+---
+
+@code[golang smallcode](src/go/server.go)
+
