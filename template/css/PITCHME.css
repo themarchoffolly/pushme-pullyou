@@ -251,6 +251,8 @@ div.docslink a:hover {
   font-size: 50% !important;
 }
 
+/** What is GitPitch? Custom Styles **/
+
 @font-face {
   font-family: 'Montserrat Heavy';
   font-style: normal;
@@ -277,7 +279,6 @@ div.docslink a:hover {
   text-transform: none !important;
   font-family: "Raleway Medium", sans-serif !important;
 }
-
 
 .reveal h2 {
   text-shadow: none !important;

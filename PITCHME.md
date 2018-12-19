@@ -2,7 +2,7 @@
 @title[What is GitPitch?]
 
 @snap[west h2-white h4-white]
-## What is<br>**Git@css[text-gold](Pitch)@fa[question]**
+## What is<br>Git@css[text-gold](Pitch)?
 @snapend
 
 @snap[south-west text-04 text-gray text-smallcaps]
@@ -90,3 +90,4 @@ Press F to view slideshow in fullscreen mode.
 ![](template/img/questions-4.png)
 [Learn More in the official GitPitch Docs @fa[external-link]](https://gitpitch.com/docs)
 @snapend
+
