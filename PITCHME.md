@@ -57,7 +57,7 @@ Press F to view slideshow in fullscreen mode.
 ---
 @title[How Good Is GitPitch?]
 
-#### But don't just take our word for it.
+#### But don't just take my word for it.
 
 ---?image=template/img/grass.png&opacity=10
 @title[Listen To Developers]
