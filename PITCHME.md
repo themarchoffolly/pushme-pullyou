@@ -1,10 +1,14 @@
 ---?image=template/img/presenter.jpg
 @title[What is GitPitch?]
 
-@snap[west h4-white h2-white]
-#### Question. What is
-## **Git@css[text-gold](Pitch)@fa[question]**
+@snap[north-west h4-white h2-white]
+#### Question.
 @snapend
+
+@snap[west h3-white h4-white]
+#### What is **Git@css[text-gold](Pitch)@fa[question]**
+@snapend
+
 
 ---?image=template/img/bg/blue.jpg&position=left&size=30% 50%
 @title[Modern Slide Decks]
@@ -41,7 +45,7 @@
 @snap[east span-70]
 #### Sharing @css[text-gold text-bold](technical knowledge)
 ## **is hard**.
-@css[text-05 fragment](When using legacy presentation tools like PowerPoint and Keynote.)
+@css[text-05 fragment](When using traditional presentation tools like PowerPoint and Keynote.)
 @snapend
 
 ---
