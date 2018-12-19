@@ -2,22 +2,21 @@
 @title[What is GitPitch?]
 
 @snap[north-west h4-white h2-white]
-#### Question.
 @snapend
 
-@snap[west h3-white h4-white]
-#### What is **Git@css[text-gold](Pitch)@fa[question]**
+@snap[north-west h2-white h4-white]
+## What is **Git@css[text-gold](Pitch)@fa[question]**
 @snapend
 
 @snap[south-west text-04 text-gray]
 Press F to view slideshow in fullscreen mode.
 @snapend
 
----?image=template/img/bg/blue.jpg&position=left&size=30% 50%
+---?image=template/img/bg/blue.jpg&position=left&size=35% 50%
 @title[Modern Slide Decks]
 
-@snap[west h3-white]
-### Answer.
+@snap[west h4-white]
+#### Answer.
 @snapend
 
 @snap[east span-70]
@@ -26,23 +25,23 @@ Press F to view slideshow in fullscreen mode.
 @css[text-06 fragment](Uniquely adapted for the @css[text-gold text-bold](developer community) on Git.)
 @snapend
 
----?image=template/img/bg/black.jpg&position=left&size=32% 100%
+---?image=template/img/bg/black.jpg&position=left&size=35% 100%
 @title[What problem solved?]
 
-@snap[west h3-white]
-### Question.
+@snap[west h4-white]
+#### Question.
 @snapend
 
 @snap[east span-80]
 #### What problem does GitPitch
-# @css[text-gold text-bold](solve)@fa[question]
+## @css[text-gold text-bold](solve)@fa[question]
 @snapend
 
----?image=template/img/bg/blue.jpg&position=left&size=30% 50%
+---?image=template/img/bg/blue.jpg&position=left&size=35% 50%
 @title[Technical Knowledge]
 
-@snap[west h3-white]
-### Answer.
+@snap[west h4-white]
+#### Answer.
 @snapend
 
 @snap[east span-70]
@@ -54,9 +53,9 @@ Press F to view slideshow in fullscreen mode.
 ---
 @title[Sharing Made Easy]
 
-GitPitch makes sharing @css[text-gold text-bold](technical knowledge) **easy**.
+#### GitPitch makes sharing @css[text-gold text-bold](technical knowledge) *easy*.
 
-#### @css[text-smallcaps text-gray text-07 fragment](By integrating seamlessly with modern developer tools, workflows, code, and data.<br>On GitHub @fa[github], GitLab @fa[gitlab], and Bitbucket @fa[bitbucket])
+#### @css[text-smallcaps text-gray text-06 fragment](By integrating seamlessly with modern developer tools, workflows, code, and data.<br>On GitHub @fa[github], GitLab @fa[gitlab], and Bitbucket @fa[bitbucket])
 
 ---
 @title[How Good Is GitPitch?]

@@ -250,3 +250,44 @@ div.docslink a:hover {
   opacity: 0.75 !important;
   font-size: 50% !important;
 }
+
+@font-face {
+  font-family: 'Montserrat Heavy';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/assets/fonts/montserrat-heavy.woff2') format('woff2'),
+       url('/assets/fonts/montserrat-heavy.woff') format('woff');
+}
+.montserrat-heavy,
+.montserrat-heavy * {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Montserrat Heavy", sans-serif !important;
+}
+@font-face {
+  font-family: 'Raleway Medium';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/assets/fonts/raleway-medium.woff2') format('woff2'),
+       url('/assets/fonts/raleway-medium.woff') format('woff');
+}
+.raleway-medium,
+.raleway-medium * {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Raleway Medium", sans-serif !important;
+}
+
+
+.reveal h2 {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Montserrat Heavy", sans-serif !important;
+}
+
+.reveal h4 {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Raleway Medium", sans-serif !important;
+}
+
