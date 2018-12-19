@@ -5,7 +5,7 @@
 ## What is<br>**Git@css[text-gold](Pitch)@fa[question]**
 @snapend
 
-@snap[south-west text-04 text-gray]
+@snap[south-west text-04 text-gray text-smallcaps]
 Press F to view slideshow in fullscreen mode.
 @snapend
 
