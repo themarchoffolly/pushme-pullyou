@@ -9,6 +9,9 @@
 #### What is **Git@css[text-gold](Pitch)@fa[question]**
 @snapend
 
+@snap[south-west text-04 text-gray]
+Press F to view slideshow in fullscreen mode.
+@snapend
 
 ---?image=template/img/bg/blue.jpg&position=left&size=30% 50%
 @title[Modern Slide Decks]
