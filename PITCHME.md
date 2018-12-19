@@ -60,7 +60,7 @@ GitPitch makes sharing @css[text-gold text-bold](technical knowledge) **easy**.
 
 #### But don't just take our word for it.
 
----?image=template/img/grass.png&opacity=20
+---?image=template/img/grass.png&opacity=10
 @title[Listen To Developers]
 
 
