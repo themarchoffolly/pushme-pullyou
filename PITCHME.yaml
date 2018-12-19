@@ -19,13 +19,13 @@ theme : simple
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override : assets/css/PITCHME.css
+theme-override : template/css/PITCHME.css
 
 #
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : assets/img/logo.png
+logo : template/img/logo.png
 logo-position : top-left
 
 #
@@ -40,3 +40,24 @@ footnote : "GitPitch - The Fastest Way From Idea To Presentation"
 #
 highlight : atom-one-dark
 
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# Transition Setting
+# This template uses GitPitch Snap-Layouts extensively. For this
+# reason THIS VALUE SHOULD NOT BE MODIFIED. See:
+# https://gitpitch.com/docs/layout-features/snap-layout-slide-transitions
+#
+transition : none
+
+#
+# Twitter Card Settings
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "What is GitPitch?"
+description : "GitPitch is a modern slide deck service for developers on GitHub, GitLab, and Bitbucket."
+thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg
