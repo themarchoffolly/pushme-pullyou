@@ -41,7 +41,7 @@
 @snap[east span-70]
 #### Sharing @css[text-gold text-bold](technical knowledge)
 ## **is hard**.
-@css[text-05 fragment](When using traditional presentation tools like PowerPoint and Keynote.)
+@css[text-05 fragment](When using legacy presentation tools like PowerPoint and Keynote.)
 @snapend
 
 ---
