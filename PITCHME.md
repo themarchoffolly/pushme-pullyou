@@ -1,11 +1,8 @@
 ---?image=template/img/presenter.jpg
 @title[What is GitPitch?]
 
-@snap[north-west h4-white h2-white]
-@snapend
-
-@snap[north-west h2-white h4-white]
-## What is **Git@css[text-gold](Pitch)@fa[question]**
+@snap[west h2-white h4-white]
+## What is<br>**Git@css[text-gold](Pitch)@fa[question]**
 @snapend
 
 @snap[south-west text-04 text-gray]
