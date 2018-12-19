@@ -21,7 +21,7 @@ Press F to view slideshow in fullscreen mode.
 @snapend
 
 @snap[east span-70]
-### It's a @css[text-gold text-bold text-14](modern)
+#### GitPitch is a @css[text-gold text-bold text-14](modern)
 ## **PowerPoint**.
 @css[text-06 fragment](Uniquely adapted for the @css[text-gold text-bold](developer community) on Git.)
 @snapend
