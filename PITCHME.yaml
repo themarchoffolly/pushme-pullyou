@@ -60,4 +60,4 @@ transition : none
 #
 title : "What is GitPitch?"
 description : "GitPitch is a modern slideshow presentation service for developers on GitHub, GitLab, and Bitbucket."
-thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg
+thumbnail : assets/img/the-template-thumb.jpg
