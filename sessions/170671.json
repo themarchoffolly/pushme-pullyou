@@ -1,0 +1,1618 @@
+{
+  "command": null,
+  "title": null,
+  "env": {
+    "SHELL": "/usr/bin/fish",
+    "TERM": "xterm-256color"
+  },
+  "height": 19,
+  "width": 43,
+  "stdout": [
+    [
+      0.01558,
+      "\u001b]0;fish  /home/niklas\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.006453,
+      "\u001b[?2004h"
+    ],
+    [
+      0.000875,
+      "\u001b]7;file://niklas-desktop/home/niklas\u0007"
+    ],
+    [
+      0.005867,
+      "\u001b]0;fish  /home/niklas\u0007\u001b[30m"
+    ],
+    [
+      1.8e-05,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      9.3e-05,
+      "\u001b[2m⏎\u001b(B\u001b[m                                          \r⏎ \r\u001b[2K"
+    ],
+    [
+      0.000702,
+      "\u001b[97m\u001b[46m⋊>\u001b[30m\u001b(B\u001b[m \u001b[33m~\u001b[30m\u001b(B\u001b[m \u001b[K\u001b[30C\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[5C"
+    ],
+    [
+      0.837569,
+      "d\u001b[29C\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[6C\u001b[29C\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[6C"
+    ],
+    [
+      0.000389,
+      "\b\u001b[91md\u001b[29C\u001b[30m\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[6C"
+    ],
+    [
+      0.000596,
+      "\u001b[38;2;85;85;85mevstats -i\u001b[19C\u001b[30m\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[6C"
+    ],
+    [
+      0.054458,
+      "\u001b[91me\u001b[38;2;85;85;85mvstats -i\u001b[19C\u001b[30m\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[7C\u001b[28C\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[7C"
+    ],
+    [
+      0.168441,
+      "\u001b[91mv\u001b[38;2;85;85;85mstats -i\u001b[19C\u001b[30m\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[8C\u001b[27C\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[8C"
+    ],
+    [
+      0.128007,
+      "\u001b[91ms\u001b[38;2;85;85;85mtats -i\u001b[19C\u001b[30m\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[9C\u001b[26C\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[9C"
+    ],
+    [
+      0.119306,
+      "\u001b[91mt\u001b[38;2;85;85;85mats -i\u001b[19C\u001b[30m\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[10C"
+    ],
+    [
+      2.6e-05,
+      "\u001b[25C\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[10C"
+    ],
+    [
+      0.112183,
+      "\u001b[91ma\u001b[38;2;85;85;85mts -i\u001b[19C\u001b[30m\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[11C\u001b[24C\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[11C"
+    ],
+    [
+      0.072314,
+      "\u001b[91mt\u001b[38;2;85;85;85ms -i\u001b[19C\u001b[30m\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[12C\u001b[23C\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[12C"
+    ],
+    [
+      0.088448,
+      "\u001b[91ms\u001b[38;2;85;85;85m -i\u001b[19C\u001b[30m\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[13C\u001b[22C\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[13C"
+    ],
+    [
+      0.000494,
+      "\b\b\b\b\b\b\b\b\u001b[1mdevstats\u001b(B\u001b[m\u001b[38;2;85;85;85m -i\u001b[19C\u001b[30m\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[13C"
+    ],
+    [
+      0.375334,
+      "\u001b[K\u001b[22C\u001b[38;2;85;85;85m07:29:07\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[13C\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000149,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000265,
+      "\u001b]0;devstats  /home/niklas"
+    ],
+    [
+      3.1e-05,
+      "\u0007"
+    ],
+    [
+      2.5e-05,
+      "\u001b[30m\u001b(B\u001b[m\r"
+    ],
+    [
+      0.443089,
+      "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+    ],
+    [
+      0.002545,
+      "\u001b[7A"
+    ],
+    [
+      0.000156,
+      "\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.499462,
+      "\u001b[7A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n"
+    ],
+    [
+      0.886933,
+      "\u001b[7A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m4\u001b[22m contributions made\r\n\r\n"
+    ],
+    [
+      0.206091,
+      "\u001b[7A\u001b[0J"
+    ],
+    [
+      4.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m4\u001b[22m contributions made\r\n\r\n"
+    ],
+    [
+      0.008002,
+      "\u001b[?2004h"
+    ],
+    [
+      0.002738,
+      "\u001b]0;fish  /home/niklas"
+    ],
+    [
+      1.2e-05,
+      "\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      7.4e-05,
+      "\u001b[2m⏎\u001b(B\u001b[m                                          \r⏎ \r\u001b[2K"
+    ],
+    [
+      1.2e-05,
+      "\u001b[97m\u001b[46m⋊>\u001b[30m\u001b(B\u001b[m \u001b[33m~\u001b[30m\u001b(B\u001b[m \u001b[K\u001b[30C\u001b[38;2;85;85;85m07:29:11\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[5C"
+    ],
+    [
+      0.794593,
+      "devstats\u001b[22C\u001b[38;2;85;85;85m07:29:11\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[13C"
+    ],
+    [
+      0.000274,
+      "\b\b\b\b\b\b\b\b\u001b[1mdevstats\u001b[22C\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:11\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[13C"
+    ],
+    [
+      0.373345,
+      "\u001b[1m \u001b[21C\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:11\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[14C\u001b[21C\u001b[38;2;85;85;85m07:29:11\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[14C"
+    ],
+    [
+      0.000113,
+      "\b \u001b[21C\u001b[38;2;85;85;85m07:29:11\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[14C"
+    ],
+    [
+      0.232217,
+      "-\u001b[20C\u001b[38;2;85;85;85m07:29:11\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[15C\u001b[20C\u001b[38;2;85;85;85m07:29:11\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[15C"
+    ],
+    [
+      0.000227,
+      "\u001b[38;2;85;85;85mi\u001b[19C\u001b[30m\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:11\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[15C"
+    ],
+    [
+      0.000429,
+      "\b\u001b[36m-\u001b[38;2;85;85;85mi\u001b[19C\u001b[30m\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:11\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[15C"
+    ],
+    [
+      0.319872,
+      "\u001b[36mi\u001b[19C\u001b[30m\u001b(B\u001b[m\u001b[38;2;85;85;85m07:29:11\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[16C\u001b[19C\u001b[38;2;85;85;85m07:29:11\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[16C"
+    ],
+    [
+      0.311777,
+      "\u001b[19C\u001b[38;2;85;85;85m07:29:11\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[16C\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.00017,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000277,
+      "\u001b]0;devstats  /home/niklas\u0007"
+    ],
+    [
+      3.9e-05,
+      "\u001b[30m\u001b(B\u001b[m\r"
+    ],
+    [
+      0.435785,
+      "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+    ],
+    [
+      0.002476,
+      "\u001b[7A"
+    ],
+    [
+      2.8e-05,
+      "\u001b[0J"
+    ],
+    [
+      8.6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.470112,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.293313,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      8.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.818671,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m4\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m"
+    ],
+    [
+      2.2e-05,
+      "\r\n\r\n"
+    ],
+    [
+      0.87264,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002849,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      1.6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m2\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.3437,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      7.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m2\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      2.255564,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.8e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m2\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.502302,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      7.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.00593,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m3\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.341547,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m3\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.26451,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m4 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m3\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.515784,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      8.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.005084,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      0.012212,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m14\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.337054,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.4e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m395\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m14\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.262133,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m395\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1man hour\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m14\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.406727,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.8e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.004632,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m16\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.35968,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m16\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.225936,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m16\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.402148,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.8e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002872,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m21\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.356014,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m485\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m21\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.222143,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m485\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m21\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.420635,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      7.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 13th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.004619,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 13th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m19\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.337539,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      8.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 13th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m19\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.257041,
+      "\u001b[9A"
+    ],
+    [
+      0.000237,
+      "\u001b[0J"
+    ],
+    [
+      9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 13th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m2 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m19\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.503881,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.003532,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m485\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002023,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m485\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001804,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m485\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m21\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.280542,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.8e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002002,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001869,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001796,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.8e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m16\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.241477,
+      "\u001b[9A"
+    ],
+    [
+      4.3e-05,
+      "\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n"
+    ],
+    [
+      3.8e-05,
+      "\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001896,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m395\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.0038,
+      "\u001b[9A"
+    ],
+    [
+      5.5e-05,
+      "\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      4.2e-05,
+      "  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m395\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1man hour\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m"
+    ],
+    [
+      2.6e-05,
+      "\r\n\r\n"
+    ],
+    [
+      0.001815,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      0.000105,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m395\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1man hour\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m14\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.16829,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      2.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.000749,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.000677,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m4 hours\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.000628,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m4 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m3\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.151814,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001737,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      7.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001503,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001517,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m2\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.144358,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      3.7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001501,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001368,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001331,
+      "\u001b[9A"
+    ],
+    [
+      4.3e-05,
+      "\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m4\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.79661,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001872,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001736,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001646,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m2\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.195309,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002102,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001959,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m4 hours\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001859,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m4 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m3\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.177845,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002127,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      7.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m395\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001945,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.8e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m395\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1man hour\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001879,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m395\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1man hour\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m14\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.257391,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001904,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001727,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m4 hours\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001683,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m4 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m3\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.171821,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      9.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002192,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002093,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.8e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001877,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m2\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.151968,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001484,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001341,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001358,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m4\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.380717,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.00205,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001908,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001805,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m2\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.152304,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001348,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001301,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      3.7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001204,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      3.7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m4\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.141682,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.014541,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      3.6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.000506,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      2.6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.000454,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m2\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.078374,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.000805,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.000812,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.000689,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m4\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.166927,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001685,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.4e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002055,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002113,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m2\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.281357,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      3.7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001304,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      3.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001098,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      3.8e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m4 hours\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001141,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m4 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m3\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.157644,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.4e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001802,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m395\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001664,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m395\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1man hour\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001618,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m395\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1man hour\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m14\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.154999,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002055,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001937,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.4e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.00178,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      8.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m16\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.153479,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.00163,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m485\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001482,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m485\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001425,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m485\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m21\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.163007,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 13th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001491,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.4e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 13th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.00132,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 13th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m2 hours\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.000762,
+      "\u001b[9A"
+    ],
+    [
+      2.6e-05,
+      "\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 13th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m2 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m19\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.17323,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 12th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.003278,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      2.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 12th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m7\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.156191,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 11th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.004222,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 11th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m11\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.163951,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 10th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.004147,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 10th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m5\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.017455,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 10th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m5\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.152945,
+      "\u001b[9A"
+    ],
+    [
+      3.6e-05,
+      "\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 9th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n"
+    ],
+    [
+      3.1e-05,
+      "\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.003455,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      3.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 9th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m13\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.008523,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      2.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 9th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m335\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m13\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.137067,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 9th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m335\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m13\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.020387,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 9th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n"
+    ],
+    [
+      4.6e-05,
+      "  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m13\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.175513,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 9th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m335\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m13\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.101324,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 9th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m335\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m6 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m13\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.028134,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 9th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m335\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m11 minutes\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m13\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.189057,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 9th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m335\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m2 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m13\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.761284,
+      "\u001b[9A"
+    ],
+    [
+      4.6e-05,
+      "\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 10th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001277,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      3.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 10th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001081,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      2.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 10th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m6 hours\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001078,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 10th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m6 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m5\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.556214,
+      "\u001b[9A"
+    ],
+    [
+      2.5e-05,
+      "\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 11th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m"
+    ],
+    [
+      1.7e-05,
+      "\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001003,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 11th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m335\u001b[22m reputation earned\r\n"
+    ],
+    [
+      2.1e-05,
+      "  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001398,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 11th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m335\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m11 minutes\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.000851,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      2.6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 11th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m335\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m11 minutes\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m11\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.430287,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 12th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.003574,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 12th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002236,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 12th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002163,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 12th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m7\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.84911,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      9.4e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 13th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002551,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.2e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 13th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.003984,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      7.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 13th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m2 hours\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.000831,
+      "\u001b[9A\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 13th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m2 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m19\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.270808,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.4e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001762,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.8e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m485\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.00154,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m485\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.00413,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 14th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m485\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m21\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.232824,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001962,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.002309,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      7.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001937,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 15th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m410\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m16\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.202751,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001723,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m395\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001484,
+      "\u001b[9A"
+    ],
+    [
+      4.3e-05,
+      "\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m395\u001b[22m reputation earned"
+    ],
+    [
+      2.4e-05,
+      "\r\n"
+    ],
+    [
+      4.9e-05,
+      "  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1man hour\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.00153,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.5e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 16th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m395\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1man hour\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m14\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.493177,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      5.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001957,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.7e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001771,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.8e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m4 hours\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001787,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.4e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 17th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m250\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m4 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m3\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.024177,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      3.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      2.5e-05,
+      "  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n"
+    ],
+    [
+      1.8e-05,
+      "  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m"
+    ],
+    [
+      8.6e-05,
+      "\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001756,
+      "\u001b[9A"
+    ],
+    [
+      8e-05,
+      "\u001b[0J\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m"
+    ],
+    [
+      2.7e-05,
+      "\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m"
+    ],
+    [
+      2e-05,
+      "\r\n\r\n"
+    ],
+    [
+      0.001963,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      3.6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n"
+    ],
+    [
+      2e-05,
+      "  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding"
+    ],
+    [
+      7.6e-05,
+      "\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.00291,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      3.9e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 18th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m350\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1m3 hours\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m2\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[34m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.022498,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mStackOverflow  \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.00141,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mWakaTime       \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.001322,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      4.1e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[90m\u001b[7m \u001b[27m\u001b[39m \u001b[90m\u001b[2mGitHub         \u001b[22m\u001b[39m\u001b[2mLoading ...\u001b[22m\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      0.00141,
+      "\u001b[9A\u001b[0J"
+    ],
+    [
+      6.3e-05,
+      "\r\n\u001b[34m  Daily report for \u001b[39m\u001b[34m\u001b[1mMarch 19th, 2018\u001b[22m\u001b[39m\r\n\r\n  \u001b[7m\u001b[33m \u001b[39m\u001b[27m \u001b[33mStackOverflow  \u001b[39m\u001b[1m50\u001b[22m reputation earned\r\n  \u001b[7m\u001b[36m \u001b[39m\u001b[27m \u001b[36mWakaTime       \u001b[39m\u001b[1mno time\u001b[22m spent coding\r\n  \u001b[7m\u001b[92m \u001b[39m\u001b[27m \u001b[92mGitHub         \u001b[39m\u001b[1m4\u001b[22m contributions made\r\n\r\n  \u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1m←\u001b[22m\u001b[39m\u001b[34m Previous day\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\u001b[34m \u001b[90m\u001b[2m[\u001b[22m\u001b[1m→\u001b[22m Next day\u001b[2m]\u001b[22m\u001b[34m \u001b[39m\u001b[34m\u001b[2m[\u001b[22m\u001b[39m\u001b[34m\u001b[1mQ\u001b[22m\u001b[39m\u001b[34m Quit\u001b[39m\u001b[34m\u001b[2m]\u001b[22m\u001b[39m\r\n\r\n"
+    ],
+    [
+      1.124522,
+      "\u001b[?2004h"
+    ],
+    [
+      0.007261,
+      "\u001b]0;fish  /home/niklas\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      9.6e-05,
+      "\u001b[2m⏎\u001b(B\u001b[m                                          \r⏎ \r\u001b[2K\u001b[97m\u001b[46m⋊>\u001b[30m\u001b(B\u001b[m \u001b[33m~\u001b[30m\u001b(B\u001b[m \u001b[K\u001b[30C\u001b[38;2;85;85;85m07:29:35\u001b[30m\u001b(B\u001b[m\r\u001b[35C\r\u001b[5C"
+    ],
+    [
+      1.786359,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000235,
+      "\u001b[?2004l"
+    ]
+  ],
+  "duration": 30.171314,
+  "version": 1
+}
