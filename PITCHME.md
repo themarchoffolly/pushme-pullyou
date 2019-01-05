@@ -90,7 +90,7 @@ Press F to view slideshow in fullscreen mode.
 @quote[Just discovered GitPitch. And WOW!](@fa[twitter] @akosma)
 @snapend
 
-@snap[midpoint text-09 text-white span-25]
+@snap[midpoint text-09 text-white span-15]
 @quote[The best slide creation tool I've ever used.](@fa[twitter] @PermittedSoc)
 @snapend
 
