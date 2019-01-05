@@ -1,0 +1,90 @@
+#gp-logo img {
+  max-height: 3.5em;
+  max-width: none;
+}
+
+#title-footer a {
+  color: black;
+}
+
+#title-footer p.footer-hard {
+   color: black;
+}
+
+.reveal section img {
+  border: none;
+  box-shadow: none;
+  background: none;
+}
+
+.reveal .slide-number {
+  color: black !important;
+}
+
+.reveal blockquote {
+    width: 100%;
+    padding: 17px;
+    border-radius: 17px;
+    background: rgba(255,255,255,0.2);
+}
+
+.reveal p span.slide-title {
+  display: none;
+}
+
+/** What is GitPitch? Custom Styles **/
+
+@font-face {
+  font-family: 'Montserrat Heavy';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/assets/fonts/montserrat-heavy.woff2') format('woff2'),
+       url('/assets/fonts/montserrat-heavy.woff') format('woff');
+}
+.montserrat-heavy,
+.montserrat-heavy * {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Montserrat Heavy", sans-serif !important;
+}
+@font-face {
+  font-family: 'Raleway Medium';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/assets/fonts/raleway-medium.woff2') format('woff2'),
+       url('/assets/fonts/raleway-medium.woff') format('woff');
+}
+.raleway-medium,
+.raleway-medium * {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Raleway Medium", sans-serif !important;
+}
+
+.reveal h2 {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Montserrat Heavy", sans-serif !important;
+}
+
+.reveal h4 {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Raleway Medium", sans-serif !important;
+}
+
+.reveal h2 {
+  font-size: 2.4em !important;
+}
+
+.reveal h4 {
+  font-size: 1.2em !important;
+}
+
+.h4-reduced h4 {
+  font-size: 1.08em !important;
+}
+
+.humor-box {
+  box-shadow:0 10px 16px 10px rgba(0,0,0,0.2), 0 6px 20px 10px rgba(0,0,0,0.19) !important;
+}

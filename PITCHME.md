@@ -1,4 +1,4 @@
----?image=template/img/presenter.jpg
+---?image=assets/img/presenter.jpg
 @title[What is GitPitch?]
 
 @snap[west h4-white]
@@ -10,36 +10,36 @@
 ## Git@css[text-gold](Pitch)?
 @snapend
 
-@snap[north-east text-05 text-gray text-smallcaps]
+@snap[north-east text-04 text-gray text-smallcaps]
 Press F to view slideshow in fullscreen mode.
 @snapend
 
----?image=template/img/bg/blue.jpg&position=left&size=35% 50%
+---?image=assets/img/bg/blue.jpg&position=left&size=35% 50%
 @title[Modern Slide Decks]
 
 @snap[west h4-white]
 #### Answer.
 @snapend
 
-@snap[east span-70]
+@snap[east span-65]
 #### GitPitch is a @css[text-gold text-bold text-14](modern)
 ## **PowerPoint**.
 @css[text-07 fragment](Uniquely adapted for the @css[text-gold text-bold](developer community) on Git.)
 @snapend
 
----?image=template/img/bg/black.jpg&position=left&size=35% 100%
+---?image=assets/img/bg/black.jpg&position=left&size=35% 100%
 @title[What problem solved?]
 
 @snap[west h4-white]
 #### Question.
 @snapend
 
-@snap[east span-80]
+@snap[east span-65]
 #### What problem does GitPitch
 ## @css[text-gold text-bold](solve)@fa[question]
 @snapend
 
----?image=template/img/bg/blue.jpg&position=left&size=35% 50%
+---?image=assets/img/bg/blue.jpg&position=left&size=35% 50%
 @title[Technical Knowledge]
 
 @snap[west h4-white]
@@ -55,7 +55,7 @@ Press F to view slideshow in fullscreen mode.
 ---
 @title[Sharing Made Easy]
 
-@snap[midpoint span-100]
+@snap[midpoint h4-reduced span-100]
 #### GitPitch makes sharing @css[text-gold text-bold](technical knowledge) *easy*.
 
 #### @css[text-smallcaps text-gray text-06 fragment](By integrating seamlessly with modern developer tools, workflows, code, and data.<br>On GitHub @fa[github], GitLab @fa[gitlab], and Bitbucket @fa[bitbucket])
@@ -74,7 +74,7 @@ Press F to view slideshow in fullscreen mode.
 ---
 @title[How Good Is GitPitch?]
 
-@snap[midpoint span-100]
+@snap[midpoint span-80]
 #### But don't just take my word for it @fa[hand-o-right]
 @snapend
 
@@ -106,7 +106,7 @@ Press F to view slideshow in fullscreen mode.
 @snapend
 
 @snap[east span-50 text-06]
-![](template/img/questions-4.png)
+![](assets/img/questions-4.png)
 @snapend
 
 @snap[south-east span-50 text-06]
