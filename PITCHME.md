@@ -10,7 +10,7 @@
 ## Git@css[text-gold](Pitch)?
 @snapend
 
-@snap[north-east text-04 text-gray text-smallcaps]
+@snap[north-east text-05 text-gray text-smallcaps]
 Press F to view slideshow in fullscreen mode.
 @snapend
 
