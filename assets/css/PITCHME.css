@@ -85,6 +85,14 @@
   font-size: 1.08em !important;
 }
 
+.text-055 {
+  font-size: 0.55em !important;
+}
+
+.text-065 {
+  font-size: 0.65em !important;
+}
+
 .humor-box {
   box-shadow:0 10px 16px 10px rgba(0,0,0,0.2), 0 6px 20px 10px rgba(0,0,0,0.19) !important;
 }

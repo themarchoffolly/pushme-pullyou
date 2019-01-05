@@ -24,7 +24,7 @@ Press F to view slideshow in fullscreen mode.
 @snap[east span-65]
 #### GitPitch is a @css[text-gold text-bold text-14](modern)
 ## **PowerPoint**.
-@css[text-06 fragment](Uniquely adapted for the @css[text-gold text-bold](developer community) on Git.)
+@css[text-065 fragment](Uniquely adapted for the @css[text-gold text-bold](developer community) on Git.)
 @snapend
 
 ---?image=assets/img/bg/black.jpg&position=left&size=35% 100%
@@ -49,7 +49,7 @@ Press F to view slideshow in fullscreen mode.
 @snap[east span-70]
 #### Sharing @css[text-gold text-bold](technical knowledge)
 ## **is hard**.
-@css[text-05 fragment](When using legacy presentation tools like PowerPoint and Keynote.)
+@css[text-055 fragment](When using legacy presentation tools like PowerPoint and Keynote.)
 @snapend
 
 ---
