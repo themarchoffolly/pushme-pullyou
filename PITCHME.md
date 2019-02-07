@@ -30,4 +30,4 @@
 
 ---
 
-@uml[span-50](assets/img/asciimath.puml)
+@uml[span-100](assets/img/asciimath.puml)
