@@ -1,0 +1,15 @@
+@startuml
+
+title Delete review
+
+(*) --> "User clicks on delete review"
+    --> if "Review is owned by user"
+    	--> [Success] "Delete review from DB"
+	--> "Display success message"
+	--> (*)    
+    else
+	--> [Failure] "Display error message"
+	--> (*)
+    endif
+
+@enduml
