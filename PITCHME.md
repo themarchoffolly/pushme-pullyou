@@ -27,3 +27,7 @@
 ---
 
 @uml[span-90](assets/img/usecase.puml)
+
+---
+
+@uml[span-50](assets/img/asciimath.puml)
