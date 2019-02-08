@@ -25,7 +25,7 @@
 @snap[south-west span-50]
 @[1,6](Start with opening + closing PlantUML delimiters.)
 @[2,3](Declare participants, actors, boundaries, etc.)
-@[4,5](Then define messages between participants.).
+@[4,5](Then define the messages between participants.).
 @snapend
 
 ---?color=#E58537;
@@ -56,13 +56,7 @@
 #### State Diagram
 @snapend
 
-@snap[west span-60]
-@code[uml rawcode zoom-12](src/uml/state.puml)
-@snapend
-
-@snap[east span-40]
-@uml[span-100 bg-white](src/uml/state.puml)
-@snapend
+@uml[span-45 bg-white](src/uml/state.puml)
 
 ---?color=#E58537;
 
