@@ -82,6 +82,22 @@
 
 ---?color=#E58537;
 
+@snap[north h4-white span-50]
+#### Deployment Diagram
+@snapend
+
+@uml[span-55 bg-white](src/uml/deployment.puml)
+
+---?color=#E58537;
+
+@snap[north h4-white span-50]
+#### Object Diagram
+@snapend
+
+@uml[span-90 bg-white](src/uml/object.puml)
+
+---?color=#E58537;
+
 @snap[north-west h4-white span-50]
 #### AsciiMath Diagram
 @snapend
@@ -112,25 +128,9 @@
 @uml[span-100 bg-white](src/uml/latexmath.puml)
 @snapend
 
-@snap[south-west span-55]
-@[2-4](Wrap LatexMath formula in opening + closing delimiters.)
+@snap[south-west span-60]
+@[2-4](Wrap LatexMath formula in opening and closing delimiters.)
 @snapend
-
----?color=#E58537;
-
-@snap[north h4-white span-50]
-#### Deployment Diagram
-@snapend
-
-@uml[span-55 bg-white](src/uml/deployment.puml)
-
----?color=#E58537;
-
-@snap[north h4-white span-50]
-#### Object Diagram
-@snapend
-
-@uml[span-90 bg-white](src/uml/object.puml)
 
 ---
 
