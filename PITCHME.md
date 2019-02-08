@@ -18,7 +18,7 @@
 
 ---
 
-@uml[span-70](assets/img/statediagram.puml)
+@uml[span-60](assets/img/statediagram.puml)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-@uml[span-90](assets/img/usecase.puml)
+@uml[span-80](assets/img/usecase.puml)
 
 ---
 
