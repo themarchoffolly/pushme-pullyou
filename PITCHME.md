@@ -2,7 +2,7 @@
 #### GitPitch Feature Demo
 @snapend
 
-@uml[span-45](src/uml/hello.puml)
+@uml[span-40](src/uml/hello.puml)
 
 @snap[south span-50]
 #### PlantUML Diagrams
@@ -134,5 +134,5 @@
 
 ---
 
-## UML Diagrams
+## UML for Slides
 For further details, see the [GitPitch Docs](https://gitpitch.com/docs/rich-media-features/uml-diagrams).
