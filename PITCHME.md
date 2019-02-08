@@ -14,8 +14,8 @@
 #### Sequence Diagram
 @snapend
 
-@snap[west span-50]
-@code[uml rawcode zoom-12](src/uml/sequence.puml)
+@snap[west span-60]
+@code[uml rawcode zoom-15](src/uml/sequence.puml)
 @snapend
 
 @snap[east span-40]
@@ -112,8 +112,8 @@
 @uml[span-100 bg-white](src/uml/latexmath.puml)
 @snapend
 
-@snap[south-west span-50]
-@[2-4](Wrap LatexMath formula in opening + closing tags.)
+@snap[south-west span-55]
+@[2-4](Wrap LatexMath formula in opening + closing delimiters.)
 @snapend
 
 ---?color=#E58537;
