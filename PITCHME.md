@@ -134,5 +134,9 @@
 
 ---
 
-## UML for Slides
+## PlantUML
+#### For Modern Slide Decks
+
+@snap[south span-100]
 For further details, see the [GitPitch Docs](https://gitpitch.com/docs/rich-media-features/uml-diagrams).
+@snapend
