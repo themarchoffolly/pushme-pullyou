@@ -22,8 +22,8 @@
 @uml[span-100 bg-white](src/uml/sequence.puml)
 @snapend
 
-@snap[south-west span-50]
-@[1,6](Start with opening + closing PlantUML delimiters.)
+@snap[south-west span-100]
+@[1,6](Start with opening and closing PlantUML delimiters.)
 @[2,3](Declare participants, actors, boundaries, etc.)
 @[4,5](Then define the messages between participants.).
 @snapend
@@ -42,11 +42,11 @@
 @uml[span-100 bg-white](src/uml/activity.puml)
 @snapend
 
-@snap[south-west span-50]
-@[1,14](Start with opening + closing PlantUML delimiters.)
+@snap[south-west span-100]
+@[1,14](Start with opening and closing PlantUML delimiters.)
 @[3,12](Declare activity diagram start and stop states.)
-@[5,7,10](Use if/then/else keywords to define branches.)
-@[6,8-9](Then define processes for each branch outcome.)
+@[5,7,10](Use *if*, *then*, and *else* keywords to define logical branches.)
+@[6,8-9](Then define a process for each branch path in the activity diagram.)
 @snapend
 
 
@@ -110,8 +110,8 @@
 @uml[span-100 bg-white](src/uml/asciimath.puml)
 @snapend
 
-@snap[south-west span-50]
-@[2,3](Wrap AsciiMath formula in opening + closing tags.)
+@snap[south-west span-100]
+@[2,3](Wrap AsciiMath formula in opening and closing tags.)
 @snapend
 
 ---?color=#E58537;
@@ -128,7 +128,7 @@
 @uml[span-100 bg-white](src/uml/latexmath.puml)
 @snapend
 
-@snap[south-west span-60]
+@snap[south-west span-100]
 @[2-4](Wrap LatexMath formula in opening and closing delimiters.)
 @snapend
 
