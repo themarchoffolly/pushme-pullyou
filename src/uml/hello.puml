@@ -1,3 +1,4 @@
 @startuml
 Alice -> Bob : hello
+Bob -> Alice : gitpitch
 @enduml

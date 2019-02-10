@@ -2,7 +2,7 @@
 #### GitPitch Feature Demo
 @snapend
 
-@uml[span-40](src/uml/hello.puml)
+@uml[span-35](src/uml/hello.puml)
 
 @snap[south span-50]
 #### PlantUML Diagrams
