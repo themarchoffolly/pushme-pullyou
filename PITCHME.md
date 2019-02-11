@@ -99,6 +99,25 @@
 ---?color=#E58537;
 
 @snap[north-west h4-white span-50]
+#### LaTeXMath Diagram
+@snapend
+
+@snap[west span-55]
+@code[uml rawcode zoom-11](src/uml/latexmath.puml)
+@snapend
+
+@snap[east span-50]
+@uml[span-100 bg-white](src/uml/latexmath.puml)
+@snapend
+
+@snap[south-west span-100]
+@[2-4](Wrap LaTeXMath formula in opening and closing delimiters.)
+@snapend
+
+
+---?color=#E58537;
+
+@snap[north-west h4-white span-50]
 #### AsciiMath Diagram
 @snapend
 
@@ -112,24 +131,6 @@
 
 @snap[south-west span-100]
 @[2,3](Wrap AsciiMath formula in opening and closing tags.)
-@snapend
-
----?color=#E58537;
-
-@snap[north-west h4-white span-50]
-#### LatexMath Diagram
-@snapend
-
-@snap[west span-55]
-@code[uml rawcode zoom-11](src/uml/latexmath.puml)
-@snapend
-
-@snap[east span-50]
-@uml[span-100 bg-white](src/uml/latexmath.puml)
-@snapend
-
-@snap[south-west span-100]
-@[2-4](Wrap LatexMath formula in opening and closing delimiters.)
 @snapend
 
 ---
