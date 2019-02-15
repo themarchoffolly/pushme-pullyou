@@ -243,7 +243,7 @@
 ---?color=#E58537
 
 @snap[north text-italic text-06 text-white span-100]
-1000 days since first commit...
+1000 days later...
 @snapend
 
 @snap[midpoint h3-white span-100]
