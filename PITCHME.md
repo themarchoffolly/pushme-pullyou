@@ -247,7 +247,7 @@
 @snapend
 
 @snap[midpoint h3-white span-100]
-### Thanks to @css[text-bold](everyone) on GitHub, GitLab, and Bitbucket, the GitPitch story is still being written.
+### Thanks to @css[text-bold](everyone) on GitHub, GitLab, and Bitbucket...the GitPitch story is still being written.
 @snapend
 
 @snap[south weblink span-100]
