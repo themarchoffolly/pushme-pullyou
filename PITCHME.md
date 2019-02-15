@@ -10,7 +10,7 @@
 @snapend
 
 @snap[south-east text-italic text-05 span-50]
-@fa[twitter] As told by the Twitter Timeline
+@fa[twitter] As told by my Twitter Timeline
 @snapend
 
 ---?color=#E58537
