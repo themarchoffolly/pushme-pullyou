@@ -13,6 +13,20 @@
 @fa[twitter] As told by the GitPitch Twitter timeline.
 @snapend
 
+---?color=#333333
+
+@snap[north h3-white span-100]
+### First Commit @fa[github]
+@snapend
+
+@snap[west span-100]
+@code[java zoom-13](src/java/PitchController.java)
+@snapend
+
+@snap[south h3-white span-100]
+### @fa[calendar] Mar 04, 2016
+@snapend
+
 ---?color=#E58537
 
 @snap[west h3-white span-50]
