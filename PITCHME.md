@@ -142,7 +142,7 @@
 ---?color=#E58537
 
 @snap[west h3-white span-50]
-### @fa[calendar] Jun 05, 2018
+### @fa[calendar] Jun 06, 2018
 @snapend
 
 @snap[east span-50]
