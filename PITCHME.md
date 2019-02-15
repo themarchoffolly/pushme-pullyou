@@ -1,5 +1,3 @@
-
-
 ---?color=#E49436
 
 @snap[midpoint]
