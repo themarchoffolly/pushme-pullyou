@@ -193,7 +193,7 @@
 ---
 
 @snap[west h3-white span-50]
-### @fa[calendar] Sep 27, 2018
+### @fa[calendar] Oct 27, 2018
 @snapend
 
 @snap[east span-50]
