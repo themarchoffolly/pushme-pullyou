@@ -1,16 +1,29 @@
-.weblink a { color: white; font-weight: bold; }
+/* Demo Deck Custom Styles */
 
-.rawcode {
-    background: none;
-    box-shadow: none;
+.box-blue { background: #026AD4; }
+.box-gold { background: #E58537; }
+.box-shadow {
+  box-shadow:0 10px 16px 10px rgba(0,0,0,0.2), 0 6px 20px 10px rgba(0,0,0,0.19) !important;
 }
 
+.snap-padtop { padding-top: 2em !important; }
+
+.southpole { bottom: 0px; }
+
+.southpole blockquote {
+    background: black !important;
+    padding: 0px !important;
+}
+
+.weblink a { color: white; font-weight: bold; }
+
 /** Code-Presenting Custom Styles ***/
+
 
 .reveal pre {
   width: 98%;
   margin: 0px;
-  box-shadow: none !important;
+  box-shadow: none;
 }
 
 .reveal pre code {
@@ -36,6 +49,11 @@
   font-size: 50% !important;
 }
 
+.rawcode {
+    background: none;
+    box-shadow: none;
+}
+
 /* Slideshow Auxiliary Styles */
 
 #gp-logo img {
@@ -53,13 +71,11 @@
 
 /** Reveal.js Core Override Styles **/
 
-/*
 .reveal section img {
   border: none;
   box-shadow: none;
   background: none;
 }
-*/
 
 .reveal .slide-number {
   color: black !important;
@@ -85,9 +101,34 @@
   src: url('/assets/fonts/montserrat-heavy.woff2') format('woff2'),
        url('/assets/fonts/montserrat-heavy.woff') format('woff');
 }
-
-.reveal h2, .reveal h4 {
+.montserrat-heavy,
+.montserrat-heavy * {
   text-shadow: none !important;
   text-transform: none !important;
   font-family: "Montserrat Heavy", sans-serif !important;
+}
+@font-face {
+  font-family: 'Raleway Medium';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/assets/fonts/raleway-medium.woff2') format('woff2'),
+       url('/assets/fonts/raleway-medium.woff') format('woff');
+}
+.raleway-medium,
+.raleway-medium * {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Raleway Medium", sans-serif !important;
+}
+
+.reveal h1, .reveal h2 {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Montserrat Heavy", sans-serif !important;
+}
+
+.reveal h3, .reveal h4 {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Raleway Medium", sans-serif !important;
 }
