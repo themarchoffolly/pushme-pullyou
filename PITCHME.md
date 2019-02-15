@@ -100,7 +100,7 @@
 ---?color=#E58537
 
 @snap[west h3-white span-50]
-### @fa[calendar] Nov 29, 2017
+### @fa[calendar] Nov 30, 2017
 @snapend
 
 @snap[east span-50]
@@ -110,7 +110,7 @@
 ---
 
 @snap[west h3-white span-50]
-### @fa[calendar] Nov 08, 2018
+### @fa[calendar] Feb 08, 2018
 @snapend
 
 @snap[east span-50]
@@ -121,7 +121,7 @@
 ---?color=#E58537
 
 @snap[west h3-white span-50]
-### @fa[calendar] Apr 04, 2018
+### @fa[calendar] Apr 05, 2018
 @snapend
 
 @snap[east span-50]
@@ -183,7 +183,7 @@
 ---?color=#E58537
 
 @snap[west h3-white span-50]
-### @fa[calendar] Sep 09, 2018
+### @fa[calendar] Sep 10, 2018
 @snapend
 
 @snap[east span-50]
@@ -193,7 +193,7 @@
 ---
 
 @snap[west h3-white span-50]
-### @fa[calendar] Sep 26, 2018
+### @fa[calendar] Sep 27, 2018
 @snapend
 
 @snap[east span-50]
