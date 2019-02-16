@@ -8,6 +8,16 @@
 #### A Brief History in Tweets
 @snapend
 
+---?color=#E58537
+
+@snap[midpoint h2-white span-100]
+## This is my journey building a modern @size[1.5em](PowerPoint).
+@snapend
+
+@snap[south h4-white span-100 fragment]
+#### @size[0.6em](For everyone on GitHub @fa[github], GitLab @fa[gitlab], and Bitbucket @fa[bitbucket])
+@snapend
+
 ---?color=#333333
 
 @snap[north h3-white span-100]
