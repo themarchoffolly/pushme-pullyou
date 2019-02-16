@@ -58,6 +58,6 @@ charts : true
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
 title : "GitPitch - A Brief History in Tweets"
-description : "1000 Days of GitPitch on GitHub, GitLab, and Bitbucket."
+description : "1000 Days of Modern Slide Decks for Developers on Git."
 thumbnail : https://gitpitch.com/gpimg/brief-history-thumb.jpg
 
