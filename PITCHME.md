@@ -249,16 +249,6 @@
 @tweet[https://twitter.com/gitpitch/status/1094887052263346176]
 @snapend
 
----?color=#E58537
-
-@snap[west h3-white span-50]
-### @fa[calendar] Feb 25, 2019
-@snapend
-
-@snap[east span-50]
-@tweet[https://twitter.com/gitpitch/status/TBD]
-@snapend
-
 ---?image=assets/img/presenter.jpg&size=cover&opacity=30
 
 @snap[north text-italic text-07 text-white span-100]
