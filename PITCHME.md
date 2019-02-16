@@ -20,5 +20,6 @@
 
 ---
 
-The End
+
+Here are @gitlink[MacOS Setup](documentation/setup.MacOS.md) and @gitlink[Linux Desktop Setup](documentation/setup.LinuxDesktop.md) instructions.
 
