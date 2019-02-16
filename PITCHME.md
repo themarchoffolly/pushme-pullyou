@@ -15,7 +15,7 @@
 @snapend
 
 @snap[south h4-white span-100 fragment]
-#### @size[0.6em](For everyone on GitHub @fa[github], GitLab @fa[gitlab], and Bitbucket @fa[bitbucket])
+#### @size[0.6em](Captured as a series of Tweets from my Twitter timeline @fa[twitter])
 @snapend
 
 ---?color=#333333
