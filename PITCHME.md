@@ -1,6 +1,24 @@
+@gitlink[Windows 10 Setup](documentation/setup.Windows10.md)
 
-@gitlink[Top Level README](README.md)
+@gitlink[MacOS Setup](documentation/setup.MacOS.md)
+
+@gitlink[Linux Desktop Setup](documentation/setup.LinuxDesktop.md)
 
 ---
 
-@gitlink[Sub Folder CSS](assets/css/PITCHME.css)
+- @gitlink[Windows 10 Setup](documentation/setup.Windows10.md)
+- @gitlink[MacOS Setup](documentation/setup.MacOS.md)
+- @gitlink[Linux Desktop Setup](documentation/setup.LinuxDesktop.md)
+
+---
+
+@ul 
+- @gitlink[Windows 10 Setup](documentation/setup.Windows10.md)
+- @gitlink[MacOS Setup](documentation/setup.MacOS.md)
+- @gitlink[Linux Desktop Setup](documentation/setup.LinuxDesktop.md)
+@ulend
+
+---
+
+The End
+
