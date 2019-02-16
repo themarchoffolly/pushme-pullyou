@@ -1,16 +1,11 @@
----?image=assets/img/sands-of-time.jpg
+---?image=assets/img/twitter.png&size=50% auto&color=#1EA1F3
 
-@snap[north-east span-70]
-@title[A GitPitch Demo]
-## GitPitch@css[text-gold](.com)
+@snap[north h1-white pad-top-1]
+# GitPitch
 @snapend
 
-@snap[east span-40]
-#### A Brief History
-@snapend
-
-@snap[south-east text-italic text-05 span-50]
-@fa[twitter] As told by the GitPitch Twitter timeline.
+@snap[south span-100 pad-bottom-1]
+#### A Brief History in Tweets
 @snapend
 
 ---?color=#333333
@@ -256,12 +251,22 @@
 
 ---?color=#E58537
 
-@snap[north text-italic text-06 text-white span-100]
-1000 days later...
+@snap[west h3-white span-50]
+### @fa[calendar] Feb 25, 2019
+@snapend
+
+@snap[east span-50]
+@tweet[https://twitter.com/gitpitch/status/TBD]
+@snapend
+
+---?image=assets/img/presenter.jpg&size=cover&opacity=30
+
+@snap[north text-italic text-07 text-white span-100]
+1000 days and counting...
 @snapend
 
 @snap[midpoint h3-white span-100]
-### Thanks to @css[text-bold](everyone) on GitHub, GitLab, and Bitbucket, the<br>GitPitch story *is still being written*.
+### Thanks @fa[heart text-gold] to @css[text-bold](everyone) on GitHub, GitLab, and Bitbucket, the<br>GitPitch story *is still being written*.
 @snapend
 
 @snap[south weblink span-100]

@@ -57,7 +57,7 @@ charts : true
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch Modern Slide Decks for Developers"
-description : "A Modern Slide Deck demonstration powered by Markdown."
-thumbnail : https://gitpitch.com/gpimg/demo-deck-thumb.jpg
+title : "GitPitch - A Brief History in Tweets"
+description : "1000 Days of GitPitch on GitHub, GitLab, and Bitbucket."
+thumbnail : https://gitpitch.com/gpimg/brief-history-thumb.jpg
 

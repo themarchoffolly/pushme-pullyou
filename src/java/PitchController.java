@@ -3,7 +3,7 @@ package com.gitpitch.controller;
 public class PitchController extends Controller {
 
     @Inject
-    public PitchController(GitManager gitManager) {
+    public PitchController(Object gitManager) {
         this.gitManager = gitManager;
     }
 }
