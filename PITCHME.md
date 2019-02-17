@@ -266,6 +266,10 @@
 #### Day 808
 @snapend
 
+@snap[south-west h4-white span-50 bg-match-theme fragment]
+#### On-Premises Ready
+@snapend
+
 
 ---?color=#E58537
 
