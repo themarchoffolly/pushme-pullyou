@@ -244,6 +244,10 @@
 #### Day 762
 @snapend
 
+@snap[south-west h4-white span-50 bg-gold fragment]
+#### The Desktop Ships!
+@snapend
+
 ---
 
 @snap[north-west h4-white span-100]
