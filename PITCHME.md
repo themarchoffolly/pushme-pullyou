@@ -120,7 +120,7 @@
 ---?color=#E58537
 
 @snap[north-west h4-white span-100]
-#### Media takes notice!
+#### Media Attention!
 @snapend
 
 @snap[west h3-white span-50]
