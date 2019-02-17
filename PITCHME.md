@@ -10,8 +10,8 @@
 
 ---?color=#E58537
 
-@snap[midpoint h2-white span-100]
-## This is my journey building a modern @size[1.5em](PowerPoint).
+@snap[midpoint h2-white span-75]
+## This is my journey across @size[1.4em](1000) days building a modern @size[1.5em](PowerPoint).
 @snapend
 
 @snap[south h4-white span-100 fragment]
