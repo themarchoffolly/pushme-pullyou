@@ -4,7 +4,7 @@
 # GitPitch
 @snapend
 
-@snap[south span-100 pad-bottom-1]
+@snap[south span-100 timeline pad-bottom-1]
 #### A Brief History in Tweets
 @snapend
 
@@ -14,14 +14,14 @@
 ## This is my journey across @size[1.4em](1000) days building a modern @size[1.5em](PowerPoint).
 @snapend
 
-@snap[south h4-white span-100 fragment]
-#### @size[0.6em](Captured as a series of Tweets from my Twitter timeline @fa[twitter])
+@snap[south h4-white timeline span-100 fragment]
+#### @size[0.6em](Captured as a series of Tweets from my Twitter timeline.)
 @snapend
 
 ---?color=#333333
 
-@snap[north h3-white span-100]
-### First Commit @fa[github]
+@snap[north h4-white span-100]
+#### First Commit @fa[github]
 @snapend
 
 @snap[west span-100]
@@ -34,6 +34,10 @@
 
 ---?color=#E58537
 
+@snap[north-west h4-white weblink span-100]
+#### Live on [gitpitch.com](https://gitpitch.com)
+@snapend
+
 @snap[west h3-white span-50]
 ### @fa[calendar] Aug 01, 2016
 @snapend
@@ -42,7 +46,19 @@
 @tweet[https://twitter.com/gitpitch/status/760065963458834432]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 150
+@snapend
+
+@snap[south-west h4-white span-100 bg-gold fragment]
+#### And #myfirstTweet @fa[twitter]
+@snapend
+
 ---
+
+@snap[north-west h4-white span-100]
+#### Open Source on @fa[github]
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Aug 28, 2016
@@ -52,7 +68,15 @@
 @tweet[https://twitter.com/gitpitch/status/769925803639320576]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 177
+@snapend
+
 ---?color=#E58537
+
+@snap[north-west h4-white span-100]
+#### GitLab Support @fa[gitlab]
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Sep 07, 2016
@@ -66,7 +90,19 @@
 @tweet[https://twitter.com/gitpitch/status/773500756691300352]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 187
+@snapend
+
+@snap[south-west h4-white span-50 bg-gold fragment]
+#### And Bitbucket @fa[bitbucket]
+@snapend
+
 ---
+
+@snap[north-west h4-white span-100]
+#### Modular Support
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Mar 22, 2017
@@ -76,7 +112,15 @@
 @tweet[https://twitter.com/gitpitch/status/844474504004874240]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 383
+@snapend
+
 ---?color=#E58537
+
+@snap[north-west h4-white span-100]
+#### Media takes notice!
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] May 18, 2017
@@ -86,7 +130,15 @@
 @tweet[https://twitter.com/gitpitch/status/865151662486204418]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 440
+@snapend
+
 ---
+
+@snap[north-west h4-white span-100]
+#### Live Code Support
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] May 31, 2017
@@ -96,7 +148,15 @@
 @tweet[https://twitter.com/gitpitch/status/869915724092801026]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 453
+@snapend
+
 ---?color=#E58537
+
+@snap[north-west h4-white span-100]
+#### Speaker Support
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Aug 29, 2017
@@ -106,7 +166,15 @@
 @tweet[https://twitter.com/gitpitch/status/902458531613335556]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 543
+@snapend
+
 ---
+
+@snap[north-west h4-white span-100]
+#### Makeover 2.0
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Oct 03, 2017
@@ -116,7 +184,15 @@
 @tweet[https://twitter.com/gitpitch/status/915196064386318337]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 578
+@snapend
+
 ---?color=#E58537
+
+@snap[north-west h4-white span-100]
+#### Very cool indeed!
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Nov 30, 2017
@@ -126,7 +202,15 @@
 @tweet[https://twitter.com/MarkEmeis/status/936005150933630977]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 636
+@snapend
+
 ---
+
+@snap[north-west h4-white span-100]
+#### Encouragement @fa[heart]
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Feb 08, 2018
@@ -136,8 +220,16 @@
 @tweet[https://twitter.com/gitpitch/status/961633186429087744]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 706
+@snapend
+
 
 ---?color=#E58537
+
+@snap[north-west h4-white span-100]
+#### GitPitch Pro @fa[rocket]
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Apr 05, 2018
@@ -147,7 +239,15 @@
 @tweet[https://twitter.com/gitpitch/status/981747678873726977]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 762
+@snapend
+
 ---
+
+@snap[north-west h4-white span-100]
+#### GitPitch Enterprise
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] May 21, 2018
@@ -157,8 +257,16 @@
 @tweet[https://twitter.com/gitpitch/status/998464019211075584]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 808
+@snapend
+
 
 ---?color=#E58537
+
+@snap[north-west h4-white span-100]
+#### Market Evolution
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Jun 06, 2018
@@ -168,7 +276,15 @@
 @tweet[https://twitter.com/gitpitch/status/1004247889508364290]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 824
+@snapend
+
 ---
+
+@snap[north-west h4-white span-100]
+#### Interactive Docs
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Jun 26, 2018
@@ -178,8 +294,15 @@
 @tweet[https://twitter.com/gitpitch/status/1011562060516212738]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 845
+@snapend
 
 ---?color=#E58537
+
+@snap[north-west h4-white span-100]
+#### Awesome @fa[bolt] Talk
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Jul 18, 2018
@@ -189,7 +312,15 @@
 @tweet[https://twitter.com/poychang/status/1019503679122968576]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 867
+@snapend
+
 ---
+
+@snap[north-west h4-white span-100]
+#### Custom Layouts
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Aug 01, 2018
@@ -199,7 +330,15 @@
 @tweet[https://twitter.com/gitpitch/status/1024592406895714304]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 881
+@snapend
+
 ---?color=#E58537
+
+@snap[north-west h4-white span-100]
+#### Modern Templates
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Sep 10, 2018
@@ -209,7 +348,15 @@
 @tweet[https://twitter.com/gitpitch/status/1039045696836362240]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 921
+@snapend
+
 ---
+
+@snap[north-west h4-white span-100]
+#### Slick Presentations @emoji[wink]
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Oct 27, 2018
@@ -219,7 +366,15 @@
 @tweet[https://twitter.com/cogdog/status/1055967415241228289]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 968
+@snapend
+
 ---?color=#E58537
+
+@snap[north-west h4-white span-100]
+#### In 60 Seconds @fa[clock-o]
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Dec 04, 2018
@@ -229,7 +384,15 @@
 @tweet[https://twitter.com/gitpitch/status/1069900815710674944]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 1006 @emoji[star2]
+@snapend
+
 ---
+
+@snap[north-west h4-white span-100]
+#### Code ZOOM @fa[search-plus]
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Dec 15, 2018
@@ -239,7 +402,15 @@
 @tweet[https://twitter.com/gitpitch/status/1073880271366180865]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 1016
+@snapend
+
 ---?color=#E58537
+
+@snap[north-west h4-white span-100]
+#### Export to PPTX @fa[file-powerpoint-o]
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Jan 27, 2019
@@ -249,7 +420,15 @@
 @tweet[https://twitter.com/gitpitch/status/1089515418513854464]
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 1059
+@snapend
+
 ---
+
+@snap[north-west h4-white span-100]
+#### UML Diagrams
+@snapend
 
 @snap[west h3-white span-50]
 ### @fa[calendar] Feb 11, 2019
@@ -257,6 +436,28 @@
 
 @snap[east span-50]
 @tweet[https://twitter.com/gitpitch/status/1094887052263346176]
+@snapend
+
+@snap[south-west h4-white span-100]
+#### Day 1074
+@snapend
+
+---?color=#E58537
+
+@snap[north-west h4-white span-100]
+#### Tweet Embeds @fa[twitter]
+@snapend
+
+@snap[west h3-white span-50]
+### @fa[calendar] Feb 25, 2019
+@snapend
+
+@snap[east span-50]
+@fa[twitter fa-5x twitter-blue]
+@snapend
+
+@snap[south-west h4-white span-100]
+#### Day 1088
 @snapend
 
 ---?image=assets/img/presenter.jpg&size=cover&opacity=30

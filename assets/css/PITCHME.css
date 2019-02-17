@@ -1,6 +1,7 @@
 .pad-top-1 { padding-top: 1em !important; }
 .pad-bottom-1 { padding-bottom: 1em !important; }
 .weblink a { color: white; font-weight: bold; }
+.twitter-blue { color: #38A1F3; }
 
 /* Slideshow Auxiliary Styles */
 
@@ -78,13 +79,19 @@
   font-family: "Raleway Medium", sans-serif !important;
 }
 
-.reveal h1, .reveal h2 {
+.reveal h1, .reveal h2, .reveal h4 {
   text-shadow: none !important;
   text-transform: none !important;
   font-family: "Montserrat Heavy", sans-serif !important;
 }
 
-.reveal h3, .reveal h4 {
+.reveal h3 {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Raleway Medium", sans-serif !important;
+}
+
+.timeline h4, .timeline h4 * {
   text-shadow: none !important;
   text-transform: none !important;
   font-family: "Raleway Medium", sans-serif !important;
