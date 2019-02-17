@@ -485,15 +485,15 @@
 #### This slide is meta @emoji[stuck_out_tongue_winking_eye]
 @snapend
 
----?image=assets/img/presenter.jpg&size=cover&opacity=30
+---?image=assets/img/presenter.jpg&size=cover&opacity=35
 @title[My Thanks]
 
 @snap[north text-italic text-07 text-white span-100]
 1000 days and counting...
 @snapend
 
-@snap[midpoint h3-white span-100]
-#### Thanks to developer community on Git the GitPitch story *is still being written*.
+@snap[midpoint span-60]
+#### Thanks @fa[heart text-gold] to the global developer community on Git ... the GitPitch story *is still being written*.
 @snapend
 
 @snap[south weblink span-100]
