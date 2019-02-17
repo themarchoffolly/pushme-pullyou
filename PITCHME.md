@@ -9,6 +9,7 @@
 @snapend
 
 ---?color=#E58537
+@title[My Journey]
 
 @snap[midpoint h2-white span-75]
 ## This is my journey across @size[1.4em](1000) days building a modern @size[1.5em](PowerPoint).
@@ -461,6 +462,7 @@
 @snapend
 
 ---?image=assets/img/presenter.jpg&size=cover&opacity=30
+@title[My Thanks]
 
 @snap[north text-italic text-07 text-white span-100]
 1000 days and counting...
