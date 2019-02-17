@@ -33,6 +33,10 @@
 ### @fa[calendar] Mar 04, 2016
 @snapend
 
+@snap[south-west h4-white span-100]
+#### Day 1
+@snapend
+
 ---?color=#E58537
 
 @snap[north-west h4-white weblink span-100]
@@ -245,7 +249,7 @@
 @snapend
 
 @snap[south-west h4-white span-50 bg-gold fragment]
-#### The Desktop Ships!
+#### The Desktop Ships
 @snapend
 
 ---
