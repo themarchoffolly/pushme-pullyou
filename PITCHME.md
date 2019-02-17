@@ -214,7 +214,7 @@
 ---
 
 @snap[north-west h4-white span-100]
-#### Encouragement @fa[heart]
+#### Community @fa[heart]
 @snapend
 
 @snap[west h3-white span-50]
@@ -296,7 +296,7 @@
 ---
 
 @snap[north-west h4-white span-100]
-#### Interactive Docs
+#### Beautiful Docs
 @snapend
 
 @snap[west h3-white span-50]
