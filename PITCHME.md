@@ -493,7 +493,8 @@
 @snapend
 
 @snap[midpoint span-60]
-#### Thanks @fa[heart text-gold] to the global developer community on Git ... the GitPitch story *is still being written*.
+#### @fa[quote-left] Thanks to the global developer community on Git ... the GitPitch story *is still being written*.
+@size[0.6em](**David Russell** @fa[heart text-gold])
 @snapend
 
 @snap[south weblink span-100]
