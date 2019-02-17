@@ -196,7 +196,7 @@
 ---?color=#E58537
 
 @snap[north-west h4-white span-100]
-#### Very cool indeed!
+#### Very cool indeed @emoji[heart_eyes]
 @snapend
 
 @snap[west h3-white span-50]
