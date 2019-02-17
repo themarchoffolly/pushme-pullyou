@@ -469,7 +469,7 @@
 #### Day 1088
 @snapend
 
-@snap[south-west h4-white span-100 bg-gold fragment]
+@snap[south-west h4-white span-50 bg-gold fragment]
 #### This slide is meta @emoji[stuck_out_tongue_winking_eye]
 @snapend
 
