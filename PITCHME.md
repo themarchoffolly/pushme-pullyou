@@ -493,7 +493,7 @@
 @snapend
 
 @snap[midpoint h3-white span-100]
-### Thanks @fa[heart text-gold] to @css[text-bold](everyone) on GitHub, GitLab, and Bitbucket ... the<br>GitPitch story *is still being written*.
+#### Thanks to developer community on Git the GitPitch story *is still being written*.
 @snapend
 
 @snap[south weblink span-100]
