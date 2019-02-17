@@ -364,7 +364,7 @@
 ---
 
 @snap[north-west h4-white span-100]
-#### Slick Presentations @emoji[wink]
+#### Slick Presentations
 @snapend
 
 @snap[west h3-white span-50]
@@ -377,6 +377,10 @@
 
 @snap[south-west h4-white span-100]
 #### Day 968
+@snapend
+
+@snap[south-west h4-white span-50 bg-match-theme fragment]
+#### PowerPoint is really only 30 years old @emoji[wink]
 @snapend
 
 ---?color=#E58537
