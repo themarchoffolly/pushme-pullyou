@@ -16,7 +16,7 @@
 @snapend
 
 @snap[south h4-white timeline span-100 fragment]
-#### @size[0.6em](Captured as a series of Tweets from my Twitter timeline.)
+#### @size[0.6em](To deliver a modern slide decks solution for developers.)
 @snapend
 
 ---?color=#333333
