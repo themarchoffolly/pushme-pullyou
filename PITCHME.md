@@ -249,7 +249,7 @@
 @snapend
 
 @snap[south-west h4-white span-50 bg-gold fragment]
-#### The Desktop Ships
+#### The Desktop Ships.
 @snapend
 
 ---
@@ -271,7 +271,7 @@
 @snapend
 
 @snap[south-west h4-white span-50 bg-match-theme fragment]
-#### On-Premises Ready
+#### On-Premises Ready.
 @snapend
 
 
@@ -309,6 +309,10 @@
 
 @snap[south-west h4-white span-100]
 #### Day 845
+@snapend
+
+@snap[south-west h4-white span-50 bg-match-theme fragment]
+#### Because it matters.
 @snapend
 
 ---?color=#E58537
@@ -442,7 +446,7 @@
 @snapend
 
 @snap[south-west h4-white span-50 bg-gold fragment]
-#### Keynote, Google Slides, and PDF too
+#### Keynote, Google Slides, and PDF too.
 @snapend
 
 ---
