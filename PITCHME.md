@@ -441,6 +441,10 @@
 #### Day 1059
 @snapend
 
+@snap[south-west h4-white span-50 bg-gold fragment]
+#### Keynote, Google Slides, and PDF too
+@snapend
+
 ---
 
 @snap[north-west h4-white span-100]
