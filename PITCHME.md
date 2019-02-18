@@ -1,10 +1,10 @@
 ---?image=assets/img/twitter.png&size=50% auto&color=#1EA1F3
 
-@snap[north h1-white pad-top-1]
+@snap[north h1-white pad-top]
 # GitPitch
 @snapend
 
-@snap[south span-100 timeline pad-bottom-1]
+@snap[south span-100 timeline pad-bottom]
 #### A Brief History in Tweets
 @snapend
 
@@ -101,6 +101,24 @@
 
 @snap[south-west h4-white span-50 bg-gold fragment]
 #### And Bitbucket @fa[bitbucket]
+@snapend
+
+---?color=#1EA1F3
+
+@snap[north-west h4-white span-100]
+#### Time To Grow @fa[leaf]
+@snapend
+
+@snap[west h3-white span-50]
+### @fa[calendar] Early 2017
+@snapend
+
+@snap[east span-50]
+@tweet[https://twitter.com/gitpitch/status/857400763286396928]
+@snapend
+
+@snap[south-west h4-white span-50]
+#### Learning Elixir-Lang
 @snapend
 
 ---

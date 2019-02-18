@@ -1,5 +1,5 @@
-.pad-top-1 { padding-top: 1em !important; }
-.pad-bottom-1 { padding-bottom: 1em !important; }
+.pad-top { padding-top: 1em !important; }
+.pad-bottom { padding-bottom: 1em !important; }
 .weblink a { color: white; font-weight: bold; }
 .twitter-blue { color: #38A1F3; }
 .bg-match-theme { background: #222; }
