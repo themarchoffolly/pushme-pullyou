@@ -20,7 +20,7 @@
 
 ---
 
-@img[photo](assets/img/img/logo.png)
+@img[photo](assets/img/logo.png)
 
 ---
 
