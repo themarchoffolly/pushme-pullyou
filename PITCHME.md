@@ -1,38 +1,100 @@
-<img src="assets/img/logo.png" class="photo"/>
+---?color=#333
+
+@code[go](src/sample.go)
+
+@snap[south span-100]
+@[1,zoom-25,custom](My first annotation.)
+@[3, xxx, zoom-40,custom](My second annotation.)
+@[zoom-17, custom, 5-7](My third annotation.)
+@snapend
+
+---?color=#333
+
+@code[go zoom-20](src/sample.go)
+
+@snap[south span-100]
+@[1,zoom-25,custom](My first annotation.)
+@[3, xxx, zoom-25,custom](My second annotation.)
+@[zoom-10, custom, 5-7](My third annotation.)
+@snapend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
-> In a quote <img src="assets/img/logo.png" class="photo"/>
-
----
-
-## In a header <img src="assets/img/logo.png" class="photo"/>
-
----
-
-- One
-- And in a list too ? <img src="assets/img/logo.png" class="photo">
-- Two
-
----
-
-### Shortcut Syntax Follows
-
----
-
-@img[photo](assets/img/logo.png)
-
----
-
-> In a quote @img[photo](assets/img/logo.png) 
-
----
-
-## In a header @img[photo](assets/img/logo.png)
-
----
-
-- One
-- And in a list too ? @img[photo](assets/img/logo.png)
-- Three
-
+The End

@@ -1,0 +1,8 @@
+theme: night
+
+theme-override: assets/css/PITCHME.css
+
+highlight: agate
+
+logo: assets/img/logo.png
+
