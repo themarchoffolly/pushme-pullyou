@@ -1,5 +1,5 @@
 
-![](assets/img/features-modular-slideshows.jpg)
+![](assets/img/modular.jpg)
 
 ---
 
@@ -7,7 +7,7 @@
 - Two ![](assets/img/logo.png)
 - Three
 
----?image=assets/img/features-export.jpg
+---?image=assets/img/export.jpg
 
 ---
 

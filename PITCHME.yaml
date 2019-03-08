@@ -47,10 +47,3 @@ layout : center
 #
 print-fragments : true
 
-#
-# Twitter Card Settings
-# Doc: https://gitpitch.com/docs/settings/twitter-card
-#
-title : "GitPitch Pro Code Presenting"
-description : "Zoom-in, zoom-out, and step-through code on any slide within a GitPitch markdown presentation."
-thumbnail : https://gitpitch.com/gpimg/pro-code-thumb.jpg
