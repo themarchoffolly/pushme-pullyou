@@ -1,8 +1,14 @@
----?color=#333
 
-@diff[](elixir-lang/elixir/352dd7f78c5aeb982863929c2290349e6b820857)
+![](assets/img/features-modular-slideshows.jpg)
+
+---
+
+- One
+- Two ![](assets/img/logo.png)
+- Three
+
+---?image=assets/img/features-export.jpg)
 
 ---
 
 The End
-
