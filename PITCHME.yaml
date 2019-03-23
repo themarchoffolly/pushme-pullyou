@@ -1,5 +1,5 @@
 #
-# GitPitch Pro Code Presenting Slide Deck
+# GitPitch Pro Code Revealing Slide Deck
 #
 
 published : true
@@ -8,19 +8,13 @@ published : true
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : simple
+theme : white
 
 #
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override : assets/css/PITCHME.css
-
-#
-# Highlight (Code) Setting
-# Doc: https://gitpitch.com/docs/settings/highlight
-#
-highlight : agate
+# theme-override : assets/css/PITCHME.css
 
 #
 # Logo Setting
@@ -33,7 +27,7 @@ logo-position : top-left
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote: "GitPitch Modern Slide Decks Pro Code Revealing"
 
 #
 # Layout Setting
@@ -46,4 +40,12 @@ layout : center
 # DOC: https://gitpitch.com/docs/settings/print-fragments
 #
 print-fragments : true
+
+#
+# Twitter Card Settings
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "GitPitch Pro Code Revealing"
+description : "Take complete control over how and when your source code snippets are revealed on any GitPitch slide."
+thumbnail : https://gitpitch.com/gpimg/pro-code-revealing-thumb.png
 
