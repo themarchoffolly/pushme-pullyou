@@ -1,0 +1,13 @@
+.code-hide-opacity { opacity: 0 !important; }
+
+table.striped tr:nth-child(even) {background-color: #f2f2f2;}
+
+table.striped-alt tr:nth-child(even) {background-color: #fdebdd;}
+
+table.padded th, table.padded td {
+  padding: 15px;
+}
+
+table.headline th {
+  font-variant: small-caps;
+}
