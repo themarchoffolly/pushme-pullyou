@@ -6,14 +6,18 @@
 
 ---
 
-@table[zoom-08 header](data/sample.csv)
+@table[zoom-08 table-header](data/sample.csv)
 
 ---
 
-@table[zoom-08 striped-alt padded header headline](data/sample.csv)
+@table[zoom-08 striped-alt padded table-header headline](data/sample.csv)
 
 ---
 
-@table[zoom-04 striped-alt header headline](data/sample-large.csv)
+@table[zoom-04 striped-alt table-header headline](data/sample-large.csv)
+
+---
+
+@table[zoom-04 striped-alt table-header table-fragment headline](data/sample-large.csv)
 
 
