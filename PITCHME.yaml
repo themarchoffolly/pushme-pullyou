@@ -47,5 +47,5 @@ print-fragments : true
 #
 title : "GitPitch Pro Code Revealing"
 description : "Take complete control over how and when your source code snippets are revealed on any GitPitch slide."
-thumbnail : https://gitpitch.com/gpimg/gitpitch-slide-collage.png
+thumbnail : https://gitpitch.com/gpimg/gitpitch-slides.jpg
 
