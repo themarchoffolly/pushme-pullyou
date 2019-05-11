@@ -1,0 +1,96 @@
+#title-footer.footer-visible { display: none; }
+
+
+.top-right {
+  position: fixed;
+  top: 0px;
+  right: 10px;
+}
+
+div.top-right {
+	position: fixed;
+	top: 0px;
+	right: -10px;
+	z-index: 30;
+}
+
+img.compass {
+    background: none !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    padding-bottom: 1em;
+    opacity: 0.7;
+}
+
+img.tip {
+    background: none !important;
+    border: 0 !important;
+    box-shadow: none !important;
+}
+
+.snap-bullets {
+  list-style-type: square !important;
+  list-style-position: inside;
+}
+
+.snap-bullets li {
+  margin:0 0 40px 0;
+}
+
+.graphql-steps li {
+  margin:0 0 40px 0;
+}
+
+.reveal pre {
+    width: 98% !important;
+    margin: 1px auto !important;
+    box-shadow: none !important;
+}
+
+.quote-graphql { color: gray; font-size: 0.6em; padding-bottom: 1em; }
+
+.box-graphql { background: rgba(0,212,255,1); }
+
+.code-shadow {
+    box-shadow:0 10px 16px 10px rgba(0,0,0,0.2),
+            0 6px 20px 10px rgba(0,0,0,0.19) !important;
+}
+
+.text-053 { font-size: 0.53em !important; }
+.text-055 { font-size: 0.55em !important; }
+.text-045 { font-size: 0.45em !important; }
+
+.text-067 { font-size: 0.67em !important; }
+
+#boxed-text { padding: 1em; }
+
+.acme-box #boxed-text { padding: 2.3em 0 2.3em 0; font-weight: bold; font-size: 2em; }
+.acme-box-slim #boxed-text { padding: 2em 0 2em 0; font-weight: bold; }
+
+.code-hide-opacity { opacity: 0; }
+
+@font-face {
+  font-family: 'Montserrat Heavy';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/assets/fonts/montserrat-heavy.woff2') format('woff2'),
+       url('/assets/fonts/montserrat-heavy.woff') format('woff');
+}
+.montserrat-heavy, .montserrat-heavy h3, .montserrat-heavy h2 {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Montserrat Heavy", sans-serif !important;
+}
+
+
+table.striped tr:nth-child(even) {background-color: #f2f2f2;}
+
+table.striped-alt tr:nth-child(even) {background-color: #fdebdd;}
+
+table.padded th, table.padded td {
+  padding: 15px;
+}
+
+table.headline th {
+  font-variant: small-caps;
+}
