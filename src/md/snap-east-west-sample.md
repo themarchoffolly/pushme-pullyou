@@ -1,4 +1,4 @@
----?color=linear-gradient(90deg, #567AD2 50%, white 50%)
+---?color=linear-gradient(100deg, #567AD2 50%, white 50%)
 
 @snap[west span-40 text-center]
 ### GraphQL
