@@ -26,7 +26,7 @@ Snap Layouts
 @snapend
 
 ---
-@title[Unique to GitPitch](assets/audio/unique.mp3)
+@title[Simple Syntax](assets/audio/unique.mp3)
 
 @snap[west span-50 montserrat-heavy text-09]
 Snap Layouts
