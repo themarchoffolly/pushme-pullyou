@@ -48,6 +48,6 @@ print-fragments : true
 #
 title : "GitPitch Snap Layouts for Modern Developer Slide Decks"
 description : "A GitPitch Audio Slide Deck powered by Markdown and Git."
-thumbnail : https://gitpitch.com/gpimg/gitpitch-modern-slide-decks.png
+# thumbnail : assets/img/customthumb.png
 
 audio-deck: true
