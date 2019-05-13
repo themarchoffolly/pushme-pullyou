@@ -1,5 +1,5 @@
 @snap[position span-xxx ...]
 
-# Slide Markdown Content
+# Slide Markdown Block
 
 @snapend
