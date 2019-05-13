@@ -42,4 +42,12 @@ layout : center
 #
 print-fragments : true
 
+#
+# Twitter Card Settings
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "GitPitch Snap Layouts for Modern Developer Slide Decks"
+description : "A GitPitch Audio Slide Deck powered by Markdown and Git."
+thumbnail : https://gitpitch.com/gpimg/gitpitch-modern-slide-decks.png
+
 audio-deck: true
