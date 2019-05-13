@@ -1,16 +1,14 @@
 ---?image=assets/img/presenter.jpg&opacity=50
 @title[Introduction](assets/audio/greeting.mp3)
 
-@snap[west span-100 montserrat-heavy]
-@size[1.9em](git@css[text-gold](pitch).com)
-<br>
-@css[text-067](`Modern Slide Decks for Developers`)
+@snap[west span-100 montserrat-heavy h2-margin-zero]
+## git@css[text-gold](pitch).com
+@css[text-07](`Modern Slide Decks for Developers`)
 @snapend
 
 @snap[south span-100 text-gray text-05]
 `This is a GitPitch Audio Slide Deck`
 @snapend
-
 
 ---?image=assets/img/presenter.jpg&opacity=50
 @title[Snap Layouts](assets/audio/intro.mp3)
@@ -32,19 +30,19 @@ Snap Layouts
 Snap Layouts
 @snapend
 
-@snap[north span-35 text-08 text-center montserrat-heavy]
+@snap[north span-35 text-08 montserrat-heavy text-center]
 @box[](Unique to GitPitch Markdown)
 @snapend
 
-@snap[east span-30 text-08 text-center montserrat-heavy]
+@snap[east span-30 text-08 montserrat-heavy text-center]
 @box[](Activated using<br>Simple Syntax)
 @snapend
 
-@snap[south span-30 text-08 text-center montserrat-heavy]
+@snap[south span-30 text-08 montserrat-heavy text-center]
 @box[](Enjoy custom<br>Slide Designs)
 @snapend
 
-@snap[midpoint span-30 text-08 text-center montserrat-heavy]
+@snap[midpoint span-30 text-08 montserrat-heavy text-center]
 @fa[recycle text-bold fa-2x]
 @snapend
 
@@ -58,7 +56,7 @@ Snap Layouts
 
 @snap[midpoint h3-black span-40]
 ### GraphQL
-@fa[quote-left quote-graphql](A query language for your API)
+@fa[quote-left graphql-quote](A query language for your API)
 ![GRAPHQL](assets/img/graphql.png)
 @snapend
 
@@ -67,7 +65,7 @@ Snap Layouts
 
 @snap[west span-40 h3-black text-center]
 ### GraphQL
-@fa[quote-left quote-graphql](A query language for your API)
+@fa[quote-left graphql-quote](A query language for your API)
 ![GRAPHQL](assets/img/graphql.png)
 @snapend
 
@@ -88,7 +86,7 @@ Snap Layouts
 
 @snap[west span-40 h3-black text-center]
 ### GraphQL
-@fa[quote-left quote-graphql](A query language for your API)
+@fa[quote-left graphql-quote](A query language for your API)
 ![GRAPHQL](assets/img/graphql.png)
 @snapend
 
@@ -109,7 +107,7 @@ Snap Layouts
 
 @snap[north span-40 h3-black text-center]
 ### GraphQL
-@fa[quote-left quote-graphql](A query language for your API)
+@fa[quote-left graphql-quote](A query language for your API)
 @snapend
 
 @snap[south span-85]
@@ -121,7 +119,7 @@ Snap Layouts
 
 @snap[north span-40 text-center]
 ### GraphQL
-@fa[quote-left quote-graphql text-white](A query language for your API)
+@fa[quote-left graphql-quote text-white](A query language for your API)
 @snapend
 
 @snap[midpoint span-60]
@@ -129,13 +127,13 @@ Snap Layouts
 @snapend
 
 @snap[south-west span-30 text-06]
-@box[rounded text-white box-graphql](Step 1.#Describe your data.)
+@box[rounded text-white graphql-box](Step 1.#Describe your data.)
 @snapend
 @snap[south span-30 text-06]
-@box[rounded text-white box-graphql](Step 2.#Ask for what you want.)
+@box[rounded text-white graphql-box](Step 2.#Ask for what you want.)
 @snapend
 @snap[south-east span-30 text-06]
-@box[rounded text-white box-graphql](Step 3.#Get predictable results.)
+@box[rounded text-white graphql-box](Step 3.#Get predictable results.)
 @snapend
 
 ---?color=linear-gradient(100deg, white 50%, #567AD2 50%)
@@ -143,7 +141,7 @@ Snap Layouts
 
 @snap[west span-40 h3-black text-center]
 ### GraphQL
-@fa[quote-left quote-graphql](A query language for your API)
+@fa[quote-left graphql-quote](A query language for your API)
 ![GRAPHQL](assets/img/graphql.png)
 @snapend
 
@@ -176,7 +174,7 @@ Snap Layouts
 
 ### @color[black](GraphQL)
 
-@fa[quote-left quote-graphql](A query language for your API)
+@fa[quote-left graphql-quote](A query language for your API)
 
 ![GRAPHQL](assets/img/graphql.png)
 
@@ -197,7 +195,7 @@ Snap Layouts
 
 @snap[midpoint h3-black span-40]
 ### GraphQL
-@fa[quote-left quote-graphql](A query language for your API)
+@fa[quote-left graphql-quote](A query language for your API)
 ![GRAPHQL](assets/img/graphql.png)
 @snapend
 
@@ -233,14 +231,14 @@ Snap Layouts
 
 @snap[west h3-black text-center span-40]
 ### GraphQL
-@fa[quote-left quote-graphql](A query language for your API)
+@fa[quote-left graphql-quote](A query language for your API)
 ![GRAPHQL](assets/img/graphql.png)
 @snapend
 
 ---
 @title[A Quick Detour](assets/audio/quick-detour.mp3)
 
-@img[tip span-30](assets/img/tip.png)
+@img[no-frills span-30](assets/img/tip.png)
 
 ### `A quick detour...`
 
@@ -274,7 +272,7 @@ Snap Layouts
 
 @snap[west span-40 h3-black text-center]
 ### GraphQL
-@fa[quote-left quote-graphql](A query language for your API)
+@fa[quote-left graphql-quote](A query language for your API)
 ![GRAPHQL](assets/img/graphql.png)
 @snapend
 
@@ -299,7 +297,7 @@ Snap Layouts
 
 @snap[west span-40 h3-black text-center]
 ### GraphQL
-@fa[quote-left quote-graphql](A query language for your API)
+@fa[quote-left graphql-quote](A query language for your API)
 ![GRAPHQL](assets/img/graphql.png)
 @snapend
 
@@ -323,7 +321,7 @@ Snap Layouts
 
 @snap[west span-40 h3-black text-center]
 ### GraphQL
-@fa[quote-left quote-graphql](A query language for your API)
+@fa[quote-left graphql-quote](A query language for your API)
 ![GRAPHQL](assets/img/graphql.png)
 @snapend
 
@@ -352,7 +350,7 @@ Snap Layouts
 
 @snap[west span-40 h3-black text-center]
 ### GraphQL
-@fa[quote-left quote-graphql](A query language for your API)
+@fa[quote-left graphql-quote](A query language for your API)
 ![GRAPHQL](assets/img/graphql.png)
 @snapend
 
@@ -398,5 +396,5 @@ Snap Layouts
 @snap[east span-65]
 @css[text-06](`Modern Slide Decks for Developers`)
 <br>
-[Snap Layouts Guide @fa[external-link]](https://gitpitch.com/docs/layout-features/snap-position-layouts)
+[Snap Layouts Guide @fa[external-link]](https://gitpitch.com/docs/layout-features/snap-layouts)
 @snapend
