@@ -1,5 +1,5 @@
 
-### Start Here XXX YYY ZZZ
+### Start Here XXX
 
 ---
 
