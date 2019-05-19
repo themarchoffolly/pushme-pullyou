@@ -1,4 +1,4 @@
-### Hello XYZ
+### Hello World
   
 ![thanks](assets/japan.png)
 
