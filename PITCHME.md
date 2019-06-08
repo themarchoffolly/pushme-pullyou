@@ -36,6 +36,7 @@ Customize the slide background, fonts, colors, and more.
 @snapend
 
 ---
+@title[Test Custom Theme]
 
 @snap[north span-100 border-dashed-gray]
 # H1 - Lorem
