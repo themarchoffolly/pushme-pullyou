@@ -1,5 +1,6 @@
-# theme : white
-# logo : assets/logo.png
-# background : assets/room960-700.jpg
-
+theme: template
+theme-override: assets/css/PITCHME.css
+highlight: atom-one-light
+logo: assets/img/logo.png
 published : true
+footnote: "GitPitch Template Theme - Quickly Customize for any Slide Deck" 
