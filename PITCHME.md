@@ -55,7 +55,7 @@ This slide can be [used to test](#/2) custom `theme*` property values in your `P
 @code[sql code-blend zoom-19](src/sql/sample.sql)
 
 @snap[south span-100 text-07]
-The template is pre-optimized for `code` slides out-of-the-box.
+The template is auto-optimized for `code` slides out-of-the-box.
 @snapend
 
 ---?image=assets/img/slides.png&color=black&size=auto 78%
