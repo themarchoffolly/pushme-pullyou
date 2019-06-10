@@ -6,10 +6,9 @@ theme-text       : [ Raleway, "#1C1C1C", none ]
 theme-links      : [ "#E27924", "#FF851B" ]
 theme-controls   : [ "#484848" ]
 theme-code       : [ Source Code Pro ]
-highlight	 : tomorrow
+theme-override   : assets/css/PITCHME.css
+highlight        : tomorrow
 
-theme-override: assets/css/PITCHME.css
 logo: assets/img/logo.png
 published : false
 footnote: "GitPitch Template Theme - Quickly Customize for any Slide Deck"
-
