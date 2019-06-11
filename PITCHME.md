@@ -24,7 +24,7 @@ Press the F key for Fullscreen Mode
 @snapend
 
 @snap[east span-33 text-center]
-@box[border-solid-gray](For a custom Look-n-Feel)
+@box[border-solid-gray](For a custom<br>Look-n-Feel)
 @snapend
 
 @snap[south span-100 text-07]
