@@ -36,6 +36,15 @@ Customize the slide background, fonts, colors, and more.
 @snapend
 
 ---
+@title[Code Optimized]
+
+@code[sql zoom-19](src/sql/sample.sql)
+
+@snap[south span-100 text-07]
+Template `code` slides are space-optimized and auto-blended.
+@snapend
+
+---
 @title[Test Custom Theme]
 
 @snap[north span-100 border-dashed-gray]
@@ -47,15 +56,6 @@ Customize the slide background, fonts, colors, and more.
 
 @snap[south span-100 border-dashed-gray]
 This slide can be [used to test](#/2) custom `theme*` property values in your `PITCHME.yaml`.
-@snapend
-
----
-@title[Code Optimized]
-
-@code[sql zoom-19](src/sql/sample.sql)
-
-@snap[south span-100 text-07]
-Template `code` slides are space-optimized and auto-blended.
 @snapend
 
 ---?image=assets/img/slides.png&color=black&size=auto 78%
