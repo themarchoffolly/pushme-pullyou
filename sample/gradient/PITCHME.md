@@ -28,7 +28,7 @@ That you can quickly customize for any Slide Deck.
 @box[border-solid-gray](For a custom<br>Look-n-Feel)
 @snapend
 
-@snap[south span-100 text-07]
+@snap[south span-100 text-07 text-white]
 Customize the slide background, fonts, colors, and more.
 @snapend
 
@@ -56,7 +56,7 @@ Customize the slide background, fonts, colors, and more.
 #### H4 - Lorem ipsum dolor sit amet, consectetur.
 @snapend
 
-@snap[south span-100 border-dashed-gray]
+@snap[south span-100 border-dashed-gray text-white]
 This slide can be [used to test](#/2) custom `theme*` property values in your `PITCHME.yaml`.
 @snapend
 

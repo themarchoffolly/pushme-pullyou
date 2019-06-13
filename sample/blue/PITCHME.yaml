@@ -1,0 +1,14 @@
+theme            : template
+theme-background : [ "#5289F7" ]
+theme-headline   : [ Raleway, white, none ]
+theme-byline     : [ Raleway, black, none ]
+theme-text       : [ Ubuntu, "#F5FFFA", none ]
+theme-links      : [ "#FF851B", "#E27924" ]
+theme-controls   : [ "#484848" ]
+theme-code       : [ Fira Code ]
+theme-override   : assets/css/PITCHME.css
+highlight        : ir-black
+
+logo: assets/img/logo.png
+published : false
+footnote: "GitPitch Template Theme for Custom Slide Decks"

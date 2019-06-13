@@ -11,8 +11,9 @@ Press the F key for Fullscreen Mode
 ---
 @title[Customizable Theme]
 
-@snap[north span-100]
-#### The Template is a Theme. That you can quickly customize for any Slide Deck.
+@snap[north span-100 text-08]
+### The Template is a Theme.
+That you can quickly customize for any Slide Deck.
 @snapend
 
 @snap[west span-33 text-center]
@@ -36,6 +37,16 @@ Customize the slide background, fonts, colors, and more.
 @snapend
 
 ---
+@title[Code Optimized]
+
+@code[sql zoom-19](src/sql/sample.sql)
+
+@snap[south span-100]
+@[1-5](Template `code` slides are space-optimized and color-blended.)
+@[6-9](Plus a selection of monospace `code` fonts are available.)
+@snapend
+
+---
 @title[Test Custom Theme]
 
 @snap[north span-100 border-dashed-gray]
@@ -47,15 +58,6 @@ Customize the slide background, fonts, colors, and more.
 
 @snap[south span-100 border-dashed-gray]
 This slide can be [used to test](#/2) custom `theme*` property values in your `PITCHME.yaml`.
-@snapend
-
----
-@title[Code Optimized]
-
-@code[sql zoom-19](src/sql/sample.sql)
-
-@snap[south span-100 text-07]
-Template `code` slides are space-optimized and auto-blended.
 @snapend
 
 ---?image=assets/img/slides.png&color=black&size=auto 78%
