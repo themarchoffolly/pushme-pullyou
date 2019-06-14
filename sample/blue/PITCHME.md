@@ -3,7 +3,7 @@
 #### Modern Slide Decks for Developers
 # Template
 
-@snap[south span-40 text-05]
+@snap[south span-40 text-gray text-05]
 ![KEYBOARD](assets/img/keyboard-slim.png)
 Press the F key for Fullscreen Mode
 @snapend
@@ -12,8 +12,8 @@ Press the F key for Fullscreen Mode
 @title[Customizable Theme]
 
 @snap[north span-100 text-08]
-### The Template is a Theme.
-That you can quickly customize for any Slide Deck.
+## The Theme Template
+Simple, fast customization for any Slide Deck.
 @snapend
 
 @snap[west span-33 text-center]

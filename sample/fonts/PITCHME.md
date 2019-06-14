@@ -12,8 +12,8 @@ Press the F key for Fullscreen Mode
 @title[Customizable Theme]
 
 @snap[north span-100 text-08]
-### The Template is a Theme.
-That you can quickly customize for any Slide Deck.
+## The Theme Template
+Simple, fast customization for any Slide Deck.
 @snapend
 
 @snap[west span-33 text-center]
