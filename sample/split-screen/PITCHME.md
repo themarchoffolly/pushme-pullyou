@@ -28,7 +28,7 @@ Simple, fast customization for any Slide Deck.
 @box[border-solid-gray](For a custom<br>Look-n-Feel)
 @snapend
 
-@snap[south span-100 text-07]
+@snap[south span-100 text-07 text-white]
 Customize the slide background, fonts, colors, and more.
 @snapend
 
