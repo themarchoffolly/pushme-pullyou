@@ -3,7 +3,7 @@
 #### Modern Slide Decks for Developers
 # Template
 
-@snap[south span-40 text-gray text-05]
+@snap[south span-40 text-white text-05]
 ![KEYBOARD](assets/img/keyboard-slim.png)
 Press the F key for Fullscreen Mode
 @snapend

@@ -1,9 +1,9 @@
 theme            : template
 theme-background : [ "linear-gradient(to top, #6dd5ed, #2193b0)" ]
-theme-headline   : [ Raleway, white, none ]
-theme-byline     : [ Raleway, black, none ]
-theme-text       : [ Ubuntu, "#F5FFFA", none ]
-theme-links      : [ "#E27924", "#FF851B" ]
+theme-headline   : [ Ubuntu, white, none ]
+theme-byline     : [ Ubuntu, black, none ]
+theme-text       : [ Raleway, "#F5FFFA", none ]
+theme-links      : [ "#0295BB", "#C0C0C0" ]
 theme-controls   : [ "#484848" ]
 theme-code       : [ Fira Code ]
 theme-override   : assets/css/PITCHME.css
