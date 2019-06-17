@@ -64,6 +64,6 @@ This slide can be [used to test](#/2) custom `theme*` property values in your `P
 @title[Theme Template Docs]
 
 @snap[south span-100 text-07]
-[For all the details see the GitPitch Template Docs @fa[external-link]](https://gitpitch.com/docs/the-template)
+[For all the details see the GitPitch Theme Template Docs @fa[external-link]](https://gitpitch.com/docs/the-template)
 @snapend
 
