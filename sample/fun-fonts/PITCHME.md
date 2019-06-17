@@ -43,7 +43,7 @@ Customize the slide background, fonts, colors, and more.
 
 @snap[south span-100]
 @[1-5](Template `code` slides are space-optimized and color-blended.)
-@[6-9](Plus a selection of monospace `code` fonts are available.)
+@[6-9](Plus a selection of monospaced `code` fonts are available.)
 @snapend
 
 ---
