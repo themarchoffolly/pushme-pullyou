@@ -39,7 +39,7 @@ Customize the slide background, fonts, colors, and more.
 ---
 @title[Code Optimized]
 
-@code[sql zoom-19](src/sql/sample.sql)
+@code[sql zoom-21](src/sql/sample.sql)
 
 @snap[south span-100]
 @[1-5](Template `code` slides are space-optimized and color-blended.)
