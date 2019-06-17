@@ -42,8 +42,8 @@ Customize the slide background, fonts, colors, and more.
 @code[go zoom-21](src/go/sample.go)
 
 @snap[south span-100]
-@[1-5](Template `code` slides are space-optimized and color-blended.)
-@[6-9](Plus a selection of monospace `code` fonts are available.)
+@[2-5](Template `code` slides are space-optimized and color-blended.)
+@[1,6-9](Plus a selection of monospace `code` fonts are available.)
 @snapend
 
 ---
