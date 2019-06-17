@@ -5,7 +5,7 @@ theme-byline     : [ "Concert One", black, "none" ]
 theme-text       : [ "Bubblegum", "#1C1C1C", "none" ]
 theme-links      : [ "#E27924", "#FF851B" ]
 theme-controls   : [ "#484848" ]
-theme-code       : [ "Fira Code" ]
+theme-code       : [ "Source Code Pro" ]
 theme-override   : assets/css/PITCHME.css
 highlight        : tomorrow
 

@@ -5,7 +5,7 @@ theme-byline     : [ "Montserrat", "#111111", "none" ]
 theme-text       : [ "Raleway", "#1C1C1C", "none" ]
 theme-links      : [ "#62A503", "#718C00" ]
 theme-controls   : [ "#C0C0C0" ]
-theme-code       : [ "Source Code Pro" ]
+theme-code       : [ "Fira Code" ]
 theme-override   : assets/css/PITCHME.css
 highlight        : tomorrow
 

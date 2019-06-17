@@ -5,7 +5,7 @@ theme-byline     : [ "Ubuntu", "black", "none" ]
 theme-text       : [ "Raleway", "#F5FFFA", "none" ]
 theme-links      : [ "#0295BB", "#C0C0C0" ]
 theme-controls   : [ "#484848" ]
-theme-code       : [ "Fira Code" ]
+theme-code       : [ "Inconsolata" ]
 theme-override   : assets/css/PITCHME.css
 highlight        : ir-black
 

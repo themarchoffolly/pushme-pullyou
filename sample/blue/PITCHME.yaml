@@ -5,7 +5,7 @@ theme-byline     : [ "Work Sans", "black", "none" ]
 theme-text       : [ "Lato", "#F5FFFA", "none" ]
 theme-links      : [ "#FF851B", "#E27924" ]
 theme-controls   : [ "#484848" ]
-theme-code       : [ "Fira Code" ]
+theme-code       : [ "Inconsolata" ]
 theme-override   : assets/css/PITCHME.css
 highlight        : ir-black
 
