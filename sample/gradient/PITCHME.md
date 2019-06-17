@@ -39,11 +39,11 @@ Customize the slide background, fonts, colors, and more.
 ---
 @title[Code Optimized]
 
-@code[sql zoom-21](src/sql/sample.sql)
+@code[elixir zoom-28](src/elixir/sample.ex)
 
 @snap[south span-100]
-@[1-5](Template `code` slides are space-optimized and color-blended.)
-@[6-9](Plus a selection of monospace `code` fonts are available.)
+@[1,2,7](Template `code` slides are space-optimized and color-blended.)
+@[3-6](Plus a selection of monospace `code` fonts are available.)
 @snapend
 
 ---
