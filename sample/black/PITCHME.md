@@ -61,7 +61,7 @@ This slide can be [used to test](#/2) custom `theme*` property values in your `P
 @snapend
 
 ---?image=assets/img/slides.png&color=black&size=auto 78%
-@title[The Template Docs]
+@title[Theme Template Docs]
 
 @snap[south span-100 text-07]
 [For all the details see the GitPitch Template Docs @fa[external-link]](https://gitpitch.com/docs/the-template)
