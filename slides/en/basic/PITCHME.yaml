@@ -7,9 +7,6 @@
 # For further details, see https://gitpitch.com/docs/settings.
 #
 
-published : true
-confidential: gitpitch
-
 #
 # PRO features
 # See https://gitpitch.com/docs/pro-features
