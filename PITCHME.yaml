@@ -1,4 +1,10 @@
-theme : template
-theme-override : assets/css/PITCHME.css
-published : true
-footnote : "GitPitch Font Awesome Shortcut Syntax Demo"
+theme            : template
+
+theme-background : [ "#FFF" ]
+theme-headline   : [ "Quicksand", "#5289F7", "none" ]
+theme-byline     : [ "Quicksand", "#111111", "none" ]
+theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
+theme-links      : [ "#5289F7", "#5254F7" ]
+theme-code       : [ "Source Code Pro" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
