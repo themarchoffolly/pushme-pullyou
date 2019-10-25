@@ -11,7 +11,7 @@ end
 ```
 @snapend
 
-@snap[north-west span-50]
+@snap[north-east span-50]
 ```ruby zoom-06 code-font-victor-mono
 def longest_repetition(string)
   max = string
