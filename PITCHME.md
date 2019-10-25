@@ -1,5 +1,5 @@
 @snap[north-west span-50]
-```ruby zoom-06
+```ruby zoom-07
 def longest_repetition(string)
   max = string
         .chars
@@ -12,7 +12,7 @@ end
 @snapend
 
 @snap[north-east span-50]
-```ruby zoom-06 code-font-victor-mono
+```ruby zoom-07 code-font-victor-mono
 def longest_repetition(string)
   max = string
         .chars
@@ -25,7 +25,7 @@ end
 @snapend
 
 @snap[west span-50]
-```ruby zoom-06 code-font-victor-mono-italic
+```ruby zoom-07 code-font-victor-mono-italic
 def longest_repetition(string)
   max = string
         .chars
@@ -38,7 +38,7 @@ end
 @snapend
 
 @snap[east span-50]
-```ruby zoom-06 code-font-inconsolata
+```ruby zoom-07 code-font-inconsolata
 def longest_repetition(string)
   max = string
         .chars
@@ -51,7 +51,7 @@ end
 @snapend
 
 @snap[south-west span-50]
-```ruby zoom-06 code-font-iosevka
+```ruby zoom-07 code-font-iosevka
 def longest_repetition(string)
   max = string
         .chars
@@ -64,7 +64,7 @@ end
 @snapend
 
 @snap[south-east span-50]
-```ruby zoom-06 code-font-fira-code
+```ruby zoom-07 code-font-fira-code
 def longest_repetition(string)
   max = string
         .chars
