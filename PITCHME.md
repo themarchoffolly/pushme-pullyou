@@ -76,3 +76,6 @@ end
 ```
 @snapend
 
+Note:
+
+A sample speaker note.
