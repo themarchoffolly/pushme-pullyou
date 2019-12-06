@@ -76,3 +76,7 @@ end
 ```
 @snapend
 
+Note:
+
+Can I see this note?
+
