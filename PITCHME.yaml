@@ -1,47 +1,3 @@
-# GitPitch In-60-Seconds - A Very Short Tutorial.
-#
-
-#
-# Theme Template
-# Doc: https://gitpitch.com/docs/themes/default
-#
-theme            : template
-
-theme-background : [ "#000000" ]
-theme-headline   : [ "Montserrat", "#FBD95E", "none", "#FFFFFF", "100", "120", "15" ]
-theme-byline     : [ "Raleway", "#FFFFFF", "none", "#FBD95E", "100", "110", "15" ]
-theme-text       : [ "Ubuntu", "#FFFFFF", "none", "#A0C865", "100", "100", "15" ]
-theme-links      : [ "#F1C40F", "#5254F7" ]
-theme-code       : [ "Source Code Pro", "100", "120" ]
-theme-controls   : [ "#C0C0C0" ]
-theme-margins    : [ "0", "15px" ]
-layout           : center
-
-#
-# Highlight Setting
-# Doc: https://gitpitch.com/docs/settings/highlight
-#
-highlight : tomorrow
-
-#
-# Theme-Override Setting
-# Doc: https://gitpitch.com/docs/settings/custom-theme
-#
-theme-override: assets/css/PITCHME.css
-
-#
-# Logo Setting
-# https://gitpitch.com/docs/settings/logo
-#
-logo : assets/img/logo.png
-logo-position : bottom-right
-
-#
-# Layout Setting
-# Doc: https://gitpitch.com/docs/settings/layout
-#
-layout : center
-
 #
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
@@ -55,25 +11,28 @@ footnote : "GitPitch - The Fastest Way From Idea To Presentation"
 published : true
 
 #
-# Twitter Card Settings [Pro Only]
+# Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch In 60 Seconds"
-description : "A short tutorial introducing GitPitch Markdown Presentations for Developers."
-thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
+title : "GitPitch supports Diagrams As Code"
+description : "Pixel-perfect SVG Cloud System Architecture Diagrams from Python Code."
+thumbnail : assets/img/diagrams.png
 
-# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
 theme            : template
-theme-background : [ "#EEEEEE" ]
-theme-headline   : [ "Montserrat", "#1C1C1C", "none", "#1C1C1C", "100", "120", "15" ]
-theme-byline     : [ "Raleway", "#272626", "none", "#333", "100", "110", "15" ]
-theme-text       : [ "Ubuntu", "#272626", "none", "#333", "100", "100", "15" ]
-theme-links      : [ "#3498DB", "#5254F7" ]
+theme-override   : assets/css/PITCHME.css
+theme-background : [ "#2D5569" ]
+background          : assets/img/diagrams.png
+background-position : center
+background-size     : 100% 100%
+background-opacity  : 5
+theme-headline   : [ "Montserrat", "#5FBAD8", "none", "#FFFFFF", "100", "120", "15" ]
+theme-byline     : [ "Raleway", "#FFFFFF", "none", "#5FBAD8", "100", "110", "15" ]
+theme-text       : [ "Ubuntu", "#FFFFFF", "none", "#92DFD3", "100", "100", "15" ]
+theme-links      : [ "#5889C8", "#5254F7" ]
 theme-code       : [ "Source Code Pro", "100", "120" ]
 highlight        : tomorrow
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
-logo             : assets/img/logo.png
+logo             : assets/img/logo-circled.svg
 logo-position    : top-left
 layout           : center
-# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END

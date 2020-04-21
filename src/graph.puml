@@ -1,6 +1,0 @@
-@startuml
-actor Alic8 #yellow
-participant Bob
-Alice->Bob: Auth Request
-Bob->Alice: Auth Response
-@enduml
