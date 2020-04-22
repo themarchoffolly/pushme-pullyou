@@ -15,7 +15,7 @@ published : true
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
 title : "GitPitch supports Diagrams As Code"
-description : "Cloud System Architecture Diagrams from Python Code as pixel-perfect SVG images on GitPitch slides."
+description : "Cloud System Architecture Diagrams from Python Code as pixel-perfect SVG images on your GitPitch slides."
 thumbnail : assets/img/gitpitch-cloud-diagrams-splash.png
 
 theme            : template
