@@ -122,5 +122,9 @@ Support for AWS, Azure, GCP, K8S, Alibaba Cloud, OCI, On-Premises, and more...
 
 ---
 
+@cloud[span-40 shadow](src/vault.py)
+
+---
+
 For details see the
 #### [GitPitch Cloud Diagrams Guide @fa[external-link]](https://gitpitch.com/docs/diagram-features/cloud-diagrams)
