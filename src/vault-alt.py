@@ -2,7 +2,7 @@ from diagrams import Cluster, Diagram
 from diagrams.onprem.security import Vault
 from diagrams.onprem.network import Consul
 
-with Diagram("Clustered Production Vault Service", direction="TB", show=False):
+with Diagram("Clustered Production Vault Service", show=False):
 
   with Cluster("Vault Production"):
     vault_prod = Vault("node1")

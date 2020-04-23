@@ -122,7 +122,24 @@ Support for AWS, Azure, GCP, K8S, Alibaba Cloud, OCI, On-Premises, and more...
 
 ---
 
-@cloud[span-40 shadow](src/vault.py)
+@snap[west span-65]
+@cloud[shadow](src/vault.py)
+@snapend
+
+@snap[east span-50]
+Consul Vault Test
+[ direction=TB ]
+@snapend
+
+---
+@snap[west span-40]
+@cloud[shadow](src/vault-alt.py)
+@snapend
+
+@snap[east span-60]
+### Consul Vault Test
+##### [ direction=default ]
+@snapend
 
 ---
 
