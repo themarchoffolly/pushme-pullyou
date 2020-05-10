@@ -1,0 +1,8 @@
+@startuml
+skinparam defaultFontName Sedgwick Ave
+skinparam handwritten true
+actor Alice #yellow
+participant Bob
+Alice->Bob: Auth Request
+Bob->Alice: Auth Response
+@enduml
