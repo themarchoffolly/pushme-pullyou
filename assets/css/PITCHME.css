@@ -1,0 +1,19 @@
+h4.csl-references {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Ubuntu";
+}
+
+div.csl-entry {
+  display: flex;
+  font-size: 16px;
+  font-family: "Ubuntu";
+  padding-bottom: 16px;
+}
+div.csl-left-margin {
+  padding-right: 6px;
+}
+div.csl-entry {
+}
+
+#gp-logo img { max-height: 2em; }

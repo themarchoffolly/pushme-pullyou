@@ -1,0 +1,22 @@
+citations-db : assets/books.bib
+# citations-style : assets/apa.csl
+# citations-style : assets/ieee.csl
+# citations-locale : en-US lang an RFC 4646 identifier for the citation locale
+citations-page-size : 10
+# citations-page-title : "Refs"
+
+theme-override : assets/css/PITCHME.css
+
+logo: assets/img/logo.png
+
+theme            : template
+theme-background : [ "#172A3B" ]
+theme-headline   : [ "Raleway", "#A6AFE3", "none", "#FFFFFF", "100", "120", "15" ]
+theme-byline     : [ "Raleway", "#FFFFFF", "none", "#A6AFE3", "100", "110", "15" ]
+theme-text       : [ "Ubuntu", "#FFFFFF", "none", "#F9F871", "100", "100", "15" ]
+theme-links      : [ "#F1C40F", "#5254F7" ]
+theme-code       : [ "Source Code Pro", "100", "120" ]
+highlight        : hybrid
+theme-controls   : [ "inherit" ]
+theme-margins    : [ "0", "15px" ]
+layout           : center
