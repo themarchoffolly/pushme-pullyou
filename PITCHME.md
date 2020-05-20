@@ -1,5 +1,6 @@
-@snap[north span-100]
-#### Suggested Reading
+@snap[north span-100 text-06]
+## GitPitch Citations Demo
+Auto-Generated Bibliographies for your Slide Decks
 @snapend
 
 - The Tex Book @cite[texbook]
