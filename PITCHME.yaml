@@ -16,7 +16,7 @@ highlight        : atom-one-light
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 layout           : center
-logo             : assets/img/dashbit-logo.png
+# logo             : assets/img/dashbit-logo.png
 
 #
 # Custon Fonts:
