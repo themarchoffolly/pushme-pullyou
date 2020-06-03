@@ -1,11 +1,2 @@
-### Hello XXX
-  
-![thanks](assets/japan.png)
+@mermaid[](src/flow.mmd)
 
----
-
-### Start XXX
-
----
-
-### End
