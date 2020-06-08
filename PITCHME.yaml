@@ -40,5 +40,5 @@ footnote: " "
 #
 title : "GitPitch Mermaid Diagrams"
 description : "Simply point GitPitch at any Mermaid Diagram or Flowchart and see it rendered it any slide."
-thumbnail : assets/img/thumbnail.jpg
+thumbnail : assets/img/thumbnail.png
 
