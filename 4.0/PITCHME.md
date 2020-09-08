@@ -14,6 +14,12 @@ drag=40, drop=-0
 
 ---
 
+@snap[west span-50]
+Snap is 3.0 syntax.
+@snapend
+
+---
+
  [drag=100 20, drop=top]
 
 # The End
