@@ -1,0 +1,25 @@
+.dashed {
+  border: 2px dashed gray !important;
+}
+
+/*
+div.slide-number { display: none !important; }
+div.progress { display: none !important; }
+*/
+
+.spaced-lettering h1 { letter-spacing: 20px; }
+
+ul.striped-list-items {
+  color: #001F3F;
+}
+
+ul.striped-list-items > li:nth-child(even){
+  color: white;
+}
+
+.headline-ubuntu h1,
+.headline-ubuntu h2 { font-family: "Righteous" !important; }
+
+.byline-quicksand h3,
+.byline-quicksand h4 { font-family: "Bubblegum" !important; }
+

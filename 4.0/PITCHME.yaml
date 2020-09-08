@@ -1,0 +1,21 @@
+gitpitch : 4.0
+
+published: true
+
+theme-override   : assets/4.0/css/PITCHME.css
+charts : true
+mathjax : TeX-MML-AM_HTMLorMML-full
+
+#
+# Footnote Setting:
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+# footnote: "This is a sample footnote."
+
+#
+# Twitter Card Settings:
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "GitPitch Slide Deck"
+description : "The slide deck solution for Tech Conferences, Training, Developer Advocates, and Educators."
+# thumbnail : assets/img/thumbnail.png

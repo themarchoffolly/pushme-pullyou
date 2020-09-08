@@ -1,0 +1,19 @@
+@startuml
+autonumber
+
+participant "Mobile App" as token
+actor User as user
+participant "Reseller UI" as reseller_ui
+participant "Database" as db
+
+user -> reseller_ui : Request to login
+user <- reseller_ui : Ask for username, password \nand TOTP
+user -> token : Start the app to \nread the TOTP
+token -> token : Calculate the TOTP \nbase on current \ntime and secret key 
+user <- token : Display TOTP
+user -> reseller_ui : Provide username, password \nand TOTP
+reseller_ui -> db : Get the secret key \nof that user 
+reseller_ui -> reseller_ui : Validate username, \npassword and TOTP
+user <- reseller_ui : Login success
+
+@enduml

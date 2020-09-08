@@ -1,0 +1,7 @@
+// tag::snippet-a[]
+snippet a
+// end::snippet-a[]
+
+// tag::snippet-b[]
+snippet b
+// end::snippet-b[]
